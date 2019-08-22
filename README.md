@@ -1,2 +1,0 @@
-# IDEA-REPOSITORY
-个人idea配置
