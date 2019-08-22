@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1602</Count>
+          <Count>1605</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Configuration...">
