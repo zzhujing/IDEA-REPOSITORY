@@ -1,0 +1,157 @@
+<keymap version="1" name="shkstart" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="$ShowTranslationDialogAction" />
+  <action id="AddToFavorites">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangeSignature" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
+  <action id="Debugger.ResumeThread">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FindPrevious" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="GenerateSerialVersionUID">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="QuickActionPopup" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="SaveAll" />
+  <action id="ScrollTreeToCenter" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowContent" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowUmlDiagram">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="Unwrap" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+  <action id="context.save" />
+</keymap>

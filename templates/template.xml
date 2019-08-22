@@ -1,0 +1,12 @@
+<templateSet group="template">
+  <template name="lbok" value="@Data&#10;@AllArgsConstructor&#10;@NoArgsConstructor&#10;@Builder" description="lombok注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="req" value="@RequiredArgsConstructor(onConstructor = @__(@Autowired))" description="lombok构造器注入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
