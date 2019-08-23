@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1647</Count>
+          <Count>1651</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -78,7 +78,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F12' or 'Ctrl+Shift+E'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>19</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
