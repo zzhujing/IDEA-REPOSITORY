@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+W'</ShortCut>
+          <Description>Close All</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1651</Count>
+          <Count>1660</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -78,7 +86,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F12' or 'Ctrl+Shift+E'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>27</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -246,7 +254,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CodeGenerator'">
@@ -310,7 +318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>206</Count>
+          <Count>214</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
