@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="From 192.168.0.2 icmp_seq=9 Destination Host Unreachable " />
       <item value=" Pool overlaps with other one on this address space " />
       <item value="extension" />
       <item value="减法" />
@@ -50,7 +51,6 @@
       <item value="records" />
       <item value="primitives To Wrappers" />
       <item value="合理" />
-      <item value="Special" />
     </histories>
     <option name="languageScores">
       <map>
