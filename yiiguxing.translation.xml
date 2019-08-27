@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weight" />
+      <item value="force Delete" />
+      <item value="delete Quietly" />
+      <item value="From 192.168.0.2 icmp_seq=9 Destination Host Unreachable " />
+      <item value=" Pool overlaps with other one on this address space " />
       <item value="extension" />
       <item value="减法" />
       <item value="剪发" />
@@ -46,16 +51,11 @@
       <item value="deprecation" />
       <item value="draft Count" />
       <item value="extend" />
-      <item value="records" />
-      <item value="primitives To Wrappers" />
-      <item value="合理" />
-      <item value="Special" />
-      <item value="Repeat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
