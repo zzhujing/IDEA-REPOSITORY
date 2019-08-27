@@ -1,13 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equivalent" />
+      <item value="any series of accumulator and combiner invocations" />
+      <item value="series of accumulator and combiner invocations" />
+      <item value="constraint" />
+      <item value="identity" />
       <item value="partially" />
       <item value="The identity constraint says that for any partially accumulated result" />
       <item value="constraints" />
       <item value="associativity" />
-      <item value="identity" />
       <item value="satisfy" />
-      <item value="equivalent" />
       <item value="executions" />
       <item value="ensure" />
       <item value="accumulate the contents of each partition into a subresult for that partition" />
@@ -48,14 +51,11 @@
       <item value="处理时间" />
       <item value="处理" />
       <item value="deal" />
-      <item value="unusual" />
-      <item value="异常" />
-      <item value="exection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="422" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="2" />
