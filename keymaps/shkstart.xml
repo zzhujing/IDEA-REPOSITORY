@@ -1,6 +1,6 @@
 <keymap version="1" name="shkstart" parent="Eclipse">
   <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="$ShowTranslationDialogAction" />
   <action id="AddToFavorites">
@@ -57,12 +57,13 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
