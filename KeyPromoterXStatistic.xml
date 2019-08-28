@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1758</Count>
+          <Count>1763</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
