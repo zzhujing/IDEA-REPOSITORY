@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="顺序执行" />
+      <item value="顺序" />
+      <item value="阈值" />
       <item value="calculate" />
       <item value="计算" />
       <item value="caculate" />
@@ -48,9 +51,6 @@
       <item value="synthesize Annotation" />
       <item value="destination" />
       <item value="Audit DTO" />
-      <item value="bonus" />
-      <item value="Call send message to deliver message to one of brokers." />
-      <item value="recursion" />
     </histories>
     <option name="languageScores">
       <map>
