@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="DEBUGGER_TRANSPORT" value="1" />
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
@@ -79,7 +80,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
