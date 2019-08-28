@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'upload-service-remote'">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1755</Count>
+          <Count>1757</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -230,7 +230,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'upload-service-remote'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'addManuf()'">
@@ -374,7 +374,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>219</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
