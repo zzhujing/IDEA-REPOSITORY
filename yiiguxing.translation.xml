@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quote" />
       <item value="Interrupted Exception" />
       <item value="try Advance" />
       <item value="combiner" />
@@ -50,12 +51,11 @@
       <item value="剪发" />
       <item value="充值" />
       <item value="change Remain" />
-      <item value="nested exception is java.lang.ArrayIndexOutOfBoundsException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
