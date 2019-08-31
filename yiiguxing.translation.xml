@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retriever" />
+      <item value="Listener Retriever" />
       <item value="multicast Event" />
       <item value="语言" />
       <item value="piepleLine" />
@@ -49,13 +51,11 @@
       <item value="accumulate the contents of each partition into a subresult for that partition" />
       <item value="performing an optional final transform on the container" />
       <item value="performing" />
-      <item value="incorporating" />
-      <item value="incorporating a new data element into a result container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
