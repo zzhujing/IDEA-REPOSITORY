@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Navigable" />
       <item value="未知" />
       <item value="Unkown" />
       <item value="inactive" />
@@ -50,12 +51,11 @@
       <item value="compute If Absent" />
       <item value="equivalent" />
       <item value="any series of accumulator and combiner invocations" />
-      <item value="series of accumulator and combiner invocations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
