@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" ESTABLISHED" />
       <item value="2055" />
       <item value="9294" />
       <item value="configuration Source" />
@@ -50,7 +51,6 @@
       <item value="duration" />
       <item value="adjust Into" />
       <item value="Chrono" />
-      <item value="Chrono Field" />
     </histories>
     <option name="languageScores">
       <map>
