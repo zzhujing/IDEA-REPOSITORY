@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stub" />
       <item value="peer to peer" />
       <item value="peer" />
       <item value="advertised " />
@@ -50,7 +51,6 @@
       <item value="Adjuster " />
       <item value="of Epoch Second" />
       <item value="Instant" />
-      <item value="period" />
     </histories>
     <option name="languageScores">
       <map>
