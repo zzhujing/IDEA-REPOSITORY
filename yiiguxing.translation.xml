@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="定义" />
       <item value="stub" />
       <item value="peer to peer" />
       <item value="peer" />
@@ -50,12 +51,11 @@
       <item value="Temporal" />
       <item value="Adjuster " />
       <item value="of Epoch Second" />
-      <item value="Instant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
