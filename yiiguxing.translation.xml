@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第三" />
+      <item value="三" />
       <item value="重复" />
       <item value="初始化" />
       <item value="OutBound" />
@@ -49,8 +51,6 @@
       <item value="语言" />
       <item value="piepleLine" />
       <item value="流水线" />
-      <item value="recursive" />
-      <item value="recurive" />
     </histories>
     <option name="languageScores">
       <map>
