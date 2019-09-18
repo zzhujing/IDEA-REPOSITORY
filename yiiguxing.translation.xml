@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OutBound" />
+      <item value="InBound" />
       <item value="定义" />
       <item value="stub" />
       <item value="peer to peer" />
@@ -49,8 +51,6 @@
       <item value="recurive" />
       <item value="Temporal Adjuster" />
       <item value="Temporal" />
-      <item value="Adjuster " />
-      <item value="of Epoch Second" />
     </histories>
     <option name="languageScores">
       <map>
