@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="0101" />
+      <item value="omitted" />
       <item value="递归" />
       <item value="第三" />
       <item value="三" />
@@ -49,12 +51,10 @@
       <item value="Retriever" />
       <item value="Listener Retriever" />
       <item value="multicast Event" />
-      <item value="语言" />
-      <item value="piepleLine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
+        <entry key="CHINESE" value="473" />
         <entry key="ENGLISH" value="472" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
