@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nio Buffers Test" />
+      <item value="Scattering" />
       <item value="stream Response Stream Observer" />
       <item value="corresponding" />
       <item value="operations" />
@@ -49,8 +51,6 @@
       <item value="注销" />
       <item value="502" />
       <item value="Zone" />
-      <item value="未知" />
-      <item value="Unkown" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,6 +76,5 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
   </component>
 </application>
