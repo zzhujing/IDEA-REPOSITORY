@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
+      <item value="operations" />
+      <item value="class" />
+      <item value="A direct byte buffer whose content is a memory-mapped region of a file" />
       <item value="双向流式" />
       <item value="双向" />
       <item value="Route Guide Stub" />
@@ -47,10 +51,6 @@
       <item value="未知" />
       <item value="Unkown" />
       <item value="inactive" />
-      <item value="Conversion Service" />
-      <item value="bjects are not typically used in isolation, but rather * through a {@link PropertySources} object, which aggregates property sources and in * conjunction with a {@link PropertyResolver} implementation that can perform * precedence-based searches across the set of {@code PropertySources}." />
-      <item value="objects" />
-      <item value="pairs" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,5 +68,8 @@
         <entry key="GREEK" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
