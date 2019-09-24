@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
+      <item value="the key's channel has been detected to be ready by the key's selector" />
+      <item value="readiness" />
+      <item value="categories" />
+      <item value="determines which operation categories will * be tested for readiness the next time one of the selector's selection * methods is invoked" />
       <item value="6" />
       <item value="Map" />
       <item value="may be interrupted by some other thread in one of * three ways:" />
@@ -14,7 +19,6 @@
       <item value="bitwise-disjoined " />
       <item value="Any readiness information previously recorded in the ready * set is discarded" />
       <item value="he underlying operating system is queried for an update as to the * readiness of each remaining channel to perform any of the operations * identified by its key's interest set as of the moment that the selection * operation began. For a channel that is ready for at least one such * operation, one of the following two actions is performed:" />
-      <item value="readiness" />
       <item value="queried" />
       <item value="operations" />
       <item value="particular" />
@@ -47,15 +51,11 @@
       <item value="初始化" />
       <item value="OutBound" />
       <item value="InBound" />
-      <item value="定义" />
-      <item value="stub" />
-      <item value="peer to peer" />
-      <item value="peer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
