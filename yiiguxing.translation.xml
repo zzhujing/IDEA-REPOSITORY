@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Map" />
       <item value="may be interrupted by some other thread in one of * three ways:" />
       <item value="Keys may be cancelled and channels may be closed at any time. Hence the * presence of a key in one or more of a selector's key sets does not imply * that the key is valid or that its channel is open. Application code should * be careful to synchronize and check these conditions as necessary if there * is any possibility that another thread will cancel a key or close a channel" />
       <item value="Changes made to the interest sets of a selector's keys while a * selection operation is in progress have no effect upon that operation; they * will be seen by the next selection operation" />
@@ -50,12 +51,11 @@
       <item value="peer to peer" />
       <item value="peer" />
       <item value="advertised " />
-      <item value=" ESTABLISHED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
