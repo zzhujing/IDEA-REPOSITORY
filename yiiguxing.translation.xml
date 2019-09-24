@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="may be interrupted by some other thread in one of * three ways:" />
+      <item value="Keys may be cancelled and channels may be closed at any time. Hence the * presence of a key in one or more of a selector's key sets does not imply * that the key is valid or that its channel is open. Application code should * be careful to synchronize and check these conditions as necessary if there * is any possibility that another thread will cancel a key or close a channel" />
+      <item value="Changes made to the interest sets of a selector's keys while a * selection operation is in progress have no effect upon that operation; they * will be seen by the next selection operation" />
+      <item value="above" />
+      <item value="in that order" />
       <item value="Selectors are themselves safe for use by multiple concurrent threads; * their key sets, however, are not" />
       <item value="themselves" />
       <item value="If all of the keys in the key set at the start of this step have empty * interest sets then neither the selected-key set nor any of the keys' * ready-operation sets will be updated" />
@@ -46,16 +51,11 @@
       <item value="peer" />
       <item value="advertised " />
       <item value=" ESTABLISHED" />
-      <item value="2055" />
-      <item value="9294" />
-      <item value="configuration Source" />
-      <item value="nacos" />
-      <item value="01" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
