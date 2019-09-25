@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ater selection during the event loop" />
+      <item value="for later selection" />
       <item value="processed" />
+      <item value="pecial EventExecutorGroup which allows registering Channels that get   processed for later selection during the event loop" />
+      <item value="* Special {@link EventExecutorGroup} which allows registering {@link Channel}s that get * processed for later selection during the event loop" />
+      <item value="ater selection during the event loop" />
       <item value="Special" />
       <item value="Indicates a blocking select should follow" />
       <item value="Memory consistency effects: Actions in a thread prior to * submitting a {@code Runnable} object to an {@code Executor} * &lt;a href=&quot;package-summary.html#MemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;/i&gt;&lt;/a&gt; * its execution begins, perhaps in another thread." />
@@ -48,14 +51,11 @@
       <item value="obtained" />
       <item value="as a side effect of registering a" />
       <item value="This set is * not directly accessible." />
-      <item value="key's interest set during a prior selection operation" />
-      <item value="is the set of keys such that each * key's channel was detected to be ready for at least one of the operations * identified in the key's interest set during a prior selection operation" />
-      <item value="representing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="538" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="542" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
