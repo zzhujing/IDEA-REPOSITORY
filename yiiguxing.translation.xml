@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="also will get returned" />
+      <item value="notified" />
+      <item value="handle" />
+      <item value="get * processed for later selection during the event loop." />
+      <item value="which allows registering" />
+      <item value="which" />
       <item value="attempt" />
       <item value="corresponding" />
       <item value="the key's channel has been detected to be ready by the key's selector" />
@@ -45,17 +51,11 @@
       <item value="重复" />
       <item value="Realname" />
       <item value="reassigned" />
-      <item value="synate" />
-      <item value="递归" />
-      <item value="第三" />
-      <item value="三" />
-      <item value="初始化" />
-      <item value="OutBound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
