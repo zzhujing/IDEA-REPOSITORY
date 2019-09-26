@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplaceAction" />
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
