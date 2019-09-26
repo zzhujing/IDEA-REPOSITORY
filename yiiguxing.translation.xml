@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diagram" />
+      <item value="advanced" />
       <item value="mall enough * not to waste its space" />
       <item value="it is also responsible for handling their * life-cycle and allows shutting them down in a global fashio" />
       <item value="responsible" />
@@ -49,13 +51,11 @@
       <item value="in that order" />
       <item value="Selectors are themselves safe for use by multiple concurrent threads; * their key sets, however, are not" />
       <item value="themselves" />
-      <item value="If all of the keys in the key set at the start of this step have empty * interest sets then neither the selected-key set nor any of the keys' * ready-operation sets will be updated" />
-      <item value="bitwise-disjoined " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
