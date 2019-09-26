@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mall enough * not to waste its space" />
       <item value="it is also responsible for handling their * life-cycle and allows shutting them down in a global fashio" />
       <item value="responsible" />
       <item value="* The {@link EventExecutorGroup} is responsible for providing the {@link EventExecutor}'s to use" />
@@ -50,12 +51,11 @@
       <item value="themselves" />
       <item value="If all of the keys in the key set at the start of this step have empty * interest sets then neither the selected-key set nor any of the keys' * ready-operation sets will be updated" />
       <item value="bitwise-disjoined " />
-      <item value="Any readiness information previously recorded in the ready * set is discarded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
