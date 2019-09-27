@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatible" />
+      <item value="rather than calling the constructor explicitly." />
       <item value="t yields slight performance advantage over using a hash * table, and it is useful when accessed frequently." />
       <item value="yields" />
       <item value="constant" />
@@ -49,13 +51,11 @@
       <item value="advanced" />
       <item value="mall enough * not to waste its space" />
       <item value="it is also responsible for handling their * life-cycle and allows shutting them down in a global fashio" />
-      <item value="responsible" />
-      <item value="* The {@link EventExecutorGroup} is responsible for providing the {@link EventExecutor}'s to use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="600" />
+        <entry key="ENGLISH" value="601" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="2" />
