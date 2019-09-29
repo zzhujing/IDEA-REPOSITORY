@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="respectively" />
+      <item value="discardable" />
+      <item value="segmented" />
+      <item value="ust like an ordinary primitive byte array," />
+      <item value="ordinary" />
+      <item value="rather than calling an individual implementation's * constructor." />
+      <item value="Various" />
+      <item value="visible" />
+      <item value="primitive" />
+      <item value="sequential" />
+      <item value="bytes" />
+      <item value="octets" />
       <item value="compatible" />
       <item value="rather than calling the constructor explicitly." />
       <item value="t yields slight performance advantage over using a hash * table, and it is useful when accessed frequently." />
@@ -39,25 +51,13 @@
       <item value="principle" />
       <item value="traffic" />
       <item value="discarded" />
-      <item value="silently" />
-      <item value="goes beyond" />
-      <item value="beyond" />
-      <item value="f an inbound event goes beyond the top inbound handler, it is discarded * silently, or logged if it needs your attention" />
-      <item value="peer via" />
-      <item value="peer" />
-      <item value="bottom-up" />
-      <item value="Internal" />
-      <item value="diagram" />
-      <item value="advanced" />
-      <item value="mall enough * not to waste its space" />
-      <item value="it is also responsible for handling their * life-cycle and allows shutting them down in a global fashio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="600" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="612" />
         <entry key="DANISH" value="3" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
         <entry key="LATVIAN" value="3" />
