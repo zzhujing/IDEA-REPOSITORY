@@ -8,6 +8,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -55,7 +58,7 @@
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="Git.Reword.Commit">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f4" />
@@ -88,19 +91,18 @@
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="RemoteHostView.Rename" />
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
   <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="ShelvedChanges.Rename">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
