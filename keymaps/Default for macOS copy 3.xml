@@ -32,6 +32,9 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -97,6 +100,9 @@
   <action id="ReplaceInPath" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
