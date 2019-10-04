@@ -67,6 +67,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="GuiDesigner.ExpandSelection" />
+  <action id="HippieCompletion" />
   <action id="Jdbc.OpenEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -87,6 +88,9 @@
   </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
