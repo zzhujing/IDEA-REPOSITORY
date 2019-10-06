@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="out" />
       <item value="reposition" />
       <item value="updater" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed," />
@@ -50,7 +51,6 @@
       <item value="t yields slight performance advantage over using a hash * table, and it is useful when accessed frequently." />
       <item value="yields" />
       <item value="constant" />
-      <item value="variant" />
     </histories>
     <option name="languageScores">
       <map>
