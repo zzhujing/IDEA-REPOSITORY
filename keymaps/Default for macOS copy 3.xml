@@ -84,7 +84,6 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f2" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages">
