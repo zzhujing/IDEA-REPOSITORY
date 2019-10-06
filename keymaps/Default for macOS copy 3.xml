@@ -96,6 +96,7 @@
   <action id="Jdbc.OpenEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Jdbc.RunSqlScript" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -126,8 +127,12 @@
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="RemoteHostView.Rename" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ReplaceInPath" />
   <action id="RerunTests">
@@ -136,9 +141,8 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -149,7 +153,7 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="ShelvedChanges.Rename">
-    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
