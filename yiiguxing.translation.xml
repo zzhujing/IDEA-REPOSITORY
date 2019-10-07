@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaying Decoder" />
       <item value="out" />
       <item value="reposition" />
       <item value="updater" />
@@ -50,7 +51,6 @@
       <item value="rather than calling the constructor explicitly." />
       <item value="t yields slight performance advantage over using a hash * table, and it is useful when accessed frequently." />
       <item value="yields" />
-      <item value="constant" />
     </histories>
     <option name="languageScores">
       <map>
