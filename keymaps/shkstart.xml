@@ -63,7 +63,9 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
-  <action id="EditorCompleteStatement" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -142,7 +144,7 @@
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="ShowProjectStructureSettings">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="alt windows" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt comma" />
