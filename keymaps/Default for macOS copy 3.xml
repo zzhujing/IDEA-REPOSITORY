@@ -117,7 +117,9 @@
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
