@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="length Adjustment" />
       <item value="register" />
       <item value="registry" />
       <item value="allready" />
       <item value="未验证" />
       <item value="域名" />
-      <item value="length Adjustment" />
       <item value="he decoder counts the extra * header into the frame length calculation" />
       <item value="because the decoder always takes the length of the prepended data into * account during frame length calculation" />
       <item value="prepended" />
