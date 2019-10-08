@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepended" />
+      <item value="Because the length value in this example message is always greater than the body length by 2, we specify -2 as lengthAdjustment for compensation" />
+      <item value="specified" />
+      <item value="simplistic" />
+      <item value="he decoder assumes * that the length field represents the number of the bytes that follows the * length field" />
+      <item value="assumes" />
+      <item value="represents" />
+      <item value="do not strip header" />
       <item value="strip" />
       <item value="Length Field Based Frame Decoder" />
       <item value="which is often seen in * proprietary client-server protocols" />
       <item value="proprietary" />
-      <item value="represents" />
       <item value="particularly" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed," />
       <item value="Initiates" />
@@ -44,18 +51,11 @@
       <item value="ust like an ordinary primitive byte array," />
       <item value="ordinary" />
       <item value="rather than calling an individual implementation's * constructor." />
-      <item value="Various" />
-      <item value="visible" />
-      <item value="primitive" />
-      <item value="bytes" />
-      <item value="octets" />
-      <item value="compatible" />
-      <item value="rather than calling the constructor explicitly." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
