@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="particularly" />
+      <item value="strip" />
+      <item value="Length Field Based Frame Decoder" />
+      <item value="which is often seen in * proprietary client-server protocols" />
+      <item value="proprietary" />
       <item value="represents" />
+      <item value="particularly" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed," />
       <item value="Initiates" />
       <item value="normal" />
@@ -47,15 +51,11 @@
       <item value="octets" />
       <item value="compatible" />
       <item value="rather than calling the constructor explicitly." />
-      <item value="t yields slight performance advantage over using a hash * table, and it is useful when accessed frequently." />
-      <item value="yields" />
-      <item value="constant" />
-      <item value="variant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="642" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
