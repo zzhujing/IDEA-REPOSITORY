@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="域名" />
       <item value="length Adjustment" />
       <item value="he decoder counts the extra * header into the frame length calculation" />
       <item value="because the decoder always takes the length of the prepended data into * account during frame length calculation" />
@@ -50,12 +51,11 @@
       <item value="sequential" />
       <item value="male" />
       <item value="discardable" />
-      <item value="segmented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="655" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="656" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
