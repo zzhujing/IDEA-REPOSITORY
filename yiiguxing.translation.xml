@@ -1,11 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="assumed" />
-      <item value="Replaying Decoder" />
-      <item value="out" />
-      <item value="reposition" />
-      <item value="updater" />
+      <item value="Prepender" />
+      <item value="Transfers" />
+      <item value="粘包" />
+      <item value="粘包，拆包" />
+      <item value="length Adjustment" />
+      <item value="register" />
+      <item value="registry" />
+      <item value="allready" />
+      <item value="未验证" />
+      <item value="域名" />
+      <item value="he decoder counts the extra * header into the frame length calculation" />
+      <item value="because the decoder always takes the length of the prepended data into * account during frame length calculation" />
+      <item value="prepended" />
+      <item value="Because the length value in this example message is always greater than the body length by 2, we specify -2 as lengthAdjustment for compensation" />
+      <item value="specified" />
+      <item value="simplistic" />
+      <item value="he decoder assumes * that the length field represents the number of the bytes that follows the * length field" />
+      <item value="assumes" />
+      <item value="represents" />
+      <item value="do not strip header" />
+      <item value="strip" />
+      <item value="Length Field Based Frame Decoder" />
+      <item value="which is often seen in * proprietary client-server protocols" />
+      <item value="proprietary" />
+      <item value="particularly" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed," />
       <item value="Initiates" />
       <item value="normal" />
@@ -31,31 +51,11 @@
       <item value="Relative" />
       <item value="total Recharge" />
       <item value="Discards" />
-      <item value="deallocation" />
-      <item value="get Site" />
-      <item value="App Client Directive" />
-      <item value="destination" />
-      <item value="respectively" />
-      <item value="sequential" />
-      <item value="male" />
-      <item value="discardable" />
-      <item value="segmented" />
-      <item value="ust like an ordinary primitive byte array," />
-      <item value="ordinary" />
-      <item value="rather than calling an individual implementation's * constructor." />
-      <item value="Various" />
-      <item value="visible" />
-      <item value="primitive" />
-      <item value="bytes" />
-      <item value="octets" />
-      <item value="compatible" />
-      <item value="rather than calling the constructor explicitly." />
-      <item value="t yields slight performance advantage over using a hash * table, and it is useful when accessed frequently." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="CHINESE" value="659" />
+        <entry key="ENGLISH" value="660" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
