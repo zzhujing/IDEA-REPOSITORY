@@ -1,8 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="serialize is necessary especially enyities" />
-      <item value="for all start i didnt realize this Serializable means" />
       <item value="域名" />
       <item value="length Adjustment" />
       <item value="he decoder counts the extra * header into the frame length calculation" />
@@ -51,11 +49,13 @@
       <item value="destination" />
       <item value="respectively" />
       <item value="sequential" />
+      <item value="male" />
+      <item value="discardable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="658" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="656" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
