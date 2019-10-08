@@ -8,7 +8,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Add" />
   <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Add" />
   <action id="Arrangement.Rule.Edit" />
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
@@ -61,9 +63,7 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
+  <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -140,6 +140,12 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="ShowUmlDiagram">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
