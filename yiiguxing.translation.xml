@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Truncates" />
       <item value="Prepender" />
       <item value="Transfers" />
       <item value="粘包" />
@@ -50,7 +51,6 @@
       <item value="unprinted" />
       <item value="Relative" />
       <item value="total Recharge" />
-      <item value="Discards" />
     </histories>
     <option name="languageScores">
       <map>
