@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no blocking select to follow directly." />
+      <item value="poll" />
+      <item value="follow" />
+      <item value="Indicates" />
+      <item value="immediately" />
+      <item value="entirely" />
+      <item value="delayed" />
+      <item value="behavior of the" />
+      <item value="ability" />
+      <item value="do Privileged" />
       <item value="Prepender" />
       <item value="Transfers" />
       <item value="粘包" />
@@ -41,21 +51,11 @@
       <item value="raw Increment" />
       <item value="raw" />
       <item value="rawIncrement" />
-      <item value="Normalize" />
-      <item value="review" />
-      <item value="check Positive Or Zero" />
-      <item value="finished" />
-      <item value="locked" />
-      <item value="printed" />
-      <item value="unprinted" />
-      <item value="Relative" />
-      <item value="total Recharge" />
-      <item value="Discards" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="660" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
