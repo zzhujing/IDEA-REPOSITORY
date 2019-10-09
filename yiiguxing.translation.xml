@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thread Per Task Executor" />
+      <item value="can be used to steer the outcome of a potential select * call. *" />
+      <item value="steer" />
       <item value="no blocking select to follow directly." />
       <item value="poll" />
       <item value="follow" />
@@ -48,14 +51,11 @@
       <item value="volidate" />
       <item value="retry Release 0" />
       <item value="non Volatile Raw Cnt" />
-      <item value="raw Increment" />
-      <item value="raw" />
-      <item value="rawIncrement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="673" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
