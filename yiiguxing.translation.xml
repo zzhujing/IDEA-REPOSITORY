@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port." />
+      <item value="connector may be misconfigured" />
+      <item value="present" />
+      <item value="Set key to hold the string value and expiration timeout if key is present" />
+      <item value="set If Present" />
+      <item value="set If Absent" />
       <item value="Range less than minimum" />
       <item value="定时任务" />
       <item value="定时" />
@@ -45,17 +51,11 @@
       <item value="raw Increment" />
       <item value="raw" />
       <item value="rawIncrement" />
-      <item value="Normalize" />
-      <item value="review" />
-      <item value="check Positive Or Zero" />
-      <item value="finished" />
-      <item value="locked" />
-      <item value="printed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="661" />
-        <entry key="ENGLISH" value="662" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="667" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
