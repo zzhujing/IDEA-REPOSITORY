@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abs" />
+      <item value="Power Of Two Event Executor Chooser" />
       <item value="Pending Handler Added Task" />
       <item value="check Multiplicity" />
       <item value="process" />
@@ -49,14 +51,13 @@
       <item value="raw Increment" />
       <item value="raw" />
       <item value="rawIncrement" />
-      <item value="Normalize" />
-      <item value="review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="667" />
         <entry key="DANISH" value="3" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
