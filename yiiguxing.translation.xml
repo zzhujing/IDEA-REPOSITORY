@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trySuccess() will return false if a user cancelled the connection attempt" />
       <item value="It is guaranteed that the returned set will only contain operation * bits that are valid for this key's channel." />
       <item value="io Ratio" />
       <item value="SELECT" />
@@ -50,12 +51,11 @@
       <item value="guarantees" />
       <item value="designated" />
       <item value="odd" />
-      <item value="Once we compile against later versions of Java we can replace the Unsafe usage here by varhandles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="671" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="673" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
