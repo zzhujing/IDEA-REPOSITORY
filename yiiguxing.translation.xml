@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SELECT" />
+      <item value="Select Strategy" />
+      <item value="It's important to create this Runnable before we try to submit it as otherwise the URLClassLoader may // not be able to load the class because of the file limit it already reached." />
+      <item value="It's important to create this Runnable before we try to submit it as otherwise the URLClassLoader may // not be able to load the class because of the file limit it already reached" />
       <item value="is Power Of Two" />
       <item value="abs" />
       <item value="Power Of Two Event Executor Chooser" />
@@ -47,15 +51,11 @@
       <item value="Once we compile against later versions of Java we can replace the Unsafe usage here by varhandles" />
       <item value="volatile" />
       <item value="volidate" />
-      <item value="retry Release 0" />
-      <item value="non Volatile Raw Cnt" />
-      <item value="raw Increment" />
-      <item value="raw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="670" />
+        <entry key="ENGLISH" value="671" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />

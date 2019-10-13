@@ -2,6 +2,9 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
@@ -37,6 +40,9 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DuplicatesForm.SendToLeft">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -70,6 +76,9 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
+  <action id="FileChooser.GotoHome">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="FindNext" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -87,7 +96,7 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f4" />
