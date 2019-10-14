@@ -12,6 +12,7 @@
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="AutoIndentLines" />
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
@@ -92,8 +93,14 @@
   <action id="GenerateSerialVersionUID">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Gsonformat">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
@@ -114,6 +121,9 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />

@@ -1,18 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="trySuccess() will return false if a user cancelled the connection attempt" />
-      <item value="It is guaranteed that the returned set will only contain operation * bits that are valid for this key's channel." />
-      <item value="io Ratio" />
-      <item value="SELECT" />
-      <item value="Select Strategy" />
-      <item value="It's important to create this Runnable before we try to submit it as otherwise the URLClassLoader may // not be able to load the class because of the file limit it already reached." />
-      <item value="It's important to create this Runnable before we try to submit it as otherwise the URLClassLoader may // not be able to load the class because of the file limit it already reached" />
-      <item value="is Power Of Two" />
-      <item value="abs" />
-      <item value="Power Of Two Event Executor Chooser" />
-      <item value="Pending Handler Added Task" />
-      <item value="check Multiplicity" />
+      <item value="renew" />
+      <item value="audit" />
+      <item value="审核" />
+      <item value="域名解析" />
+      <item value="解析" />
+      <item value="Extension Config" />
+      <item value="Retention" />
+      <item value="registrant Type" />
+      <item value="ensure Register" />
+      <item value="invaild" />
+      <item value="handle" />
+      <item value="some handy methods" />
+      <item value="exposes logical level" />
+      <item value="Creates an {@link SqlSession} out of a connection or a DataSource" />
+      <item value="domain Threshold" />
+      <item value="阈值" />
+      <item value="exists" />
+      <item value="soap" />
+      <item value="order Service" />
+      <item value="response" />
       <item value="process" />
       <item value="do Processor" />
       <item value="Range less than minimum" />
@@ -43,21 +51,12 @@
       <item value="Length Field Based Frame Decoder" />
       <item value="which is often seen in * proprietary client-server protocols" />
       <item value="proprietary" />
-      <item value="particularly" />
-      <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed," />
-      <item value="Initiates" />
-      <item value="normal" />
-      <item value="appropriate for purposes" />
-      <item value="guarantees" />
-      <item value="designated" />
-      <item value="odd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="676" />
+        <entry key="ENGLISH" value="677" />
         <entry key="DANISH" value="3" />
-        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
         <entry key="KANNADA" value="1" />
@@ -67,7 +66,8 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
