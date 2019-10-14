@@ -102,6 +102,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="GuiDesigner.ExpandSelection" />
+  <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="f3" />
@@ -132,7 +133,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
