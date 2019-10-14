@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ensure Register" />
       <item value="invaild" />
       <item value="handle" />
       <item value="some handy methods" />
@@ -50,12 +51,11 @@
       <item value="guarantees" />
       <item value="designated" />
       <item value="odd" />
-      <item value="Once we compile against later versions of Java we can replace the Unsafe usage here by varhandles" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="671" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
