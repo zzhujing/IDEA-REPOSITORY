@@ -99,6 +99,9 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Gsonformat">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
