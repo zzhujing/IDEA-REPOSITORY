@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="some handy methods" />
       <item value="exposes logical level" />
       <item value="Creates an {@link SqlSession} out of a connection or a DataSource" />
       <item value="domain Threshold" />
@@ -49,13 +51,11 @@
       <item value="odd" />
       <item value="Once we compile against later versions of Java we can replace the Unsafe usage here by varhandles" />
       <item value="volatile" />
-      <item value="volidate" />
-      <item value="retry Release 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="669" />
+        <entry key="CHINESE" value="670" />
+        <entry key="ENGLISH" value="671" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />

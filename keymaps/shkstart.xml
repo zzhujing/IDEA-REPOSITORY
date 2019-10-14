@@ -12,6 +12,7 @@
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="AutoIndentLines" />
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
@@ -91,6 +92,9 @@
   </action>
   <action id="GenerateSerialVersionUID">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
