@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit" />
+      <item value="审核" />
       <item value="域名解析" />
       <item value="解析" />
       <item value="Extension Config" />
@@ -49,12 +51,10 @@
       <item value="which is often seen in * proprietary client-server protocols" />
       <item value="proprietary" />
       <item value="particularly" />
-      <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed," />
-      <item value="Initiates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
+        <entry key="CHINESE" value="676" />
         <entry key="ENGLISH" value="676" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
