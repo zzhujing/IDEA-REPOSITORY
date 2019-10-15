@@ -69,7 +69,9 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
-  <action id="EditorUnSelectWord" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
