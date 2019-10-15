@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="broadcast" />
+      <item value="wildcard" />
       <item value="SO BROADCAST" />
       <item value="attachment" />
       <item value="attached" />
@@ -49,13 +51,11 @@
       <item value="simplistic" />
       <item value="he decoder assumes * that the length field represents the number of the bytes that follows the * length field" />
       <item value="assumes" />
-      <item value="represents" />
-      <item value="do not strip header" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE" value="681" />
+        <entry key="ENGLISH" value="682" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
