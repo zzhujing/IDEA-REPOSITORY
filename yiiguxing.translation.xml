@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SO BROADCAST" />
       <item value="attachment" />
       <item value="attached" />
       <item value="使用attchement" />
@@ -50,11 +51,10 @@
       <item value="assumes" />
       <item value="represents" />
       <item value="do not strip header" />
-      <item value="strip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="679" />
+        <entry key="CHINESE" value="680" />
         <entry key="ENGLISH" value="680" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
@@ -62,6 +62,7 @@
         <entry key="KANNADA" value="1" />
         <entry key="LATVIAN" value="3" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="1" />
