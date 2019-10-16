@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="asynchronous" />
       <item value="related * synchronizers" />
       <item value="elated * synchronizers" />
       <item value="synchronizers" />
@@ -50,11 +51,10 @@
       <item value="do Processor" />
       <item value="Range less than minimum" />
       <item value="定时任务" />
-      <item value="定时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
+        <entry key="CHINESE" value="703" />
         <entry key="ENGLISH" value="703" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
