@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="related * synchronizers" />
+      <item value="elated * synchronizers" />
+      <item value="synchronizers" />
+      <item value="related" />
+      <item value="related * synchronizers (semaphores, events, etc) that rely on * first-in-first-out (FIFO) wait queues" />
+      <item value="rely" />
       <item value="Regardless if the connection attempt was cancelled, channelActive() event should be triggered, // because what happened is what happened" />
       <item value="Multiply by 2 to give some extra space in case the OS can process write data faster than we can provide." />
       <item value="Make this future impossible to cancel" />
@@ -45,17 +51,11 @@
       <item value="Range less than minimum" />
       <item value="定时任务" />
       <item value="定时" />
-      <item value="Seduclar" />
-      <item value="Prepender" />
-      <item value="Transfers" />
-      <item value="粘包" />
-      <item value="粘包，拆包" />
-      <item value="length Adjustment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
