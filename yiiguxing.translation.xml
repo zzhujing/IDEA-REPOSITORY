@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offer" />
+      <item value="The executor below * serializes the submission of tasks to a second executor, * illustrating a composite executor. *" />
+      <item value="The executor below * serializes the submission of tasks to a second executor, * illustrating a composite executor." />
+      <item value="Many {@code Executor} implementations impose some sort of * limitation on how and when tasks are scheduled" />
+      <item value="impose" />
+      <item value="below spawns" />
+      <item value="typically" />
       <item value="strictly" />
       <item value="decoupling" />
       <item value="An {@link Executor} that provides methods to manage termination and * methods that can produce a {@link Future} for tracking progress of * one or more asynchronous tasks." />
@@ -44,18 +51,11 @@
       <item value="Prepender" />
       <item value="Transfers" />
       <item value="粘包" />
-      <item value="粘包，拆包" />
-      <item value="length Adjustment" />
-      <item value="register" />
-      <item value="registry" />
-      <item value="allready" />
-      <item value="未验证" />
-      <item value="域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="695" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
