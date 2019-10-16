@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fire Channel Registered" />
+      <item value="Sets if {@link ChannelHandlerContext#read()} will be invoked automatically so that a user application doesn't * need to call it at all. The default value is {@code true}" />
       <item value="Force the Selector to select now as the &quot;canceled&quot; SelectionKey may still be cached and not removed because no Select.select(..) operation was called yet." />
       <item value="Force the Selector to select now as the &quot;canceled&quot; SelectionKey may still be" />
       <item value="call was outside of the eventLoop" />
@@ -49,13 +51,11 @@
       <item value="allready" />
       <item value="未验证" />
       <item value="域名" />
-      <item value="he decoder counts the extra * header into the frame length calculation" />
-      <item value="because the decoder always takes the length of the prepended data into * account during frame length calculation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="689" />
+        <entry key="ENGLISH" value="690" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
