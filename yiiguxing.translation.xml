@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiply by 2 to give some extra space in case the OS can process write data faster than we can provide." />
+      <item value="Make this future impossible to cancel" />
+      <item value="set up" />
+      <item value="fulfilled" />
       <item value="fire Channel Registered" />
       <item value="Sets if {@link ChannelHandlerContext#read()} will be invoked automatically so that a user application doesn't * need to call it at all. The default value is {@code true}" />
       <item value="Force the Selector to select now as the &quot;canceled&quot; SelectionKey may still be cached and not removed because no Select.select(..) operation was called yet." />
@@ -47,15 +51,11 @@
       <item value="粘包，拆包" />
       <item value="length Adjustment" />
       <item value="register" />
-      <item value="registry" />
-      <item value="allready" />
-      <item value="未验证" />
-      <item value="域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
