@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signals this executor that the caller wants the executor to be shut down. Once this method is called, * {@link #isShuttingDown()} starts to return {@code true}, and the executor prepares to shut itself down. * Unlike {@link #shutdown()}, graceful shutdown ensures that no tasks are submitted for &lt;i&gt;'the quiet period'&lt;/i&gt; * (usually a couple seconds) before it shuts itself down. If a task is submitted during the quiet period, * it is guaranteed to be accepted and the quiet period will start over" />
+      <item value="Gracefully" />
       <item value="stract base class for {@link EventLoopGroup} implementations that handles their tasks with multiple threads at * * the same time" />
       <item value="Abstract base class for {@link EventExecutorGroup} implementations that handles their tasks with multiple threads at * the same time" />
       <item value="offer" />
@@ -49,13 +51,11 @@
       <item value="Range less than minimum" />
       <item value="定时任务" />
       <item value="定时" />
-      <item value="Seduclar" />
-      <item value="Prepender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
