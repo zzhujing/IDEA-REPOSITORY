@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Memory consistency effects" />
+      <item value="lingering" />
+      <item value="preconfigured" />
+      <item value="sketch" />
+      <item value="variants" />
+      <item value="bulk execution" />
+      <item value="An * unused {@code ExecutorService} should be shut down to allow * reclamation of its resources" />
+      <item value="actively" />
+      <item value="Upon" />
+      <item value="allow previously submitted tasks to execute before * terminating" />
+      <item value="shut down" />
       <item value="previously" />
       <item value="attempts" />
       <item value="prevents" />
@@ -25,7 +36,6 @@
       <item value="strictly" />
       <item value="decoupling" />
       <item value="An {@link Executor} that provides methods to manage termination and * methods that can produce a {@link Future} for tracking progress of * one or more asynchronous tasks." />
-      <item value="actively" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down" />
       <item value="upon" />
       <item value="representing" />
@@ -41,21 +51,11 @@
       <item value="审核" />
       <item value="域名解析" />
       <item value="解析" />
-      <item value="Extension Config" />
-      <item value="Retention" />
-      <item value="registrant Type" />
-      <item value="ensure Register" />
-      <item value="invaild" />
-      <item value="handle" />
-      <item value="some handy methods" />
-      <item value="exposes logical level" />
-      <item value="Creates an {@link SqlSession} out of a connection or a DataSource" />
-      <item value="domain Threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
