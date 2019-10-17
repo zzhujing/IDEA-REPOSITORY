@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="previously" />
+      <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed" />
       <item value="MILLISECONDS" />
       <item value="to beep every ten seconds for an hour" />
@@ -34,7 +36,6 @@
       <item value="Upon" />
       <item value="allow previously submitted tasks to execute before * terminating" />
       <item value="shut down" />
-      <item value="previously" />
       <item value="attempts" />
       <item value="prevents" />
       <item value="terminating" />
@@ -50,12 +51,11 @@
       <item value="Abstract base class for {@link EventExecutorGroup} implementations that handles their tasks with multiple threads at * the same time" />
       <item value="offer" />
       <item value="The executor below * serializes the submission of tasks to a second executor, * illustrating a composite executor. *" />
-      <item value="The executor below * serializes the submission of tasks to a second executor, * illustrating a composite executor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
