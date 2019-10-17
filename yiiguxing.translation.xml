@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after a given * delay" />
+      <item value="fter a given * delay" />
       <item value="Memory consistency effects" />
       <item value="lingering" />
       <item value="preconfigured" />
@@ -49,8 +51,6 @@
       <item value="renew" />
       <item value="audit" />
       <item value="审核" />
-      <item value="域名解析" />
-      <item value="解析" />
     </histories>
     <option name="languageScores">
       <map>
