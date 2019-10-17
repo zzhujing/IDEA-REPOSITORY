@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eturns {@code true} if and only if all {@link EventExecutor}s managed by this {@link EventExecutorGroup} * are being {@linkplain #shutdownGracefully() shut down gracefully} or was {@linkplain #isShutdown() shut down" />
+      <item value="Shortcut" />
+      <item value="handling" />
       <item value="responsible" />
       <item value="Besides" />
       <item value="interrupted" />
@@ -45,17 +48,14 @@
       <item value="which will cause * it to reject new tasks" />
       <item value="allows shutting them down in a global fashion" />
       <item value="a global fashion" />
-      <item value="handling" />
       <item value="Signals this executor that the caller wants the executor to be shut down. Once this method is called, * {@link #isShuttingDown()} starts to return {@code true}, and the executor prepares to shut itself down. * Unlike {@link #shutdown()}, graceful shutdown ensures that no tasks are submitted for &lt;i&gt;'the quiet period'&lt;/i&gt; * (usually a couple seconds) before it shuts itself down. If a task is submitted during the quiet period, * it is guaranteed to be accepted and the quiet period will start over" />
       <item value="Gracefully" />
       <item value="stract base class for {@link EventLoopGroup} implementations that handles their tasks with multiple threads at * * the same time" />
-      <item value="Abstract base class for {@link EventExecutorGroup} implementations that handles their tasks with multiple threads at * the same time" />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
