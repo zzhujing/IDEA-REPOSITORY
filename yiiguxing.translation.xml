@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified" />
+      <item value="not necessarily created by Netty" />
+      <item value="arbitrary" />
+      <item value="Removes a task that was added previously via" />
+      <item value="Adds a task to be run once at the end of next (or current) {@code eventloop} iteration" />
       <item value="A {@link Future} that is {@link Runnable}. Successful execution of * the {@code run} method causes completion of the {@code Future} * and allows access to its results" />
       <item value="Use offer as we actually only need this to unblock the thread and if offer fails we do not care as there" />
       <item value="accurate quiet period * checks" />
@@ -46,16 +51,11 @@
       <item value="periods as arguments," />
       <item value="relative" />
       <item value="treated as requests for immediate execution" />
-      <item value="negative" />
-      <item value="periodically" />
-      <item value="delays" />
-      <item value="various" />
-      <item value="various delays" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="781" />
+        <entry key="ENGLISH" value="782" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
