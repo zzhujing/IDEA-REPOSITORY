@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
+      <item value="preferable" />
+      <item value="restrictions" />
+      <item value="violating" />
+      <item value="so immediately without violating capacity restrictions." />
+      <item value="possible" />
+      <item value="specified" />
+      <item value="Inserts the specified element into this queue if it is possible to do" />
+      <item value="expensive" />
+      <item value="interrupted" />
+      <item value="has been interrupted or waken up" />
+      <item value="aware" />
+      <item value="Be aware that this method will throw an {@link UnsupportedOperationException} if the task queue, which was * created via {@link #newTaskQueue()}, does not implement {@link BlockingQueue}." />
+      <item value="Take the next {@link Runnable} from the task queue and so will block if no task is currently present" />
+      <item value="Retrieves" />
+      <item value="poll" />
+      <item value="peek" />
+      <item value="offer" />
       <item value="graceful Shutdown Quiet Period" />
       <item value="NOOP" />
       <item value="NOOP TASK" />
@@ -29,33 +47,15 @@
       <item value="handling" />
       <item value="responsible" />
       <item value="Besides" />
-      <item value="interrupted" />
       <item value="previously" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed" />
       <item value="MILLISECONDS" />
-      <item value="to beep every ten seconds for an hour" />
-      <item value="beep" />
-      <item value="convenient" />
-      <item value="eware however that expiration of a * relative delay need not coincide with the current {@code Date} at * which the task is enabled due to network time synchronization * protocols, clock drift, or other factors" />
-      <item value="Beware" />
-      <item value="It is a simple * matter to transform an absolute time represented as a {@link * java.util.Date} to the required form" />
-      <item value="represented" />
-      <item value="matter" />
-      <item value="periods" />
-      <item value="periods as arguments," />
-      <item value="relative" />
-      <item value="treated as requests for immediate execution" />
-      <item value="negative" />
-      <item value="periodically" />
-      <item value="delays" />
-      <item value="various" />
-      <item value="various delays" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="775" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="791" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
