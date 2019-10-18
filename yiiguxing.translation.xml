@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use offer as we actually only need this to unblock the thread and if offer fails we do not care as there" />
+      <item value="accurate quiet period * checks" />
+      <item value="thus" />
+      <item value="Updates the internal timestamp that tells when a submitted task was executed most recently." />
+      <item value="recently" />
+      <item value="The user may block on the future and once it unblocks the JVM may terminate" />
+      <item value="for the Thread as we are about to terminate and notify // the future" />
+      <item value="or the Thread as we are about to terminate and notify // the future" />
+      <item value="The user may block on the future and once it unblocks the JVM may terminate // and start unloading classes" />
+      <item value="Lets remove all FastThreadLocals for the Thread as we are about to terminate and notify // the future" />
       <item value="waking" />
       <item value="ries to backoff when the task can not be added due restrictions for an configured amount of time. This * is only done if the task was added from outside of the event loop which means * {@link EventExecutor#inEventLoop()} returns {@code false}" />
       <item value="due restrictions" />
@@ -41,21 +51,11 @@
       <item value="various" />
       <item value="various delays" />
       <item value="run after a given * delay, or to execute periodically" />
-      <item value="after a given * delay" />
-      <item value="fter a given * delay" />
-      <item value="Memory consistency effects" />
-      <item value="lingering" />
-      <item value="preconfigured" />
-      <item value="sketch" />
-      <item value="variants" />
-      <item value="bulk execution" />
-      <item value="An * unused {@code ExecutorService} should be shut down to allow * reclamation of its resources" />
-      <item value="actively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="777" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
