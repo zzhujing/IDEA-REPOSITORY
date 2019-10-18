@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ries to backoff when the task can not be added due restrictions for an configured amount of time. This * is only done if the task was added from outside of the event loop which means * {@link EventExecutor#inEventLoop()} returns {@code false}" />
+      <item value="due restrictions" />
+      <item value="backoff" />
+      <item value="due capacity * restrictions." />
       <item value="注释" />
       <item value="Returns the Future which is notified when all EventExecutors managed by this EventExecutorGroup have been terminated." />
       <item value="Returns the {@link Future} which is notified" />
@@ -47,15 +51,11 @@
       <item value="An * unused {@code ExecutorService} should be shut down to allow * reclamation of its resources" />
       <item value="actively" />
       <item value="Upon" />
-      <item value="allow previously submitted tasks to execute before * terminating" />
-      <item value="shut down" />
-      <item value="attempts" />
-      <item value="prevents" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="761" />
-        <entry key="ENGLISH" value="762" />
+        <entry key="CHINESE" value="765" />
+        <entry key="ENGLISH" value="766" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
