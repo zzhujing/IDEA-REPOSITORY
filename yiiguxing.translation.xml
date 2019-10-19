@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prevents" />
+      <item value="while the {@link #shutdownNow} method prevents waiting * tasks from starting and attempts to stop currently executing tasks" />
       <item value="An {@link Executor} that provides methods to manage termination and * methods that can produce a {@link Future} for tracking progress of * one or more asynchronous tasks" />
       <item value="specified" />
       <item value="not necessarily created by Netty" />
@@ -49,13 +51,11 @@
       <item value="represented" />
       <item value="matter" />
       <item value="periods" />
-      <item value="periods as arguments," />
-      <item value="relative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="782" />
-        <entry key="ENGLISH" value="783" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="784" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
