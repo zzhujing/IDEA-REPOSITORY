@@ -1,7 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actively" />
+      <item value="Upon" />
       <item value="prevents" />
+      <item value="attempts" />
+      <item value="previously" />
       <item value="while the {@link #shutdownNow} method prevents waiting * tasks from starting and attempts to stop currently executing tasks" />
       <item value="An {@link Executor} that provides methods to manage termination and * methods that can produce a {@link Future} for tracking progress of * one or more asynchronous tasks" />
       <item value="specified" />
@@ -38,7 +42,6 @@
       <item value="responsible" />
       <item value="Besides" />
       <item value="interrupted" />
-      <item value="previously" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed" />
       <item value="MILLISECONDS" />
@@ -48,14 +51,11 @@
       <item value="eware however that expiration of a * relative delay need not coincide with the current {@code Date} at * which the task is enabled due to network time synchronization * protocols, clock drift, or other factors" />
       <item value="Beware" />
       <item value="It is a simple * matter to transform an absolute time represented as a {@link * java.util.Date} to the required form" />
-      <item value="represented" />
-      <item value="matter" />
-      <item value="periods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="784" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
