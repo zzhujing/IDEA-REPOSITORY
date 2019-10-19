@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An {@link Executor} that provides methods to manage termination and * methods that can produce a {@link Future} for tracking progress of * one or more asynchronous tasks" />
       <item value="specified" />
       <item value="not necessarily created by Netty" />
       <item value="arbitrary" />
@@ -50,12 +51,11 @@
       <item value="periods" />
       <item value="periods as arguments," />
       <item value="relative" />
-      <item value="treated as requests for immediate execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="783" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="CATALAN" value="2" />
