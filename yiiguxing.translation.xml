@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="runs faster than this loop" />
+      <item value="for typical instances of the class, this loop" />
+      <item value="It is recognized that the distinction between random and sequential * access is often fuzzy. For example, some &lt;tt&gt;List&lt;/tt&gt; implementations * provide asymptotically linear access times if they get huge, but constant * access times in practice. Such a &lt;tt&gt;List&lt;/tt&gt; implementation * should generally implement this interface. As a rule of thumb, a * &lt;tt&gt;List&lt;/tt&gt; implementation should implement this interface if, * for typical instances of the class, this loop:" />
+      <item value="&lt;p&gt;The best algorithms for manipulating random access lists (such as * &lt;tt&gt;ArrayList&lt;/tt&gt;) can produce quadratic behavior when applied to * sequential access lists (such as &lt;tt&gt;LinkedList&lt;/tt&gt;). Generic list * algorithms are encouraged to check whether the given list is an * &lt;tt&gt;instanceof&lt;/tt&gt; this interface before applying an algorithm that would * provide poor performance if it were applied to a sequential access list, * and to alter their behavior if necessary to guarantee acceptable * performance" />
+      <item value="manipulating" />
+      <item value="Marker interface used by &lt;tt&gt;List&lt;/tt&gt; implementations to indicate that * they support fast (generally constant time) random access. The primary * purpose of this interface is to allow generic algorithms to alter their * behavior to provide good performance when applied to either random or * sequential access lists" />
       <item value="数据结构和算法" />
       <item value="算法" />
       <item value="java_algoaritm" />
@@ -45,17 +51,11 @@
       <item value="period" />
       <item value="subsequently" />
       <item value="periodic" />
-      <item value="periodically" />
-      <item value="if any do" />
-      <item value="Upon" />
-      <item value="normal" />
-      <item value="Upon normal or exceptional return" />
-      <item value="The results of this method are undefined if the given * collection is modified while this operation is in progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
