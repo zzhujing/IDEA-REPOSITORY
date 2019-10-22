@@ -113,6 +113,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Jdbc.RunSqlScript" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
