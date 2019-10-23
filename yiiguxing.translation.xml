@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="are ordered according to their" />
+      <item value="ordered" />
+      <item value="priority" />
+      <item value="unbounded" />
       <item value="is Symmetry" />
       <item value="对称" />
       <item value="is Sym" />
@@ -47,15 +51,11 @@
       <item value="Create a new EventExecutor which will later then accessible via the {@link #next()} method. This method will be * called for each thread that will serve this {@link MultithreadEventExecutorGroup}" />
       <item value="via" />
       <item value="accessible" />
-      <item value="subtype" />
-      <item value="To take advantage of this thread-local variable" />
-      <item value="it yields slight performance advantage over using a hash * table, and it is useful when accessed frequently" />
-      <item value="subtle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="866" />
+        <entry key="ENGLISH" value="867" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
