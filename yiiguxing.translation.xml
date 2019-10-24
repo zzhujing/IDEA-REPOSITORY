@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoice" />
+      <item value="发票" />
+      <item value="RENEW" />
+      <item value="RENEWED" />
       <item value="are ordered according to their" />
       <item value="ordered" />
       <item value="priority" />
@@ -47,15 +51,11 @@
       <item value="{@link MultithreadEventLoopGroup} implementations which is used for NIO {@link Selector} based {@link Channel}s." />
       <item value="{@link MultithreadEventLoopGroup} which must be used for the local transport" />
       <item value="stract base class for {@link EventLoopGroup} implementations that handles their tasks with multiple threads at * the same time" />
-      <item value="stract" />
-      <item value="Create a new EventExecutor which will later then accessible via the {@link #next()} method. This method will be * called for each thread that will serve this {@link MultithreadEventExecutorGroup}" />
-      <item value="via" />
-      <item value="accessible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="866" />
-        <entry key="ENGLISH" value="867" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="870" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
