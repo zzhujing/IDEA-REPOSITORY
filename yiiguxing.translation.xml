@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoice Head Mapper" />
       <item value="是否开发票" />
       <item value="invoice nature" />
       <item value="性质" />
@@ -50,12 +51,11 @@
       <item value="&lt;p&gt;The best algorithms for manipulating random access lists (such as * &lt;tt&gt;ArrayList&lt;/tt&gt;) can produce quadratic behavior when applied to * sequential access lists (such as &lt;tt&gt;LinkedList&lt;/tt&gt;). Generic list * algorithms are encouraged to check whether the given list is an * &lt;tt&gt;instanceof&lt;/tt&gt; this interface before applying an algorithm that would * provide poor performance if it were applied to a sequential access list, * and to alter their behavior if necessary to guarantee acceptable * performance" />
       <item value="manipulating" />
       <item value="Marker interface used by &lt;tt&gt;List&lt;/tt&gt; implementations to indicate that * they support fast (generally constant time) random access. The primary * purpose of this interface is to allow generic algorithms to alter their * behavior to provide good performance when applied to either random or * sequential access lists" />
-      <item value="数据结构和算法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="877" />
-        <entry key="ENGLISH" value="878" />
+        <entry key="CHINESE" value="878" />
+        <entry key="ENGLISH" value="879" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
