@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoice nature" />
+      <item value="性质" />
+      <item value="想性质" />
       <item value="默认" />
       <item value="手机" />
       <item value="手机号" />
@@ -48,14 +51,11 @@
       <item value="Marker interface used by &lt;tt&gt;List&lt;/tt&gt; implementations to indicate that * they support fast (generally constant time) random access. The primary * purpose of this interface is to allow generic algorithms to alter their * behavior to provide good performance when applied to either random or * sequential access lists" />
       <item value="数据结构和算法" />
       <item value="算法" />
-      <item value="java_algoaritm" />
-      <item value="Domain" />
-      <item value="Domain Evaluation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="875" />
-        <entry key="ENGLISH" value="876" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="877" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
