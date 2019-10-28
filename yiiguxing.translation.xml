@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Difference" />
       <item value="分区" />
       <item value="parition" />
       <item value="pivot" />
@@ -50,11 +51,10 @@
       <item value="'TypeToken()' is declared in unstable class" />
       <item value="com.google.common.reflect.TypeToken' is marked unstable" />
       <item value="Consider writing a Map with key Class mapped to a predefined ParameterizedTypeReference for that class" />
-      <item value="Type parameter 'O' hides type parameter 'O'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="888" />
+        <entry key="CHINESE" value="889" />
         <entry key="ENGLISH" value="889" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
