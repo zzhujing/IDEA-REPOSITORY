@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual" />
       <item value="get Uncaught Exception Handler" />
       <item value="Caught Thread Exception" />
       <item value="has Remaining" />
@@ -50,7 +51,6 @@
       <item value="ensure Capacity Internal" />
       <item value="扩容" />
       <item value="merge Recursive" />
-      <item value="递归" />
     </histories>
     <option name="languageScores">
       <map>
