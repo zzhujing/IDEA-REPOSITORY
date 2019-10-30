@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="斐波那契" />
       <item value="兔子" />
       <item value="manual" />
       <item value="get Uncaught Exception Handler" />
@@ -50,7 +51,6 @@
       <item value="is Sym" />
       <item value="ensure Explicit Capacity" />
       <item value="ensure Capacity Internal" />
-      <item value="扩容" />
     </histories>
     <option name="languageScores">
       <map>
