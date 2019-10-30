@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已出票" />
+      <item value="未出票" />
       <item value="斐波那契" />
       <item value="兔子" />
       <item value="manual" />
@@ -49,8 +51,6 @@
       <item value="is Symmetry" />
       <item value="对称" />
       <item value="is Sym" />
-      <item value="ensure Explicit Capacity" />
-      <item value="ensure Capacity Internal" />
     </histories>
     <option name="languageScores">
       <map>
