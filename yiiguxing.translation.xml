@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Target method is generic" />
       <item value="工商" />
       <item value="Package name 'com.concurrent.design' does not correspond to the file path 'com.concurrent.design.private'" />
       <item value="初始值" />
@@ -50,11 +51,10 @@
       <item value="RENEW" />
       <item value="RENEWED" />
       <item value="are ordered according to their" />
-      <item value="ordered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="893" />
+        <entry key="CHINESE" value="894" />
         <entry key="ENGLISH" value="894" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
