@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Package name 'com.concurrent.design' does not correspond to the file path 'com.concurrent.design.private'" />
       <item value="初始值" />
       <item value="volatile" />
       <item value="comparison" />
@@ -50,11 +51,10 @@
       <item value="are ordered according to their" />
       <item value="ordered" />
       <item value="priority" />
-      <item value="unbounded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="892" />
+        <entry key="CHINESE" value="893" />
         <entry key="ENGLISH" value="893" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
