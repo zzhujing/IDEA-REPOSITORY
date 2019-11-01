@@ -2,7 +2,9 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
-  <action id="$ShowTranslationDialogAction" />
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="$TranslateAndReplaceAction" />
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
@@ -62,6 +64,9 @@
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
