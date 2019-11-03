@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* A cancellable asynchronous computation. This class provides a base" />
+      <item value="computation" />
+      <item value="Immutable Test" />
       <item value="no problem" />
       <item value="Instance Holder" />
       <item value="设计模式" />
@@ -48,9 +51,6 @@
       <item value="Domain" />
       <item value="Domain Evaluation" />
       <item value="估价" />
-      <item value="gujia " />
-      <item value="so does the multi-plexing of these in the event loop" />
-      <item value="Called from arbitrary non-{@link EventExecutor} threads prior to scheduled task submission. * Returns {@code true} if the {@link EventExecutor} thread should be woken immediately to * process the scheduled task (if not already awake)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,5 +71,15 @@
         <entry key="HINDI" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20191101000350914" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
