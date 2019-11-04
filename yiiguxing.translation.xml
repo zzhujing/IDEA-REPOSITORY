@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Active Object" />
       <item value="Servant" />
       <item value="Channel" />
       <item value="Future" />
@@ -50,12 +51,11 @@
       <item value="Marker interface used by &lt;tt&gt;List&lt;/tt&gt; implementations to indicate that * they support fast (generally constant time) random access. The primary * purpose of this interface is to allow generic algorithms to alter their * behavior to provide good performance when applied to either random or * sequential access lists" />
       <item value="数据结构和算法" />
       <item value="算法" />
-      <item value="java_algoaritm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="874" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="ENGLISH" value="875" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
