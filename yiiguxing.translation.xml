@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Servant" />
       <item value="Channel" />
       <item value="Future" />
       <item value="computation" />
@@ -50,11 +51,10 @@
       <item value="数据结构和算法" />
       <item value="算法" />
       <item value="java_algoaritm" />
-      <item value="Domain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="873" />
+        <entry key="CHINESE" value="874" />
         <entry key="ENGLISH" value="874" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
