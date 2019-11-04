@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspension" />
+      <item value="Suspent" />
+      <item value="suspens" />
+      <item value="suspension" />
+      <item value="LOAD FACTOR" />
       <item value="Supspend" />
       <item value="Supspendsion" />
       <item value="Guarded" />
@@ -46,16 +51,11 @@
       <item value="想性质" />
       <item value="默认" />
       <item value="手机" />
-      <item value="手机号" />
-      <item value="mobail_phone" />
-      <item value="stree" />
-      <item value="evict Idle Connections" />
-      <item value="开户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="902" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="903" />
+        <entry key="ENGLISH" value="903" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="6" />
         <entry key="CATALAN" value="2" />
