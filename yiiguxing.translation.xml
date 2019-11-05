@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When callerCl is null, we should check the application's * (which is invoking this class indirectly) * classloader, so that the JDBC driver class outside rt.jar * can be loaded from here" />
       <item value="define Class" />
       <item value="优先" />
       <item value="Periority" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
