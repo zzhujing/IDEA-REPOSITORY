@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="at which point it creates the system class loader and sets it * as the context class loader of the invoking &lt;tt&gt;Thread&lt;/tt&gt;." />
+      <item value="and is * typically the class loader used to start the application." />
+      <item value="delegation" />
       <item value="When callerCl is null, we should check the application's * (which is invoking this class indirectly) * classloader, so that the JDBC driver class outside rt.jar * can be loaded from here" />
       <item value="define Class" />
       <item value="优先" />
@@ -12,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
