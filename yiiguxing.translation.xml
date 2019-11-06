@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The context ClassLoader of the * primordial thread is typically set to the class loader used to load the * application." />
+      <item value="primordial" />
       <item value="classification" />
       <item value="分类" />
       <item value="垃圾分类" />
@@ -20,7 +22,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
