@@ -1,13 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encrypt Utils" />
+      <item value="Encypt Utils" />
       <item value="练习" />
       <item value="联系" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
