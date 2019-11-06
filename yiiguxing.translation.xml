@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Active Object Proxy" />
       <item value="Suspension" />
       <item value="at which point it creates the system class loader and sets it * as the context class loader of the invoking &lt;tt&gt;Thread&lt;/tt&gt;." />
       <item value="and is * typically the class loader used to start the application." />
