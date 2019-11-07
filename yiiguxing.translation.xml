@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="反射" />
+      <item value="Relection" />
       <item value="积分" />
       <item value="Intergal" />
       <item value="pre Intergal" />
@@ -33,8 +35,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
@@ -42,9 +45,11 @@
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
+        <option name="appId" value="20191101000350914" />
         <option name="appKeyConfigured" value="true" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
