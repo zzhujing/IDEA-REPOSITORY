@@ -1,15 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Active Object Proxy" />
-      <item value="Suspension" />
-      <item value="at which point it creates the system class loader and sets it * as the context class loader of the invoking &lt;tt&gt;Thread&lt;/tt&gt;." />
-      <item value="and is * typically the class loader used to start the application." />
-      <item value="delegation" />
-      <item value="When callerCl is null, we should check the application's * (which is invoking this class indirectly) * classloader, so that the JDBC driver class outside rt.jar * can be loaded from here" />
-      <item value="define Class" />
-      <item value="优先" />
-      <item value="Periority" />
+      <item value="库存" />
+      <item value="不拦截" />
+      <item value="release Url" />
+      <item value="放行" />
+      <item value="方形" />
+      <item value="拦截" />
+      <item value="分隔符" />
+      <item value="手机" />
+      <item value="Field injection is not recommended" />
+      <item value="execution" />
+      <item value="反射" />
+      <item value="Relection" />
+      <item value="积分" />
+      <item value="Intergal" />
+      <item value="pre Intergal" />
+      <item value="longitude" />
+      <item value="TrashClassification" />
+      <item value="垃圾分类" />
+      <item value="登记人" />
+      <item value="有货" />
+      <item value="是否有货" />
+      <item value="remainning" />
+      <item value="remain" />
+      <item value="remain_num" />
+      <item value="机器" />
+      <item value="Returns the system class loader for delegation. This is the default * delegation parent for new &lt;tt&gt;ClassLoader&lt;/tt&gt; instances, and is * typically the class loader used to start the application." />
+      <item value="The context ClassLoader of the * primordial thread is typically set to the class loader used to load the * application." />
+      <item value="primordial" />
+      <item value="classification" />
+      <item value="分类" />
+      <item value="垃圾箱" />
+      <item value="垃圾" />
+      <item value="积分模块" />
+      <item value="Load these drivers, so that they can be instantiated. * It may be the case that the driver class may not be there * i.e. there may be a packaged driver with the service class * as implementation of java.sql.Driver but the actual class * may be missing. In that case a java.util.ServiceConfigurationError * will be thrown at runtime by the VM trying to locate * and load the service. * * Adding a try catch block to catch those runtime errors * if driver not available in classpath but it's * packaged as service and that service is there in classpath." />
+      <item value="exposed as a java.sql.Driver.class service" />
+      <item value="Get all the drivers through the classloader" />
+      <item value="If the driver is packaged as a Service Provider, load it. // Get all the drivers through the classloader // exposed as a java.sql.Driver.class service. // ServiceLoader.load() replaces the sun.misc.Providers()" />
       <item value="Encrypt Utils" />
       <item value="Encypt Utils" />
       <item value="练习" />
@@ -17,17 +45,21 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="FRENCH" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
+        <option name="appId" value="20191101000350914" />
         <option name="appKeyConfigured" value="true" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
