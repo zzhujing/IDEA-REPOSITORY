@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="longitude" />
       <item value="TrashClassification" />
       <item value="垃圾分类" />
       <item value="登记人" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
