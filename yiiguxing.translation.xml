@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="库存" />
       <item value="不拦截" />
       <item value="release Url" />
       <item value="放行" />
