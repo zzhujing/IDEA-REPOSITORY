@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="减法" />
+      <item value="剪发" />
+      <item value="缺少" />
       <item value="库存" />
       <item value="不拦截" />
       <item value="release Url" />
