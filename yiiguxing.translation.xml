@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="behaves" />
       <item value="不知道" />
       <item value="范围" />
       <item value="桶" />
@@ -50,12 +51,11 @@
       <item value="exposed as a java.sql.Driver.class service" />
       <item value="Get all the drivers through the classloader" />
       <item value="If the driver is packaged as a Service Provider, load it. // Get all the drivers through the classloader // exposed as a java.sql.Driver.class service. // ServiceLoader.load() replaces the sun.misc.Providers()" />
-      <item value="Encrypt Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
