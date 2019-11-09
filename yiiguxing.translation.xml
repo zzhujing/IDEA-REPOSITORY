@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="May fail * spuriously and does not provide ordering guarantees&lt;/a&gt;, so is * only rarely an appropriate alternative to {@code compareAndSet}" />
+      <item value="so is * only rarely an appropriate alternative to" />
+      <item value="May fail * spuriously and does not provide ordering guarantees" />
       <item value="普通" />
       <item value="Pair" />
       <item value="Implementation note: This implementation maintains stamped * references by creating internal objects representing &quot;boxed&quot;" />
@@ -48,14 +51,11 @@
       <item value="remain" />
       <item value="remain_num" />
       <item value="机器" />
-      <item value="Returns the system class loader for delegation. This is the default * delegation parent for new &lt;tt&gt;ClassLoader&lt;/tt&gt; instances, and is * typically the class loader used to start the application." />
-      <item value="The context ClassLoader of the * primordial thread is typically set to the class loader used to load the * application." />
-      <item value="primordial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
