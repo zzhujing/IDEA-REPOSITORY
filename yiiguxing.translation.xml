@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分隔符" />
       <item value="出库" />
       <item value="put If Absent" />
       <item value="Inherited" />
@@ -38,7 +39,6 @@
       <item value="放行" />
       <item value="方形" />
       <item value="拦截" />
-      <item value="分隔符" />
       <item value="手机" />
       <item value="Field injection is not recommended" />
       <item value="execution" />
