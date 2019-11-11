@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复提交" />
       <item value="This class is designed for use in atomic data structures in which * several fields of the same node are independently subject to atomic * updates" />
       <item value="several fields of the same node are independently subject to atomic * updates." />
       <item value="May fail * spuriously and does not provide ordering guarantees&lt;/a&gt;, so is * only rarely an appropriate alternative to {@code compareAndSet}" />
@@ -50,12 +51,11 @@
       <item value="有货" />
       <item value="是否有货" />
       <item value="remainning" />
-      <item value="remain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
