@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put If Absent" />
       <item value="Inherited" />
       <item value="重复提交" />
       <item value="This class is designed for use in atomic data structures in which * several fields of the same node are independently subject to atomic * updates" />
@@ -50,12 +51,11 @@
       <item value="垃圾分类" />
       <item value="登记人" />
       <item value="有货" />
-      <item value="是否有货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
