@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="减法" />
+      <item value="剪发" />
       <item value="point" />
       <item value="积分" />
       <item value="check Has Remained Integral" />
@@ -38,8 +40,6 @@
       <item value="Thread Pool Task Executor" />
       <item value="the name should be the associated section in the path" />
       <item value="path" />
-      <item value="减法" />
-      <item value="剪发" />
       <item value="缺少" />
       <item value="库存" />
       <item value="不拦截" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
