@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="领取次数" />
+      <item value="领取" />
       <item value="Web Application Context" />
       <item value="减法" />
       <item value="剪发" />
@@ -49,13 +51,11 @@
       <item value="方形" />
       <item value="拦截" />
       <item value="手机" />
-      <item value="Field injection is not recommended" />
-      <item value="execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
