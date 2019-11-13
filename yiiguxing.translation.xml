@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="affected" />
       <item value="172" />
       <item value="address" />
       <item value="DEBUG" />
@@ -50,7 +51,6 @@
       <item value="不知道" />
       <item value="范围" />
       <item value="桶" />
-      <item value="incompatible" />
     </histories>
     <option name="languageScores">
       <map>
