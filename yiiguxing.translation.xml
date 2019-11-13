@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余的" />
+      <item value="剩余" />
+      <item value="OVERSEERS" />
+      <item value="Tomcat" />
       <item value="ordinal" />
       <item value="ordinally" />
       <item value="OPERATOR" />
       <item value="运维" />
-      <item value="OVERSEERS" />
       <item value="监督者" />
       <item value="监管" />
       <item value="Ordinary User Detail Handler" />
@@ -35,8 +38,6 @@
       <item value="积分" />
       <item value="check Has Remained Integral" />
       <item value="remained Integral" />
-      <item value="剩余的" />
-      <item value="剩余" />
       <item value="remain" />
       <item value="remain Integral" />
       <item value="分隔符" />
@@ -50,12 +51,11 @@
       <item value="so is * only rarely an appropriate alternative to" />
       <item value="May fail * spuriously and does not provide ordering guarantees" />
       <item value="Pair" />
-      <item value="Implementation note: This implementation maintains stamped * references by creating internal objects representing &quot;boxed&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
