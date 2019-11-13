@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ordinary User Detail Handler" />
+      <item value="普通用户" />
+      <item value="用户" />
       <item value="affected" />
       <item value="172" />
       <item value="address" />
@@ -48,14 +51,12 @@
       <item value="specification" />
       <item value="引用" />
       <item value="behaves" />
-      <item value="不知道" />
-      <item value="范围" />
-      <item value="桶" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
