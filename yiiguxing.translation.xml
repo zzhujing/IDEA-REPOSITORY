@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="运维" />
+      <item value="OVERSEERS" />
+      <item value="监督者" />
+      <item value="监管" />
       <item value="Ordinary User Detail Handler" />
       <item value="普通用户" />
       <item value="用户" />
@@ -47,15 +51,11 @@
       <item value="along with" />
       <item value="Atomic Stamped Reference" />
       <item value="accumulator Function" />
-      <item value="Eventually" />
-      <item value="specification" />
-      <item value="引用" />
-      <item value="behaves" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
