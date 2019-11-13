@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
+      <item value="ordinally" />
+      <item value="OPERATOR" />
       <item value="运维" />
       <item value="OVERSEERS" />
       <item value="监督者" />
@@ -48,14 +51,11 @@
       <item value="May fail * spuriously and does not provide ordering guarantees" />
       <item value="Pair" />
       <item value="Implementation note: This implementation maintains stamped * references by creating internal objects representing &quot;boxed&quot;" />
-      <item value="along with" />
-      <item value="Atomic Stamped Reference" />
-      <item value="accumulator Function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
