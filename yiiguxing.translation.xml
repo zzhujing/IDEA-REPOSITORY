@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="terrible" />
+      <item value="糟糕的" />
+      <item value="NORMAL" />
+      <item value="NORMA" />
+      <item value="NORMALLY" />
+      <item value="普通" />
+      <item value="一般" />
+      <item value="yiban " />
+      <item value="完美" />
+      <item value="完全符合" />
+      <item value="符合" />
       <item value="领取次数" />
       <item value="领取" />
       <item value="Web Application Context" />
@@ -24,7 +35,6 @@
       <item value="May fail * spuriously and does not provide ordering guarantees&lt;/a&gt;, so is * only rarely an appropriate alternative to {@code compareAndSet}" />
       <item value="so is * only rarely an appropriate alternative to" />
       <item value="May fail * spuriously and does not provide ordering guarantees" />
-      <item value="普通" />
       <item value="Pair" />
       <item value="Implementation note: This implementation maintains stamped * references by creating internal objects representing &quot;boxed&quot;" />
       <item value="along with" />
@@ -41,21 +51,11 @@
       <item value="primitive" />
       <item value="The data type of the parameter. * &lt;p&gt; * This can be the class name or a primitive." />
       <item value="Thread Pool Task Executor" />
-      <item value="the name should be the associated section in the path" />
-      <item value="path" />
-      <item value="缺少" />
-      <item value="库存" />
-      <item value="不拦截" />
-      <item value="release Url" />
-      <item value="放行" />
-      <item value="方形" />
-      <item value="拦截" />
-      <item value="手机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="58" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
