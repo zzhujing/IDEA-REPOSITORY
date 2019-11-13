@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="172" />
+      <item value="address" />
+      <item value="DEBUG" />
       <item value="terrible" />
       <item value="糟糕的" />
       <item value="NORMAL" />
@@ -48,14 +51,11 @@
       <item value="范围" />
       <item value="桶" />
       <item value="incompatible" />
-      <item value="primitive" />
-      <item value="The data type of the parameter. * &lt;p&gt; * This can be the class name or a primitive." />
-      <item value="Thread Pool Task Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="60" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
