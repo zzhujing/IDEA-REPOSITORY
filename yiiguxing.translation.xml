@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标记" />
+      <item value="登记" />
+      <item value="overseers" />
       <item value="adjuster" />
       <item value="the specified temporal object using the logic" />
       <item value="temporal" />
@@ -48,14 +51,11 @@
       <item value="分隔符" />
       <item value="出库" />
       <item value="put If Absent" />
-      <item value="Inherited" />
-      <item value="重复提交" />
-      <item value="This class is designed for use in atomic data structures in which * several fields of the same node are independently subject to atomic * updates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
