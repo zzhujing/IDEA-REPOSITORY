@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incompatible equality constraint: capture of ? extends CommonUserDTO and OrdinalUserDTO" />
+      <item value="œ" />
       <item value="运营商" />
       <item value="所属运营商" />
       <item value="分类错误" />
@@ -49,13 +51,11 @@
       <item value="完全符合" />
       <item value="符合" />
       <item value="领取次数" />
-      <item value="领取" />
-      <item value="Web Application Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="85" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
