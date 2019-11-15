@@ -24,28 +24,16 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="Console.Jpa.GenerateSql" />
-  <action id="Console.TableResult.NavigateAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DSM.OpenInEditor">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="DSM.OpenInEditor" />
   <action id="DatabaseView.PropertiesAction" />
-  <action id="Debugger.EditFrameSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DomCollectionControl.Edit">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Debugger.EditFrameSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="DuplicatesForm.SendToLeft">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="EditSource" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -72,9 +60,7 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
-  <action id="ExternalSystem.OpenConfig">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="ExternalSystem.OpenConfig" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
@@ -100,18 +86,14 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="Graph.Faces.OpenSelectedPages">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Graph.Faces.OpenSelectedPages" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
-  <action id="Jdbc.OpenEditor">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Jdbc.OpenEditor" />
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -124,31 +106,23 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="NavBar-navigate">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="NavBar-navigate" />
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="OpenModuleSettings">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="OpenModuleSettings" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
-  <action id="ProjectViewEditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="ProjectViewEditSource" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
-  <action id="RemoteHostView.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta r" />
@@ -182,9 +156,7 @@
   </action>
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
-  <action id="Sql.EditParameter">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Sql.EditParameter" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
@@ -193,13 +165,12 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="TypeHierarchy.Class">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="UsageView.ShowRecentFindUsages" />
-  <action id="Vcs.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="XDebugger.JumpToSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
