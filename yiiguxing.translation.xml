@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cyclic Barrier" />
+      <item value="This is a one-shot phenomenon * -- the count cannot be reset" />
       <item value="绑定" />
       <item value="binding Card No" />
       <item value="bingding" />
@@ -49,13 +51,11 @@
       <item value="NORMA" />
       <item value="NORMALLY" />
       <item value="普通" />
-      <item value="一般" />
-      <item value="yiban " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
