@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绑定" />
+      <item value="binding Card No" />
+      <item value="bingding" />
       <item value="Purchase Controller" />
       <item value="Incompatible equality constraint: capture of ? extends CommonUserDTO and OrdinalUserDTO" />
       <item value="œ" />
@@ -48,17 +51,15 @@
       <item value="普通" />
       <item value="一般" />
       <item value="yiban " />
-      <item value="完美" />
-      <item value="完全符合" />
-      <item value="符合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="3" />
       </map>
     </option>
