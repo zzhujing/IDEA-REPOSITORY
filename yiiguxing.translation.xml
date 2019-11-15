@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="运营商" />
+      <item value="所属运营商" />
+      <item value="分类错误" />
+      <item value="分类" />
+      <item value="领用" />
       <item value="backend" />
       <item value="SequelizeDatabaseError: Data truncated for column 'type' at row 1" />
       <item value="极端" />
@@ -46,16 +51,11 @@
       <item value="领取次数" />
       <item value="领取" />
       <item value="Web Application Context" />
-      <item value="减法" />
-      <item value="剪发" />
-      <item value="point" />
-      <item value="积分" />
-      <item value="check Has Remained Integral" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
