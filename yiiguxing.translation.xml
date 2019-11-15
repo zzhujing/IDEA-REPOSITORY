@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SequelizeDatabaseError: Data truncated for column 'type' at row 1" />
       <item value="极端" />
       <item value="Maximum" />
       <item value="最值" />
@@ -50,11 +51,10 @@
       <item value="积分" />
       <item value="check Has Remained Integral" />
       <item value="remained Integral" />
-      <item value="remain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
+        <entry key="CHINESE" value="83" />
         <entry key="ENGLISH" value="83" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
