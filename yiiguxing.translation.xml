@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deque" />
       <item value="An implementation can favor responding to an interrupt over normal * method return in response to a signal. In that case the implementation * must ensure that the signal is redirected to another waiting thread, if * there is one" />
       <item value="In all cases, before this method can return the current thread must * re-acquire the lock associated with this condition. When the * thread returns it is &lt;em&gt;guaranteed&lt;/em&gt; to hold this lock" />
       <item value="The lock associated with this {@code Condition} is atomically * released and the current thread becomes disabled for thread scheduling * purposes and lies dormant until &lt;em&gt;one&lt;/em&gt; of four things happens" />
@@ -50,12 +51,11 @@
       <item value="OVERSEERS" />
       <item value="Tomcat" />
       <item value="ordinal" />
-      <item value="ordinally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
