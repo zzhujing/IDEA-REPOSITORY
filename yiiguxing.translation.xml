@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="into distinct objects to * give the effect of having multiple wait-sets per object, by * combining them with the use of arbitrary {@link Lock} implementations. * Where a {@code Lock} replaces the use of {@code synchronized} methods * and statements, a {@code Condition} replaces the use of the Object * monitor methods." />
+      <item value="{@code Condition} factors out the {@code Object} monitor * methods ({@link Object#wait() wait}, {@link Object#notify notify} * and {@link Object#notifyAll notifyAll}) into distinct objects to * give the effect of having multiple wait-sets per object" />
+      <item value="distinct" />
       <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp" />
       <item value="exclusively" />
       <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp. Always returns false if the * stamp is zero. Always returns true if the stamp represents a * currently held lock. Invoking this method with a value not * obtained from {@link #tryOptimisticRead} or a locking method * for this lock has no defined effect or result." />
@@ -48,14 +51,11 @@
       <item value="overseers" />
       <item value="adjuster" />
       <item value="the specified temporal object using the logic" />
-      <item value="temporal" />
-      <item value="Adjusts" />
-      <item value="total Remain Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
