@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp" />
+      <item value="exclusively" />
+      <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp. Always returns false if the * stamp is zero. Always returns true if the stamp represents a * currently held lock. Invoking this method with a value not * obtained from {@link #tryOptimisticRead} or a locking method * for this lock has no defined effect or result." />
+      <item value="Returns true if the lock has not been exclusively acquired" />
+      <item value="eturns a stamp that can later be validated, or zero" />
       <item value="Deque" />
       <item value="An implementation can favor responding to an interrupt over normal * method return in response to a signal. In that case the implementation * must ensure that the signal is redirected to another waiting thread, if * there is one" />
       <item value="In all cases, before this method can return the current thread must * re-acquire the lock associated with this condition. When the * thread returns it is &lt;em&gt;guaranteed&lt;/em&gt; to hold this lock" />
@@ -46,16 +51,11 @@
       <item value="temporal" />
       <item value="Adjusts" />
       <item value="total Remain Count" />
-      <item value="剩余的" />
-      <item value="剩余" />
-      <item value="OVERSEERS" />
-      <item value="Tomcat" />
-      <item value="ordinal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
