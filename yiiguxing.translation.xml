@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reach a common barrier point." />
+      <item value="A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
+      <item value="aid" />
       <item value="Reentrant Lock Test" />
       <item value="typically" />
       <item value="If no permit is available then the current thread becomes * disabled for thread scheduling purposes and lies dormant until * one of two things happens" />
@@ -48,14 +51,11 @@
       <item value="运维" />
       <item value="监督者" />
       <item value="监管" />
-      <item value="Ordinary User Detail Handler" />
-      <item value="普通用户" />
-      <item value="用户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
