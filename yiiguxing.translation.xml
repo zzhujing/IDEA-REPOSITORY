@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If no permit is available then the current thread becomes * disabled for thread scheduling purposes and lies dormant until * one of two things happens" />
+      <item value="semaphore" />
+      <item value="Semaphore" />
+      <item value="acquire" />
       <item value="because it can be re-used after the waiting threads * are released." />
       <item value="to reach a common barrier point" />
       <item value="synchronization" />
@@ -47,15 +51,11 @@
       <item value="用户" />
       <item value="affected" />
       <item value="172" />
-      <item value="address" />
-      <item value="DEBUG" />
-      <item value="terrible" />
-      <item value="糟糕的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
