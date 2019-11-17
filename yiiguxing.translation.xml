@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="automatic" />
+      <item value="automiclly" />
+      <item value="自动" />
+      <item value="get Phase" />
       <item value="Phaser Test" />
       <item value="reusable" />
       <item value="Forks the given tasks, returning when {@code isDone} holds for * each task or an (unchecked) exception is encountered, in which * case the exception is rethrown. If more than one task * encounters an exception, then this method throws any one of * these exceptions. If any task encounters an exception, the * other may be cancelled. However, the execution status of * individual tasks is not guaranteed upon exceptional return. The * status of each task may be obtained using {@link * #getException()} and related methods to check if they have been * cancelled, completed normally or exceptionally, or left * unprocessed." />
@@ -47,18 +51,15 @@
       <item value="所属运营商" />
       <item value="分类错误" />
       <item value="分类" />
-      <item value="领用" />
-      <item value="backend" />
-      <item value="SequelizeDatabaseError: Data truncated for column 'type' at row 1" />
-      <item value="极端" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="3" />
       </map>
