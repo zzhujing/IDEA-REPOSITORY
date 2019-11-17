@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="until" />
       <item value="The effects of invoking * arrival, registration, and waiting methods on this phaser from * within {@code onAdvance} are unspecified and should not be * relied on." />
       <item value="prevailing" />
       <item value="The arguments to this method provide the state of the phaser * prevailing for the current transition" />
@@ -50,12 +51,11 @@
       <item value="If no permit is available then the current thread becomes * disabled for thread scheduling purposes and lies dormant until * one of two things happens" />
       <item value="semaphore" />
       <item value="Semaphore" />
-      <item value="acquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
