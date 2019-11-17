@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The effects of invoking * arrival, registration, and waiting methods on this phaser from * within {@code onAdvance} are unspecified and should not be * relied on." />
+      <item value="prevailing" />
+      <item value="The arguments to this method provide the state of the phaser * prevailing for the current transition" />
+      <item value="in which case no advance * occurs" />
+      <item value="this phaser will be set to a final termination state * upon advance" />
+      <item value="when all other * waiting parties are dormant" />
+      <item value="This method is invoked * upon arrival of the party advancing this phaser" />
+      <item value="upon arrival of the party advancing this phaser" />
+      <item value="in which case the prevailing phase prior to termination * may be obtained via {@code getPhase() + Integer.MIN_VALUE}." />
+      <item value="Upon termination, the phase number is negative" />
       <item value="第二次" />
       <item value="Advance" />
       <item value="on Advance" />
@@ -41,21 +51,11 @@
       <item value="semaphore" />
       <item value="Semaphore" />
       <item value="acquire" />
-      <item value="because it can be re-used after the waiting threads * are released." />
-      <item value="to reach a common barrier point" />
-      <item value="synchronization" />
-      <item value="Cyclic Barrier Test 1" />
-      <item value="Cyclic Barrier" />
-      <item value="This is a one-shot phenomenon * -- the count cannot be reset" />
-      <item value="绑定" />
-      <item value="binding Card No" />
-      <item value="bingding" />
-      <item value="Purchase Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
