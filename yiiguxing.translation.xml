@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verridable method to perform an action upon impending phase * advance, and to control termination. This method is invoked * upon arrival of the party advancing this phaser (when all other * waiting parties are dormant)." />
+      <item value="on Advance" />
       <item value="advance" />
       <item value="adance" />
       <item value="automatic" />
@@ -49,13 +51,11 @@
       <item value="Purchase Controller" />
       <item value="Incompatible equality constraint: capture of ? extends CommonUserDTO and OrdinalUserDTO" />
       <item value="œ" />
-      <item value="运营商" />
-      <item value="所属运营商" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
