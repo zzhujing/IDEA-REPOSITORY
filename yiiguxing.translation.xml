@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷卡器" />
+      <item value=" 信号强度" />
+      <item value="状态" />
+      <item value="status" />
+      <item value="stats" />
+      <item value="Property" />
+      <item value="所属物业" />
+      <item value="物业" />
       <item value="advance" />
       <item value="Phaser" />
       <item value="until" />
@@ -43,19 +51,11 @@
       <item value="An implementation can favor responding to an interrupt over normal * method return in response to a signal. In that case the implementation * must ensure that the signal is redirected to another waiting thread, if * there is one" />
       <item value="In all cases, before this method can return the current thread must * re-acquire the lock associated with this condition. When the * thread returns it is &lt;em&gt;guaranteed&lt;/em&gt; to hold this lock" />
       <item value="The lock associated with this {@code Condition} is atomically * released and the current thread becomes disabled for thread scheduling * purposes and lies dormant until &lt;em&gt;one&lt;/em&gt; of four things happens" />
-      <item value="associated" />
-      <item value="reach a common barrier point." />
-      <item value="A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
-      <item value="aid" />
-      <item value="Reentrant Lock Test" />
-      <item value="typically" />
-      <item value="If no permit is available then the current thread becomes * disabled for thread scheduling purposes and lies dormant until * one of two things happens" />
-      <item value="semaphore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
