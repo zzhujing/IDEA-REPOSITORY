@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" ambiguous" />
       <item value="重连" />
       <item value="断网记录" />
       <item value="Illegal character ((CTRL-CHAR, code 27)): only regular white space (\r, \n, \t) is allowed between tokens" />
@@ -50,11 +51,10 @@
       <item value="Condition factors out the Object monitor methods (wait, notify and notifyAll) into distinct objects to give the effect of having multiple wait-sets per object, by combining them with the use of arbitrary Lock implementations. Where a Lock replaces the use of synchronized methods and statements, a Condition replaces the use of the Object monitor methods." />
       <item value="factors out the" />
       <item value="distinct" />
-      <item value="into distinct objects to * give the effect of having multiple wait-sets per object, by * combining them with the use of arbitrary {@link Lock} implementations. * Where a {@code Lock} replaces the use of {@code synchronized} methods * and statements, a {@code Condition} replaces the use of the Object * monitor methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
+        <entry key="CHINESE" value="152" />
         <entry key="ENGLISH" value="152" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
