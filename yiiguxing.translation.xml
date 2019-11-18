@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Either this method or {@link #getReader} may * be called to read the body, not both" />
+      <item value="if Present" />
+      <item value="SHUTDOWN" />
+      <item value="损坏的" />
+      <item value="INJECT" />
+      <item value="正常" />
       <item value="If the parameter data was sent in the request body, such as occurs with * an HTTP POST request, then reading the body directly via * {@link #getInputStream} or {@link #getReader} can interfere with the * execution of this method." />
       <item value="刷卡器" />
       <item value=" 信号强度" />
@@ -45,17 +51,11 @@
       <item value="{@code Condition} factors out the {@code Object} monitor * methods ({@link Object#wait() wait}, {@link Object#notify notify} * and {@link Object#notifyAll notifyAll}) into distinct objects to * give the effect of having multiple wait-sets per object" />
       <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp" />
       <item value="exclusively" />
-      <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp. Always returns false if the * stamp is zero. Always returns true if the stamp represents a * currently held lock. Invoking this method with a value not * obtained from {@link #tryOptimisticRead} or a locking method * for this lock has no defined effect or result." />
-      <item value="Returns true if the lock has not been exclusively acquired" />
-      <item value="eturns a stamp that can later be validated, or zero" />
-      <item value="Deque" />
-      <item value="An implementation can favor responding to an interrupt over normal * method return in response to a signal. In that case the implementation * must ensure that the signal is redirected to another waiting thread, if * there is one" />
-      <item value="In all cases, before this method can return the current thread must * re-acquire the lock associated with this condition. When the * thread returns it is &lt;em&gt;guaranteed&lt;/em&gt; to hold this lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
