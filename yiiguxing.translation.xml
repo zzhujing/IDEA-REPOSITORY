@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal character ((CTRL-CHAR, code 27)): only regular white space (\r, \n, \t) is allowed between tokens" />
       <item value="Either this method or {@link #getReader} may * be called to read the body, not both" />
       <item value="if Present" />
       <item value="SHUTDOWN" />
@@ -50,12 +51,11 @@
       <item value="into distinct objects to * give the effect of having multiple wait-sets per object, by * combining them with the use of arbitrary {@link Lock} implementations. * Where a {@code Lock} replaces the use of {@code synchronized} methods * and statements, a {@code Condition} replaces the use of the Object * monitor methods." />
       <item value="{@code Condition} factors out the {@code Object} monitor * methods ({@link Object#wait() wait}, {@link Object#notify notify} * and {@link Object#notifyAll notifyAll}) into distinct objects to * give the effect of having multiple wait-sets per object" />
       <item value="Returns true if the lock has not been exclusively acquired * since issuance of the given stamp" />
-      <item value="exclusively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
