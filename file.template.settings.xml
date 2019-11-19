@@ -1,8 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="DateTimeFormatter.java" reformat="true" live-template-enabled="true" />
-      <template name="MybatisPlusGenerator.java" reformat="true" live-template-enabled="true" />
+      <template name="HttpConfig.java" reformat="true" live-template-enabled="true" />
       <template name="RedisConfig.java" reformat="true" live-template-enabled="true" />
     </default_templates>
     <includes_templates>
