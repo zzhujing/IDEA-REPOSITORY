@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed. *" />
+      <item value="new Work Stealing Pool" />
       <item value="Returns the approximate number of threads that are actively * executing tasks" />
       <item value="On-demand construction&lt;" />
       <item value="only upon construction" />
@@ -49,13 +51,11 @@
       <item value="this phaser will be set to a final termination state * upon advance" />
       <item value="when all other * waiting parties are dormant" />
       <item value="This method is invoked * upon arrival of the party advancing this phaser" />
-      <item value="upon arrival of the party advancing this phaser" />
-      <item value="in which case the prevailing phase prior to termination * may be obtained via {@code getPhase() + Integer.MIN_VALUE}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
