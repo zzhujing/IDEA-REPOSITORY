@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="display" />
+      <item value="嵌套" />
       <item value="completable" />
       <item value="Failure Runnable Test" />
       <item value="Faild" />
@@ -49,13 +51,11 @@
       <item value="essentially" />
       <item value="fewer" />
       <item value="adjust" />
-      <item value="maintains some basic * statistics, such as the number of completed tasks" />
-      <item value="due to reduced per-task invocation overhead, * and they provide a means of bounding and managing the resources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="209" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
