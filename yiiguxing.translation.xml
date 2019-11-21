@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delayed * tasks" />
       <item value="execute after shutdown," />
       <item value="or after setting the policy to * {@code false} when already shutdown." />
       <item value="hese tasks will only terminate upon" />
@@ -50,12 +51,11 @@
       <item value="they usually * provide improved performance when executing large numbers of * asynchronous tasks" />
       <item value="asynchronous" />
       <item value="address two different problems" />
-      <item value="address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
