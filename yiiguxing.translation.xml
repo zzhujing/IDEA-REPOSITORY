@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actively" />
+      <item value="approximate" />
+      <item value="is Held Exclusively" />
       <item value="delayed Execute" />
       <item value="decorate Task" />
       <item value="Discard Policy" />
       <item value="A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
       <item value="or available to * engage in, task processing" />
       <item value="actively engaged in" />
-      <item value="actively" />
       <item value="corresponds" />
       <item value="and may use multiple queues to * reduce contention." />
       <item value="maintains" />
@@ -49,13 +51,11 @@
       <item value="status" />
       <item value="stats" />
       <item value="Property" />
-      <item value="所属物业" />
-      <item value="物业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
