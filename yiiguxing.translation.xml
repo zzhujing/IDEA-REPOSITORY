@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="completable" />
       <item value="Failure Runnable Test" />
       <item value="Faild" />
       <item value="delayed * tasks" />
@@ -50,11 +51,10 @@
       <item value="adjust" />
       <item value="maintains some basic * statistics, such as the number of completed tasks" />
       <item value="due to reduced per-task invocation overhead, * and they provide a means of bounding and managing the resources" />
-      <item value="they usually * provide improved performance when executing large numbers of * asynchronous tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
+        <entry key="CHINESE" value="208" />
         <entry key="ENGLISH" value="208" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
