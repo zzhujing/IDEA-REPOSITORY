@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="defect" />
       <item value="whether the thread executing this task should be interrupted in * an attempt to stop the task" />
       <item value="determines" />
       <item value="If successful, * and this task has not started when {@code cancel} is called, * this task should never run" />
@@ -50,11 +51,10 @@
       <item value="SHUTDOWN" />
       <item value="损坏的" />
       <item value="INJECT" />
-      <item value="正常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
+        <entry key="CHINESE" value="192" />
         <entry key="ENGLISH" value="192" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
