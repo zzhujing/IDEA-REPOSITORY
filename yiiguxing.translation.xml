@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Apply" />
+      <item value="covering exceptional completion" />
+      <item value="is executed with this stage as the argument * to the supplied function." />
+      <item value="normally" />
+      <item value="Completion Stage" />
       <item value="中转" />
       <item value="中专" />
       <item value="supply" />
@@ -46,16 +51,11 @@
       <item value="Creates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed. *" />
       <item value="new Work Stealing Pool" />
       <item value="Returns the approximate number of threads that are actively * executing tasks" />
-      <item value="On-demand construction&lt;" />
-      <item value="only upon construction" />
-      <item value="o accommodate an arbitrary * number of concurrent tasks" />
-      <item value="essentially unbounded value" />
-      <item value="ssentially unbounded value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
