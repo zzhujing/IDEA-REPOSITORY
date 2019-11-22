@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supply" />
       <item value="display" />
       <item value="嵌套" />
       <item value="completable" />
@@ -50,12 +51,11 @@
       <item value="ssentially unbounded value" />
       <item value="essentially" />
       <item value="fewer" />
-      <item value="adjust" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
