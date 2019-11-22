@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtrude Value" />
+      <item value="obtrude Exception" />
       <item value="underlying" />
       <item value="if a * computation involved in the completion of this * CompletableFuture threw an exception" />
       <item value="computation" />
@@ -49,13 +51,11 @@
       <item value="Discard Policy" />
       <item value="A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
       <item value="or available to * engage in, task processing" />
-      <item value="actively engaged in" />
-      <item value="corresponds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
