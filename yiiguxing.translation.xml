@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Either" />
       <item value="Forcibly causes subsequent invocations of method {@link #get()} * and related methods to throw the given exception, whether or * not already completed. This method is designed for use only in * error recovery actions, and even in such situations may result * in ongoing dependent completions using established versus * overwritten outcomes." />
       <item value="unchecked" />
       <item value="checked" />
@@ -50,12 +51,11 @@
       <item value="successful" />
       <item value="completed" />
       <item value="execution" />
-      <item value="If the task has already started, * then the {@code mayInterruptIfRunning} parameter determines * whether the thread executing this task should be interrupted in * an attempt to stop the task." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
