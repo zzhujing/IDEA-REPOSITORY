@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="引用对象" />
+      <item value="引用你" />
+      <item value="引用" />
       <item value="dump" />
       <item value="source" />
       <item value="completes exceptionally" />
@@ -48,14 +51,11 @@
       <item value="test Schedule At Fixed Rate" />
       <item value="decouples" />
       <item value="无序" />
-      <item value="defect" />
-      <item value="whether the thread executing this task should be interrupted in * an attempt to stop the task" />
-      <item value="determines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
