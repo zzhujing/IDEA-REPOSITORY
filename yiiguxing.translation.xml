@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="poll" />
+      <item value="Circularly" />
       <item value="peek" />
+      <item value="poll" />
       <item value="destroy" />
       <item value="销毁" />
       <item value="audit-" />
@@ -50,12 +51,11 @@
       <item value="hese tasks will only terminate upon" />
       <item value="Sets the policy on whether to execute existing delayed * tasks even when this executor has been {@code shutdown" />
       <item value="Sets the policy on whether to execute existing delayed * tasks even" />
-      <item value="Delay" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
