@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destroy" />
+      <item value="销毁" />
       <item value="audit-" />
       <item value="œ" />
       <item value="unstable" />
@@ -49,13 +51,11 @@
       <item value="Delay" />
       <item value="set Execute Existing Delayed Tasks After Shutdown Policy" />
       <item value="Sets the policy on whether to execute existing delayed * tasks even when this executor has been" />
-      <item value="Sets the policy on whether to execute existing delayed * tasks even when this executor has been {@code shutdown}." />
-      <item value="these tasks will only terminate upon * {@code shutdownNow}, or after setting the policy to * {@code false} when already shutdown. * This value is by default {@code true}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
