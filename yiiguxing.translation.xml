@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dual" />
+      <item value="test Synchronous Queue" />
       <item value="to prevent excessive queue expansion" />
       <item value="Linked queues typically have higher throughput than array-based queues but * less predictable performance in most concurrent applications" />
       <item value="retrieval" />
@@ -49,13 +51,11 @@
       <item value="completable" />
       <item value="Failure Runnable Test" />
       <item value="Faild" />
-      <item value="delayed * tasks" />
-      <item value="execute after shutdown," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
