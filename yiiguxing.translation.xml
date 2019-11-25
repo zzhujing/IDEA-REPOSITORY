@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit-" />
       <item value="œ" />
       <item value="unstable" />
       <item value="引用对象" />
@@ -50,12 +51,11 @@
       <item value="Sets the policy on whether to execute existing delayed * tasks even when this executor has been" />
       <item value="Sets the policy on whether to execute existing delayed * tasks even when this executor has been {@code shutdown}." />
       <item value="these tasks will only terminate upon * {@code shutdownNow}, or after setting the policy to * {@code false} when already shutdown. * This value is by default {@code true}." />
-      <item value="test Schedule At Fixed Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
