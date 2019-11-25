@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to prevent excessive queue expansion" />
+      <item value="Linked queues typically have higher throughput than array-based queues but * less predictable performance in most concurrent applications" />
+      <item value="retrieval" />
+      <item value="that has been on the * queue the longest time." />
       <item value="Circularly" />
       <item value="peek" />
       <item value="poll" />
@@ -47,15 +51,11 @@
       <item value="Faild" />
       <item value="delayed * tasks" />
       <item value="execute after shutdown," />
-      <item value="or after setting the policy to * {@code false} when already shutdown." />
-      <item value="hese tasks will only terminate upon" />
-      <item value="Sets the policy on whether to execute existing delayed * tasks even when this executor has been {@code shutdown" />
-      <item value="Sets the policy on whether to execute existing delayed * tasks even" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
