@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="element whose delay expired furthest in the * past" />
+      <item value="Delayed" />
       <item value="Holder class to expose the web request in the form of a thread-bound" />
       <item value="Fund Trans Toaccount Transfer" />
       <item value="dual" />
@@ -49,13 +51,11 @@
       <item value="中专" />
       <item value="supply" />
       <item value="display" />
-      <item value="嵌套" />
-      <item value="completable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
