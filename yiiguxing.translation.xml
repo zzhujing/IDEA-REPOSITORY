@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="from Inclusive" />
+      <item value="so for its navigable sub-maps" />
+      <item value="recursively" />
+      <item value="scalable concurrent {@link ConcurrentNavigableMap} implementation. * The map" />
       <item value="UNVERIFIED" />
       <item value="usable bits of normal node hash" />
       <item value="There is a tradeoff between speed" />
@@ -47,15 +51,11 @@
       <item value="œ" />
       <item value="unstable" />
       <item value="引用对象" />
-      <item value="引用你" />
-      <item value="引用" />
-      <item value="dump" />
-      <item value="source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="1" />
