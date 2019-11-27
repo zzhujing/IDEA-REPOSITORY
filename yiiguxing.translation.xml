@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieved" />
+      <item value="retr" />
+      <item value="re" />
       <item value="of the queue is that element that has been on the * queue the longest time" />
       <item value="guaranteed" />
       <item value="the bulk operations" />
@@ -48,13 +51,10 @@
       <item value="if a * computation involved in the completion of this * CompletableFuture threw an exception" />
       <item value="computation" />
       <item value="conform" />
-      <item value="encountered" />
-      <item value="Apply" />
-      <item value="covering exceptional completion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
+        <entry key="CHINESE" value="256" />
         <entry key="ENGLISH" value="256" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
