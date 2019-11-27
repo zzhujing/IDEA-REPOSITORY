@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retriver" />
+      <item value="性能" />
+      <item value="Perfremance" />
+      <item value="Perfremanc" />
+      <item value="Map Perfremance Test" />
+      <item value="perfremance" />
+      <item value="prefermance" />
+      <item value="演示" />
+      <item value="pefance" />
+      <item value="Prefermance" />
       <item value="retrieved" />
       <item value="retr" />
       <item value="re" />
@@ -41,27 +51,18 @@
       <item value="unchecked" />
       <item value="checked" />
       <item value="independent" />
-      <item value="Arbitrary-arity constructions" />
-      <item value="present" />
-      <item value="photoshop" />
-      <item value="KeppAilav" />
-      <item value="obtrude Value" />
-      <item value="obtrude Exception" />
-      <item value="underlying" />
-      <item value="if a * computation involved in the completion of this * CompletableFuture threw an exception" />
-      <item value="computation" />
-      <item value="conform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="261" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="3" />
+        <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
