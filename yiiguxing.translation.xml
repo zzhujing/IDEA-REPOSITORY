@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平均" />
       <item value="retriver" />
       <item value="性能" />
       <item value="Perfremance" />
@@ -50,12 +51,11 @@
       <item value="Forcibly causes subsequent invocations of method {@link #get()} * and related methods to throw the given exception, whether or * not already completed. This method is designed for use only in * error recovery actions, and even in such situations may result * in ongoing dependent completions using established versus * overwritten outcomes." />
       <item value="unchecked" />
       <item value="checked" />
-      <item value="independent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="1" />
