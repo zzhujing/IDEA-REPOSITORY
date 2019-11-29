@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The table is probably corrupted" />
+      <item value="corrupted" />
       <item value="guaranteed" />
       <item value="inclusive" />
       <item value="from Inclusive" />
@@ -49,12 +51,10 @@
       <item value="destroy" />
       <item value="销毁" />
       <item value="audit-" />
-      <item value="œ" />
-      <item value="unstable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
+        <entry key="CHINESE" value="276" />
         <entry key="ENGLISH" value="276" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
