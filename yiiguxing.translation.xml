@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is rarely appropriate to use this method." />
+      <item value="detailed profiling" />
+      <item value="Yield is a heuristic attempt to improve relative progression * between threads that would otherwise over-utilise a CPU" />
+      <item value="hint" />
+      <item value="yield" />
+      <item value="positive" />
       <item value="The table is probably corrupted" />
       <item value="corrupted" />
       <item value="guaranteed" />
@@ -45,17 +51,11 @@
       <item value="Linked queues typically have higher throughput than array-based queues but * less predictable performance in most concurrent applications" />
       <item value="retrieval" />
       <item value="that has been on the * queue the longest time." />
-      <item value="Circularly" />
-      <item value="peek" />
-      <item value="poll" />
-      <item value="destroy" />
-      <item value="销毁" />
-      <item value="audit-" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="1" />
