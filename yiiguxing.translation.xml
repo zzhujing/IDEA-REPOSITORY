@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delegated" />
       <item value="Phaser" />
       <item value="acquire" />
       <item value="Semaphore" />
@@ -50,7 +51,6 @@
       <item value="constant" />
       <item value="respect" />
       <item value="transient" />
-      <item value="if no expired elements are available in the queue, * this method returns the element that will expire next, * if one exists." />
     </histories>
     <option name="languageScores">
       <map>
