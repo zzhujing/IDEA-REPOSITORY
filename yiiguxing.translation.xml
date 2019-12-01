@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Phaser" />
+      <item value="acquire" />
+      <item value="Semaphore" />
+      <item value="Cyclic Barrier Test 1" />
+      <item value="Note that resets &lt;em&gt;after&lt;/em&gt; * a breakage has occurred for other reasons can be complicated to * carry out" />
       <item value="stamp" />
       <item value="Stamp" />
       <item value="Suspension Pattern" />
@@ -46,16 +51,11 @@
       <item value="respect" />
       <item value="transient" />
       <item value="if no expired elements are available in the queue, * this method returns the element that will expire next, * if one exists." />
-      <item value="element whose delay expired furthest in the * past" />
-      <item value="Delayed" />
-      <item value="Holder class to expose the web request in the form of a thread-bound" />
-      <item value="Fund Trans Toaccount Transfer" />
-      <item value="dual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="291" />
+        <entry key="ENGLISH" value="291" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="1" />
