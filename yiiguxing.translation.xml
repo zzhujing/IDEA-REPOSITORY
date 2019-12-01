@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stamp" />
+      <item value="Stamp" />
       <item value="Suspension Pattern" />
       <item value="Guarded Suspension" />
       <item value="detecting" />
@@ -49,13 +51,11 @@
       <item value="Holder class to expose the web request in the form of a thread-bound" />
       <item value="Fund Trans Toaccount Transfer" />
       <item value="dual" />
-      <item value="test Synchronous Queue" />
-      <item value="to prevent excessive queue expansion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="287" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="1" />
