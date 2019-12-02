@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshould" />
+      <item value="shershold" />
+      <item value="shreshold" />
+      <item value="平方根" />
+      <item value="Sqrt" />
+      <item value="calculate 2 Sqrt" />
       <item value="recurser" />
       <item value="recursver" />
       <item value="递归" />
@@ -45,18 +51,12 @@
       <item value="perfremance" />
       <item value="prefermance" />
       <item value="演示" />
-      <item value="pefance" />
-      <item value="Prefermance" />
-      <item value="retrieved" />
-      <item value="retr" />
-      <item value="re" />
-      <item value="of the queue is that element that has been on the * queue the longest time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="293" />
-        <entry key="DANISH" value="1" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
         <entry key="FINNISH" value="1" />
