@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source" />
       <item value="threshould" />
       <item value="shershold" />
       <item value="shreshold" />
@@ -50,12 +51,11 @@
       <item value="Map Perfremance Test" />
       <item value="perfremance" />
       <item value="prefermance" />
-      <item value="演示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
