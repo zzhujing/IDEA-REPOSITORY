@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tree bins" />
       <item value="Attach STDOUT/STDERR and forward signals" />
       <item value="Vintage" />
       <item value="rawtypes" />
@@ -50,7 +51,6 @@
       <item value="The table is probably corrupted" />
       <item value="corrupted" />
       <item value="guaranteed" />
-      <item value="inclusive" />
     </histories>
     <option name="languageScores">
       <map>
