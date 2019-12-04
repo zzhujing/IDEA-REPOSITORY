@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ince major browsers like Chrome * &lt;a href=&quot;https://bugs.chromium.org/p/chromium/issues/detail?id=438464&quot;&gt; * now comply with the specification&lt;/a&gt; and interpret correctly UTF-8 special * characters without requiring a {@code charset=UTF-8} parameter." />
+      <item value="favor" />
       <item value="申诉域名" />
       <item value="appeal" />
       <item value="Appeal" />
@@ -49,13 +51,11 @@
       <item value="from Inclusive" />
       <item value="so for its navigable sub-maps" />
       <item value="recursively" />
-      <item value="scalable concurrent {@link ConcurrentNavigableMap} implementation. * The map" />
-      <item value="UNVERIFIED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
