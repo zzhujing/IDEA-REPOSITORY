@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PAUSE" />
+      <item value="NORMAL" />
+      <item value="APPLY" />
+      <item value="APPLICATION" />
+      <item value="申请学校" />
+      <item value="apply" />
+      <item value="applying" />
+      <item value="申请" />
+      <item value="申请中" />
       <item value="Tree bins" />
       <item value="Attach STDOUT/STDERR and forward signals" />
       <item value="Vintage" />
@@ -42,20 +51,11 @@
       <item value="Suspension Pattern" />
       <item value="Guarded Suspension" />
       <item value="detecting" />
-      <item value="It is rarely appropriate to use this method." />
-      <item value="detailed profiling" />
-      <item value="Yield is a heuristic attempt to improve relative progression * between threads that would otherwise over-utilise a CPU" />
-      <item value="hint" />
-      <item value="yield" />
-      <item value="positive" />
-      <item value="The table is probably corrupted" />
-      <item value="corrupted" />
-      <item value="guaranteed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
