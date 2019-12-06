@@ -170,6 +170,9 @@
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
+  <action id="WindowMenu">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="XDebugger.JumpToSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
