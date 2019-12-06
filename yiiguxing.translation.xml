@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identifier" />
       <item value="Inherited" />
       <item value="PAUSE" />
       <item value="NORMAL" />
@@ -50,7 +51,6 @@
       <item value="stamp" />
       <item value="Stamp" />
       <item value="Suspension Pattern" />
-      <item value="Guarded Suspension" />
     </histories>
     <option name="languageScores">
       <map>
