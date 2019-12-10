@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="heapify" />
       <item value="merge Ordered File" />
       <item value="堆化" />
       <item value="The number of key-value mappings contained in this map" />
@@ -50,7 +51,6 @@
       <item value="证书" />
       <item value="zhengshu " />
       <item value="Settle Amount" />
-      <item value="Settle account" />
     </histories>
     <option name="languageScores">
       <map>
