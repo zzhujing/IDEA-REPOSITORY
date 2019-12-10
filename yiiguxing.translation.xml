@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merge Ordered File" />
       <item value="堆化" />
       <item value="The number of key-value mappings contained in this map" />
       <item value="existing mapping for key" />
@@ -50,12 +51,11 @@
       <item value="zhengshu " />
       <item value="Settle Amount" />
       <item value="Settle account" />
-      <item value="结过账" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
