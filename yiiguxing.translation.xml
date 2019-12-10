@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前K大元素" />
+      <item value="前面" />
       <item value="heapify" />
       <item value="merge Ordered File" />
       <item value="堆化" />
@@ -49,13 +51,11 @@
       <item value="Appeal" />
       <item value="申诉" />
       <item value="证书" />
-      <item value="zhengshu " />
-      <item value="Settle Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
