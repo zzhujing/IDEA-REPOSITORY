@@ -1,10 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The full set of initialization methods" />
+      <item value="The full set of initialization methods and their standard order is" />
+      <item value="as far as possible" />
+      <item value="standard" />
+      <item value="all of the * operations in this interface will also check parent factories if this is a * {@link HierarchicalBeanFactory}" />
+      <item value="Implementations are encouraged to support references * amongst beans" />
+      <item value="LDAP" />
+      <item value="There are no * constraints on how the definitions could be stored" />
+      <item value="However, an implementation could simply return * Java objects it creates as necessary directly in Java code" />
+      <item value="it creates as necessary directly in Java code" />
+      <item value="simply" />
+      <item value="Note that it is generally better to rely on Dependency Injection * (&quot;push&quot; configuration) to configure application objects through setters * or constructors" />
+      <item value="rely on" />
+      <item value="no more do individual objects need to read properties files, * for example" />
+      <item value="The point of this approach is that the BeanFactory is a central registry * of application components" />
+      <item value="scope" />
+      <item value="further" />
+      <item value="Hierarchical Bean Factory" />
+      <item value="check" />
+      <item value="contrast" />
+      <item value="encouraged" />
       <item value="either" />
       <item value="the factory will return either an independent instance of a contained object" />
       <item value="are available for specific purposes" />
-      <item value="further" />
       <item value="passed-in" />
       <item value="plus extended" />
       <item value="functionality" />
@@ -31,31 +51,11 @@
       <item value="primarily" />
       <item value="while bearing some superficial similarities, * have different goals" />
       <item value="and source elements are consumed only * as needed" />
-      <item value="computation on the source data is only performed" />
-      <item value="intermediate" />
-      <item value="primitive specializations" />
-      <item value="primitive" />
-      <item value="aggregate" />
-      <item value="重复" />
-      <item value="ALREADY EXISTS" />
-      <item value="The maximum time interval, in seconds, between client requests before * the servlet container may invalidate this session. A negative time * indicates that the session should never time out" />
-      <item value="Strict Math" />
-      <item value="申请" />
-      <item value="Json Auto Detect" />
-      <item value="set Visibility" />
-      <item value="identifier" />
-      <item value="Inherited" />
-      <item value="PAUSE" />
-      <item value="NORMAL" />
-      <item value="APPLY" />
-      <item value="APPLICATION" />
-      <item value="申请学校" />
-      <item value="apply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
