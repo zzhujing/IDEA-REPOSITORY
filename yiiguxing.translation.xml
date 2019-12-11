@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return a provider for the specified bean, allowing for lazy on-demand retrieval * of instances, including availability and uniqueness options" />
+      <item value="For more extensive retrieval operations across sets of beans, * use {@link ListableBeanFactory} and/or {@link BeanFactoryUtils}" />
+      <item value="Listable" />
+      <item value="Return the bean instance that uniquely matches the given object type, if any" />
+      <item value="only applicable when running in an application context" />
+      <item value="Listable Bean Factory" />
       <item value="The full set of initialization methods" />
       <item value="The full set of initialization methods and their standard order is" />
       <item value="as far as possible" />
@@ -45,17 +51,11 @@
       <item value="This rules out, for example, &quot;forked&quot; streams, where * the same source feeds two or more pipelines, or multiple traversals of the * same stream" />
       <item value="This rules out" />
       <item value="erroneous behavior may result from modifying the stream * source while it is being queried" />
-      <item value="Unless the source was explicitly" />
-      <item value="widgets" />
-      <item value="streams do not * provide a means to directly access or manipulate their elements" />
-      <item value="primarily" />
-      <item value="while bearing some superficial similarities, * have different goals" />
-      <item value="and source elements are consumed only * as needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
