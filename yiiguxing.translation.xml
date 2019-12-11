@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="either" />
+      <item value="the factory will return either an independent instance of a contained object" />
+      <item value="are available for specific purposes" />
+      <item value="further" />
+      <item value="passed-in" />
+      <item value="plus extended" />
+      <item value="functionality" />
+      <item value="but a URL or File handle can just be returned for * certain resources. The actual behavior is implementation-specific" />
+      <item value="Interface for a resource descriptor that abstracts from the actual * type of underlying resource" />
+      <item value="actual" />
       <item value="Inversion of control" />
       <item value="Interver of control" />
       <item value="Intervers" />
@@ -41,21 +51,11 @@
       <item value="APPLICATION" />
       <item value="申请学校" />
       <item value="apply" />
-      <item value="applying" />
-      <item value="申请中" />
-      <item value="Tree bins" />
-      <item value="Attach STDOUT/STDERR and forward signals" />
-      <item value="Vintage" />
-      <item value="rawtypes" />
-      <item value="ince major browsers like Chrome * &lt;a href=&quot;https://bugs.chromium.org/p/chromium/issues/detail?id=438464&quot;&gt; * now comply with the specification&lt;/a&gt; and interpret correctly UTF-8 special * characters without requiring a {@code charset=UTF-8} parameter." />
-      <item value="favor" />
-      <item value="申诉域名" />
-      <item value="appeal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
