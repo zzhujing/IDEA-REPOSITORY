@@ -17,6 +17,7 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
