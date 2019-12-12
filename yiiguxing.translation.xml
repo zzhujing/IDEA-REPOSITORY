@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A resolution strategy for protocol-specific resource handles." />
+      <item value="A resolution strategy for protocol-specific resource handles" />
+      <item value="resolution" />
+      <item value="This should * be appropriate for standalone implementations but can be overridden" />
+      <item value="appropriate for standalone" />
+      <item value="Used as an SPI for {@link DefaultResourceLoader}, allowing for * custom protocols to be handled without subclassing the loader * implementation (or application context implementation)" />
+      <item value="protocol-specific resource handles" />
       <item value="pseudo" />
       <item value="and serves as base class for * {@link org.springframework.context.support.AbstractApplicationContext}. * Can also be used standalone" />
       <item value="to be * resolved as {@link org.springframework.core.env.Environment} properties" />
@@ -44,18 +51,11 @@
       <item value="Hierarchical Bean Factory" />
       <item value="check" />
       <item value="contrast" />
-      <item value="encouraged" />
-      <item value="either" />
-      <item value="the factory will return either an independent instance of a contained object" />
-      <item value="are available for specific purposes" />
-      <item value="passed-in" />
-      <item value="plus extended" />
-      <item value="functionality" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
