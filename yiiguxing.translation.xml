@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine Root Dir" />
       <item value="{@link ResourceLoader} implementation that interprets plain resource paths * as relative to a given {@code java.lang.Class}." />
       <item value="ClassPathResource that explicitly expresses a context-relative path * through implementing the ContextResource interface" />
       <item value="Extended interface for a resource that is loaded from an enclosing * 'context', e.g. from a {@link javax.servlet.ServletContext} but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)." />
@@ -50,12 +51,11 @@
       <item value="Note that it is generally better to rely on Dependency Injection * (&quot;push&quot; configuration) to configure application objects through setters * or constructors" />
       <item value="rely on" />
       <item value="no more do individual objects need to read properties files, * for example" />
-      <item value="The point of this approach is that the BeanFactory is a central registry * of application components" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
