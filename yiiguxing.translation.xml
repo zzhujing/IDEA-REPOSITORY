@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For any preceding custom resolution, * override this method and replace the resource handle accordingly" />
+      <item value="traversed" />
+      <item value="Equinox OSGi" />
+      <item value="determine Root Dir" />
       <item value="searching backward starting at the specified index" />
       <item value="Returns the index within this string of the last occurrence of the * specified substring" />
       <item value="and serves as base class for * {@link org.springframework.context.support.AbstractApplicationContext}. * Can also be used standalone" />
@@ -13,7 +17,6 @@
       <item value="This is typically path relative to a context-specific root directory" />
       <item value="hence" />
       <item value="but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)" />
-      <item value="determine Root Dir" />
       <item value="{@link ResourceLoader} implementation that interprets plain resource paths * as relative to a given {@code java.lang.Class}." />
       <item value="Extended interface for a resource that is loaded from an enclosing * 'context', e.g. from a {@link javax.servlet.ServletContext} but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)." />
       <item value="relative" />
@@ -48,14 +51,11 @@
       <item value="only applicable when running in an application context" />
       <item value="Listable Bean Factory" />
       <item value="The full set of initialization methods" />
-      <item value="The full set of initialization methods and their standard order is" />
-      <item value="as far as possible" />
-      <item value="standard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
