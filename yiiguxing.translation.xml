@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is typically path relative to a context-specific root directory" />
       <item value="retrieve Matching Files" />
       <item value="pointers" />
       <item value="incomplete" />
@@ -17,7 +18,6 @@
       <item value="specified * without an explicit prefix, hence applying relative to the local" />
       <item value="enclosing" />
       <item value="relative Path" />
-      <item value="This is typically path relative to a context-specific root directory" />
       <item value="hence" />
       <item value="but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)" />
       <item value="{@link ResourceLoader} implementation that interprets plain resource paths * as relative to a given {@code java.lang.Class}." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
