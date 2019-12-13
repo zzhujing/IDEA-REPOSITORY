@@ -1,14 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and serves as base class for * {@link org.springframework.context.support.AbstractApplicationContext}. * Can also be used standalone" />
+      <item value="ClassPathResource that explicitly expresses a context-relative path * through implementing the ContextResource interface" />
+      <item value="get Path Within Context" />
+      <item value="Return the path within the enclosing 'context'" />
+      <item value="specified * without an explicit prefix, hence applying relative to the local" />
+      <item value="enclosing" />
       <item value="relative Path" />
       <item value="This is typically path relative to a context-specific root directory" />
       <item value="hence" />
       <item value="but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)" />
-      <item value="enclosing" />
       <item value="determine Root Dir" />
       <item value="{@link ResourceLoader} implementation that interprets plain resource paths * as relative to a given {@code java.lang.Class}." />
-      <item value="ClassPathResource that explicitly expresses a context-relative path * through implementing the ContextResource interface" />
       <item value="Extended interface for a resource that is loaded from an enclosing * 'context', e.g. from a {@link javax.servlet.ServletContext} but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)." />
       <item value="relative" />
       <item value="associated" />
@@ -20,7 +24,6 @@
       <item value="Used as an SPI for {@link DefaultResourceLoader}, allowing for * custom protocols to be handled without subclassing the loader * implementation (or application context implementation)" />
       <item value="protocol-specific resource handles" />
       <item value="pseudo" />
-      <item value="and serves as base class for * {@link org.springframework.context.support.AbstractApplicationContext}. * Can also be used standalone" />
       <item value="to be * resolved as {@link org.springframework.core.env.Environment} properties" />
       <item value="Editor" />
       <item value="Delegates to a {@link ResourceLoader} to do the heavy lifting, * by default using a {@link DefaultResourceLoader}" />
@@ -48,14 +51,11 @@
       <item value="standard" />
       <item value="all of the * operations in this interface will also check parent factories if this is a * {@link HierarchicalBeanFactory}" />
       <item value="Implementations are encouraged to support references * amongst beans" />
-      <item value="LDAP" />
-      <item value="There are no * constraints on how the definitions could be stored" />
-      <item value="However, an implementation could simply return * Java objects it creates as necessary directly in Java code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
