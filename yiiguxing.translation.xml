@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="searching backward starting at the specified index" />
+      <item value="Returns the index within this string of the last occurrence of the * specified substring" />
       <item value="and serves as base class for * {@link org.springframework.context.support.AbstractApplicationContext}. * Can also be used standalone" />
       <item value="ClassPathResource that explicitly expresses a context-relative path * through implementing the ContextResource interface" />
       <item value="get Path Within Context" />
@@ -49,13 +51,11 @@
       <item value="The full set of initialization methods and their standard order is" />
       <item value="as far as possible" />
       <item value="standard" />
-      <item value="all of the * operations in this interface will also check parent factories if this is a * {@link HierarchicalBeanFactory}" />
-      <item value="Implementations are encouraged to support references * amongst beans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
