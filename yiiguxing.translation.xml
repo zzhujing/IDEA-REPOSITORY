@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="This is typically path relative to a context-specific root directory" />
+      <item value="within" />
       <item value="retrieve Matching Files" />
       <item value="pointers" />
       <item value="incomplete" />
@@ -50,12 +51,11 @@
       <item value="Return a provider for the specified bean, allowing for lazy on-demand retrieval * of instances, including availability and uniqueness options" />
       <item value="For more extensive retrieval operations across sets of beans, * use {@link ListableBeanFactory} and/or {@link BeanFactoryUtils}" />
       <item value="Listable" />
-      <item value="Return the bean instance that uniquely matches the given object type, if any" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
