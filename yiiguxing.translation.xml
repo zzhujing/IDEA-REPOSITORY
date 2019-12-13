@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve Matching Files" />
+      <item value="pointers" />
+      <item value="incomplete" />
       <item value="For any preceding custom resolution, * override this method and replace the resource handle accordingly" />
       <item value="traversed" />
       <item value="Equinox OSGi" />
@@ -48,14 +51,11 @@
       <item value="For more extensive retrieval operations across sets of beans, * use {@link ListableBeanFactory} and/or {@link BeanFactoryUtils}" />
       <item value="Listable" />
       <item value="Return the bean instance that uniquely matches the given object type, if any" />
-      <item value="only applicable when running in an application context" />
-      <item value="Listable Bean Factory" />
-      <item value="The full set of initialization methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="3" />
