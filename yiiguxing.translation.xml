@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determine" />
+      <item value="get Entity Resolver" />
       <item value="indication" />
       <item value="Consume the next comment token, update the &quot;inComment&quot; flag * and return the remaining content" />
       <item value="Indicates whether or not the current parse position is inside an XML comment" />
@@ -49,13 +51,11 @@
       <item value="pseudo" />
       <item value="to be * resolved as {@link org.springframework.core.env.Environment} properties" />
       <item value="Editor" />
-      <item value="Delegates to a {@link ResourceLoader} to do the heavy lifting, * by default using a {@link DefaultResourceLoader}" />
-      <item value="heavy lifting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
