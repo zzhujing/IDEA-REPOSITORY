@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorate Bean Definition If Required" />
       <item value="Tokenize" />
       <item value="External dtd/xsd lookup via https even for canonical http declaration" />
       <item value="Determine" />
@@ -50,12 +51,11 @@
       <item value="appropriate for standalone" />
       <item value="Used as an SPI for {@link DefaultResourceLoader}, allowing for * custom protocols to be handled without subclassing the loader * implementation (or application context implementation)" />
       <item value="protocol-specific resource handles" />
-      <item value="pseudo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
