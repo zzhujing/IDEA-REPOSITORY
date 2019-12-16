@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VALID CODE" />
       <item value="Set of method overrides, determining which, if any, methods on a * managed object the Spring IoC container will override at runtime" />
       <item value="underneath" />
       <item value="Auto Detect" />
@@ -50,7 +51,6 @@
       <item value="Returns the index within this string of the last occurrence of the * specified substring" />
       <item value="and serves as base class for * {@link org.springframework.context.support.AbstractApplicationContext}. * Can also be used standalone" />
       <item value="ClassPathResource that explicitly expresses a context-relative path * through implementing the ContextResource interface" />
-      <item value="get Path Within Context" />
     </histories>
     <option name="languageScores">
       <map>
