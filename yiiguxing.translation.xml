@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relevance" />
+      <item value="Role hint indicating" />
+      <item value="beans are considered important enough to be aware * of when looking more closely at a particular" />
+      <item value="typically an outer" />
+      <item value="some larger configuration" />
       <item value="Bean Definition Parser Delegate" />
       <item value="decorate Bean Definition If Required" />
       <item value="Tokenize" />
@@ -46,16 +51,11 @@
       <item value="relative" />
       <item value="associated" />
       <item value="A resolution strategy for protocol-specific resource handles." />
-      <item value="A resolution strategy for protocol-specific resource handles" />
-      <item value="resolution" />
-      <item value="This should * be appropriate for standalone implementations but can be overridden" />
-      <item value="appropriate for standalone" />
-      <item value="Used as an SPI for {@link DefaultResourceLoader}, allowing for * custom protocols to be handled without subclassing the loader * implementation (or application context implementation)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
