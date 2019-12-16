@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auto Detect" />
+      <item value="Constructor" />
+      <item value="singleton" />
+      <item value="x的时候是singleton" />
       <item value="across" />
       <item value="within the * same level of beans element nesting" />
       <item value="so we can enforce uniqueness on a per * beans-element basis" />
@@ -47,15 +51,11 @@
       <item value="get Path Within Context" />
       <item value="Return the path within the enclosing 'context'" />
       <item value="specified * without an explicit prefix, hence applying relative to the local" />
-      <item value="enclosing" />
-      <item value="relative Path" />
-      <item value="hence" />
-      <item value="but also * from plain classpath paths or relative file system paths (specified * without an explicit prefix, hence applying relative to the local * {@link ResourceLoader}'s context)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
