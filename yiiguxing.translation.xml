@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Obtain a &quot;shortcut&quot; singleton FactoryBean instance to use for a * {@code getObjectType()} call, without full initialization of the FactoryBean" />
       <item value="递归" />
       <item value="Context that gets passed along a bean definition reading process, * encapsulating all relevant configuration as well as state" />
       <item value="Context that gets passed along a bean definition reading process, * encapsulating all relevant configuration as well as state." />
@@ -50,12 +51,11 @@
       <item value="We need to have pointers to each of the jar files on the classpath as well..." />
       <item value="The above result is likely to be incomplete, i.e. only containing file system references" />
       <item value="via" />
-      <item value="Hierarchy traversal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
