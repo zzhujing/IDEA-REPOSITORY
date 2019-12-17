@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Source Extractor" />
+      <item value="lookup" />
+      <item value="Display" />
       <item value="looking at the overall configuration of an application" />
       <item value="to be aware * of" />
       <item value="beans are considered important enough to be aware * of when looking more closely at a particular" />
@@ -48,14 +51,11 @@
       <item value="decorate Bean Definition If Required" />
       <item value="Tokenize" />
       <item value="External dtd/xsd lookup via https even for canonical http declaration" />
-      <item value="Determine" />
-      <item value="get Entity Resolver" />
-      <item value="indication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
