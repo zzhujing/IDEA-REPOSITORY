@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="looking at the overall configuration of an application" />
+      <item value="to be aware * of" />
+      <item value="beans are considered important enough to be aware * of when looking more closely at a particular" />
+      <item value="typically" />
+      <item value="a major part * of the application" />
+      <item value="indicating" />
+      <item value="This is just a minimal interface: The main is to allow a * {@link BeanFactoryPostProcessor} to introspect and modify property values * and other bean metadata." />
+      <item value="intention" />
+      <item value="concrete implementations" />
+      <item value="further" />
       <item value="Cache of unfinished FactoryBean instances: FactoryBean name to BeanWrapper" />
       <item value="Obtain a &quot;shortcut&quot; singleton FactoryBean instance to use for a * {@code getObjectType()} call, without full initialization of the FactoryBean" />
       <item value="递归" />
@@ -32,7 +42,6 @@
       <item value="enforce" />
       <item value="relevance" />
       <item value="Role hint indicating" />
-      <item value="beans are considered important enough to be aware * of when looking more closely at a particular" />
       <item value="typically an outer" />
       <item value="some larger configuration" />
       <item value="Bean Definition Parser Delegate" />
@@ -42,20 +51,11 @@
       <item value="Determine" />
       <item value="get Entity Resolver" />
       <item value="indication" />
-      <item value="Consume the next comment token, update the &quot;inComment&quot; flag * and return the remaining content" />
-      <item value="Indicates whether or not the current parse position is inside an XML comment" />
-      <item value="consume Comment Tokens" />
-      <item value="detect Validation Mode" />
-      <item value="is used otherwise XSD validation is assumed." />
-      <item value="specified" />
-      <item value="s currently being loaded&quot;" />
-      <item value="We need to have pointers to each of the jar files on the classpath as well..." />
-      <item value="The above result is likely to be incomplete, i.e. only containing file system references" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
