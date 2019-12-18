@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状态" />
+      <item value="类型" />
+      <item value="种类" />
       <item value="草稿想" />
       <item value="草稿" />
       <item value="dirty" />
@@ -48,9 +51,6 @@
       <item value="across" />
       <item value="within the * same level of beans element nesting" />
       <item value="so we can enforce uniqueness on a per * beans-element basis" />
-      <item value="so we can enforce uniqueness" />
-      <item value="enforce" />
-      <item value="relevance" />
     </histories>
     <option name="languageScores">
       <map>
