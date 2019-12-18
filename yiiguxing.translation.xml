@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ambiguous" />
       <item value="reader-specific manner." />
       <item value="tracking the logical position during * a parsing process." />
       <item value="VERIFYEDONLY" />
@@ -50,7 +51,6 @@
       <item value="Role hint indicating" />
       <item value="typically an outer" />
       <item value="some larger configuration" />
-      <item value="Bean Definition Parser Delegate" />
     </histories>
     <option name="languageScores">
       <map>
