@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain Settle Amount" />
+      <item value="settle" />
+      <item value="已结款" />
+      <item value="未结款" />
       <item value="比率" />
       <item value="第五" />
       <item value="第二" />
@@ -47,15 +51,11 @@
       <item value="to be aware * of" />
       <item value="beans are considered important enough to be aware * of when looking more closely at a particular" />
       <item value="typically" />
-      <item value="a major part * of the application" />
-      <item value="indicating" />
-      <item value="This is just a minimal interface: The main is to allow a * {@link BeanFactoryPostProcessor} to introspect and modify property values * and other bean metadata." />
-      <item value="intention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
