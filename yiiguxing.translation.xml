@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比率" />
       <item value="第五" />
       <item value="第二" />
       <item value="维护费总额" />
@@ -50,7 +51,6 @@
       <item value="indicating" />
       <item value="This is just a minimal interface: The main is to allow a * {@link BeanFactoryPostProcessor} to introspect and modify property values * and other bean metadata." />
       <item value="intention" />
-      <item value="concrete implementations" />
     </histories>
     <option name="languageScores">
       <map>
