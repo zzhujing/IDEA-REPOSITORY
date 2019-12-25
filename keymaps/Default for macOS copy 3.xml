@@ -2,6 +2,9 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -37,6 +40,9 @@
   <action id="EditSource" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="alt semicolon" />
