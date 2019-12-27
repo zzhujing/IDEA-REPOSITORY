@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="占位符" />
       <item value="PROCESSING" />
       <item value="ENTRANCE ERROR" />
       <item value="OVERRIDE" />
@@ -50,12 +51,11 @@
       <item value="trie" />
       <item value="匹配" />
       <item value="撇撇" />
-      <item value="decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="CHINESE" value="534" />
+        <entry key="ENGLISH" value="535" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
