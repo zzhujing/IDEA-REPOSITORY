@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结款" />
+      <item value="正常" />
+      <item value="oridinary" />
+      <item value="PURCHASE" />
+      <item value="购买" />
+      <item value="go" />
+      <item value="续费" />
+      <item value="BUY" />
+      <item value="RENEW" />
       <item value="检查余额" />
       <item value="check Remaining" />
       <item value="普通" />
@@ -42,20 +51,11 @@
       <item value="第二" />
       <item value="维护费总额" />
       <item value="维护性" />
-      <item value="维护行" />
-      <item value="维护" />
-      <item value="Ac Algorithm" />
-      <item value="if Present" />
-      <item value="Check Dealer Duration Schedule" />
-      <item value="服务期限" />
-      <item value="服务时间" />
-      <item value="expire Delay" />
-      <item value="过期延迟" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="546" />
+        <entry key="ENGLISH" value="547" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
