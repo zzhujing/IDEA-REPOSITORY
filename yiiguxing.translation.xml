@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="List of names of manually registered singletons, in registration order" />
+      <item value="List of names of manually registered singletons, in registration order." />
+      <item value="manually" />
+      <item value="remove Manual Singleton Name" />
+      <item value="manual Singleton Names" />
       <item value="delegate" />
       <item value="ny nested &lt;beans&gt; elements will cause recursion in this method. In // order to propagate and preserve &lt;beans&gt; default-* attributes correctly, // keep track of the current (parent) delegate, which may be null. Create // the new (child) delegate with a reference to the parent for fallback purposes, // then ultimately reset this.delegate back to its original (parent) reference. // this behavior emulates a stack of delegates without actually necessitating one" />
       <item value="nested" />
@@ -46,16 +51,11 @@
       <item value="Enumeration" />
       <item value="track" />
       <item value="get Royalty Amount" />
-      <item value="remain Settle Amount" />
-      <item value="settle" />
-      <item value="已结款" />
-      <item value="未结款" />
-      <item value="比率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
