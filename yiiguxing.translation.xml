@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="royalty Amount" />
       <item value="结款" />
       <item value="正常" />
       <item value="oridinary" />
@@ -50,12 +51,11 @@
       <item value="第五" />
       <item value="第二" />
       <item value="维护费总额" />
-      <item value="维护性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="CHINESE" value="547" />
+        <entry key="ENGLISH" value="548" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
