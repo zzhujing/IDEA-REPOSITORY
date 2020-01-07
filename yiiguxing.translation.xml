@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原来" />
+      <item value="原来的" />
       <item value="无效" />
       <item value="有效" />
       <item value="actually Id" />
@@ -49,8 +51,6 @@
       <item value="List of names of manually registered singletons, in registration order." />
       <item value="manually" />
       <item value="remove Manual Singleton Name" />
-      <item value="manual Singleton Names" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
