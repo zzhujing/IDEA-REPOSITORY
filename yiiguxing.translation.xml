@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actually Id" />
+      <item value="真实的" />
+      <item value="真是的" />
       <item value="leagues" />
       <item value="reason" />
       <item value="AUDIT REJECT" />
@@ -48,14 +51,11 @@
       <item value="delegate" />
       <item value="ny nested &lt;beans&gt; elements will cause recursion in this method. In // order to propagate and preserve &lt;beans&gt; default-* attributes correctly, // keep track of the current (parent) delegate, which may be null. Create // the new (child) delegate with a reference to the parent for fallback purposes, // then ultimately reset this.delegate back to its original (parent) reference. // this behavior emulates a stack of delegates without actually necessitating one" />
       <item value="nested" />
-      <item value="within the given root {@code &lt;beans/&gt;} element." />
-      <item value="royalty Amount" />
-      <item value="结款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="591" />
+        <entry key="ENGLISH" value="592" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
