@@ -163,6 +163,12 @@
   </action>
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
   <action id="Sql.EditParameter" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt z" />
