@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="captcha" />
       <item value="Shear" />
       <item value="create Shear Captcha" />
       <item value="generate" />
@@ -50,16 +51,16 @@
       <item value="举证" />
       <item value="物体" />
       <item value="special" />
-      <item value="正面身份证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
+        <entry key="CHINESE" value="599" />
         <entry key="ENGLISH" value="599" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HUNGARIAN" value="3" />
