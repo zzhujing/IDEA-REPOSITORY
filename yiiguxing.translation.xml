@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
       <item value="settle" />
       <item value="Column maintenance_amount must be either aggregated, or mentioned in GROUP BY clause " />
       <item value="maintenance Amount" />
@@ -50,11 +51,10 @@
       <item value="yanghui Triangle With State Equation" />
       <item value="状态方程" />
       <item value="方程" />
-      <item value="dist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
+        <entry key="CHINESE" value="602" />
         <entry key="ENGLISH" value="602" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
