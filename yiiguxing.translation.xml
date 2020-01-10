@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="保留" />
       <item value="解释" />
       <item value="AUDITING" />
       <item value="AUDIT ONLINE" />
@@ -38,7 +39,6 @@
       <item value="Ω审核" />
       <item value="VERIFYING" />
       <item value="PROCESSING" />
-      <item value="保留" />
       <item value="Retention" />
       <item value="Disposes of this graphics context and releases" />
       <item value="Disposes" />
