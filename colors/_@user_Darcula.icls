@@ -1,11 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-08-11T22:01:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2019-06-10T09:56:13</property>
+    <property name="modified">2020-01-17T09:45:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
   <attributes>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
