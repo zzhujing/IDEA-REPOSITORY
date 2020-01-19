@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Autowired Capable Bean Factory" />
+      <item value="实例化" />
       <item value="Bean Definition Registration Demo" />
       <item value="佣金" />
       <item value="SUBSRACT LINE" />
@@ -49,13 +51,11 @@
       <item value="maintenance Amount" />
       <item value="Purchase Record Query Vo" />
       <item value="captcha" />
-      <item value="Shear" />
-      <item value="create Shear Captcha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="634" />
+        <entry key="ENGLISH" value="635" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
