@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUBSRACT LINE" />
+      <item value="连接" />
+      <item value="连接符" />
       <item value="PROCESSING" />
       <item value="Domain Audit Vo" />
       <item value="null" />
@@ -48,14 +51,11 @@
       <item value="create Shear Captcha" />
       <item value="generate" />
       <item value="available" />
-      <item value="复合查找" />
-      <item value="复合" />
-      <item value="依赖" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
