@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consisting" />
       <item value="facility" />
       <item value="Autowired Capable Bean Factory" />
       <item value="实例化" />
@@ -50,12 +51,11 @@
       <item value="settle" />
       <item value="Column maintenance_amount must be either aggregated, or mentioned in GROUP BY clause " />
       <item value="maintenance Amount" />
-      <item value="Purchase Record Query Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
