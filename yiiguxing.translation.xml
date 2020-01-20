@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Capable" />
       <item value="determine" />
       <item value="consisting" />
       <item value="facility" />
@@ -16,7 +17,6 @@
       <item value="null" />
       <item value="judge Dns State" />
       <item value="判断" />
-      <item value="Capable" />
       <item value="Autowire Capable Bean Factory" />
       <item value="no exact representable decimal result" />
       <item value="5 ys SJHMY Nh F fts Vgewuy 3 zn Fcg Bpz E Ykprltjx Wo Rg Ad S Ii 99 cf Csr Aegtg Sg Wgu Nw D Rb MCSDR Fib BL Mw Mq 8 Q" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="CHINESE" value="638" />
+        <entry key="ENGLISH" value="639" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
