@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consequence" />
+      <item value="meant to be defined as SPI instances" />
+      <item value="but implementations * of the latter are normally meant to be defined as SPI instances in a" />
+      <item value="This interface is typically used to encapsulate a generic factory which * returns a new instance (prototype) of some target object on each invocation" />
       <item value="raw" />
       <item value="manually" />
       <item value="compute If Absent" />
@@ -47,15 +51,11 @@
       <item value="judge Dns State" />
       <item value="判断" />
       <item value="Autowire Capable Bean Factory" />
-      <item value="no exact representable decimal result" />
-      <item value="5 ys SJHMY Nh F fts Vgewuy 3 zn Fcg Bpz E Ykprltjx Wo Rg Ad S Ii 99 cf Csr Aegtg Sg Wgu Nw D Rb MCSDR Fib BL Mw Mq 8 Q" />
-      <item value="scale" />
-      <item value="œ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
