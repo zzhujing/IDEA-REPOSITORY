@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is also allowed to modify the bean definition but * &lt;i&gt;only&lt;/i&gt; for definition properties which are actually intended for concurrent * modification" />
+      <item value="introspect" />
+      <item value="a processed copy of the original bean * definition" />
       <item value="is Synthetic" />
       <item value="in Creation Check Exclusions" />
       <item value="indicates" />
@@ -48,14 +51,11 @@
       <item value="Capable" />
       <item value="determine" />
       <item value="consisting" />
-      <item value="facility" />
-      <item value="Autowired Capable Bean Factory" />
-      <item value="实例化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="685" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
