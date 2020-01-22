@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Return whether this bean definition is 'synthetic', that is, * not defined by the application itself" />
+      <item value="typically for the purpose of resolving a circular reference." />
+      <item value="infrastructure" />
+      <item value="hat is, not defined * by the application itself (for example, an infrastructure bean such * as a helper for auto-proxying, created through {@code &lt;aop:config&gt;})." />
       <item value="synthetic" />
+      <item value="In other words: Those post-process * callbacks may either eventually expose the same reference or alternatively * return the raw bean instance from those subsequent callbacks (if the wrapper * for the affected bean has been built for a call to this method already, * it will be exposes as final bean reference by default)" />
+      <item value="is Synthetic" />
+      <item value="typically for the purpose of resolving a circular reference" />
+      <item value="Return whether this bean definition is 'synthetic', that is, * not defined by the application itself" />
       <item value="because of circular reference processing triggered by custom getBean calls" />
       <item value="Only post-process and store if not put there already during getObject() call above" />
-      <item value="is Synthetic" />
       <item value="encouraged" />
       <item value="when it can't be deduced from * the factory bean class" />
       <item value="can signal their object" />
@@ -46,16 +51,11 @@
       <item value="programmatic" />
       <item value="and the * underlying XML resource, through the corresponding accessors" />
       <item value="standard" />
-      <item value="populate" />
-      <item value="in preference to" />
-      <item value="preference" />
-      <item value="successive" />
-      <item value="Enumeration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="692" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
