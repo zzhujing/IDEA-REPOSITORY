@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dereference" />
       <item value="consequence" />
       <item value="Aware" />
       <item value="Smart Instantiation Aware Bean Post Processor" />
@@ -31,7 +32,6 @@
       <item value="is Prototype Currently In Creation" />
       <item value="assumably" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
-      <item value="dereference" />
       <item value="meant to be defined as SPI instances" />
       <item value="but implementations * of the latter are normally meant to be defined as SPI instances in a" />
       <item value="This interface is typically used to encapsulate a generic factory which * returns a new instance (prototype) of some target object on each invocation" />
