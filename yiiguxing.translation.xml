@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicates" />
       <item value="canonical Name" />
       <item value="in Creation Check Exclusions" />
       <item value="in creation checks" />
@@ -27,7 +28,6 @@
       <item value="It is also allowed to modify the bean definition but * &lt;i&gt;only&lt;/i&gt; for definition properties which are actually intended for concurrent * modification" />
       <item value="introspect" />
       <item value="a processed copy of the original bean * definition" />
-      <item value="indicates" />
       <item value="destroy Singletons" />
       <item value="Do not request a bean from a BeanFactory in a destroy method implementation!" />
       <item value="Flag that indicates whether we're currently within destroySingletons." />
