@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="creation failed" />
       <item value="dereference" />
       <item value="consequence" />
       <item value="Aware" />
@@ -50,7 +51,6 @@
       <item value="indicates no externally defined autowiring" />
       <item value="externally" />
       <item value="no externally defined autowiring" />
-      <item value="programmatic" />
     </histories>
     <option name="languageScores">
       <map>
