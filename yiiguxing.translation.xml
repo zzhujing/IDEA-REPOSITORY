@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical Name" />
       <item value="in Creation Check Exclusions" />
       <item value="in creation checks" />
       <item value="creation failed" />
@@ -40,7 +41,6 @@
       <item value="raw" />
       <item value="manually" />
       <item value="compute If Absent" />
-      <item value="canonical Name" />
       <item value="transformed Bean Name" />
       <item value="whether the instance is obtained for a type check" />
       <item value="not for actual use" />
