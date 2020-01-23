@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in Creation Check Exclusions" />
+      <item value="in creation checks" />
       <item value="creation failed" />
       <item value="dereference" />
       <item value="consequence" />
@@ -24,7 +26,6 @@
       <item value="It is also allowed to modify the bean definition but * &lt;i&gt;only&lt;/i&gt; for definition properties which are actually intended for concurrent * modification" />
       <item value="introspect" />
       <item value="a processed copy of the original bean * definition" />
-      <item value="in Creation Check Exclusions" />
       <item value="indicates" />
       <item value="destroy Singletons" />
       <item value="Do not request a bean from a BeanFactory in a destroy method implementation!" />
@@ -50,12 +51,11 @@
       <item value="AUTOWIRE CANDIDATE ATTRIBUTE" />
       <item value="indicates no externally defined autowiring" />
       <item value="externally" />
-      <item value="no externally defined autowiring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="702" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
