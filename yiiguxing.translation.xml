@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ω递归```" />
+      <item value="Ω递归" />
       <item value="alternative" />
       <item value="ancestor" />
       <item value="Capable" />
@@ -49,13 +51,11 @@
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="meant to be defined as SPI instances" />
       <item value="but implementations * of the latter are normally meant to be defined as SPI instances in a" />
-      <item value="This interface is typically used to encapsulate a generic factory which * returns a new instance (prototype) of some target object on each invocation" />
-      <item value="raw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
