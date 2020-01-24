@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Capable" />
+      <item value="Abstract Autowire Capable Bean Factory" />
       <item value="predict" />
       <item value="This callback will be applied to bean definitions with their bean class, * as well as to factory-method definitions in which case the returned bean type * will be passed in here" />
       <item value="further" />
@@ -49,13 +51,11 @@
       <item value="raw" />
       <item value="manually" />
       <item value="compute If Absent" />
-      <item value="transformed Bean Name" />
-      <item value="whether the instance is obtained for a type check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="710" />
-        <entry key="ENGLISH" value="711" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
