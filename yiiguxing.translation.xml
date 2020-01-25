@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Purpose" />
       <item value="in case of creation errors" />
       <item value="multiple candidates found with none marked as primary" />
       <item value="Qualifier" />
@@ -50,12 +51,11 @@
       <item value="Smart Instantiation Aware Bean Post Processor" />
       <item value="typically for the purpose of resolving a circular reference." />
       <item value="infrastructure" />
-      <item value="hat is, not defined * by the application itself (for example, an infrastructure bean such * as a helper for auto-proxying, created through {@code &lt;aop:config&gt;})." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="736" />
+        <entry key="ENGLISH" value="737" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
