@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="英雄联盟" />
+      <item value="联盟" />
       <item value="which allows to register existing singleton instances programmatically" />
       <item value="programmatically" />
       <item value="Capable" />
@@ -49,13 +51,11 @@
       <item value="synthetic" />
       <item value="In other words: Those post-process * callbacks may either eventually expose the same reference or alternatively * return the raw bean instance from those subsequent callbacks (if the wrapper * for the affected bean has been built for a call to this method already, * it will be exposes as final bean reference by default)" />
       <item value="is Synthetic" />
-      <item value="typically for the purpose of resolving a circular reference" />
-      <item value="Return whether this bean definition is 'synthetic', that is, * not defined by the application itself" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
