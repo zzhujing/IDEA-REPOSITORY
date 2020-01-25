@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="beans Of Type Including Ancestors" />
+      <item value="Ancestors" />
       <item value="bean" />
       <item value="hierarchical" />
       <item value="Ω递归```" />
@@ -49,8 +51,6 @@
       <item value="Flag that indicates whether we're currently within destroySingletons." />
       <item value="Prototype beans currently in creation" />
       <item value="is Prototype Currently In Creation" />
-      <item value="assumably" />
-      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
     </histories>
     <option name="languageScores">
       <map>
