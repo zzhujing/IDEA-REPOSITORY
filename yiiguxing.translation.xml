@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hierarchical" />
       <item value="Ω递归```" />
       <item value="Ω递归" />
       <item value="alternative" />
@@ -50,7 +51,6 @@
       <item value="assumably" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="meant to be defined as SPI instances" />
-      <item value="but implementations * of the latter are normally meant to be defined as SPI instances in a" />
     </histories>
     <option name="languageScores">
       <map>
