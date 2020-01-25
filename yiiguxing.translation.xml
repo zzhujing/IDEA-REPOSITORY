@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="which allows to register existing singleton instances programmatically" />
+      <item value="programmatically" />
+      <item value="Capable" />
       <item value="Note that this interface is not implemented by * {@link org.springframework.context.ApplicationContext} facades, * as it is hardly ever used by application code. That said, it is available * from an application context too, accessible through ApplicationContext's * {@link org.springframework.context.ApplicationContext#getAutowireCapableBeanFactory()} * method." />
       <item value="Note that this interface is not implemented by * {@link org.springframework.context.ApplicationContext} facades, * as it is hardly ever used by application code. That said, it is available * from an application context too, accessible through ApplicationContext's * {@link org.springframework.context.ApplicationContext#getAutowireCapableBeanFactory()} * method" />
       <item value="facades" />
@@ -22,7 +25,6 @@
       <item value="Ω递归" />
       <item value="alternative" />
       <item value="ancestor" />
-      <item value="Capable" />
       <item value="Abstract Autowire Capable Bean Factory" />
       <item value="predict" />
       <item value="This callback will be applied to bean definitions with their bean class, * as well as to factory-method definitions in which case the returned bean type * will be passed in here" />
@@ -49,13 +51,11 @@
       <item value="is Synthetic" />
       <item value="typically for the purpose of resolving a circular reference" />
       <item value="Return whether this bean definition is 'synthetic', that is, * not defined by the application itself" />
-      <item value="because of circular reference processing triggered by custom getBean calls" />
-      <item value="Only post-process and store if not put there already during getObject() call above" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="728" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="CHINESE" value="731" />
+        <entry key="ENGLISH" value="732" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
