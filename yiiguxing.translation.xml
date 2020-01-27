@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="autowire Constructor" />
       <item value="Determine whether the given bean instance requires destruction by this * post-processor. * &lt;p&gt;The default implementation returns {@code true}. If a pre-5 implementation * of {@code DestructionAwareBeanPostProcessor} does not provide a concrete * implementation of this method, Spring silently assumes {@code true} as well" />
       <item value="autodetect" />
       <item value="Typically, post-processors that populate beans via marker interfaces * or the like will implement {@link #postProcessBeforeInitialization}, * while post-processors that wrap beans with proxies will normally * implement {@link #postProcessAfterInitialization}." />
@@ -50,12 +51,11 @@
       <item value="Ω递归```" />
       <item value="Ω递归" />
       <item value="alternative" />
-      <item value="ancestor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="757" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
