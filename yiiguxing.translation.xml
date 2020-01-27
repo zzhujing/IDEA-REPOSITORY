@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do not look any further, there are only less greedy constructors left" />
+      <item value="Already found greedy constructor that can be satisfied" />
       <item value="ambiguity" />
       <item value="Choose this factory method if it represents the closest match." />
       <item value="ambiguous Factory Methods" />
@@ -49,13 +51,11 @@
       <item value="Integration" />
       <item value="This subinterface of BeanFactory is not meant to be used in normal * application code: stick to {@link org.springframework.beans.factory.BeanFactory} * or {@link org.springframework.beans.factory.ListableBeanFactory} for * typical use cases" />
       <item value="stick" />
-      <item value="functionality" />
-      <item value="capable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="766" />
+        <entry key="ENGLISH" value="767" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
