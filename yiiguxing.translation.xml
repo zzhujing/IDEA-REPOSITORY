@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implicitly Appeared Singleton Exception" />
+      <item value="obtain" />
       <item value="autowire Constructor" />
       <item value="Determine whether the given bean instance requires destruction by this * post-processor. * &lt;p&gt;The default implementation returns {@code true}. If a pre-5 implementation * of {@code DestructionAwareBeanPostProcessor} does not provide a concrete * implementation of this method, Spring silently assumes {@code true} as well" />
       <item value="autodetect" />
@@ -49,13 +51,11 @@
       <item value="bean" />
       <item value="hierarchical" />
       <item value="Ω递归```" />
-      <item value="Ω递归" />
-      <item value="alternative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="757" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
