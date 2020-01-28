@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not eligible for auto-proxying" />
+      <item value="eligible" />
+      <item value="Register BeanPostProcessorChecker that logs an info message when // a bean is created during BeanPostProcessor instantiation, i.e. when // a bean is not eligible for getting processed by all BeanPostProcessors" />
+      <item value="Delegate" />
       <item value="Aware" />
       <item value="Nested Dependency Descriptor" />
       <item value="resolve Shortcut" />
@@ -47,15 +51,11 @@
       <item value="Purpose" />
       <item value="in case of creation errors" />
       <item value="multiple candidates found with none marked as primary" />
-      <item value="Qualifier" />
-      <item value="英雄联盟" />
-      <item value="联盟" />
-      <item value="which allows to register existing singleton instances programmatically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="780" />
+        <entry key="ENGLISH" value="781" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
