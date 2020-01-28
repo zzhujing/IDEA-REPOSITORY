@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opportunity" />
       <item value="set callbacks directly on the instance instead of in the // enhanced class (via the Enhancer) in order to avoid memory leaks" />
       <item value="avoid" />
       <item value="memory leaks" />
@@ -50,12 +51,11 @@
       <item value="facades" />
       <item value="This is particularly useful for WebWork Actions and * Tapestry Page objects, for example" />
       <item value="Integration code for other frameworks can leverage this interface to * wire and populate existing bean instances that Spring does not control * the lifecycle of" />
-      <item value="leverage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="772" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
