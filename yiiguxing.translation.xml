@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nested Dependency Descriptor" />
       <item value="resolve Shortcut" />
       <item value="transient" />
       <item value="Find out about ambiguity: In case of the same type difference weight" />
@@ -50,12 +51,11 @@
       <item value="联盟" />
       <item value="which allows to register existing singleton instances programmatically" />
       <item value="programmatically" />
-      <item value="Capable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="775" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="777" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
