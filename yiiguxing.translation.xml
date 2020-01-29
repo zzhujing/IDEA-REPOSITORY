@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eager-initializing" />
+      <item value="any ordering semantics expressed through implementing the * {@code PriorityOrdered} or {@code Ordered} interface will be ignored for * programmatically registered post-processors. Furthermore, the * {@link org.springframework.core.annotation.Order @Order} annotation is not * taken into account for {@code BeanFactoryPostProcessor} beans" />
+      <item value="violating" />
+      <item value="premature" />
+      <item value="Useful for custom config files targeted at system administrators that * override bean properties configured in the application context. See * {@link PropertyResourceConfigurer} and its concrete implementations for * out-of-the-box solutions that address such configuration needs" />
+      <item value="underlying" />
+      <item value="adapting" />
       <item value="detecting" />
       <item value="Application Listener Detector" />
       <item value="not eligible for auto-proxying" />
@@ -44,18 +51,11 @@
       <item value="short-circuited" />
       <item value="satisfied" />
       <item value="eager" />
-      <item value="unsatisfied Non Simple Properties" />
-      <item value="specified" />
-      <item value="Guarantee" />
-      <item value="Delegation" />
-      <item value="original Bean Name" />
-      <item value="canonical Name" />
-      <item value="variant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="785" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="793" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
