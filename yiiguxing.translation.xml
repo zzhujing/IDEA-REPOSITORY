@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regular Post Processors" />
       <item value="for picking up proxies etc" />
       <item value="This will typically be used by application contexts to register * dependencies that are resolved in other ways" />
       <item value="typically" />
@@ -50,12 +51,11 @@
       <item value="Post-process the given property values before the factory applies them * to the given bean, without any need for property descriptors. * &lt;p&gt;Implementations should return {@code null} (the default) if they provide a custom * {@link #postProcessPropertyValues} implementation, and {@code pvs} otherwise. * In a future version of this interface (with {@link #postProcessPropertyValues} removed), * the default implementation will return the given {@code pvs} as-is directly." />
       <item value="Perform operations after the bean has been instantiated, via a constructor or factory method, * but before Spring property population (from explicit properties or autowiring) occurs. * &lt;p&gt;This is the ideal callback for performing custom field injection on the given bean * instance, right before Spring's autowiring kicks in" />
       <item value="This callback will be applied to bean definitions with their bean class, * as well as to factory-method definitions in which case the returned bean type * will be passed in here" />
-      <item value="short-circuited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="795" />
-        <entry key="ENGLISH" value="796" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="797" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
