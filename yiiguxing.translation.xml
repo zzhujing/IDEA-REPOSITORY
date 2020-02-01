@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Actually Class Name" />
+      <item value="实际的" />
+      <item value="真正的" />
+      <item value="Ω真正的" />
+      <item value="is Assignable From" />
       <item value="具体的" />
       <item value="Concrete" />
       <item value="具体" />
@@ -46,16 +51,11 @@
       <item value="adapting" />
       <item value="detecting" />
       <item value="Application Listener Detector" />
-      <item value="not eligible for auto-proxying" />
-      <item value="eligible" />
-      <item value="Register BeanPostProcessorChecker that logs an info message when // a bean is created during BeanPostProcessor instantiation, i.e. when // a bean is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="a bean is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="Delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="823" />
-        <entry key="ENGLISH" value="824" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="827" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
