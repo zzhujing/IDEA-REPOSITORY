@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An annotation A is indirectly present on an element E if E has a RuntimeVisibleAnnotations or RuntimeVisibleParameterAnnotations or RuntimeVisibleTypeAnnotations attribute, and A 's type is repeatable, and the attribute contains exactly one annotation whose value element contains A and whose type is the containing annotation type of A 's type" />
+      <item value="The terms directly present, indirectly present, present, and associated are used throughout this interface to describe precisely which annotations are returned by methods" />
+      <item value="look through" />
       <item value="associated" />
       <item value="directly present" />
       <item value="terms" />
@@ -48,13 +51,10 @@
       <item value="regular Post Processors" />
       <item value="for picking up proxies etc" />
       <item value="This will typically be used by application contexts to register * dependencies that are resolved in other ways" />
-      <item value="typically" />
-      <item value="eager-initializing" />
-      <item value="any ordering semantics expressed through implementing the * {@code PriorityOrdered} or {@code Ordered} interface will be ignored for * programmatically registered post-processors. Furthermore, the * {@link org.springframework.core.annotation.Order @Order} annotation is not * taken into account for {@code BeanFactoryPostProcessor} beans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="836" />
+        <entry key="CHINESE" value="837" />
         <entry key="ENGLISH" value="837" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
