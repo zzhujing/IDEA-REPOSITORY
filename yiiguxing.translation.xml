@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="An annotation A is indirectly present on an element E if E has a RuntimeVisibleAnnotations or RuntimeVisibleParameterAnnotations or RuntimeVisibleTypeAnnotations attribute, and A 's type is repeatable, and the attribute contains exactly one annotation whose value element contains A and whose type is the containing annotation type of A 's type" />
       <item value="if either" />
+      <item value="An annotation A is indirectly present on an element E if E has a RuntimeVisibleAnnotations or RuntimeVisibleParameterAnnotations or RuntimeVisibleTypeAnnotations attribute, and A 's type is repeatable, and the attribute contains exactly one annotation whose value element contains A and whose type is the containing annotation type of A 's type" />
       <item value="The terms directly present, indirectly present, present, and associated are used throughout this interface to describe precisely which annotations are returned by methods" />
       <item value="look through" />
       <item value="associated" />
