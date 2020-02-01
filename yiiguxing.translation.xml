@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ω衣服" />
+      <item value="Daughter" />
       <item value="volatile" />
       <item value="which is more flexible through taking advantage of the {@link org.springframework.core.env.Environment} * and {@link org.springframework.core.env.PropertySource} mechanisms" />
       <item value="literal" />
@@ -49,13 +51,11 @@
       <item value="is Factory Method Unique" />
       <item value="raw Arguments" />
       <item value="opportunity" />
-      <item value="set callbacks directly on the instance instead of in the // enhanced class (via the Enhancer) in order to avoid memory leaks" />
-      <item value="avoid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE" value="818" />
+        <entry key="ENGLISH" value="819" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
@@ -75,5 +75,6 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
