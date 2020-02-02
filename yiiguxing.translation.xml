@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Java Bean Introspector Demo" />
       <item value="Vetoable" />
       <item value="Votable" />
       <item value="multicast" />
@@ -50,7 +51,6 @@
       <item value="Base class for JavaBean-style components that need to load properties * from one or more resources" />
       <item value="overriding" />
       <item value="Dictionary" />
-      <item value="use {@code org.springframework.context.support.PropertySourcesPlaceholderConfigurer} * instead which is more flexible through taking advantage of the {@link org.springframework.core.env.Environment} * and {@link org.springframework.core.env.PropertySource} mechanisms" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="4" />
+        <entry key="SPANISH" value="5" />
         <entry key="HUNGARIAN" value="4" />
       </map>
     </option>
