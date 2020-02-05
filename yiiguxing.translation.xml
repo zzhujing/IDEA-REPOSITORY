@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property Editor Registry" />
+      <item value="Property Editor Registrar" />
+      <item value="Encapsulates" />
       <item value="add Scalar Converters" />
       <item value="add Collection Converters" />
       <item value="generic" />
@@ -8,7 +11,6 @@
       <item value="Generic Converter" />
       <item value="Convertible Pair" />
       <item value="is Primitive" />
-      <item value="Encapsulates" />
       <item value="Standard Java File Manager" />
       <item value="Java Bean Introspector Demo" />
       <item value="Vetoable" />
@@ -49,13 +51,11 @@
       <item value="contrast" />
       <item value="overrides" />
       <item value="Check that we're not parsing our own bean definition" />
-      <item value="Bean Definition Visitor" />
-      <item value="Return the originating BeanDefinition, or {@code null} if none. * Allows for retrieving the decorated bean definition, if any. * &lt;p&gt;Note that this method returns the immediate originator. Iterate through the * originator chain to find the original BeanDefinition as defined by the user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
