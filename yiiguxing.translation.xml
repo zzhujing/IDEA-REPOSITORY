@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove Manual Singleton Name" />
       <item value="PASSTHROUGH" />
       <item value="particular" />
       <item value="via the Enhancer" />
@@ -50,12 +51,11 @@
       <item value="literal" />
       <item value="Property resource configurer that overrides bean property values in an application context definition. It pushes values from a properties file into bean definitions. Configuration lines are expected to be of the following form" />
       <item value="Note that the context definition &lt;i&gt;is not&lt;/i&gt; aware of being overridden; * so this is not immediately obvious when looking at the XML definition file" />
-      <item value="In contrast to PropertyPlaceholderConfigurer, the original definition can have default * values or no values at all for such bean properties. If an overriding properties file does * not have an entry for a certain bean property, the default context definition is used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
-        <entry key="ENGLISH" value="855" />
+        <entry key="CHINESE" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
