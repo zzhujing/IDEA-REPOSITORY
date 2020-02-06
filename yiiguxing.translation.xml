@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replacing them with corresponding * property values as resolved by {@link #getProperty}. Unresolvable placeholders with * no default value are ignored and passed through unchanged" />
+      <item value="Interface for resolving properties against any underlying source" />
+      <item value="manually" />
       <item value="remove Manual Singleton Name" />
       <item value="PASSTHROUGH" />
       <item value="particular" />
@@ -48,14 +51,11 @@
       <item value="Daughter" />
       <item value="volatile" />
       <item value="which is more flexible through taking advantage of the {@link org.springframework.core.env.Environment} * and {@link org.springframework.core.env.PropertySource} mechanisms" />
-      <item value="literal" />
-      <item value="Property resource configurer that overrides bean property values in an application context definition. It pushes values from a properties file into bean definitions. Configuration lines are expected to be of the following form" />
-      <item value="Note that the context definition &lt;i&gt;is not&lt;/i&gt; aware of being overridden; * so this is not immediately obvious when looking at the XML definition file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="858" />
+        <entry key="ENGLISH" value="859" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
