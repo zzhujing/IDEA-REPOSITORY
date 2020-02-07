@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set whether to extract the old property value when applying a * property editor to a new value for a property" />
+      <item value="to be considered as thread-safe either" />
+      <item value="Typically" />
+      <item value="Encapsulates" />
       <item value="Capable" />
       <item value="representing" />
       <item value="resolve Nested Placeholders" />
@@ -14,7 +18,6 @@
       <item value="via the Enhancer" />
       <item value="Property Editor Registry" />
       <item value="Property Editor Registrar" />
-      <item value="Encapsulates" />
       <item value="add Scalar Converters" />
       <item value="add Collection Converters" />
       <item value="generic" />
@@ -48,14 +51,11 @@
       <item value="具体" />
       <item value="concrete" />
       <item value="Ω具体的" />
-      <item value="raw" />
-      <item value="eaw" />
-      <item value="ΩRaw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="866" />
+        <entry key="ENGLISH" value="867" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
