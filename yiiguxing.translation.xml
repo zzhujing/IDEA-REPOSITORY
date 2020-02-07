@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stub Property Source" />
       <item value="Set whether to extract the old property value when applying a * property editor to a new value for a property" />
       <item value="to be considered as thread-safe either" />
       <item value="Typically" />
@@ -50,12 +51,11 @@
       <item value="Concrete" />
       <item value="具体" />
       <item value="concrete" />
-      <item value="Ω具体的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="866" />
-        <entry key="ENGLISH" value="867" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
