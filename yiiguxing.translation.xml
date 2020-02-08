@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Capatch" />
+      <item value="验证码" />
       <item value="Set key to hold the string value and expiration timeout if key is present." />
       <item value="set If Present" />
       <item value="温度" />
@@ -49,13 +51,11 @@
       <item value="representing" />
       <item value="resolve Nested Placeholders" />
       <item value="Interface for resolving properties against any underlying source" />
-      <item value="Abstract base class representing a source of name/value property pairs. The underlying source object may be of any type T that encapsulates properties. Examples include java.util.Properties objects, java.util.Map objects, ServletContext and ServletConfig objects (for access to init parameters). Explore the PropertySource type hierarchy to see provided implementations. PropertySource objects are not typically used in isolation, but rather through a PropertySources object, which aggregates property sources and in conjunction with a PropertyResolver implementation that can perform precedence-based searches across the set of PropertySources. PropertySource identity is determined not based on the content of encapsulated properties, but rather based on the name of the PropertySource alone. This is useful for manipulating PropertySource objects when in collection contexts. See operations in MutablePropertySources as well as the named(String) and toString() methods for details. Note that when working with @Configuration classes that the @PropertySource annotation provides a convenient and declarative way of adding property sources to the enclosing Environment." />
-      <item value="replacing them with corresponding * property values as resolved by {@link #getProperty}. Unresolvable placeholders with * no default value are ignored and passed through unchanged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="887" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="888" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
