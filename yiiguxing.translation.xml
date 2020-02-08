@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contrast" />
       <item value="epidemic-project" />
       <item value="疫情" />
       <item value="Ω" />
@@ -50,12 +51,11 @@
       <item value="is Primitive" />
       <item value="Standard Java File Manager" />
       <item value="Java Bean Introspector Demo" />
-      <item value="Vetoable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="882" />
+        <entry key="ENGLISH" value="883" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
