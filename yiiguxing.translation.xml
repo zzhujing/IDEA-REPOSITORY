@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="community" />
+      <item value="社区" />
+      <item value="street" />
+      <item value="导入" />
+      <item value="Ω导入" />
       <item value="Trade Query Vo" />
       <item value="Capatch" />
       <item value="验证码" />
@@ -46,16 +51,11 @@
       <item value="Stub Property Source" />
       <item value="Set whether to extract the old property value when applying a * property editor to a new value for a property" />
       <item value="to be considered as thread-safe either" />
-      <item value="Typically" />
-      <item value="Encapsulates" />
-      <item value="Capable" />
-      <item value="representing" />
-      <item value="resolve Nested Placeholders" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="888" />
-        <entry key="ENGLISH" value="889" />
+        <entry key="CHINESE" value="892" />
+        <entry key="ENGLISH" value="893" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
