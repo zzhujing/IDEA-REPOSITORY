@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user Position Rel Mapper" />
       <item value="hierarchical" />
       <item value="room" />
       <item value="楼层" />
@@ -50,13 +51,12 @@
       <item value="如果是Smart Factory Bean则回调is Eager Init" />
       <item value="Theme Source" />
       <item value="until no further ones appear" />
-      <item value="Defines the contract for adding one or more ClassFileTransformers to a ClassLoader. Implementations may operate on the current context ClassLoader or expose their own instrumentable ClassLoader" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="897" />
         <entry key="ENGLISH" value="897" />
-        <entry key="DANISH" value="3" />
+        <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
