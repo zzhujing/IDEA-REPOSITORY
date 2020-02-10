@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="业主" />
+      <item value="物业" />
       <item value="call Super" />
       <item value="community" />
       <item value="社区" />
@@ -49,13 +51,11 @@
       <item value="LOAD TIME WEAVER BEAN NAME" />
       <item value="register Resolvable Dependency" />
       <item value="BeanFactory interface not registered as resolvable type in a plain factory" />
-      <item value="Stub Property Source" />
-      <item value="Set whether to extract the old property value when applying a * property editor to a new value for a property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="893" />
-        <entry key="ENGLISH" value="894" />
+        <entry key="CHINESE" value="894" />
+        <entry key="ENGLISH" value="895" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
