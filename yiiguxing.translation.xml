@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Introductor" />
+      <item value="Introduction Advisor" />
+      <item value="Name of currently proxied bean" />
+      <item value="find Eligible Advisors" />
+      <item value="get Advices And Advisors For Bean" />
       <item value="optimization" />
       <item value="Consider" />
       <item value="Aop Infrastructure Bean" />
@@ -46,16 +51,11 @@
       <item value="身份证号" />
       <item value="credential" />
       <item value="Ω位置" />
-      <item value="地址" />
-      <item value="区域" />
-      <item value="地域" />
-      <item value="体温" />
-      <item value="Contrast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="914" />
+        <entry key="ENGLISH" value="914" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
