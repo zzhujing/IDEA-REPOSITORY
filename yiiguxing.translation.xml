@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimize" />
+      <item value="Aware" />
+      <item value="ΩAware" />
+      <item value="extract Source" />
+      <item value="force" />
       <item value="Ω引入" />
       <item value="Dao Introduce" />
       <item value="Introducer" />
@@ -46,16 +51,11 @@
       <item value="疫情" />
       <item value="epidemic" />
       <item value="防疫" />
-      <item value="Type-safe alternative to basePackages for specifying the packages to scan for annotated components. The package of each class specified will be scanned. Consider creating a special no-op marker class or interface in each package that serves no purpose other than being referenced by this attribute." />
-      <item value="Advice" />
-      <item value="增强" />
-      <item value="This class is considered internal and should not be directly accessed. The sole reason for it being public is compatibility with existing framework integrations (e.g. Pitchfork). For any other purposes, use the ProxyMethodInvocation interface instead." />
-      <item value="Participate in LiveBeansView MBean, if active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="899" />
-        <entry key="ENGLISH" value="900" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
