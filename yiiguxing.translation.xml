@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete Proxied Interfaces" />
+      <item value="frozen" />
+      <item value="Indicates" />
       <item value="commonality" />
       <item value="applicability" />
       <item value="action to take at a joinpoint" />
@@ -48,14 +51,11 @@
       <item value="Set key to hold the string value and expiration timeout if key is present." />
       <item value="set If Present" />
       <item value="温度" />
-      <item value="registry" />
-      <item value="register" />
-      <item value="Ω" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="919" />
-        <entry key="ENGLISH" value="920" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
