@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction Synchronization Manager" />
       <item value="ISOLATION DEFAULT" />
       <item value="resume" />
       <item value="Standard transaction demarcation with getTransaction and commit/rollback calls" />
@@ -50,12 +51,11 @@
       <item value="room" />
       <item value="楼层" />
       <item value="小区物业" />
-      <item value="业主" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="940" />
+        <entry key="ENGLISH" value="941" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
