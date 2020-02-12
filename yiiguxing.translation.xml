@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Objenesis" />
+      <item value="is Optimize" />
       <item value="Introductor" />
       <item value="Introduction Advisor" />
       <item value="Name of currently proxied bean" />
@@ -49,20 +51,18 @@
       <item value="真实姓名" />
       <item value="真实" />
       <item value="身份证号" />
-      <item value="credential" />
-      <item value="Ω位置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="915" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="5" />
+        <entry key="SPANISH" value="6" />
         <entry key="HUNGARIAN" value="4" />
       </map>
     </option>
