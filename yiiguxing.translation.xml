@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return whether proxies should perform aggressive optimizations" />
       <item value="Partial Comparable" />
       <item value="and a filter determining the applicability of the advice" />
       <item value="determining" />
@@ -50,12 +51,11 @@
       <item value="call Super" />
       <item value="community" />
       <item value="社区" />
-      <item value="street" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="935" />
-        <entry key="ENGLISH" value="936" />
+        <entry key="CHINESE" value="936" />
+        <entry key="ENGLISH" value="937" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
