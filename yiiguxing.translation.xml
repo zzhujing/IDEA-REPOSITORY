@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commonality" />
+      <item value="applicability" />
+      <item value="action to take at a joinpoint" />
+      <item value="Advisor" />
+      <item value="Handle prototypes correctly" />
       <item value="Objenesis" />
       <item value="is Optimize" />
       <item value="Introductor" />
@@ -46,16 +51,11 @@
       <item value="registry" />
       <item value="register" />
       <item value="Ω" />
-      <item value="登记" />
-      <item value="Ω登记" />
-      <item value="真实姓名" />
-      <item value="真实" />
-      <item value="身份证号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
