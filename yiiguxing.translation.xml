@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Partial Comparable" />
+      <item value="and a filter determining the applicability of the advice" />
+      <item value="determining" />
+      <item value="This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice." />
+      <item value="commonality" />
+      <item value="action to take at a joinpoint" />
       <item value="compare Precedence Within Aspect" />
       <item value="Partial Order" />
       <item value="joinpoint" />
@@ -8,9 +14,7 @@
       <item value="complete Proxied Interfaces" />
       <item value="frozen" />
       <item value="Indicates" />
-      <item value="commonality" />
       <item value="applicability" />
-      <item value="action to take at a joinpoint" />
       <item value="Advisor" />
       <item value="Handle prototypes correctly" />
       <item value="Objenesis" />
@@ -47,15 +51,11 @@
       <item value="community" />
       <item value="社区" />
       <item value="street" />
-      <item value="导入" />
-      <item value="Ω导入" />
-      <item value="Trade Query Vo" />
-      <item value="Capatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
