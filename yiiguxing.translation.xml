@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="installed" />
       <item value="prior to being refreshed" />
       <item value="prior" />
       <item value="Called by the servlet container to indicate to a servlet that the servlet * is being placed into service" />
@@ -50,12 +51,11 @@
       <item value="determining" />
       <item value="This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice." />
       <item value="commonality" />
-      <item value="action to take at a joinpoint" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="973" />
-        <entry key="ENGLISH" value="973" />
+        <entry key="ENGLISH" value="974" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="5" />
