@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inheritable" />
+      <item value="register Callable In特" />
+      <item value="get Session Mutex" />
+      <item value="mutex" />
+      <item value="regardless of the outcome" />
+      <item value="regardless" />
+      <item value="PATCH" />
       <item value="Interface for web-based theme resolution strategies that allows for * both theme resolution via the request and theme modification via * request and response" />
       <item value="installed" />
       <item value="prior to being refreshed" />
@@ -44,18 +51,11 @@
       <item value="Transaction Synchronization Manager" />
       <item value="ISOLATION DEFAULT" />
       <item value="resume" />
-      <item value="Standard transaction demarcation with getTransaction and commit/rollback calls" />
-      <item value="metadata retrieval" />
-      <item value="Return whether proxies should perform aggressive optimizations" />
-      <item value="Partial Comparable" />
-      <item value="and a filter determining the applicability of the advice" />
-      <item value="determining" />
-      <item value="This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="975" />
+        <entry key="CHINESE" value="980" />
+        <entry key="ENGLISH" value="982" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="5" />
