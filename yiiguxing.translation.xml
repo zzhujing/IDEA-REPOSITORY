@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Path Within Application" />
       <item value="matching Beans" />
       <item value="indicate" />
       <item value="indicates Multiple Beans" />
@@ -50,12 +51,11 @@
       <item value="It is available * to handlers who want to develop their own web workflow" />
       <item value="his interface is not intended for application developers." />
       <item value="meaning that it does not contain code specific to any handler type" />
-      <item value="indefinitely * extensible" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="986" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="ENGLISH" value="987" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="5" />
