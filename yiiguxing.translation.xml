@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="matching Beans" />
+      <item value="indicate" />
+      <item value="indicates Multiple Beans" />
       <item value="against" />
       <item value="Qualifier" />
       <item value="recommended" />
@@ -48,13 +51,10 @@
       <item value="his interface is not intended for application developers." />
       <item value="meaning that it does not contain code specific to any handler type" />
       <item value="indefinitely * extensible" />
-      <item value="determine" />
-      <item value="It offers the following functionality * that distinguishes it from other request-driven web MVC frameworks" />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="985" />
+        <entry key="CHINESE" value="986" />
         <entry key="ENGLISH" value="986" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
