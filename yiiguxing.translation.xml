@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sanitized Path Within App" />
       <item value="Path Exposing Handler Interceptor" />
       <item value="raw" />
       <item value="get Path Within Application" />
@@ -50,12 +51,11 @@
       <item value="can support mapped interceptors but do not * have to" />
       <item value="to" />
       <item value="former" />
-      <item value="It is available * to handlers who want to develop their own web workflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="990" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="5" />
