@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Given a pattern and a full path, determine the pattern-mapped part. This method is supposed to find out which part of the path is matched dynamically through an actual pattern, that is, it strips off a statically defined leading path from the given full path, returning only the actually pattern-matched part of the path. For example: For &quot;myroot/*.html&quot; as pattern and &quot;myroot/myfile.html&quot; as full path, this method should return &quot;myfile.html&quot;. The detailed determination rules are specified to this PathMatcher's matching strategy. A simple implementation may return the given full path as-is in case of an actual pattern, and the empty String in case of the pattern not containing any dynamic parts (i.e. the pattern parameter being a static path that wouldn't qualify as an actual pattern). A sophisticated implementation will differentiate between the static parts and the dynamic parts of the given path pattern." />
+      <item value="extract Path Within Pattern" />
+      <item value="uri Template Variables" />
       <item value="use Trailing Slash Match" />
       <item value="Typically" />
       <item value="Bean name prefix for target beans behind scoped proxies. Used to exclude those targets from handler method detection, in favor of the corresponding proxies. We're not checking the autowire-candidate status here, which is how the proxy target filtering problem is being handled at the autowiring level, since autowire-candidate may have been turned to false for other reasons, while still expecting the bean to be eligible for handler methods. Originally defined in org.springframework.aop.scope.ScopedProxyUtils but duplicated here to avoid a hard dependency on the spring-aop module." />
@@ -48,14 +51,11 @@
       <item value="corresponding" />
       <item value="certain" />
       <item value="specified" />
-      <item value="for each handler type to handle a request" />
-      <item value="through" />
-      <item value="allowing parameterization of the core MVC workflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="996" />
+        <entry key="ENGLISH" value="996" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="5" />
