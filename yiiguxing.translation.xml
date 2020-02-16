@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporal" />
+      <item value="@RequestParam-annotated method arguments. This excludes Map params where the annotation does not specify a name. See RequestParamMapMethodArgumentResolver instead for such params" />
       <item value="Return a variant of this {@code MethodParameter} which points to the * same parameter but one nesting level deeper" />
       <item value="EMPTY ARGS" />
       <item value="underlying" />
@@ -49,13 +51,11 @@
       <item value="via" />
       <item value="occur" />
       <item value="indicates" />
-      <item value="which support programmatic registration of servlet instances" />
-      <item value="may now be injected with a web * application context, rather than creating its own internally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1001" />
-        <entry key="ENGLISH" value="1002" />
+        <entry key="CHINESE" value="1002" />
+        <entry key="ENGLISH" value="1003" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
