@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean name prefix for target beans behind scoped proxies. Used to exclude those targets from handler method detection, in favor of the corresponding proxies. We're not checking the autowire-candidate status here, which is how the proxy target filtering problem is being handled at the autowiring level, since autowire-candidate may have been turned to false for other reasons, while still expecting the bean to be eligible for handler methods. Originally defined in org.springframework.aop.scope.ScopedProxyUtils but duplicated here to avoid a hard dependency on the spring-aop module." />
       <item value="synthetic" />
       <item value="sanitized Path Within App" />
       <item value="Path Exposing Handler Interceptor" />
@@ -50,11 +51,10 @@
       <item value="allowing parameterization of the core MVC workflow" />
       <item value="ability" />
       <item value="can support mapped interceptors but do not * have to" />
-      <item value="to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="990" />
+        <entry key="CHINESE" value="991" />
         <entry key="ENGLISH" value="991" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
