@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Numeric" />
+      <item value="Determines if the specified character is a digit" />
+      <item value="is Beside" />
       <item value="Temporal" />
       <item value="@RequestParam-annotated method arguments. This excludes Map params where the annotation does not specify a name. See RequestParamMapMethodArgumentResolver instead for such params" />
       <item value="Return a variant of this {@code MethodParameter} which points to the * same parameter but one nesting level deeper" />
@@ -48,9 +51,6 @@
       <item value="responsibility" />
       <item value="intentionally" />
       <item value="SCI processing is performed regardless of the setting of metadata-complete. SCI processing can be controlled per JAR file via fragment ordering. If absolute ordering is defined, then only the JARs included in the ordering will be processed for SCIs. To disable SCI processing completely, an empty absolute ordering may be defined" />
-      <item value="via" />
-      <item value="occur" />
-      <item value="indicates" />
     </histories>
     <option name="languageScores">
       <map>
