@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consider fallback matches if the first pass failed to find anything" />
+      <item value="but in the case of a dependency collection, not the very same bean itself" />
       <item value="Map from dependency type to corresponding autowired value" />
       <item value="corresponding" />
       <item value="is Numeric" />
@@ -49,8 +51,6 @@
       <item value="Called by the servlet container to indicate to a servlet that the servlet * is being placed into service" />
       <item value="init Strategies" />
       <item value="treats" />
-      <item value="tokenize To String Array" />
-      <item value="responsibility" />
     </histories>
     <option name="languageScores">
       <map>
