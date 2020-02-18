@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="URI TEMPLATE VARIABLES ATTRIBUTE" />
       <item value="Consider fallback matches if the first pass failed to find anything" />
       <item value="but in the case of a dependency collection, not the very same bean itself" />
       <item value="Map from dependency type to corresponding autowired value" />
@@ -50,12 +51,11 @@
       <item value="prior" />
       <item value="Called by the servlet container to indicate to a servlet that the servlet * is being placed into service" />
       <item value="init Strategies" />
-      <item value="treats" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
