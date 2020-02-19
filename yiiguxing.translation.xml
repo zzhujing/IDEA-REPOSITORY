@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Content Negotiation Manager Factory Bean" />
       <item value="Composite" />
       <item value="Locale" />
       <item value="strip Trailing Slash" />
@@ -50,12 +51,11 @@
       <item value="synthetic" />
       <item value="sanitized Path Within App" />
       <item value="Path Exposing Handler Interceptor" />
-      <item value="raw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1027" />
-        <entry key="ENGLISH" value="1028" />
+        <entry key="CHINESE" value="1028" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
