@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strip Trailing Slash" />
+      <item value="strip Leading Slash" />
       <item value="Find an {@code @ExceptionHandler} method for the given exception. The default implementation searches methods in the class hierarchy of the controller first" />
       <item value="Find an @ExceptionHandler method for the given exception. The default implementation searches methods in the class hierarchy of the controller first and if not found, it continues searching for additional @ExceptionHandler methods assuming some @ControllerAdvice Spring-managed beans were detected" />
       <item value="Find an {@code @ExceptionHandler} method for the given exception. The default * implementation searches methods in the class hierarchy of the controller first * and if not found, it continues searching for additional {@code @ExceptionHandler} * methods assuming some {@linkplain ControllerAdvice @ControllerAdvice}" />
@@ -49,13 +51,11 @@
       <item value="raw" />
       <item value="get Path Within Application" />
       <item value="matching Beans" />
-      <item value="indicate" />
-      <item value="indicates Multiple Beans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1023" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="CHINESE" value="1025" />
+        <entry key="ENGLISH" value="1026" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
