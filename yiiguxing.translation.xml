@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="male" />
+      <item value="性别" />
       <item value="Content Negotiation Manager Factory Bean" />
       <item value="Composite" />
       <item value="Locale" />
@@ -49,13 +51,11 @@
       <item value="Typically" />
       <item value="Bean name prefix for target beans behind scoped proxies. Used to exclude those targets from handler method detection, in favor of the corresponding proxies. We're not checking the autowire-candidate status here, which is how the proxy target filtering problem is being handled at the autowiring level, since autowire-candidate may have been turned to false for other reasons, while still expecting the bean to be eligible for handler methods. Originally defined in org.springframework.aop.scope.ScopedProxyUtils but duplicated here to avoid a hard dependency on the spring-aop module." />
       <item value="synthetic" />
-      <item value="sanitized Path Within App" />
-      <item value="Path Exposing Handler Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1028" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="CHINESE" value="1030" />
+        <entry key="ENGLISH" value="1031" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
