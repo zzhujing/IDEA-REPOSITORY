@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Find an {@code @ExceptionHandler} method for the given exception. The default implementation searches methods in the class hierarchy of the controller first" />
+      <item value="Find an @ExceptionHandler method for the given exception. The default implementation searches methods in the class hierarchy of the controller first and if not found, it continues searching for additional @ExceptionHandler methods assuming some @ControllerAdvice Spring-managed beans were detected" />
+      <item value="Find an {@code @ExceptionHandler} method for the given exception. The default * implementation searches methods in the class hierarchy of the controller first * and if not found, it continues searching for additional {@code @ExceptionHandler} * methods assuming some {@linkplain ControllerAdvice @ControllerAdvice}" />
+      <item value="@param exception the raised exception * @return a method to handle the exception, or {@code null} if none" />
+      <item value="none" />
+      <item value="managed beans were detected. * @param handlerMethod the method where the exception was raised (may be {@code null}) * @param exception the raised exception * @return a method to handle the exception, or" />
       <item value="determine" />
       <item value="detect" />
       <item value="检测" />
@@ -45,17 +51,11 @@
       <item value="matching Beans" />
       <item value="indicate" />
       <item value="indicates Multiple Beans" />
-      <item value="against" />
-      <item value="Qualifier" />
-      <item value="recommended" />
-      <item value="render" />
-      <item value="Web Async Manager" />
-      <item value="inheritable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1019" />
-        <entry key="ENGLISH" value="1019" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
