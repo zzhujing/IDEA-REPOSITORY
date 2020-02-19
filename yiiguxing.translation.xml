@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Content Negotiation Strategy" />
+      <item value="concrete" />
       <item value="AUDIT" />
       <item value="redirect Model" />
       <item value="redirect Model Scenario" />
@@ -49,13 +51,11 @@
       <item value="regardless" />
       <item value="PATCH" />
       <item value="Interface for web-based theme resolution strategies that allows for * both theme resolution via the request and theme modification via * request and response" />
-      <item value="installed" />
-      <item value="prior to being refreshed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1010" />
-        <entry key="ENGLISH" value="1011" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
