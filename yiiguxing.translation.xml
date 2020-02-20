@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configuration Phase" />
       <item value="attach" />
       <item value="stop watch" />
       <item value="watch" />
@@ -50,12 +51,11 @@
       <item value="restrict Default Supported Methods" />
       <item value="Given a pattern and a full path, determine the pattern-mapped part. This method is supposed to find out which part of the path is matched dynamically through an actual pattern, that is, it strips off a statically defined leading path from the given full path, returning only the actually pattern-matched part of the path. For example: For &quot;myroot/*.html&quot; as pattern and &quot;myroot/myfile.html&quot; as full path, this method should return &quot;myfile.html&quot;. The detailed determination rules are specified to this PathMatcher's matching strategy. A simple implementation may return the given full path as-is in case of an actual pattern, and the empty String in case of the pattern not containing any dynamic parts (i.e. the pattern parameter being a static path that wouldn't qualify as an actual pattern). A sophisticated implementation will differentiate between the static parts and the dynamic parts of the given path pattern." />
       <item value="extract Path Within Pattern" />
-      <item value="uri Template Variables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1035" />
-        <entry key="ENGLISH" value="1036" />
+        <entry key="CHINESE" value="1036" />
+        <entry key="ENGLISH" value="1037" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
