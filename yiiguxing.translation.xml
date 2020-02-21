@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
       <item value="enclosing" />
       <item value="as well as" />
       <item value="Configuration Phase" />
@@ -50,12 +51,11 @@
       <item value="Invocable Handler Method" />
       <item value="redirect" />
       <item value="Ωredirect" />
-      <item value="restrict Default Supported Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1037" />
-        <entry key="ENGLISH" value="1038" />
+        <entry key="CHINESE" value="1038" />
+        <entry key="ENGLISH" value="1039" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="7" />
