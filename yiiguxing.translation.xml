@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upacp Extra" />
       <item value="retrieve" />
       <item value="enclosing" />
       <item value="as well as" />
@@ -50,14 +51,13 @@
       <item value="Invocable" />
       <item value="Invocable Handler Method" />
       <item value="redirect" />
-      <item value="Ωredirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1038" />
+        <entry key="CHINESE" value="1039" />
         <entry key="ENGLISH" value="1039" />
         <entry key="DANISH" value="5" />
-        <entry key="GERMAN" value="5" />
+        <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="PORTUGUESE" value="2" />
