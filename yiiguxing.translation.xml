@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tracked Condition Evaluator" />
+      <item value="Read the model and create bean definitions based on its content" />
       <item value="0 x FF" />
       <item value="as read by an ASM" />
       <item value="facade" />
@@ -49,13 +51,11 @@
       <item value="none" />
       <item value="managed beans were detected. * @param handlerMethod the method where the exception was raised (may be {@code null}) * @param exception the raised exception * @return a method to handle the exception, or" />
       <item value="determine" />
-      <item value="detect" />
-      <item value="检测" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1054" />
+        <entry key="ENGLISH" value="1055" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
