@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional." />
       <item value="expose their singleton management facility * in a uniform manner" />
       <item value="@Bean methods may not in turn create further configuration classes (any such instances will be treated as regular beans, with their configuration annotations remaining undetected)" />
       <item value="his avoids the need to use an @Import annotation when the relationship between AppConfig and DatabaseConfig is already implicitly clear" />
@@ -50,11 +51,10 @@
       <item value="Consider fallback matches if the first pass failed to find anything" />
       <item value="but in the case of a dependency collection, not the very same bean itself" />
       <item value="Map from dependency type to corresponding autowired value" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
+        <entry key="CHINESE" value="1041" />
         <entry key="ENGLISH" value="1041" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
