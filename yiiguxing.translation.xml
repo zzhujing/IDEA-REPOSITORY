@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="that the &lt;context:component-scan&gt; element has an annotation-config attribute; however, this annotation does not." />
+      <item value="directives" />
       <item value="attach" />
       <item value="Ωattach" />
       <item value="Ω计算" />
@@ -49,8 +51,6 @@
       <item value="@RequestParam-annotated method arguments. This excludes Map params where the annotation does not specify a name. See RequestParamMapMethodArgumentResolver instead for such params" />
       <item value="Return a variant of this {@code MethodParameter} which points to the * same parameter but one nesting level deeper" />
       <item value="EMPTY ARGS" />
-      <item value="underlying" />
-      <item value="Invocable" />
     </histories>
     <option name="languageScores">
       <map>
