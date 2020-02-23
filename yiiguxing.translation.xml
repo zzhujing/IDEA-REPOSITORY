@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="therefore may also take advantage of @Autowired/@Inject like any regular @Component. In particular, if a single constructor is present autowiring semantics will be applied transparently for that constructor:" />
+      <item value="Via" />
+      <item value="Note that the &lt;context:component-scan&gt; element has an annotation-config attribute; however, this annotation does not. This is because in almost all cases when using @ComponentScan, default annotation config processing (e.g. processing @Autowired and friends) is assumed. Furthermore, when using AnnotationConfigApplicationContext, annotation config processors are always registered, meaning that any attempt to disable them at the @ComponentScan level would be ignored. See @Configuration's Javadoc for usage examples." />
       <item value="that the &lt;context:component-scan&gt; element has an annotation-config attribute; however, this annotation does not." />
       <item value="directives" />
       <item value="attach" />
@@ -48,9 +51,6 @@
       <item value="Determines if the specified character is a digit" />
       <item value="is Beside" />
       <item value="Temporal" />
-      <item value="@RequestParam-annotated method arguments. This excludes Map params where the annotation does not specify a name. See RequestParamMapMethodArgumentResolver instead for such params" />
-      <item value="Return a variant of this {@code MethodParameter} which points to the * same parameter but one nesting level deeper" />
-      <item value="EMPTY ARGS" />
     </histories>
     <option name="languageScores">
       <map>
