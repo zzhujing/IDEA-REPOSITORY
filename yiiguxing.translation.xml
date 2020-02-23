@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Additional" />
+      <item value="ancestors" />
+      <item value="decorating" />
+      <item value="get Match Outcome" />
       <item value="in a form that does not necessarily require the * class-loading." />
       <item value="individual" />
       <item value="Chained" />
@@ -47,15 +51,11 @@
       <item value="Composite" />
       <item value="Locale" />
       <item value="strip Trailing Slash" />
-      <item value="strip Leading Slash" />
-      <item value="Find an {@code @ExceptionHandler} method for the given exception. The default implementation searches methods in the class hierarchy of the controller first" />
-      <item value="Find an @ExceptionHandler method for the given exception. The default implementation searches methods in the class hierarchy of the controller first and if not found, it continues searching for additional @ExceptionHandler methods assuming some @ControllerAdvice Spring-managed beans were detected" />
-      <item value="Find an {@code @ExceptionHandler} method for the given exception. The default * implementation searches methods in the class hierarchy of the controller first * and if not found, it continues searching for additional {@code @ExceptionHandler} * methods assuming some {@linkplain ControllerAdvice @ControllerAdvice}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1059" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
