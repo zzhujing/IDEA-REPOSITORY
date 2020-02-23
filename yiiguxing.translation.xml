@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is a * convenience annotation that is equivalent to declaring {@code @Configuration}" />
+      <item value="The reflect.AnnotatedElement interface discusses compatibility concerns when evolving an annotation type from being non-repeatable to being repeatable" />
       <item value="Retention" />
       <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional." />
       <item value="expose their singleton management facility * in a uniform manner" />
@@ -49,13 +51,11 @@
       <item value="redirect Model" />
       <item value="redirect Model Scenario" />
       <item value="URI TEMPLATE VARIABLES ATTRIBUTE" />
-      <item value="Consider fallback matches if the first pass failed to find anything" />
-      <item value="but in the case of a dependency collection, not the very same bean itself" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1041" />
-        <entry key="ENGLISH" value="1042" />
+        <entry key="CHINESE" value="1042" />
+        <entry key="ENGLISH" value="1043" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
