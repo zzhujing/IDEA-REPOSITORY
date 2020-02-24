@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determine whether this listener actually supports the given source type" />
       <item value="算数" />
       <item value="表达式" />
       <item value="监管" />
@@ -50,12 +51,11 @@
       <item value="retrieve" />
       <item value="enclosing" />
       <item value="as well as" />
-      <item value="Configuration Phase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
