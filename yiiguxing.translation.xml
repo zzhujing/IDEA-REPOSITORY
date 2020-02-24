@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outcomes" />
       <item value="ANCESTORS" />
       <item value="Additional" />
       <item value="ancestors" />
@@ -50,12 +51,11 @@
       <item value="性别" />
       <item value="Content Negotiation Manager Factory Bean" />
       <item value="Composite" />
-      <item value="Locale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1063" />
-        <entry key="ENGLISH" value="1064" />
+        <entry key="CHINESE" value="1064" />
+        <entry key="ENGLISH" value="1065" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
