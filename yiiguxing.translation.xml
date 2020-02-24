@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Origin Tracked Map" />
+      <item value="escaped" />
+      <item value="get Negative Profile Filter" />
       <item value="get Positive Profile Filter" />
       <item value="deque" />
       <item value="Webb" />
@@ -48,14 +51,11 @@
       <item value="that the &lt;context:component-scan&gt; element has an annotation-config attribute; however, this annotation does not." />
       <item value="directives" />
       <item value="attach" />
-      <item value="Ωattach" />
-      <item value="Ω计算" />
-      <item value="upacp Extra" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1072" />
-        <entry key="ENGLISH" value="1073" />
+        <entry key="CHINESE" value="1076" />
+        <entry key="ENGLISH" value="1077" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
