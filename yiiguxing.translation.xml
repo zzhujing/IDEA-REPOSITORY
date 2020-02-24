@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Positive Profile Filter" />
+      <item value="deque" />
       <item value="Webb" />
       <item value="Determine whether this listener actually supports the given source type" />
       <item value="算数" />
@@ -49,13 +51,11 @@
       <item value="Ωattach" />
       <item value="Ω计算" />
       <item value="upacp Extra" />
-      <item value="retrieve" />
-      <item value="enclosing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1070" />
-        <entry key="ENGLISH" value="1071" />
+        <entry key="CHINESE" value="1072" />
+        <entry key="ENGLISH" value="1073" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
