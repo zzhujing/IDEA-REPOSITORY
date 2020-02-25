@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
+      <item value="lettuce" />
       <item value="未知" />
       <item value="concat" />
       <item value="xnio" />
@@ -49,13 +51,11 @@
       <item value="Retention" />
       <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional." />
       <item value="expose their singleton management facility * in a uniform manner" />
-      <item value="@Bean methods may not in turn create further configuration classes (any such instances will be treated as regular beans, with their configuration annotations remaining undetected)" />
-      <item value="his avoids the need to use an @Import annotation when the relationship between AppConfig and DatabaseConfig is already implicitly clear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1082" />
-        <entry key="ENGLISH" value="1083" />
+        <entry key="CHINESE" value="1084" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
