@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concat" />
+      <item value="xnio" />
       <item value="Access Strategy" />
       <item value="通行策略" />
       <item value="Pass Strategy" />
@@ -49,14 +51,12 @@
       <item value="@Bean methods may not in turn create further configuration classes (any such instances will be treated as regular beans, with their configuration annotations remaining undetected)" />
       <item value="his avoids the need to use an @Import annotation when the relationship between AppConfig and DatabaseConfig is already implicitly clear" />
       <item value="reside in" />
-      <item value="therefore may also take advantage of @Autowired/@Inject like any regular @Component. In particular, if a single constructor is present autowiring semantics will be applied transparently for that constructor:" />
-      <item value="Via" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1081" />
-        <entry key="DANISH" value="5" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1082" />
+        <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
