@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trace" />
+      <item value="Stack Trace Element" />
       <item value="profile" />
       <item value="lettuce" />
       <item value="未知" />
@@ -49,13 +51,11 @@
       <item value="This is a * convenience annotation that is equivalent to declaring {@code @Configuration}" />
       <item value="The reflect.AnnotatedElement interface discusses compatibility concerns when evolving an annotation type from being non-repeatable to being repeatable" />
       <item value="Retention" />
-      <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional." />
-      <item value="expose their singleton management facility * in a uniform manner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1084" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="CHINESE" value="1086" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
