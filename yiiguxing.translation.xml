@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="At the time that the condition is evaluated, all {@code @Configuration}s * will have been parsed" />
+      <item value="The Condition should be evaluated when adding a regular (non @Configuration) bean. The condition will not prevent @Configuration classes from being added. At the time that the condition is evaluated, all @Configurations will have been parsed." />
+      <item value="prevent" />
+      <item value="The Condition should be evaluated as a @Configuration class is being parsed. If the condition does not match at this point, the @Configuration class will not be added." />
+      <item value="The various configuration phases where the condition could be evaluated." />
+      <item value="Configuration Phase" />
       <item value="A Condition that offers more fine-grained control when used with @Configuration. Allows certain Conditions to adapt when they match based on the configuration phase. For example, a condition that checks if a bean has already been registered might choose to only be evaluated during the REGISTER_BEAN ConfigurationCondition.ConfigurationPhase." />
       <item value="Ω" />
       <item value="annotated methods in order to ensure proper * handling of bean semantics such as scoping and AOP proxying" />
@@ -45,17 +51,11 @@
       <item value="individual" />
       <item value="Chained" />
       <item value="is Chained Import On Stack" />
-      <item value="Tracked Condition Evaluator" />
-      <item value="Read the model and create bean definitions based on its content" />
-      <item value="0 x FF" />
-      <item value="as read by an ASM" />
-      <item value="facade" />
-      <item value="Simple facade for accessing class metadata" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1094" />
-        <entry key="ENGLISH" value="1094" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1098" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
