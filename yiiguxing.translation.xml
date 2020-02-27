@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annotated methods in order to ensure proper * handling of bean semantics such as scoping and AOP proxying" />
+      <item value="proper" />
       <item value="login" />
       <item value="validate Scan Configuration" />
       <item value="contains Descendant Of" />
@@ -49,13 +51,11 @@
       <item value="Simple facade for accessing class metadata" />
       <item value="for convenience, can be specified * directly on this annotation" />
       <item value="standard way" />
-      <item value="standard" />
-      <item value="Convenient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1090" />
-        <entry key="ENGLISH" value="1091" />
+        <entry key="CHINESE" value="1092" />
+        <entry key="ENGLISH" value="1093" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
