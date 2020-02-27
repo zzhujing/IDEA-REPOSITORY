@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains Descendant Of" />
+      <item value="origin" />
       <item value="查询出其具体地址从小区开始" />
       <item value="Trace" />
       <item value="Stack Trace Element" />
@@ -49,13 +51,11 @@
       <item value="Convenient" />
       <item value="full" />
       <item value="lite" />
-      <item value="This is a * convenience annotation that is equivalent to declaring {@code @Configuration}" />
-      <item value="The reflect.AnnotatedElement interface discusses compatibility concerns when evolving an annotation type from being non-repeatable to being repeatable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1087" />
+        <entry key="CHINESE" value="1088" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
