@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validate Scan Configuration" />
       <item value="contains Descendant Of" />
       <item value="origin" />
       <item value="查询出其具体地址从小区开始" />
@@ -50,12 +51,11 @@
       <item value="standard" />
       <item value="Convenient" />
       <item value="full" />
-      <item value="lite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1088" />
-        <entry key="ENGLISH" value="1089" />
+        <entry key="CHINESE" value="1089" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
