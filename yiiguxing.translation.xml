@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attempting" />
       <item value="At the time that the condition is evaluated, all {@code @Configuration}s * will have been parsed" />
       <item value="The Condition should be evaluated when adding a regular (non @Configuration) bean. The condition will not prevent @Configuration classes from being added. At the time that the condition is evaluated, all @Configurations will have been parsed." />
       <item value="prevent" />
@@ -50,12 +51,11 @@
       <item value="in a form that does not necessarily require the * class-loading." />
       <item value="individual" />
       <item value="Chained" />
-      <item value="is Chained Import On Stack" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1098" />
-        <entry key="ENGLISH" value="1098" />
+        <entry key="ENGLISH" value="1099" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
