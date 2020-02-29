@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXCEPTION" />
+      <item value="异常" />
       <item value="profile" />
       <item value="attempting" />
       <item value="At the time that the condition is evaluated, all {@code @Configuration}s * will have been parsed" />
@@ -49,13 +51,11 @@
       <item value="decorating" />
       <item value="get Match Outcome" />
       <item value="in a form that does not necessarily require the * class-loading." />
-      <item value="individual" />
-      <item value="Chained" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1099" />
-        <entry key="ENGLISH" value="1100" />
+        <entry key="CHINESE" value="1101" />
+        <entry key="ENGLISH" value="1102" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
