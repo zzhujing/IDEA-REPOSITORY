@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variable" />
+      <item value="get Upper Bounds" />
+      <item value="wildcard" />
       <item value="conflicting Getters" />
       <item value="case Insensitive Property Map" />
       <item value="Property Tokenizer" />
@@ -48,14 +51,11 @@
       <item value="Webb" />
       <item value="Determine whether this listener actually supports the given source type" />
       <item value="算数" />
-      <item value="表达式" />
-      <item value="监管" />
-      <item value="Constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1109" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="CHINESE" value="1112" />
+        <entry key="ENGLISH" value="1113" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
