@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="navigation" />
+      <item value="Navigable" />
+      <item value="Navigable Map" />
       <item value="Wildcard Type" />
       <item value="parameterized" />
       <item value="formal" />
@@ -48,14 +51,11 @@
       <item value="show Epidemic Code" />
       <item value="Origin Tracked Map" />
       <item value="escaped" />
-      <item value="get Negative Profile Filter" />
-      <item value="get Positive Profile Filter" />
-      <item value="deque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1114" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="CHINESE" value="1117" />
+        <entry key="ENGLISH" value="1118" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
