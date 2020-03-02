@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conflicting Getters" />
+      <item value="case Insensitive Property Map" />
       <item value="Property Tokenizer" />
       <item value="Ambiguous" />
       <item value="Ambiguous Method Invoker" />
@@ -49,13 +51,11 @@
       <item value="表达式" />
       <item value="监管" />
       <item value="Constraint" />
-      <item value="property Floor Str" />
-      <item value="œ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
-        <entry key="ENGLISH" value="1108" />
+        <entry key="CHINESE" value="1109" />
+        <entry key="ENGLISH" value="1110" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
