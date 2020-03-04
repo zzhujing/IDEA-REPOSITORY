@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove Eldest Entry" />
       <item value="The twelve methods described above are summarized in the * following table" />
       <item value="twelve" />
       <item value="restricted" />
@@ -50,12 +51,11 @@
       <item value="EXCEPTION" />
       <item value="异常" />
       <item value="profile" />
-      <item value="attempting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
