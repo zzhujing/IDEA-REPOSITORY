@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="借用记录" />
+      <item value="租借" />
+      <item value="借" />
       <item value="仓库物品" />
       <item value="Mapper Builder Assistant" />
       <item value="unreflect Special" />
@@ -48,9 +51,6 @@
       <item value="navigation" />
       <item value="Navigable" />
       <item value="Navigable Map" />
-      <item value="Wildcard Type" />
-      <item value="parameterized" />
-      <item value="formal" />
     </histories>
     <option name="languageScores">
       <map>
