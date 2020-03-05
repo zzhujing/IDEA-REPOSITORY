@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="领用" />
+      <item value="领用人" />
+      <item value="规格" />
       <item value="借用记录" />
       <item value="租借" />
       <item value="借" />
@@ -48,9 +51,6 @@
       <item value="enclosing" />
       <item value="nth enclosing" />
       <item value="A type variable is created the first time it is needed by a reflective method" />
-      <item value="navigation" />
-      <item value="Navigable" />
-      <item value="Navigable Map" />
     </histories>
     <option name="languageScores">
       <map>
