@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fluctuation Range" />
+      <item value="波动范围" />
+      <item value="flucuation" />
+      <item value="数量波动范围" />
       <item value="入库" />
       <item value="领用" />
       <item value="领用人" />
@@ -47,15 +51,11 @@
       <item value="accumulated Checkout Time Of Overdue Connections" />
       <item value="get Checkout Time" />
       <item value="assemble Connection Type Code" />
-      <item value="Isolation" />
-      <item value="A type variable is created the first time it is needed by a reflective method, as specified in this package. If a type variable t is referenced by a type (i.e, class, interface or annotation type) T, and T is declared by the nth enclosing class of T (see JLS 8.1.2), then the creation of t requires the resolution (see JVMS 5) of the ith enclosing class of T, for i = 0 to n, inclusive. Creating a type variable must not cause the creation of its bounds. Repeated creation of a type variable has no effect." />
-      <item value="enclosing" />
-      <item value="nth enclosing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1156" />
-        <entry key="ENGLISH" value="1157" />
+        <entry key="CHINESE" value="1159" />
+        <entry key="ENGLISH" value="1160" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
