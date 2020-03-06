@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fixed Assets In Storage Dto" />
+      <item value="FIXED ASSETS" />
+      <item value="固定资产" />
       <item value="Ω" />
       <item value="设备" />
       <item value="Office Supplier" />
@@ -48,14 +51,11 @@
       <item value="both * ends of the deque" />
       <item value="Most Deque implementations place no fixed limits on the number of elements they may contain, but this interface supports capacity-restricted deques as well as those with no fixed size limit" />
       <item value="pronounced" />
-      <item value="deck" />
-      <item value="desired Auto Commit" />
-      <item value="REPEATABLE READ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1170" />
+        <entry key="ENGLISH" value="1171" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
