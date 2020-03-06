@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报表" />
       <item value="统计" />
       <item value="to Plain String" />
       <item value="比较" />
@@ -50,7 +51,6 @@
       <item value="assemble Excel Data" />
       <item value="assemble" />
       <item value="Procedure User" />
-      <item value="Tolerance" />
     </histories>
     <option name="languageScores">
       <map>
