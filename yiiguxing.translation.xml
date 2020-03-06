@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比较" />
+      <item value="Contrast" />
       <item value="parse Pending Methods" />
       <item value="get Incomplete Methods" />
       <item value="fluctuation Range" />
@@ -49,13 +51,11 @@
       <item value="Tolerance" />
       <item value="claimed Overdue Connection Count" />
       <item value="accumulated Request Time" />
-      <item value="accumulated Checkout Time" />
-      <item value="accumulated Checkout Time Of Overdue Connections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1161" />
-        <entry key="ENGLISH" value="1162" />
+        <entry key="CHINESE" value="1163" />
+        <entry key="ENGLISH" value="1164" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
