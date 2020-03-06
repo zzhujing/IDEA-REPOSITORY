@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Optimize" />
       <item value="Fixed Assets In Storage Dto" />
       <item value="FIXED ASSETS" />
       <item value="固定资产" />
@@ -38,7 +39,6 @@
       <item value="Look for the .jar extension and chop off everything after tha" />
       <item value="valid" />
       <item value="There are also utility methods for the common use cases of scanning multiple packages for extensions of particular classes, or classes annotated with a specific annotation." />
-      <item value="is Optimize" />
       <item value="certain" />
       <item value="meet * arbitrary conditions" />
       <item value="a Uniform Resource Locator" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1170" />
-        <entry key="ENGLISH" value="1171" />
+        <entry key="CHINESE" value="1171" />
+        <entry key="ENGLISH" value="1172" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
