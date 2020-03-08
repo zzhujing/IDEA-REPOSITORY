@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accuracy" />
+      <item value="准确" />
       <item value="上上个月" />
       <item value="种类" />
       <item value="pervious" />
@@ -49,13 +51,11 @@
       <item value="a Uniform Resource Locator" />
       <item value="get Nullable Result" />
       <item value="remove Eldest Entry" />
-      <item value="The twelve methods described above are summarized in the * following table" />
-      <item value="twelve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1176" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="CHINESE" value="1177" />
+        <entry key="ENGLISH" value="1178" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
