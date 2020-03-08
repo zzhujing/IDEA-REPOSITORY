@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sql Fragments" />
+      <item value="Vendor Database Id Provider" />
+      <item value="VENDOR" />
       <item value="SCROLL SENSITIVE" />
       <item value="PARTIAL" />
       <item value="Journal Comment Controller" />
@@ -48,19 +51,16 @@
       <item value="get Sql Fragments" />
       <item value="It's important that the type is added before the parser is run // otherwise the binding may automatically be attempted by the // mapper parser. If the type is already known, it won't try" />
       <item value="Look for the .jar extension and chop off everything after tha" />
-      <item value="valid" />
-      <item value="There are also utility methods for the common use cases of scanning multiple packages for extensions of particular classes, or classes annotated with a specific annotation." />
-      <item value="certain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1181" />
-        <entry key="ENGLISH" value="1182" />
+        <entry key="CHINESE" value="1183" />
+        <entry key="ENGLISH" value="1184" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="7" />
         <entry key="HUNGARIAN" value="4" />
