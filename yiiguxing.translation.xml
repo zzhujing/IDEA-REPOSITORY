@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Journal Comment Controller" />
+      <item value="Enable Jpa Auditing" />
       <item value="accuracy" />
       <item value="准确" />
       <item value="上上个月" />
@@ -49,13 +51,11 @@
       <item value="certain" />
       <item value="meet * arbitrary conditions" />
       <item value="a Uniform Resource Locator" />
-      <item value="get Nullable Result" />
-      <item value="remove Eldest Entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1177" />
-        <entry key="ENGLISH" value="1178" />
+        <entry key="CHINESE" value="1179" />
+        <entry key="ENGLISH" value="1180" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
