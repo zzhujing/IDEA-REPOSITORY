@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCROLL SENSITIVE" />
       <item value="PARTIAL" />
       <item value="Journal Comment Controller" />
       <item value="Enable Jpa Auditing" />
@@ -50,12 +51,11 @@
       <item value="valid" />
       <item value="There are also utility methods for the common use cases of scanning multiple packages for extensions of particular classes, or classes annotated with a specific annotation." />
       <item value="certain" />
-      <item value="meet * arbitrary conditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1180" />
-        <entry key="ENGLISH" value="1181" />
+        <entry key="CHINESE" value="1181" />
+        <entry key="ENGLISH" value="1182" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
