@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enclosing Type" />
       <item value="numeric Scale" />
       <item value="Ambiguity" />
       <item value="Strict Map" />
@@ -50,12 +51,11 @@
       <item value="仓库物品" />
       <item value="Mapper Builder Assistant" />
       <item value="unreflect Special" />
-      <item value="emulate other common JVM operations or control flow patterns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1188" />
-        <entry key="ENGLISH" value="1189" />
+        <entry key="CHINESE" value="1189" />
+        <entry key="ENGLISH" value="1190" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
