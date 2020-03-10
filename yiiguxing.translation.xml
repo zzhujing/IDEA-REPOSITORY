@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Perpetual Cache" />
+      <item value="defer Load" />
+      <item value="Row Bounds" />
       <item value="Property Accessor" />
       <item value="归还" />
       <item value="enclosing Type" />
@@ -48,14 +51,11 @@
       <item value="领用人" />
       <item value="规格" />
       <item value="借用记录" />
-      <item value="租借" />
-      <item value="借" />
-      <item value="仓库物品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1191" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="CHINESE" value="1194" />
+        <entry key="ENGLISH" value="1195" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
