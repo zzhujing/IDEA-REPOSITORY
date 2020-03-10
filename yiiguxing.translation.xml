@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reuse Executor" />
       <item value="extract Object From List" />
       <item value="handle Locally Cached Output Parameters" />
       <item value="Perpetual Cache" />
@@ -50,12 +51,11 @@
       <item value="数量波动范围" />
       <item value="入库" />
       <item value="领用" />
-      <item value="领用人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1196" />
-        <entry key="ENGLISH" value="1197" />
+        <entry key="CHINESE" value="1198" />
+        <entry key="ENGLISH" value="1199" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
