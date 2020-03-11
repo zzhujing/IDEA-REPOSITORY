@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ancestor Objects" />
+      <item value="prepend" />
+      <item value="prepend Prefixes" />
       <item value="assign Keys To Param Map" />
       <item value="get Assigner For Param Map" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
@@ -48,14 +51,11 @@
       <item value="上上个月" />
       <item value="种类" />
       <item value="pervious" />
-      <item value="FIXED ASSETS" />
-      <item value="DECIMAL SYSTEM" />
-      <item value="十进制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1215" />
-        <entry key="ENGLISH" value="1215" />
+        <entry key="CHINESE" value="1217" />
+        <entry key="ENGLISH" value="1218" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
