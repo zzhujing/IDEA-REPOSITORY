@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class holds all cache entries that are to be added to the 2nd level cache during a Session. * Entries are sent to the cache when commit is called or discarded if the Session is rolled back. * Blocking cache support has been added. Therefore any get() that returns a cache miss * will be followed by a put() so any lock associated with the key can be released" />
+      <item value="Therefore any get() that returns a cache miss * will be followed by a put() so any lock associated with the key can be released." />
+      <item value="associated" />
+      <item value="discarded" />
+      <item value="entries" />
       <item value="Reuse Executor" />
       <item value="extract Object From List" />
       <item value="handle Locally Cached Output Parameters" />
@@ -46,16 +51,11 @@
       <item value="parse Pending Methods" />
       <item value="get Incomplete Methods" />
       <item value="fluctuation Range" />
-      <item value="波动范围" />
-      <item value="flucuation" />
-      <item value="数量波动范围" />
-      <item value="入库" />
-      <item value="领用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1198" />
-        <entry key="ENGLISH" value="1199" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1204" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
