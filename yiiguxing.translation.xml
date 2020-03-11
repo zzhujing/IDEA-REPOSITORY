@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vague" />
+      <item value="模糊的" />
+      <item value="fuzzy" />
+      <item value="模糊查询" />
+      <item value="模糊" />
       <item value="required" />
       <item value="提交者" />
       <item value="附件" />
@@ -46,16 +51,11 @@
       <item value="Fixed Assets In Storage Dto" />
       <item value="固定资产" />
       <item value="Ω" />
-      <item value="设备" />
-      <item value="Office Supplier" />
-      <item value="Office Supplier In Storage Dto" />
-      <item value="办公用品" />
-      <item value="报表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1209" />
-        <entry key="ENGLISH" value="1210" />
+        <entry key="CHINESE" value="1212" />
+        <entry key="ENGLISH" value="1212" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
