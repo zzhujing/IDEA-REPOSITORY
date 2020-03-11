@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待处理" />
       <item value="vague" />
       <item value="模糊的" />
       <item value="fuzzy" />
@@ -50,12 +51,11 @@
       <item value="is Optimize" />
       <item value="Fixed Assets In Storage Dto" />
       <item value="固定资产" />
-      <item value="Ω" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1212" />
-        <entry key="ENGLISH" value="1212" />
+        <entry key="ENGLISH" value="1213" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
