@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required" />
       <item value="提交者" />
       <item value="附件" />
       <item value="投诉" />
@@ -50,12 +51,11 @@
       <item value="Office Supplier In Storage Dto" />
       <item value="办公用品" />
       <item value="报表" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1208" />
-        <entry key="ENGLISH" value="1209" />
+        <entry key="CHINESE" value="1209" />
+        <entry key="ENGLISH" value="1210" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
