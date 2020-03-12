@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ignore AOP infrastructure such as scoped proxies" />
+      <item value="infrastructure" />
       <item value="ancestor Objects" />
       <item value="prepend" />
       <item value="prepend Prefixes" />
@@ -49,13 +51,11 @@
       <item value="accuracy" />
       <item value="准确" />
       <item value="上上个月" />
-      <item value="种类" />
-      <item value="pervious" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1217" />
-        <entry key="ENGLISH" value="1218" />
+        <entry key="CHINESE" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
