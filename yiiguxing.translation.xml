@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trash" />
       <item value="assignment" />
       <item value="dirty" />
       <item value="Result Extractor" />
@@ -50,11 +51,10 @@
       <item value="SCROLL SENSITIVE" />
       <item value="PARTIAL" />
       <item value="Journal Comment Controller" />
-      <item value="Enable Jpa Auditing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1222" />
+        <entry key="CHINESE" value="1223" />
         <entry key="ENGLISH" value="1223" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
