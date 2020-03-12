@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dirty" />
       <item value="Result Extractor" />
       <item value="Ignore AOP infrastructure such as scoped proxies" />
       <item value="infrastructure" />
@@ -50,12 +51,11 @@
       <item value="Journal Comment Controller" />
       <item value="Enable Jpa Auditing" />
       <item value="accuracy" />
-      <item value="准确" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1220" />
-        <entry key="ENGLISH" value="1221" />
+        <entry key="CHINESE" value="1221" />
+        <entry key="ENGLISH" value="1222" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
