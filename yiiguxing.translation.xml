@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interface for handlers invoked when a Thread abruptly terminates due to an uncaught exception." />
       <item value="Interpreter" />
       <item value="Ω" />
       <item value="解释器" />
@@ -50,7 +51,6 @@
       <item value="numeric Scale" />
       <item value="Ambiguity" />
       <item value="Strict Map" />
-      <item value="assistant" />
     </histories>
     <option name="languageScores">
       <map>
