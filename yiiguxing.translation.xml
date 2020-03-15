@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vendors" />
+      <item value="vendos" />
       <item value="short-circuiting stateful intermediate operation" />
       <item value="get Line Metrics" />
       <item value="delay" />
@@ -49,8 +51,6 @@
       <item value="defer Load" />
       <item value="Row Bounds" />
       <item value="Property Accessor" />
-      <item value="归还" />
-      <item value="enclosing Type" />
     </histories>
     <option name="languageScores">
       <map>
