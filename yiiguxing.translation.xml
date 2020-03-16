@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="水印" />
       <item value="offset" />
       <item value="vendors" />
       <item value="vendos" />
@@ -50,12 +51,11 @@
       <item value="extract Object From List" />
       <item value="handle Locally Cached Output Parameters" />
       <item value="defer Load" />
-      <item value="Row Bounds" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1228" />
+        <entry key="ENGLISH" value="1229" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
