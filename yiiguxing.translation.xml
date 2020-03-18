@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suitable" />
       <item value="Inclusion mechanism similar to &lt;code&gt;PROPERTY&lt;/code&gt;, except that * property is included one-level higher in hierarchy, i.e. as sibling * property at same level as JSON Object to type. * Note that this choice &lt;b&gt;can only be used for properties&lt;/b&gt;, not * for types (classes). Trying to use it for classes will result in * inclusion strategy of basic &lt;code&gt;PROPERTY&lt;/code&gt; instead." />
       <item value="Inclusion mechanism that wraps typed JSON value (POJO * serialized as JSON) in * a JSON Object that has a single entry, * where field name is serialized type identifier, * and value is the actual JSON value. *&lt;p&gt; * Note: can only be used if type information can be serialized as * String. This is true for standard type metadata types, but not * necessarily for custom types." />
       <item value="Inclusion mechanism that uses a single configurable property, included * along with actual data (POJO properties) as a separate meta-property. * &lt;p&gt; * Default choice for inclusion." />
@@ -50,12 +51,11 @@
       <item value="This class holds all cache entries that are to be added to the 2nd level cache during a Session. * Entries are sent to the cache when commit is called or discarded if the Session is rolled back. * Blocking cache support has been added. Therefore any get() that returns a cache miss * will be followed by a put() so any lock associated with the key can be released" />
       <item value="Therefore any get() that returns a cache miss * will be followed by a put() so any lock associated with the key can be released." />
       <item value="associated" />
-      <item value="discarded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1232" />
-        <entry key="ENGLISH" value="1233" />
+        <entry key="CHINESE" value="1233" />
+        <entry key="ENGLISH" value="1234" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
