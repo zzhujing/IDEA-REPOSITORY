@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preper" />
+      <item value="faint" />
+      <item value="Ωfaint" />
       <item value="Management-url to register with. Inferred at runtime, can be overridden in case the reachable URL is different (e.g. Docker)" />
       <item value="Expected scheme-specific part at index 10: localhost:. Further attempts are logged on DEBUG level" />
       <item value="Further attempts are logged on DEBUG level" />
@@ -48,14 +51,11 @@
       <item value="附件" />
       <item value="投诉" />
       <item value="coordinate" />
-      <item value="the x coordinate of the location where the * &lt;code&gt;String&lt;/code&gt; should be rendered" />
-      <item value="Perpetual" />
-      <item value="Perpetual Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1236" />
-        <entry key="ENGLISH" value="1236" />
+        <entry key="CHINESE" value="1237" />
+        <entry key="ENGLISH" value="1237" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
