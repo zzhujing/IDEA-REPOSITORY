@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default implementation of RedirectStrategy. This strategy honors the restrictions on automatic redirection of entity enclosing methods such as POST and PUT imposed by the HTTP specification. 302 Moved Temporarily, 301 Moved Permanently and 307 Temporary Redirect status codes will result in an automatic redirect of HEAD and GET methods only. POST and PUT methods will not be automatically redirected as requiring user confirmation. The restriction on automatic redirection of POST methods can be relaxed by using LaxRedirectStrategy instead of DefaultRedirectStrategy." />
+      <item value="Default implementation of RedirectStrategy. This strategy honors the restrictions on automatic redirection of entity enclosing methods such as POST and PUT imposed by the HTTP specification. 302 Moved Temporarily, 301 Moved Permanently and 307 Temporary Redirect status codes will result in an automatic redirect of HEAD and GET methods only. POST and PUT methods will not be automatically redirected as requiring user confirmation.&#10;The restriction on automatic redirection of POST methods can be relaxed by using LaxRedirectStrategy instead of DefaultRedirectStrategy." />
       <item value="MATERIALIZED" />
       <item value="header is present on the requested resource." />
       <item value="preper" />
@@ -49,8 +51,6 @@
       <item value="模糊查询" />
       <item value="模糊" />
       <item value="required" />
-      <item value="提交者" />
-      <item value="附件" />
     </histories>
     <option name="languageScores">
       <map>
