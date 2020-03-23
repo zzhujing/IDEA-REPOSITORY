@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payment" />
+      <item value="Ωpayment" />
       <item value="提取" />
       <item value="开关" />
       <item value="trade Time" />
@@ -49,12 +51,10 @@
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
       <item value="待处理" />
       <item value="vague" />
-      <item value="模糊的" />
-      <item value="fuzzy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
+        <entry key="CHINESE" value="1239" />
         <entry key="ENGLISH" value="1239" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
