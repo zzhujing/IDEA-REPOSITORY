@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Composite Predicate" />
       <item value="instance-info-replication-interval-seconds" />
       <item value="payment" />
       <item value="All Encompassing Form Http Message Converter" />
@@ -50,12 +51,11 @@
       <item value="prepend Prefixes" />
       <item value="assign Keys To Param Map" />
       <item value="get Assigner For Param Map" />
-      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1241" />
-        <entry key="ENGLISH" value="1242" />
+        <entry key="CHINESE" value="1242" />
+        <entry key="ENGLISH" value="1243" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="7" />
