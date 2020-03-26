@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yield" />
+      <item value="get Reachable Servers" />
       <item value="YEAR PRICE CONFLICT" />
       <item value="origin Amount" />
       <item value="source Amount" />
@@ -49,13 +51,11 @@
       <item value="trash" />
       <item value="assignment" />
       <item value="dirty" />
-      <item value="Result Extractor" />
-      <item value="Ignore AOP infrastructure such as scoped proxies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1246" />
-        <entry key="ENGLISH" value="1247" />
+        <entry key="CHINESE" value="1248" />
+        <entry key="ENGLISH" value="1249" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
