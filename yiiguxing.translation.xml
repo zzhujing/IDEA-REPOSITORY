@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Domain Search Dto" />
       <item value="Specification" />
       <item value="Exension Config" />
       <item value="Composite Predicate" />
@@ -50,11 +51,10 @@
       <item value="infrastructure" />
       <item value="ancestor Objects" />
       <item value="prepend" />
-      <item value="prepend Prefixes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1243" />
+        <entry key="CHINESE" value="1244" />
         <entry key="ENGLISH" value="1244" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
@@ -63,7 +63,7 @@
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="7" />
-        <entry key="HUNGARIAN" value="4" />
+        <entry key="HUNGARIAN" value="5" />
       </map>
     </option>
   </component>
