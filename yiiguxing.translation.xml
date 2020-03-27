@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied" />
       <item value="Leading" />
       <item value="strip Trailing" />
       <item value="Returns a string whose value is this string, with all trailing white space removed. If this String object represents an empty string, or if all characters in this string are white space, then an empty string is returned. Otherwise, returns a substring of this string beginning with the first code point of this string up to and including the last code point that is not a white space. This method may be used to trim white space from the end of a string." />
@@ -50,12 +51,11 @@
       <item value="vendors" />
       <item value="vendos" />
       <item value="short-circuiting stateful intermediate operation" />
-      <item value="get Line Metrics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1256" />
+        <entry key="ENGLISH" value="1257" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
