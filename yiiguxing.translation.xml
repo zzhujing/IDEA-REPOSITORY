@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PreserveHostHeader" />
+      <item value="Ω" />
       <item value="Reactor Load Balancer Exchange Filter Function" />
       <item value="maintenance" />
       <item value="regexp" />
@@ -18,7 +20,6 @@
       <item value="Returns a string whose value is this string, with all trailing white space removed. If this String object represents an empty string, or if all characters in this string are white space, then an empty string is returned. Otherwise, returns a substring of this string beginning with the first code point of this string up to and including the last code point that is not a white space. This method may be used to trim white space from the end of a string." />
       <item value="leading" />
       <item value="财务部" />
-      <item value="Ω" />
       <item value="ROLE FINANCE" />
       <item value="技术部" />
       <item value="技术" />
@@ -50,12 +51,11 @@
       <item value="Ωfaint" />
       <item value="Management-url to register with. Inferred at runtime, can be overridden in case the reachable URL is different (e.g. Docker)" />
       <item value="Expected scheme-specific part at index 10: localhost:. Further attempts are logged on DEBUG level" />
-      <item value="Further attempts are logged on DEBUG level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1262" />
-        <entry key="ENGLISH" value="1263" />
+        <entry key="CHINESE" value="1264" />
+        <entry key="ENGLISH" value="1264" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
