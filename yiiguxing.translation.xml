@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reactor Load Balancer Exchange Filter Function" />
+      <item value="maintenance" />
       <item value="regexp" />
       <item value="Regexp" />
       <item value="key" />
@@ -49,13 +51,11 @@
       <item value="Management-url to register with. Inferred at runtime, can be overridden in case the reachable URL is different (e.g. Docker)" />
       <item value="Expected scheme-specific part at index 10: localhost:. Further attempts are logged on DEBUG level" />
       <item value="Further attempts are logged on DEBUG level" />
-      <item value="suitable" />
-      <item value="Inclusion mechanism similar to &lt;code&gt;PROPERTY&lt;/code&gt;, except that * property is included one-level higher in hierarchy, i.e. as sibling * property at same level as JSON Object to type. * Note that this choice &lt;b&gt;can only be used for properties&lt;/b&gt;, not * for types (classes). Trying to use it for classes will result in * inclusion strategy of basic &lt;code&gt;PROPERTY&lt;/code&gt; instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1260" />
-        <entry key="ENGLISH" value="1261" />
+        <entry key="CHINESE" value="1262" />
+        <entry key="ENGLISH" value="1263" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
