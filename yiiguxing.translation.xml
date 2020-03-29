@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" is temporarily unavailable" />
       <item value="PreserveHostHeader" />
       <item value="Ω" />
       <item value="Reactor Load Balancer Exchange Filter Function" />
@@ -50,7 +51,6 @@
       <item value="faint" />
       <item value="Ωfaint" />
       <item value="Management-url to register with. Inferred at runtime, can be overridden in case the reachable URL is different (e.g. Docker)" />
-      <item value="Expected scheme-specific part at index 10: localhost:. Further attempts are logged on DEBUG level" />
     </histories>
     <option name="languageScores">
       <map>
