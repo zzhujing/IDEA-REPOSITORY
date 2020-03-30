@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destination " />
+      <item value="destination" />
       <item value="Copied from WebFilter" />
       <item value="Specific to a Gateway" />
       <item value="Contract for interception-style, chained processing of Web requests that may be used to implement cross-cutting, application-agnostic requirements such as security, timeouts, and others." />
@@ -49,12 +51,10 @@
       <item value="trade Time" />
       <item value="Default implementation of RedirectStrategy. This strategy honors the restrictions on automatic redirection of entity enclosing methods such as POST and PUT imposed by the HTTP specification. 302 Moved Temporarily, 301 Moved Permanently and 307 Temporary Redirect status codes will result in an automatic redirect of HEAD and GET methods only. POST and PUT methods will not be automatically redirected as requiring user confirmation. The restriction on automatic redirection of POST methods can be relaxed by using LaxRedirectStrategy instead of DefaultRedirectStrategy." />
       <item value="Default implementation of RedirectStrategy. This strategy honors the restrictions on automatic redirection of entity enclosing methods such as POST and PUT imposed by the HTTP specification. 302 Moved Temporarily, 301 Moved Permanently and 307 Temporary Redirect status codes will result in an automatic redirect of HEAD and GET methods only. POST and PUT methods will not be automatically redirected as requiring user confirmation.&#10;The restriction on automatic redirection of POST methods can be relaxed by using LaxRedirectStrategy instead of DefaultRedirectStrategy." />
-      <item value="MATERIALIZED" />
-      <item value="header is present on the requested resource." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1265" />
+        <entry key="CHINESE" value="1266" />
         <entry key="ENGLISH" value="1266" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
