@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities. getObjectType() getObject() invocations may arrive early in the bootstrap process, even ahead of any post-processor setup" />
+      <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities" />
+      <item value="this is only common for infrastructure code" />
       <item value="已经" />
       <item value="Discard Policy" />
       <item value="ORDINAL" />
@@ -48,13 +51,10 @@
       <item value="source Amount" />
       <item value="init Domain Search Dto" />
       <item value="Specification" />
-      <item value="Exension Config" />
-      <item value="Composite Predicate" />
-      <item value="instance-info-replication-interval-seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1269" />
+        <entry key="CHINESE" value="1270" />
         <entry key="ENGLISH" value="1270" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
