@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ORDINAL" />
       <item value="recommend to use" />
       <item value="sleuth" />
       <item value="接收" />
@@ -50,7 +51,6 @@
       <item value="instance-info-replication-interval-seconds" />
       <item value="payment" />
       <item value="All Encompassing Form Http Message Converter" />
-      <item value="Ωpayment" />
     </histories>
     <option name="languageScores">
       <map>
