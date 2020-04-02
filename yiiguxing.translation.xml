@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前端" />
+      <item value="前台" />
+      <item value="路由" />
+      <item value="油路" />
       <item value="休息" />
       <item value="Break off" />
       <item value="调休" />
@@ -47,10 +51,6 @@
       <item value="Predicate Spec" />
       <item value="RouteLocator" />
       <item value="migrate" />
-      <item value="dashboard" />
-      <item value="dashboared" />
-      <item value="Unsatisfied" />
-      <item value="Leading" />
     </histories>
     <option name="languageScores">
       <map>
