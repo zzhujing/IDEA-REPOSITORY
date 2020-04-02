@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="休息" />
+      <item value="Break off" />
+      <item value="调休" />
+      <item value="假期" />
+      <item value="annual" />
+      <item value="annual_leave_days" />
+      <item value="年假" />
+      <item value="Enters the duty time" />
+      <item value="onboardtime" />
+      <item value="on_board_time" />
       <item value="entry" />
       <item value="入职时间" />
       <item value="入职" />
@@ -41,21 +51,11 @@
       <item value="dashboared" />
       <item value="Unsatisfied" />
       <item value="Leading" />
-      <item value="strip Trailing" />
-      <item value="Returns a string whose value is this string, with all trailing white space removed. If this String object represents an empty string, or if all characters in this string are white space, then an empty string is returned. Otherwise, returns a substring of this string beginning with the first code point of this string up to and including the last code point that is not a white space. This method may be used to trim white space from the end of a string." />
-      <item value="leading" />
-      <item value="财务部" />
-      <item value="ROLE FINANCE" />
-      <item value="技术部" />
-      <item value="技术" />
-      <item value="财务" />
-      <item value="Zip Entry" />
-      <item value="certificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1273" />
-        <entry key="ENGLISH" value="1273" />
+        <entry key="CHINESE" value="1275" />
+        <entry key="ENGLISH" value="1276" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
