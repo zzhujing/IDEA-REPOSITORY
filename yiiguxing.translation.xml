@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Earlier initialize heart-beat when the spring container starts when the transport * dependency is on classpath, the configuration is effective" />
+      <item value="eager" />
       <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities. getObjectType() getObject() invocations may arrive early in the bootstrap process, even ahead of any post-processor setup" />
       <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities" />
       <item value="this is only common for infrastructure code" />
@@ -49,13 +51,11 @@
       <item value="YEAR PRICE CONFLICT" />
       <item value="origin Amount" />
       <item value="source Amount" />
-      <item value="init Domain Search Dto" />
-      <item value="Specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1270" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
