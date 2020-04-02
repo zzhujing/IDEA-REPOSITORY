@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entry" />
+      <item value="入职时间" />
+      <item value="入职" />
+      <item value="职位" />
+      <item value="值为" />
       <item value="Earlier initialize heart-beat when the spring container starts when the transport * dependency is on classpath, the configuration is effective" />
       <item value="eager" />
       <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities. getObjectType() getObject() invocations may arrive early in the bootstrap process, even ahead of any post-processor setup" />
@@ -46,16 +51,11 @@
       <item value="财务" />
       <item value="Zip Entry" />
       <item value="certificate" />
-      <item value="yield" />
-      <item value="get Reachable Servers" />
-      <item value="YEAR PRICE CONFLICT" />
-      <item value="origin Amount" />
-      <item value="source Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1271" />
-        <entry key="ENGLISH" value="1272" />
+        <entry key="CHINESE" value="1273" />
+        <entry key="ENGLISH" value="1273" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
