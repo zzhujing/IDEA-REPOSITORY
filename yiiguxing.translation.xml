@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce Account" />
       <item value="reduce Storage" />
       <item value="减少库存" />
       <item value="substract Storage" />
@@ -50,12 +51,11 @@
       <item value="接受者" />
       <item value="destination " />
       <item value="destination" />
-      <item value="Copied from WebFilter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1287" />
+        <entry key="CHINESE" value="1287" />
+        <entry key="ENGLISH" value="1288" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
