@@ -27,17 +27,23 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="DSM.OpenInEditor" />
+  <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debugger.EditFrameSource" />
+  <action id="Diff.ShowDiff" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="DuplicatesForm.SendToLeft">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -47,9 +53,6 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -58,19 +61,11 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
-  <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
   <action id="ExternalSystem.OpenConfig" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -94,6 +89,7 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
@@ -107,11 +103,13 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="alt down" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
-  <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="alt up" />
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="NavBar-navigate" />
   <action id="NavBar-selectEnd">
@@ -126,6 +124,7 @@
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="ProjectViewEditSource" />
+  <action id="QuickActionPopup" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
@@ -145,6 +144,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunClass" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.Run" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -152,6 +152,7 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SendEOF" />
   <action id="ServiceView.JumpToServices">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -186,6 +187,7 @@
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -193,4 +195,5 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
