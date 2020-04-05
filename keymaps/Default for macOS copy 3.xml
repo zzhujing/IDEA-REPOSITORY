@@ -5,9 +5,6 @@
   <action id="$ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
