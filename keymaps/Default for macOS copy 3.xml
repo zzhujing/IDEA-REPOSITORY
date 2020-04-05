@@ -12,7 +12,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="f2" />
@@ -51,12 +51,10 @@
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="ExternalSystem.OpenConfig" />
   <action id="ExtractMethod">
@@ -71,7 +69,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
