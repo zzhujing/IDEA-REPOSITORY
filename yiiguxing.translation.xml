@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Health Indicator" />
       <item value="no available service 'null' found, please make sure registry config correct" />
       <item value="place On Order" />
       <item value="place On" />
@@ -50,12 +51,11 @@
       <item value="ORDINAL" />
       <item value="recommend to use" />
       <item value="sleuth" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1291" />
-        <entry key="ENGLISH" value="1292" />
+        <entry key="CHINESE" value="1292" />
+        <entry key="ENGLISH" value="1293" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
