@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return an instance (possibly shared or independent) of the object * managed by this factory" />
+      <item value="get If Available" />
       <item value="INDENT OUTPUT(false)," />
       <item value="INDENT OUTPUT" />
       <item value="Extension Config" />
@@ -49,13 +51,11 @@
       <item value="职位" />
       <item value="值为" />
       <item value="Earlier initialize heart-beat when the spring container starts when the transport * dependency is on classpath, the configuration is effective" />
-      <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities. getObjectType() getObject() invocations may arrive early in the bootstrap process, even ahead of any post-processor setup" />
-      <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1296" />
-        <entry key="ENGLISH" value="1297" />
+        <entry key="CHINESE" value="1298" />
+        <entry key="ENGLISH" value="1299" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
