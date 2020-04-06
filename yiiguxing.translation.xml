@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retention Policy" />
       <item value="Return an instance (possibly shared or independent) of the object * managed by this factory" />
       <item value="get If Available" />
       <item value="INDENT OUTPUT(false)," />
@@ -50,12 +51,11 @@
       <item value="入职" />
       <item value="职位" />
       <item value="值为" />
-      <item value="Earlier initialize heart-beat when the spring container starts when the transport * dependency is on classpath, the configuration is effective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1298" />
-        <entry key="ENGLISH" value="1299" />
+        <entry key="CHINESE" value="1299" />
+        <entry key="ENGLISH" value="1300" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
