@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="符号" />
       <item value="SLAVER" />
       <item value="Retention Policy" />
       <item value="Return an instance (possibly shared or independent) of the object * managed by this factory" />
@@ -50,12 +51,11 @@
       <item value="entry" />
       <item value="入职时间" />
       <item value="入职" />
-      <item value="职位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1300" />
-        <entry key="ENGLISH" value="1301" />
+        <entry key="CHINESE" value="1301" />
+        <entry key="ENGLISH" value="1302" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
