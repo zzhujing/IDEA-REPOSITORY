@@ -32,6 +32,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debugger.EditFrameSource" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
@@ -91,6 +92,7 @@
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor" />
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
@@ -98,14 +100,6 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MoveLineDown" />
-  <action id="MoveLineUp" />
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
   <action id="NavBar-navigate" />
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -132,6 +126,9 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
