@@ -48,9 +48,6 @@
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
