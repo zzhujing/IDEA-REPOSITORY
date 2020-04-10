@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差距" />
+      <item value="差值" />
       <item value="usable bits of normal node hash" />
       <item value="usable" />
       <item value="spread" />
@@ -49,13 +51,11 @@
       <item value="no available service 'null' found, please make sure registry config correct" />
       <item value="place On Order" />
       <item value="place On" />
-      <item value="Auto proxy of DataSource can't be enabled as you've created a DataSourceProxy bean.Please consider removing DataSourceProxy bean or disabling auto proxy of DataSource." />
-      <item value="reduce Account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1319" />
-        <entry key="ENGLISH" value="1320" />
+        <entry key="CHINESE" value="1320" />
+        <entry key="ENGLISH" value="1321" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
