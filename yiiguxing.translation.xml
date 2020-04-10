@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pronounced &quot;deck&quot;" />
+      <item value="at both ends" />
       <item value="constraints" />
       <item value="distance" />
       <item value="Ωdistance" />
@@ -49,12 +51,10 @@
       <item value="place An Order" />
       <item value="place" />
       <item value="下订单" />
-      <item value="下单" />
-      <item value="Ω" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1314" />
+        <entry key="CHINESE" value="1315" />
         <entry key="ENGLISH" value="1315" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
