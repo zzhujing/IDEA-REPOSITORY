@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Navigable Map" />
       <item value="assume" />
       <item value="流程" />
       <item value="assigne" />
@@ -50,12 +51,11 @@
       <item value="evict" />
       <item value="set If Present" />
       <item value="Name of application used to fetch remote properties" />
-      <item value="DEGRADE GRADE RT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1309" />
-        <entry key="ENGLISH" value="1309" />
+        <entry key="ENGLISH" value="1310" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
