@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="particular" />
+      <item value="park" />
       <item value="get Universe" />
       <item value="This implementation iterates over this collection, checking each * element returned by the iterator in turn to see if it's contained * in the specified collection. If it's not so contained, it's removed * from this collection with the iterator's {@code remove} method." />
       <item value="Retains" />
@@ -49,13 +51,11 @@
       <item value="脚手架" />
       <item value="uint" />
       <item value="precedence" />
-      <item value="eager" />
-      <item value="Health Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1323" />
-        <entry key="ENGLISH" value="1324" />
+        <entry key="CHINESE" value="1325" />
+        <entry key="ENGLISH" value="1326" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
