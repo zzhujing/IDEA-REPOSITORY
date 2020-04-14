@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多线程" />
       <item value="gender" />
       <item value="Ωgender" />
       <item value="销售员" />
@@ -50,12 +51,11 @@
       <item value="if_symbol" />
       <item value="语句" />
       <item value="分支循环" />
-      <item value="符号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1332" />
-        <entry key="ENGLISH" value="1332" />
+        <entry key="ENGLISH" value="1333" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
