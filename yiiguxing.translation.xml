@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退出" />
+      <item value="back up" />
       <item value="离职" />
       <item value="已成交" />
       <item value="intention" />
@@ -49,13 +51,11 @@
       <item value="redundant" />
       <item value="œ" />
       <item value="Local variable 'arr2' is redundan" />
-      <item value="菱形" />
-      <item value="fallthrough" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1333" />
-        <entry key="ENGLISH" value="1334" />
+        <entry key="CHINESE" value="1335" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
