@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclusive mode" />
+      <item value="exclusive" />
       <item value="AbstractQueuedSynchronizer" />
       <item value="Queue" />
       <item value="semaphore" />
@@ -49,13 +51,11 @@
       <item value="UNTREEIFY THRESHOLD" />
       <item value="cified position in this li" />
       <item value="huge Capacity" />
-      <item value="pronounced &quot;deck&quot;" />
-      <item value="at both ends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1343" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1345" />
+        <entry key="ENGLISH" value="1346" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
