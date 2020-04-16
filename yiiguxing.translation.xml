@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AbstractQueuedSynchronizer" />
+      <item value="Queue" />
+      <item value="semaphore" />
+      <item value="The three forms of condition waiting (interruptible, non-interruptible, and timed) may differ in their ease of implementation on some platforms and in their performance characteristics. In particular, it may be difficult to provide these features and maintain specific semantics such as ordering guarantees. Further, the ability to interrupt the actual suspension of the thread may not always be feasible to implement on all platforms. Consequently, an implementation is not required to define exactly the same guarantees or semantics for all three forms of waiting, nor is it required to support interruption of the actual suspension of the thread. An implementation is required to clearly document the semantics and guarantees provided by each of the waiting methods, and when an implementation does support interruption of thread suspension then it must obey the interruption semantics as defined in this interface. As interruption generally implies cancellation, and checks for interruption are often infrequent, an implementation can favor responding to an interrupt over normal method return. This is true even if it can be shown that the interrupt occurred after another action that may have unblocked the thread. An implementation should document this behav" />
+      <item value="or not requiring a lock to be held * when performing notifications" />
+      <item value="guaranteed ordering for notifications" />
+      <item value="guaranteed" />
+      <item value="semantics" />
+      <item value="behavior" />
+      <item value="e; if a put is attempted on a full buffer, then the thread will block until a space becomes available. We would like to keep waiting put threads and take threads in separate wait-sets so that we can use the optimization of only notifying a single thread at a time when items or spaces become available in the buffer. This can be achieved using two Condition instances." />
+      <item value="Condition factors out the Object monitor methods (wait, notify and notifyAll) into distinct objects to give the effect of having multiple wait-sets per obj" />
+      <item value="factors out" />
       <item value="forget" />
       <item value="forgot" />
       <item value="CAPTCHA" />
@@ -39,23 +51,11 @@
       <item value="huge Capacity" />
       <item value="pronounced &quot;deck&quot;" />
       <item value="at both ends" />
-      <item value="constraints" />
-      <item value="distance" />
-      <item value="Ωdistance" />
-      <item value="rotate" />
-      <item value="shuffle" />
-      <item value="Navigable Map" />
-      <item value="assume" />
-      <item value="流程" />
-      <item value="assigne" />
-      <item value="also for a deployable application using" />
-      <item value="访问" />
-      <item value="Access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1339" />
-        <entry key="ENGLISH" value="1340" />
+        <entry key="CHINESE" value="1343" />
+        <entry key="ENGLISH" value="1343" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
