@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Try immediate barge, backing up to normal * acquire on failure" />
       <item value="fair" />
       <item value="Ωfair" />
       <item value="has Queued Predecessors" />
@@ -50,12 +51,11 @@
       <item value="back up" />
       <item value="离职" />
       <item value="已成交" />
-      <item value="intention" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1366" />
-        <entry key="ENGLISH" value="1366" />
+        <entry key="ENGLISH" value="1367" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
