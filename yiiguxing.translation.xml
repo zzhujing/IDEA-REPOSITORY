@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should Park After Failed Acquire" />
+      <item value="EXCLUSIVE" />
       <item value="So the currently released * contender thread may need to rewait" />
       <item value="it only gives the right to contend" />
       <item value="contend" />
@@ -49,13 +51,11 @@
       <item value="particular" />
       <item value="park" />
       <item value="get Universe" />
-      <item value="This implementation iterates over this collection, checking each * element returned by the iterator in turn to see if it's contained * in the specified collection. If it's not so contained, it's removed * from this collection with the iterator's {@code remove} method." />
-      <item value="Retains" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1350" />
-        <entry key="ENGLISH" value="1351" />
+        <entry key="CHINESE" value="1352" />
+        <entry key="ENGLISH" value="1353" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
