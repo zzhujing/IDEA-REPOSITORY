@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fair" />
+      <item value="Ωfair" />
+      <item value="has Queued Predecessors" />
       <item value="Unlinks" />
       <item value="successor" />
       <item value="acquire" />
@@ -48,14 +51,11 @@
       <item value="离职" />
       <item value="已成交" />
       <item value="intention" />
-      <item value="高意向" />
-      <item value="多线程" />
-      <item value="gender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1364" />
-        <entry key="ENGLISH" value="1365" />
+        <entry key="CHINESE" value="1366" />
+        <entry key="ENGLISH" value="1366" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
