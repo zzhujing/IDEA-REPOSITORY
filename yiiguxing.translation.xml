@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="successor" />
       <item value="acquire" />
       <item value="This node has already set status asking a release * to signal it, so it can safely park." />
       <item value="acquire Queued" />
@@ -8,7 +9,6 @@
       <item value="The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block" />
       <item value="The successor of this node is (or will soon be) * blocked (via park)," />
       <item value="waitStatus value to indicate successor's thread needs unparking" />
-      <item value="successor" />
       <item value="indicate" />
       <item value="Thread to unpark is held in successor, which is normally * just the next node. But if cancelled or apparently null, * traverse backwards from tail to find the actual * non-cancelled successor." />
       <item value="park" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1363" />
-        <entry key="ENGLISH" value="1363" />
+        <entry key="ENGLISH" value="1364" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
