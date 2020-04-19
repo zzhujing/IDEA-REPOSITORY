@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block" />
+      <item value="The successor of this node is (or will soon be) * blocked (via park)," />
+      <item value="waitStatus value to indicate successor's thread needs unparking" />
+      <item value="successor" />
+      <item value="indicate" />
       <item value="Thread to unpark is held in successor, which is normally * just the next node. But if cancelled or apparently null, * traverse backwards from tail to find the actual * non-cancelled successor." />
       <item value="park" />
       <item value="should Park After Failed Acquire" />
@@ -46,16 +51,11 @@
       <item value="销售" />
       <item value="Chronology" />
       <item value="Instantiation of utility class 'SingletonObject1'" />
-      <item value="equivalent" />
-      <item value="judge Dns State" />
-      <item value="Inheritable" />
-      <item value="A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint. * * &lt;p&gt; Yield is a heuristic attempt to improve relative progression * between threads that would otherwise over-utilise a CPU. Its use * should be combined with detailed profiling and benchmarking to * ensure that it actually has the desired effect. * * &lt;p&gt; It is rarely appropriate to use this method. It may be useful * for debugging or testing purposes, where it may help to reproduce * bugs due to race conditions. It may also be useful when designing * concurrency control constructs such as the ones in the * {@link java.util.concurrent.locks} package." />
-      <item value="particular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1354" />
-        <entry key="ENGLISH" value="1355" />
+        <entry key="CHINESE" value="1359" />
+        <entry key="ENGLISH" value="1360" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
