@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cyclic Barrier" />
       <item value="HASH BITS" />
       <item value="0 x 7 fffffff" />
       <item value="Strategy interface used by TransactionInterceptor for metadata retrieval. Implementations know how to source transaction attributes, whether from configuration, metadata attributes at source level (such as Java 5 annotations), or anywhere else" />
@@ -50,12 +51,11 @@
       <item value="semantics" />
       <item value="behavior" />
       <item value="e; if a put is attempted on a full buffer, then the thread will block until a space becomes available. We would like to keep waiting put threads and take threads in separate wait-sets so that we can use the optimization of only notifying a single thread at a time when items or spaces become available in the buffer. This can be achieved using two Condition instances." />
-      <item value="Condition factors out the Object monitor methods (wait, notify and notifyAll) into distinct objects to give the effect of having multiple wait-sets per obj" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1374" />
-        <entry key="ENGLISH" value="1375" />
+        <entry key="CHINESE" value="1375" />
+        <entry key="ENGLISH" value="1376" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
