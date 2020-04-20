@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strategy interface used by TransactionInterceptor for metadata retrieval. Implementations know how to source transaction attributes, whether from configuration, metadata attributes at source level (such as Java 5 annotations), or anywhere else" />
+      <item value="within" />
+      <item value="Invocation" />
       <item value="determine Transaction Attribute" />
       <item value="get Most Specific Method" />
       <item value="Introduction Advisor" />
@@ -48,14 +51,11 @@
       <item value="Condition factors out the Object monitor methods (wait, notify and notifyAll) into distinct objects to give the effect of having multiple wait-sets per obj" />
       <item value="factors out" />
       <item value="forget" />
-      <item value="forgot" />
-      <item value="CAPTCHA" />
-      <item value="CAPTHER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1371" />
-        <entry key="ENGLISH" value="1372" />
+        <entry key="CHINESE" value="1374" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
