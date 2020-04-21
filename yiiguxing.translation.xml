@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="run After Both Async" />
       <item value="Queries whether any threads have been waiting to acquire longer * than the current thread" />
       <item value="Queries whether any threads have been waiting to acquire longer than the current thread. An invocation of this method is equivalent to (but may be more efficient than): getFirstQueuedThread() != Thread.currentThread() &amp;&amp; hasQueuedThreads() Note that because cancellations due to interrupts and timeouts may occur at any time, a true return does not guarantee that some other thread will acquire before the current thread. Likewise, it is possible for another thread to win a race to enqueue after this method has returned false, due to the queue being empty. This method is designed to be used by a fair synchronizer to avoid barging. Such a synchronizer's tryAcquire method should return false, and its tryAcquireShared method should return a negative value, if this method returns true (unless this is a reentrant acquire). For example, the tryAcquire method for a fair, reentrant, exclusive mode synchronizer might look like this:" />
       <item value="a queued thread preceding the * current thread" />
@@ -50,12 +51,11 @@
       <item value="Craig" />
       <item value="its waitStatus is guaranteed not to be * CANCELLED" />
       <item value="is Held Exclusively" />
-      <item value="exclusive mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1381" />
-        <entry key="ENGLISH" value="1382" />
+        <entry key="CHINESE" value="1382" />
+        <entry key="ENGLISH" value="1383" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
