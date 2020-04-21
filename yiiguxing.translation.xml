@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If successor needs signal, try to set pred's next-link // so it will get one. Otherwise wake it up to propagate" />
       <item value="compose" />
       <item value="run After Both Async" />
       <item value="Queries whether any threads have been waiting to acquire longer * than the current thread" />
@@ -50,12 +51,11 @@
       <item value="The wait queue is a variant of a &quot;CLH&quot; (Craig, Landin, and * Hagersten" />
       <item value="Craig, Landin, and * Hagersten" />
       <item value="Craig" />
-      <item value="its waitStatus is guaranteed not to be * CANCELLED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1383" />
-        <entry key="ENGLISH" value="1383" />
+        <entry key="ENGLISH" value="1384" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
