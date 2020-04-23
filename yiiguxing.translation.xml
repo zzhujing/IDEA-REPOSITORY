@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eager" />
+      <item value="// Do not allow eager init for type matching in case of a prioritized post-processor." />
       <item value="optimized" />
       <item value="individual" />
       <item value="instantiated" />
@@ -49,13 +51,11 @@
       <item value="add Waiter" />
       <item value="The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block" />
       <item value="The successor of this node is (or will soon be) * blocked (via park)," />
-      <item value="waitStatus value to indicate successor's thread needs unparking" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1390" />
-        <entry key="ENGLISH" value="1391" />
+        <entry key="CHINESE" value="1392" />
+        <entry key="ENGLISH" value="1393" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
