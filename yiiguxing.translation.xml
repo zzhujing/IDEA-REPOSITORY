@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimized" />
+      <item value="individual" />
+      <item value="instantiated" />
       <item value="Presents a view onto an annotation where attribute values may * have been &quot;merged&quot; from different source values" />
       <item value="A single merged annotation returned from a MergedAnnotations collection. Presents a view onto an annotation where attribute values may have been &quot;merged&quot; from different source values. Attribute values may be accessed using the various get methods. For example, to access an int attribute the getInt(String) method would be used. Note that attribute values are not converted when accessed. For example, it is not possible to call getString(String) if the underlying attribute is an int. The only exception to this rule is Class and Class[] values which may be accessed as String and String[] respectively to prevent potential early class initialization. If necessary, a MergedAnnotation can be synthesized back into an actual Annotation." />
       <item value="intended" />
@@ -48,14 +51,11 @@
       <item value="The successor of this node is (or will soon be) * blocked (via park)," />
       <item value="waitStatus value to indicate successor's thread needs unparking" />
       <item value="indicate" />
-      <item value="Thread to unpark is held in successor, which is normally * just the next node. But if cancelled or apparently null, * traverse backwards from tail to find the actual * non-cancelled successor." />
-      <item value="park" />
-      <item value="should Park After Failed Acquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1389" />
-        <entry key="ENGLISH" value="1390" />
+        <entry key="CHINESE" value="1390" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
