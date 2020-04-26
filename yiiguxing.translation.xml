@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actual * type of underlying resource" />
+      <item value="underlying" />
       <item value="actual" />
       <item value="Input Stream Source" />
       <item value="eager" />
@@ -49,13 +51,11 @@
       <item value="successor" />
       <item value="acquire" />
       <item value="This node has already set status asking a release * to signal it, so it can safely park." />
-      <item value="acquire Queued" />
-      <item value="add Waiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1395" />
+        <entry key="CHINESE" value="1397" />
+        <entry key="ENGLISH" value="1398" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
