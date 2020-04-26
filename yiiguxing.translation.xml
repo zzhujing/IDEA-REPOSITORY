@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal utility used to load" />
       <item value="lite" />
       <item value="as appropriate based on an" />
       <item value="Hierarchical Bean Factory" />
@@ -50,12 +51,11 @@
       <item value="get Most Specific Method" />
       <item value="Introduction Advisor" />
       <item value="this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
-      <item value="The correctness of this depends on head being initialized // before tail and on head.next being accurate if the current // thread is first in queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1406" />
+        <entry key="CHINESE" value="1406" />
+        <entry key="ENGLISH" value="1407" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
