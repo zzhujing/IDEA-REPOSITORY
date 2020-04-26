@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove Manual Singleton Name" />
       <item value="actual * type of underlying resource" />
       <item value="underlying" />
       <item value="actual" />
@@ -50,12 +51,11 @@
       <item value="Unlinks" />
       <item value="successor" />
       <item value="acquire" />
-      <item value="This node has already set status asking a release * to signal it, so it can safely park." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1397" />
-        <entry key="ENGLISH" value="1398" />
+        <entry key="CHINESE" value="1398" />
+        <entry key="ENGLISH" value="1399" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
