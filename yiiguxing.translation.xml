@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="traversing the parent bean definition" />
+      <item value="traversing" />
       <item value="remove Manual Singleton Name" />
       <item value="actual * type of underlying resource" />
       <item value="underlying" />
@@ -49,13 +51,11 @@
       <item value="Ωfair" />
       <item value="has Queued Predecessors" />
       <item value="Unlinks" />
-      <item value="successor" />
-      <item value="acquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1398" />
-        <entry key="ENGLISH" value="1399" />
+        <entry key="CHINESE" value="1400" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
