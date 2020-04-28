@@ -7,11 +7,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
 </application>
