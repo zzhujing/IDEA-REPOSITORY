@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Obtain a reference for early access to the specified bean, * typically for the purpose of resolving a circular reference. * &lt;p&gt;This callback gives post-processors a chance to expose a wrapper * early - that is, before the target bean instance is fully initialized. * The exposed object should be equivalent to the what * {@link #postProcessBeforeInitialization} / {@link #postProcessAfterInitialization} * would expose otherwise. Note that the object returned by this method will * be used as bean reference unless the post-processor returns a different * wrapper from said post-process callbacks. In other words: Those post-process * callbacks may either eventually expose the same reference or alternatively * return the raw bean instance from those subsequent callbacks (if the wrapper * for the affected bean has been built for a call to this method already, * it will be exposes as final bean reference by default)." />
+      <item value="equivalent" />
       <item value="构建一些常用的docker镜像" />
       <item value="常用" />
       <item value="scenario" />
@@ -49,13 +51,11 @@
       <item value="HASH BITS" />
       <item value="0 x 7 fffffff" />
       <item value="Strategy interface used by TransactionInterceptor for metadata retrieval. Implementations know how to source transaction attributes, whether from configuration, metadata attributes at source level (such as Java 5 annotations), or anywhere else" />
-      <item value="within" />
-      <item value="Invocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="1411" />
+        <entry key="ENGLISH" value="1412" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
