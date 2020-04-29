@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="构建一些常用的docker镜像" />
+      <item value="常用" />
       <item value="scenario" />
       <item value="REUSE" />
       <item value="Internal utility used to load" />
@@ -49,13 +51,11 @@
       <item value="Strategy interface used by TransactionInterceptor for metadata retrieval. Implementations know how to source transaction attributes, whether from configuration, metadata attributes at source level (such as Java 5 annotations), or anywhere else" />
       <item value="within" />
       <item value="Invocation" />
-      <item value="determine Transaction Attribute" />
-      <item value="get Most Specific Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1408" />
-        <entry key="ENGLISH" value="1409" />
+        <entry key="CHINESE" value="1409" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
