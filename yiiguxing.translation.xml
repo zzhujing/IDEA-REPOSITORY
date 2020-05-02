@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Method With Minimal Parameters" />
       <item value="Extension of the {@link FactoryBean} interface. Implementations may * indicate whether they always return independent instances, for the * case where their {@link #isSingleton()} implementation returning * {@code false} does not clearly indicate independent instances. * * &lt;p&gt;Plain {@link FactoryBean} implementations which do not implement * this extended interface are simply assumed to always return independent * instances if their {@link #isSingleton()} implementation returns * {@code false}; the exposed object is only accessed on demand. * * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; This interface is a special purpose interface, mainly for * internal use within the framework and within collaborating frameworks. * In general, application-provided FactoryBeans should simply implement * the plain {@link FactoryBean} interface. New methods might be added * to this extended interface even in point releases." />
       <item value="independent" />
       <item value="indicate" />
@@ -50,12 +51,11 @@
       <item value="Privileged Thread Factory" />
       <item value="waiting if necessary up to the specified wait * time if none are yet present." />
       <item value="sketch" />
-      <item value="associated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1417" />
-        <entry key="ENGLISH" value="1418" />
+        <entry key="CHINESE" value="1418" />
+        <entry key="ENGLISH" value="1419" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
