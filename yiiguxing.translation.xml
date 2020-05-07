@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Top Sec" />
       <item value="init Balance" />
       <item value="reclaim Broken Jedis" />
-      <item value="Top Sec" />
       <item value="additivity" />
       <item value="flyer goods" />
       <item value="Biz Exception" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1427" />
-        <entry key="ENGLISH" value="1428" />
+        <entry key="CHINESE" value="1428" />
+        <entry key="ENGLISH" value="1429" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
