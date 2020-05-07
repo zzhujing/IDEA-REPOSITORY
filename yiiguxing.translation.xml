@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kaptcha" />
+      <item value="capture" />
+      <item value="图形码" />
+      <item value="验证码" />
       <item value="comment out in production to improve performance" />
       <item value="potentially" />
       <item value="or otherwise simply the declaring class itself" />
@@ -47,15 +51,11 @@
       <item value="// Do not allow eager init for type matching in case of a prioritized post-processor." />
       <item value="optimized" />
       <item value="individual" />
-      <item value="instantiated" />
-      <item value="Presents a view onto an annotation where attribute values may * have been &quot;merged&quot; from different source values" />
-      <item value="A single merged annotation returned from a MergedAnnotations collection. Presents a view onto an annotation where attribute values may have been &quot;merged&quot; from different source values. Attribute values may be accessed using the various get methods. For example, to access an int attribute the getInt(String) method would be used. Note that attribute values are not converted when accessed. For example, it is not possible to call getString(String) if the underlying attribute is an int. The only exception to this rule is Class and Class[] values which may be accessed as String and String[] respectively to prevent potential early class initialization. If necessary, a MergedAnnotation can be synthesized back into an actual Annotation." />
-      <item value="intended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1432" />
-        <entry key="ENGLISH" value="1433" />
+        <entry key="CHINESE" value="1434" />
+        <entry key="ENGLISH" value="1434" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
