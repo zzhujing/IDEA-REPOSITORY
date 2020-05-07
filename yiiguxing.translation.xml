@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment out in production to improve performance" />
+      <item value="potentially" />
+      <item value="or otherwise simply the declaring class itself" />
+      <item value="containing" />
       <item value="Top Sec" />
       <item value="init Balance" />
       <item value="reclaim Broken Jedis" />
@@ -47,15 +51,11 @@
       <item value="Presents a view onto an annotation where attribute values may * have been &quot;merged&quot; from different source values" />
       <item value="A single merged annotation returned from a MergedAnnotations collection. Presents a view onto an annotation where attribute values may have been &quot;merged&quot; from different source values. Attribute values may be accessed using the various get methods. For example, to access an int attribute the getInt(String) method would be used. Note that attribute values are not converted when accessed. For example, it is not possible to call getString(String) if the underlying attribute is an int. The only exception to this rule is Class and Class[] values which may be accessed as String and String[] respectively to prevent potential early class initialization. If necessary, a MergedAnnotation can be synthesized back into an actual Annotation." />
       <item value="intended" />
-      <item value="corresponding" />
-      <item value="canonical" />
-      <item value="intern" />
-      <item value="Ensure that a release propagates, even if there are other * in-progress acquires/releases. This proceeds in the usual * way of trying to unparkSuccessor of head if it needs * signal. But if it does not, status is set to PROPAGATE to * ensure that upon release, propagation continues. * Additionally, we must loop in case a new node is added * while we are doing this. Also, unlike other uses of * unparkSuccessor, we need to know if CAS to reset status * fails, if so rechecking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1428" />
-        <entry key="ENGLISH" value="1429" />
+        <entry key="CHINESE" value="1432" />
+        <entry key="ENGLISH" value="1433" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="8" />
