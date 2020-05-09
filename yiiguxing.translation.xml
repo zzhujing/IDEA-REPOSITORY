@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="save Certificate" />
       <item value="sensitive" />
       <item value="Ω" />
       <item value="段落" />
@@ -50,12 +51,11 @@
       <item value="actual * type of underlying resource" />
       <item value="underlying" />
       <item value="actual" />
-      <item value="Input Stream Source" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1435" />
-        <entry key="ENGLISH" value="1435" />
+        <entry key="ENGLISH" value="1436" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
