@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="breadcrumb" />
+      <item value="layui-breadcrumb" />
       <item value="yesterday" />
       <item value="calculate Logistics Fee" />
       <item value="Copyright" />
@@ -49,13 +51,11 @@
       <item value="Hierarchical Bean Factory" />
       <item value="intervals" />
       <item value="uri Variables" />
-      <item value="traversing the parent bean definition" />
-      <item value="traversing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1439" />
+        <entry key="CHINESE" value="1440" />
+        <entry key="ENGLISH" value="1441" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
