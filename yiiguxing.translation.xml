@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报表" />
       <item value="midnight" />
       <item value="pre Deal" />
       <item value="breadcrumb" />
@@ -50,12 +51,11 @@
       <item value="Internal utility used to load" />
       <item value="lite" />
       <item value="as appropriate based on an" />
-      <item value="Hierarchical Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1442" />
-        <entry key="ENGLISH" value="1443" />
+        <entry key="CHINESE" value="1443" />
+        <entry key="ENGLISH" value="1444" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
