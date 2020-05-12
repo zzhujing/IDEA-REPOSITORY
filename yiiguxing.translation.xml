@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permit Order Count Zero" />
+      <item value="district" />
+      <item value="商户对账" />
       <item value="报表" />
       <item value="midnight" />
       <item value="pre Deal" />
@@ -48,14 +51,11 @@
       <item value="常用" />
       <item value="scenario" />
       <item value="REUSE" />
-      <item value="Internal utility used to load" />
-      <item value="lite" />
-      <item value="as appropriate based on an" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1443" />
-        <entry key="ENGLISH" value="1444" />
+        <entry key="CHINESE" value="1445" />
+        <entry key="ENGLISH" value="1446" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
