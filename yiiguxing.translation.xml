@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pre Deal" />
       <item value="breadcrumb" />
       <item value="layui-breadcrumb" />
       <item value="yesterday" />
@@ -50,12 +51,11 @@
       <item value="as appropriate based on an" />
       <item value="Hierarchical Bean Factory" />
       <item value="intervals" />
-      <item value="uri Variables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1440" />
-        <entry key="ENGLISH" value="1441" />
+        <entry key="CHINESE" value="1441" />
+        <entry key="ENGLISH" value="1442" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
