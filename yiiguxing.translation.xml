@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disable Circular Reference Detect" />
       <item value="间隔" />
       <item value="辅助表" />
       <item value="临时表" />
@@ -50,12 +51,11 @@
       <item value="indicate" />
       <item value="Class Derived Bean Definition" />
       <item value="Preferred constructors for default construction" />
-      <item value="minimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1448" />
-        <entry key="ENGLISH" value="1449" />
+        <entry key="CHINESE" value="1449" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
