@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reconciliation" />
+      <item value="商户对账" />
+      <item value="对账" />
       <item value="Disable Circular Reference Detect" />
       <item value="间隔" />
       <item value="辅助表" />
@@ -10,7 +13,6 @@
       <item value="商户对账汇总" />
       <item value="permit Order Count Zero" />
       <item value="district" />
-      <item value="商户对账" />
       <item value="报表" />
       <item value="midnight" />
       <item value="pre Deal" />
@@ -49,13 +51,11 @@
       <item value="Extension of the {@link FactoryBean} interface. Implementations may * indicate whether they always return independent instances, for the * case where their {@link #isSingleton()} implementation returning * {@code false} does not clearly indicate independent instances. * * &lt;p&gt;Plain {@link FactoryBean} implementations which do not implement * this extended interface are simply assumed to always return independent * instances if their {@link #isSingleton()} implementation returns * {@code false}; the exposed object is only accessed on demand. * * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; This interface is a special purpose interface, mainly for * internal use within the framework and within collaborating frameworks. * In general, application-provided FactoryBeans should simply implement * the plain {@link FactoryBean} interface. New methods might be added * to this extended interface even in point releases." />
       <item value="independent" />
       <item value="indicate" />
-      <item value="Class Derived Bean Definition" />
-      <item value="Preferred constructors for default construction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1449" />
-        <entry key="ENGLISH" value="1450" />
+        <entry key="CHINESE" value="1451" />
+        <entry key="ENGLISH" value="1451" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
