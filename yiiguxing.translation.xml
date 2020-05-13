@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prevent Default" />
       <item value="fluid" />
       <item value="layui-fluid" />
       <item value="仓库" />
@@ -50,12 +51,11 @@
       <item value="restriction" />
       <item value="registry" />
       <item value="register" />
-      <item value="update Manual Singleton Names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1453" />
-        <entry key="ENGLISH" value="1454" />
+        <entry key="CHINESE" value="1454" />
+        <entry key="ENGLISH" value="1455" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
