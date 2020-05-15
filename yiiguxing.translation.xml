@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="custom Date" />
+      <item value="customizer Date" />
+      <item value="customize Date" />
+      <item value="指定的" />
+      <item value="指定" />
       <item value="get Un Sync Time Range" />
       <item value="Already" />
       <item value="之前" />
@@ -46,16 +51,11 @@
       <item value="图形码" />
       <item value="验证码" />
       <item value="comment out in production to improve performance" />
-      <item value="potentially" />
-      <item value="or otherwise simply the declaring class itself" />
-      <item value="containing" />
-      <item value="Top Sec" />
-      <item value="init Balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1461" />
-        <entry key="ENGLISH" value="1462" />
+        <entry key="CHINESE" value="1465" />
+        <entry key="ENGLISH" value="1466" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
