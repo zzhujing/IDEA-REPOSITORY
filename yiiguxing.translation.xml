@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="之前" />
       <item value="newest Record" />
       <item value="newest Trade Time" />
       <item value="最新" />
@@ -50,12 +51,11 @@
       <item value="init Balance" />
       <item value="reclaim Broken Jedis" />
       <item value="additivity" />
-      <item value="flyer goods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1459" />
-        <entry key="ENGLISH" value="1460" />
+        <entry key="CHINESE" value="1460" />
+        <entry key="ENGLISH" value="1461" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
