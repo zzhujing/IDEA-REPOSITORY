@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thridpart" />
+      <item value="Thrid Part" />
       <item value="custom Date" />
       <item value="customizer Date" />
       <item value="customize Date" />
@@ -49,13 +51,11 @@
       <item value="kaptcha" />
       <item value="capture" />
       <item value="图形码" />
-      <item value="验证码" />
-      <item value="comment out in production to improve performance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1465" />
-        <entry key="ENGLISH" value="1466" />
+        <entry key="CHINESE" value="1466" />
+        <entry key="ENGLISH" value="1467" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
