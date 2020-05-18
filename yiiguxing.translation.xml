@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rest Client Fallback Configuration" />
       <item value="posting List" />
       <item value="posting" />
       <item value="term" />
@@ -50,12 +51,11 @@
       <item value="layui-breadcrumb" />
       <item value="yesterday" />
       <item value="calculate Logistics Fee" />
-      <item value="Copyright" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1472" />
-        <entry key="ENGLISH" value="1472" />
+        <entry key="ENGLISH" value="1473" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
