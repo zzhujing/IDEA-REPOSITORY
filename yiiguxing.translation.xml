@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="posting List" />
+      <item value="posting" />
+      <item value="term" />
       <item value="接收方" />
       <item value="of Epoch Second" />
       <item value="morphia" />
@@ -48,13 +51,10 @@
       <item value="yesterday" />
       <item value="calculate Logistics Fee" />
       <item value="Copyright" />
-      <item value="associated" />
-      <item value="save Certificate" />
-      <item value="sensitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1471" />
+        <entry key="CHINESE" value="1472" />
         <entry key="ENGLISH" value="1472" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
