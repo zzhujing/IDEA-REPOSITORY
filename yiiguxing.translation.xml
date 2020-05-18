@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index Coordinates" />
+      <item value="region DocumentOperations" />
+      <item value="region" />
       <item value="Rest Client Fallback Configuration" />
       <item value="posting List" />
       <item value="posting" />
@@ -48,14 +51,11 @@
       <item value="midnight" />
       <item value="pre Deal" />
       <item value="breadcrumb" />
-      <item value="layui-breadcrumb" />
-      <item value="yesterday" />
-      <item value="calculate Logistics Fee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1472" />
-        <entry key="ENGLISH" value="1473" />
+        <entry key="CHINESE" value="1475" />
+        <entry key="ENGLISH" value="1476" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="6" />
         <entry key="FRENCH" value="9" />
