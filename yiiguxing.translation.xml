@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Truncated incorrect DOUBLE value: '[Ljava.lang.String;@63512158'" />
       <item value="bluk" />
       <item value="Servlet Output Stream Copier" />
       <item value="Sets the doc source of the update request to be used when the document does not exists" />
@@ -50,7 +51,6 @@
       <item value="辅助表" />
       <item value="临时表" />
       <item value="query Customer Order In Month" />
-      <item value="每月" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,7 @@
         <entry key="FRENCH" value="9" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="7" />
