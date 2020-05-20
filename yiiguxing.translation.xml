@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upgrade Udf Application" />
+      <item value="compress Poster Img" />
       <item value="Bucket" />
       <item value="com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Truncated incorrect DOUBLE value: '[Ljava.lang.String;@63512158'" />
       <item value="bluk" />
@@ -49,15 +51,13 @@
       <item value="对账" />
       <item value="Disable Circular Reference Detect" />
       <item value="间隔" />
-      <item value="辅助表" />
-      <item value="临时表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1482" />
-        <entry key="ENGLISH" value="1483" />
+        <entry key="CHINESE" value="1484" />
+        <entry key="ENGLISH" value="1484" />
         <entry key="DANISH" value="7" />
-        <entry key="GERMAN" value="6" />
+        <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
