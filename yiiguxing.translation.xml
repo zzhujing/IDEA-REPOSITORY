@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="匿名" />
       <item value="layui-inline" />
       <item value="促销" />
       <item value="accuracy" />
@@ -50,12 +51,11 @@
       <item value="fluid" />
       <item value="layui-fluid" />
       <item value="仓库" />
-      <item value="warehouse Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1488" />
-        <entry key="ENGLISH" value="1488" />
+        <entry key="ENGLISH" value="1489" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
