@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register" />
+      <item value="registry" />
       <item value="匿名" />
       <item value="layui-inline" />
       <item value="促销" />
@@ -49,13 +51,11 @@
       <item value="Allow ISO 8601 Date Format" />
       <item value="prevent Default" />
       <item value="fluid" />
-      <item value="layui-fluid" />
-      <item value="仓库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1488" />
-        <entry key="ENGLISH" value="1489" />
+        <entry key="CHINESE" value="1490" />
+        <entry key="ENGLISH" value="1491" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
