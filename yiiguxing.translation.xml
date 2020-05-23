@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Errors during {@link Record} retrieval lead to {@link Subscription#cancel() cancellation} of the underlying task" />
+      <item value="Every message must be acknowledged using * {@link org.springframework.data.redis.core.StreamOperations#acknowledge(Object, String, String...)} after * processing." />
+      <item value="acknowledged" />
+      <item value="Every message must be acknowledged using" />
       <item value="map Backed" />
       <item value="that may be different from * the number of IDs passed in case certain IDs do not exist" />
       <item value="register" />
@@ -47,15 +51,11 @@
       <item value="之前" />
       <item value="newest Record" />
       <item value="newest Trade Time" />
-      <item value="最新" />
-      <item value="最新的" />
-      <item value="Non-terminating decimal expansion; no exact representable decimal result" />
-      <item value="Allow ISO 8601 Date Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1492" />
-        <entry key="ENGLISH" value="1493" />
+        <entry key="CHINESE" value="1496" />
+        <entry key="ENGLISH" value="1497" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
