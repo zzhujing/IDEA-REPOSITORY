@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map Backed" />
       <item value="that may be different from * the number of IDs passed in case certain IDs do not exist" />
       <item value="register" />
       <item value="registry" />
@@ -50,12 +51,11 @@
       <item value="最新的" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result" />
       <item value="Allow ISO 8601 Date Format" />
-      <item value="prevent Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1491" />
-        <entry key="ENGLISH" value="1492" />
+        <entry key="CHINESE" value="1492" />
+        <entry key="ENGLISH" value="1493" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
