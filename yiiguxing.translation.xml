@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quote Field Names" />
       <item value="Read all new arriving elements with ids greater than the last one consumed by the consumer group" />
       <item value="exclusive" />
       <item value="left exclusive, right inclusive." />
@@ -50,12 +51,11 @@
       <item value="custom Date" />
       <item value="customizer Date" />
       <item value="customize Date" />
-      <item value="指定的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1502" />
-        <entry key="ENGLISH" value="1503" />
+        <entry key="CHINESE" value="1503" />
+        <entry key="ENGLISH" value="1504" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
