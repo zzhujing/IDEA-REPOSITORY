@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="促销管理" />
+      <item value="promotion" />
+      <item value="促销" />
+      <item value="delay" />
       <item value="surefire" />
       <item value="flatten" />
       <item value="Write Non String Value As String" />
@@ -21,7 +25,6 @@
       <item value="registry" />
       <item value="匿名" />
       <item value="layui-inline" />
-      <item value="促销" />
       <item value="accuracy" />
       <item value="DIMENSION NOT SPECIFIED" />
       <item value="IMAGE TYPE UNSPECIFIED" />
@@ -48,14 +51,11 @@
       <item value="morphia" />
       <item value="Optional. A document expressing the write concern. Omit to use the default write concern.Do not explicitly set the write concern for the operation if run in a transaction. To use write concern with transactions, see Transactions and Write Concern." />
       <item value="工具" />
-      <item value="get All Role Func Defines" />
-      <item value="Thridpart" />
-      <item value="Thrid Part" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1508" />
-        <entry key="ENGLISH" value="1509" />
+        <entry key="CHINESE" value="1510" />
+        <entry key="ENGLISH" value="1511" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
