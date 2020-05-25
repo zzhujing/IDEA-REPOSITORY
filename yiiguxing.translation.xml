@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="surefire" />
       <item value="flatten" />
       <item value="Write Non String Value As String" />
       <item value="Generic" />
@@ -50,12 +51,11 @@
       <item value="get All Role Func Defines" />
       <item value="Thridpart" />
       <item value="Thrid Part" />
-      <item value="custom Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1507" />
-        <entry key="ENGLISH" value="1508" />
+        <entry key="CHINESE" value="1508" />
+        <entry key="ENGLISH" value="1509" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
