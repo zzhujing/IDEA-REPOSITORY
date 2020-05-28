@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deal With Boundary" />
+      <item value="dealy Boundary" />
+      <item value="deal Boundary" />
+      <item value="deal Date Boundary" />
+      <item value="边界问题" />
+      <item value="边界" />
       <item value="keep the latest data at the top" />
       <item value="保证最新数据在最前面" />
       <item value="在最前面" />
@@ -45,17 +51,11 @@
       <item value="IMAGE TYPE UNSPECIFIED" />
       <item value="upgrade Udf Application" />
       <item value="compress Poster Img" />
-      <item value="Bucket" />
-      <item value="com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Truncated incorrect DOUBLE value: '[Ljava.lang.String;@63512158'" />
-      <item value="bluk" />
-      <item value="Servlet Output Stream Copier" />
-      <item value="Sets the doc source of the update request to be used when the document does not exists" />
-      <item value="Sets the doc to use for updates when a script is not specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1518" />
-        <entry key="ENGLISH" value="1519" />
+        <entry key="CHINESE" value="1524" />
+        <entry key="ENGLISH" value="1525" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
