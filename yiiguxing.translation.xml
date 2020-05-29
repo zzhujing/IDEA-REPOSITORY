@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="被包含" />
+      <item value="include" />
+      <item value="包含" />
+      <item value="inclued Begin Time" />
       <item value="Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
       <item value="Shifts the element currently" />
       <item value="deal With Boundary" />
@@ -47,15 +51,11 @@
       <item value="register" />
       <item value="registry" />
       <item value="匿名" />
-      <item value="layui-inline" />
-      <item value="accuracy" />
-      <item value="DIMENSION NOT SPECIFIED" />
-      <item value="IMAGE TYPE UNSPECIFIED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1527" />
-        <entry key="ENGLISH" value="1528" />
+        <entry key="CHINESE" value="1530" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
