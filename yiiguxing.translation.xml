@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Http Message Not Readable Exception" />
       <item value="被包含" />
       <item value="include" />
       <item value="包含" />
@@ -50,12 +51,11 @@
       <item value="that may be different from * the number of IDs passed in case certain IDs do not exist" />
       <item value="register" />
       <item value="registry" />
-      <item value="匿名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
