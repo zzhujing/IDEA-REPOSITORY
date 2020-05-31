@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tickTime" />
+      <item value="ΩtickTime" />
       <item value="topping Banner" />
       <item value="置顶" />
       <item value="指定" />
@@ -49,13 +51,11 @@
       <item value="Errors during {@link Record} retrieval lead to {@link Subscription#cancel() cancellation} of the underlying task" />
       <item value="Every message must be acknowledged using * {@link org.springframework.data.redis.core.StreamOperations#acknowledge(Object, String, String...)} after * processing." />
       <item value="acknowledged" />
-      <item value="Every message must be acknowledged using" />
-      <item value="map Backed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1533" />
-        <entry key="ENGLISH" value="1534" />
+        <entry key="CHINESE" value="1535" />
+        <entry key="ENGLISH" value="1535" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
