@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An invalid form control with name='salesGroup' is not focusable." />
       <item value=" You can't specify target table 'a' for update in FROM clause" />
       <item value="to Hex String" />
       <item value="check Params Valid" />
@@ -50,7 +51,6 @@
       <item value="layui-fluid" />
       <item value="state" />
       <item value="status" />
-      <item value="VERIFY" />
     </histories>
     <option name="languageScores">
       <map>
