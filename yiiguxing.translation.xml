@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="点赞" />
+      <item value="赞" />
+      <item value="评论" />
       <item value="MINBOX" />
       <item value="An invalid form control with name='salesGroup' is not focusable." />
       <item value=" You can't specify target table 'a' for update in FROM clause" />
@@ -48,14 +51,11 @@
       <item value="有序的" />
       <item value="natural" />
       <item value="阈值" />
-      <item value="Past" />
-      <item value="layui-fluid" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1551" />
-        <entry key="ENGLISH" value="1551" />
+        <entry key="ENGLISH" value="1552" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
