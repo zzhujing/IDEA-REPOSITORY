@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预览" />
       <item value="小程序" />
       <item value="点赞" />
       <item value="赞" />
@@ -50,7 +51,6 @@
       <item value="保持最新数据" />
       <item value="keep new data behind" />
       <item value="有序的" />
-      <item value="natural" />
     </histories>
     <option name="languageScores">
       <map>
