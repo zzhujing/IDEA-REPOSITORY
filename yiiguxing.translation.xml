@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rawtypes" />
+      <item value="unchecked" />
       <item value="approval" />
       <item value="verify" />
       <item value="审核" />
@@ -49,13 +51,11 @@
       <item value="deal Boundary" />
       <item value="deal Date Boundary" />
       <item value="边界问题" />
-      <item value="边界" />
-      <item value="keep the latest data at the top" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1555" />
-        <entry key="ENGLISH" value="1556" />
+        <entry key="CHINESE" value="1556" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
