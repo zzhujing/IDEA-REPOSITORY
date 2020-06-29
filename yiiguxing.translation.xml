@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Posable artist" />
+      <item value="Tua Xiong" />
+      <item value="Posable artist: &quot;$$$$$$$$$$$$$$$$$$$$$####s&quot;&quot; .$$$| -Tua Xiong" />
       <item value="商品上架" />
       <item value="下架" />
       <item value="上架" />
@@ -48,14 +51,11 @@
       <item value="包含" />
       <item value="inclued Begin Time" />
       <item value="Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
-      <item value="Shifts the element currently" />
-      <item value="deal With Boundary" />
-      <item value="dealy Boundary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1557" />
-        <entry key="ENGLISH" value="1558" />
+        <entry key="CHINESE" value="1558" />
+        <entry key="ENGLISH" value="1559" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
