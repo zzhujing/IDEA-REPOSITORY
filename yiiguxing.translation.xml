@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfer" />
+      <item value="转移" />
       <item value="advised" />
       <item value="leader" />
       <item value="idear" />
@@ -49,13 +51,11 @@
       <item value="tickTime" />
       <item value="ΩtickTime" />
       <item value="topping Banner" />
-      <item value="置顶" />
-      <item value="指定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1561" />
-        <entry key="ENGLISH" value="1562" />
+        <entry key="CHINESE" value="1563" />
+        <entry key="ENGLISH" value="1564" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
