@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过去的" />
+      <item value="消失" />
+      <item value="reject When City Manager Role Disapper" />
+      <item value="小时" />
       <item value="transfer" />
       <item value="转移" />
       <item value="advised" />
@@ -47,15 +51,11 @@
       <item value="监视器" />
       <item value="CONTAINER" />
       <item value="query Receiver And Logistics" />
-      <item value="Order Warehouse Bo" />
-      <item value="tickTime" />
-      <item value="ΩtickTime" />
-      <item value="topping Banner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1563" />
-        <entry key="ENGLISH" value="1564" />
+        <entry key="CHINESE" value="1566" />
+        <entry key="ENGLISH" value="1567" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
