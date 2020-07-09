@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="团长" />
       <item value="rawtypes" />
       <item value="promotion" />
       <item value="CONCAT could not take such arguments" />
@@ -50,12 +51,11 @@
       <item value="组织" />
       <item value="list By Name With Admin" />
       <item value="list By Name Of Admin" />
-      <item value="旗下" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1571" />
-        <entry key="ENGLISH" value="1571" />
+        <entry key="ENGLISH" value="1572" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
