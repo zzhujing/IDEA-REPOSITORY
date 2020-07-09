@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rawtypes" />
       <item value="promotion" />
       <item value="CONCAT could not take such arguments" />
       <item value="recursive" />
@@ -29,7 +30,6 @@
       <item value="商品上架" />
       <item value="下架" />
       <item value="上架" />
-      <item value="rawtypes" />
       <item value="unchecked" />
       <item value="approval" />
       <item value="verify" />
