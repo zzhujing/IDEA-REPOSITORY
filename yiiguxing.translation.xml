@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNIVERSITY" />
       <item value="大学" />
       <item value="首页" />
       <item value="commander" />
@@ -50,12 +51,11 @@
       <item value="点赞" />
       <item value="赞" />
       <item value="评论" />
-      <item value="MINBOX" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1572" />
-        <entry key="ENGLISH" value="1573" />
+        <entry key="CHINESE" value="1573" />
+        <entry key="ENGLISH" value="1574" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
