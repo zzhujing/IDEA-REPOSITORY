@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="普通" />
+      <item value="orinal" />
+      <item value="normal" />
       <item value="UNIVERSITY" />
       <item value="大学" />
       <item value="首页" />
@@ -48,14 +51,11 @@
       <item value="Ω审批" />
       <item value="预览" />
       <item value="小程序" />
-      <item value="点赞" />
-      <item value="赞" />
-      <item value="评论" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1573" />
-        <entry key="ENGLISH" value="1574" />
+        <entry key="CHINESE" value="1576" />
+        <entry key="ENGLISH" value="1577" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
@@ -64,7 +64,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="7" />
+        <entry key="SPANISH" value="8" />
         <entry key="HUNGARIAN" value="5" />
       </map>
     </option>
