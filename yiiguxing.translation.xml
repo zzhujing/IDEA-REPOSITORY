@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="在...之间" />
       <item value="'gmt_create' in where clause is ambiguous" />
       <item value="拼接" />
       <item value="凭借" />
@@ -50,12 +51,11 @@
       <item value="approval" />
       <item value="verify" />
       <item value="审核" />
-      <item value="审批" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1579" />
-        <entry key="ENGLISH" value="1580" />
+        <entry key="CHINESE" value="1580" />
+        <entry key="ENGLISH" value="1581" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
