@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="校验" />
+      <item value="合理性" />
       <item value="之前的" />
       <item value="promotion" />
       <item value="在...之间" />
@@ -49,8 +51,6 @@
       <item value="下架" />
       <item value="上架" />
       <item value="unchecked" />
-      <item value="approval" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
