@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promotion" />
       <item value="在...之间" />
       <item value="'gmt_create' in where clause is ambiguous" />
       <item value="拼接" />
@@ -19,7 +20,6 @@
       <item value="冻结" />
       <item value="团长" />
       <item value="rawtypes" />
-      <item value="promotion" />
       <item value="CONCAT could not take such arguments" />
       <item value="recursive" />
       <item value="递归" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1580" />
-        <entry key="ENGLISH" value="1581" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
