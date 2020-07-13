@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine Whether Change Commander Id" />
+      <item value="determine Whether Change Command Id" />
+      <item value="是否" />
       <item value="GROUP LEADER" />
       <item value="团长" />
       <item value="TEAM LEADER" />
@@ -48,14 +51,11 @@
       <item value="my Like" />
       <item value="Posable artist" />
       <item value="Tua Xiong" />
-      <item value="Posable artist: &quot;$$$$$$$$$$$$$$$$$$$$$####s&quot;&quot; .$$$| -Tua Xiong" />
-      <item value="商品上架" />
-      <item value="下架" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1585" />
-        <entry key="ENGLISH" value="1586" />
+        <entry key="CHINESE" value="1588" />
+        <entry key="ENGLISH" value="1589" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
