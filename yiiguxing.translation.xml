@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="truncated" />
       <item value="check whether need update commanderId" />
       <item value="wetcher" />
       <item value="determine Whether Change Commander Id" />
@@ -50,12 +51,11 @@
       <item value="idear" />
       <item value="idea" />
       <item value="reduce Goods Stock" />
-      <item value="my Like" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1589" />
-        <entry key="ENGLISH" value="1590" />
+        <entry key="CHINESE" value="1590" />
+        <entry key="ENGLISH" value="1591" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
