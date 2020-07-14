@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公式" />
+      <item value="计算" />
+      <item value="reward" />
+      <item value="奖励" />
       <item value="truncated" />
       <item value="check whether need update commanderId" />
       <item value="wetcher" />
@@ -47,15 +51,11 @@
       <item value="transfer" />
       <item value="转移" />
       <item value="advised" />
-      <item value="leader" />
-      <item value="idear" />
-      <item value="idea" />
-      <item value="reduce Goods Stock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1591" />
-        <entry key="ENGLISH" value="1591" />
+        <entry key="CHINESE" value="1592" />
+        <entry key="ENGLISH" value="1593" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
