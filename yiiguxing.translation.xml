@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="邀请" />
+      <item value="invide" />
       <item value="extract Instance" />
       <item value="produces" />
       <item value="recipe" />
@@ -49,13 +51,11 @@
       <item value="Ω" />
       <item value="过去的" />
       <item value="消失" />
-      <item value="reject When City Manager Role Disapper" />
-      <item value="小时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1594" />
-        <entry key="ENGLISH" value="1595" />
+        <entry key="CHINESE" value="1595" />
+        <entry key="ENGLISH" value="1596" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
@@ -64,7 +64,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="8" />
+        <entry key="SPANISH" value="9" />
         <entry key="HUNGARIAN" value="5" />
       </map>
     </option>
