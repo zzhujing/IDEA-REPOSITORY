@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check child commander's code whether on curUser parentCode" />
+      <item value="是否" />
       <item value="邀请" />
       <item value="invide" />
       <item value="extract Instance" />
@@ -15,7 +17,6 @@
       <item value="wetcher" />
       <item value="determine Whether Change Commander Id" />
       <item value="determine Whether Change Command Id" />
-      <item value="是否" />
       <item value="GROUP LEADER" />
       <item value="团长" />
       <item value="TEAM LEADER" />
@@ -50,12 +51,11 @@
       <item value="recursive Get Role List" />
       <item value="Ω" />
       <item value="过去的" />
-      <item value="消失" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1595" />
-        <entry key="ENGLISH" value="1596" />
+        <entry key="CHINESE" value="1596" />
+        <entry key="ENGLISH" value="1597" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
