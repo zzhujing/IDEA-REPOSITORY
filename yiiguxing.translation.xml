@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="one Hundred" />
+      <item value="一百" />
       <item value="佣金" />
       <item value="MAXFISSIONDEPTH" />
       <item value="MAX_FISSION_DEPTH" />
@@ -49,13 +51,11 @@
       <item value="黑名单" />
       <item value="冻结" />
       <item value="rawtypes" />
-      <item value="CONCAT could not take such arguments" />
-      <item value="recursive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1602" />
-        <entry key="ENGLISH" value="1603" />
+        <entry key="CHINESE" value="1603" />
+        <entry key="ENGLISH" value="1604" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
