@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="estimate" />
       <item value="进制" />
       <item value="RADIX" />
       <item value="Blocks until all tasks have completed execution after a shutdown * request" />
@@ -50,12 +51,11 @@
       <item value="团长" />
       <item value="TEAM LEADER" />
       <item value="校验" />
-      <item value="合理性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1618" />
-        <entry key="ENGLISH" value="1619" />
+        <entry key="CHINESE" value="1619" />
+        <entry key="ENGLISH" value="1620" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
