@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="next major version up" />
       <item value="to Epoch Second" />
       <item value="delta" />
       <item value="extra" />
@@ -50,12 +51,11 @@
       <item value="truncated" />
       <item value="check whether need update commanderId" />
       <item value="wetcher" />
-      <item value="determine Whether Change Commander Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1626" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="CHINESE" value="1627" />
+        <entry key="ENGLISH" value="1628" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
