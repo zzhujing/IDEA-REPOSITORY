@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether" />
+      <item value="check Phone Already Registry" />
       <item value="有效" />
       <item value="解除绑定" />
       <item value="un Bind" />
@@ -49,13 +51,11 @@
       <item value="keep the latest data at the top" />
       <item value="保证最新数据在最前面" />
       <item value="在最前面" />
-      <item value="在...前面" />
-      <item value="保持最新数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1553" />
-        <entry key="ENGLISH" value="1554" />
+        <entry key="CHINESE" value="1556" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
