@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="导师" />
+      <item value="倒数" />
       <item value="Copyright" />
       <item value="归档" />
       <item value="reject When City Manager Role Disappear" />
@@ -49,13 +51,11 @@
       <item value="deal With Boundary" />
       <item value="dealy Boundary" />
       <item value="deal Boundary" />
-      <item value="deal Date Boundary" />
-      <item value="边界问题" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1560" />
-        <entry key="ENGLISH" value="1561" />
+        <entry key="CHINESE" value="1561" />
+        <entry key="ENGLISH" value="1562" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
