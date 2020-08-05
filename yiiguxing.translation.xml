@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parent Code Identity Mappings" />
       <item value="assets" />
       <item value="prefer" />
       <item value="Reserved Code Cache Size" />
@@ -50,12 +51,11 @@
       <item value="佣金" />
       <item value="MAXFISSIONDEPTH" />
       <item value="MAX_FISSION_DEPTH" />
-      <item value="裂变" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1644" />
-        <entry key="ENGLISH" value="1644" />
+        <entry key="ENGLISH" value="1645" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="9" />
