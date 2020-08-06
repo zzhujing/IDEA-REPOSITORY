@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="额外的" />
+      <item value="待添加" />
       <item value="area Id Identity Group Mappings" />
       <item value="initial Array Size" />
       <item value="estimated Size" />
@@ -49,13 +51,11 @@
       <item value="per Number" />
       <item value="pre Number" />
       <item value="exceeds" />
-      <item value="overflow" />
-      <item value="Updated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1650" />
-        <entry key="ENGLISH" value="1651" />
+        <entry key="CHINESE" value="1651" />
+        <entry key="ENGLISH" value="1652" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
