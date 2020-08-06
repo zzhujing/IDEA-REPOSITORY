@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="街道code" />
       <item value="Spring Boot Lacher" />
       <item value="引导" />
       <item value="Spring Boot Latcher" />
@@ -50,12 +51,11 @@
       <item value="whether Exceeds Threshold" />
       <item value="是否超过阈值" />
       <item value="one Hundred" />
-      <item value="一百" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1647" />
-        <entry key="ENGLISH" value="1647" />
+        <entry key="ENGLISH" value="1648" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
