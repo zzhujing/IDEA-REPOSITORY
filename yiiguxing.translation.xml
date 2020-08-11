@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generic" />
+      <item value="to Mybatis Page Without Generic" />
       <item value="MANUAL" />
       <item value="已拥有" />
       <item value="完整" />
@@ -49,13 +51,11 @@
       <item value="{ }" />
       <item value="待测试" />
       <item value="frozen" />
-      <item value="check Invite Code" />
-      <item value="may be thread unsafe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1655" />
-        <entry key="ENGLISH" value="1656" />
+        <entry key="CHINESE" value="1657" />
+        <entry key="ENGLISH" value="1658" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
