@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Number Percent" />
+      <item value="get Number Precent" />
       <item value="一百" />
       <item value="ramdisk" />
       <item value="trap" />
@@ -49,13 +51,11 @@
       <item value="extra" />
       <item value="additional" />
       <item value="补充" />
-      <item value="estimate" />
-      <item value="进制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1660" />
-        <entry key="ENGLISH" value="1661" />
+        <entry key="CHINESE" value="1662" />
+        <entry key="ENGLISH" value="1663" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
