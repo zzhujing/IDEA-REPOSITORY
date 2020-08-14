@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="佣金" />
+      <item value="Dist User Statistic Common Req" />
       <item value="rebate" />
       <item value="返利" />
       <item value="reload Statistic" />
@@ -49,13 +51,11 @@
       <item value="calculate Rate" />
       <item value="首项" />
       <item value="get Proportion Pre" />
-      <item value="等比" />
-      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1673" />
-        <entry key="ENGLISH" value="1674" />
+        <entry key="CHINESE" value="1675" />
+        <entry key="ENGLISH" value="1676" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
