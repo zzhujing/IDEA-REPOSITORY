@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dentry" />
       <item value="manual that corresponds" />
       <item value="is Promotion" />
       <item value="佣金" />
@@ -50,11 +51,10 @@
       <item value="assets" />
       <item value="prefer" />
       <item value="Reserved Code Cache Size" />
-      <item value="calculate Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1677" />
+        <entry key="CHINESE" value="1678" />
         <entry key="ENGLISH" value="1678" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
