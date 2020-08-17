@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收货" />
       <item value="established" />
       <item value="dentry" />
       <item value="manual that corresponds" />
@@ -22,7 +23,6 @@
       <item value="only Ensure Receive" />
       <item value="receive" />
       <item value="only Ensure Receipt" />
-      <item value="收货" />
       <item value="get Number Percent" />
       <item value="get Number Precent" />
       <item value="一百" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1678" />
-        <entry key="ENGLISH" value="1678" />
+        <entry key="ENGLISH" value="1679" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
