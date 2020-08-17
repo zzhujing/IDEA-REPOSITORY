@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="返利" />
       <item value="收货" />
       <item value="established" />
       <item value="dentry" />
@@ -9,7 +10,6 @@
       <item value="佣金" />
       <item value="Dist User Statistic Common Req" />
       <item value="rebate" />
-      <item value="返利" />
       <item value="reload Statistic" />
       <item value="历史流水" />
       <item value="推广佣金" />
