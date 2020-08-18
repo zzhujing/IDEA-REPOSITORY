@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sales Info" />
+      <item value="Seller" />
+      <item value="Sell Info" />
+      <item value="销售" />
+      <item value="卖家" />
       <item value="上下级" />
       <item value="reward" />
       <item value="Ω" />
@@ -46,16 +51,11 @@
       <item value="area Id Identity Group Mappings" />
       <item value="initial Array Size" />
       <item value="estimated Size" />
-      <item value="街道code" />
-      <item value="Spring Boot Lacher" />
-      <item value="引导" />
-      <item value="Spring Boot Latcher" />
-      <item value="parent Code Identity Mappings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1680" />
-        <entry key="ENGLISH" value="1681" />
+        <entry key="CHINESE" value="1682" />
+        <entry key="ENGLISH" value="1683" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
