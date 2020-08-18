@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MASQUERADE" />
+      <item value="MASQUEREAD" />
+      <item value="tap device" />
+      <item value="交换机" />
+      <item value="tap" />
       <item value="deal When Belong To Current City Manager" />
       <item value="Sales Info" />
       <item value="Seller" />
@@ -46,16 +51,11 @@
       <item value="完整" />
       <item value="完整的" />
       <item value="Dyna Bean" />
-      <item value="create Dyna Bean" />
-      <item value="额外的" />
-      <item value="待添加" />
-      <item value="area Id Identity Group Mappings" />
-      <item value="initial Array Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1683" />
-        <entry key="ENGLISH" value="1684" />
+        <entry key="CHINESE" value="1685" />
+        <entry key="ENGLISH" value="1685" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
