@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Principal" />
+      <item value="Custom Url Decision Manager" />
       <item value="related" />
       <item value="Nation" />
       <item value="authentication" />
@@ -49,13 +51,11 @@
       <item value="Ωtrap" />
       <item value="decompress" />
       <item value="Generic" />
-      <item value="to Mybatis Page Without Generic" />
-      <item value="MANUAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1687" />
-        <entry key="ENGLISH" value="1688" />
+        <entry key="CHINESE" value="1689" />
+        <entry key="ENGLISH" value="1690" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
