@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verbose" />
       <item value="Network Address Translation" />
       <item value="客服" />
       <item value="小节" />
@@ -50,7 +51,6 @@
       <item value="余额" />
       <item value="only Ensure Receive" />
       <item value="receive" />
-      <item value="only Ensure Receipt" />
     </histories>
     <option name="languageScores">
       <map>
