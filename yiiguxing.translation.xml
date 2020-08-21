@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transit" />
+      <item value="multihomed" />
+      <item value="mutlihomed" />
+      <item value="mulitishio" />
+      <item value="molithomed" />
+      <item value="Ω" />
+      <item value="multithomed" />
+      <item value="stub" />
       <item value="via" />
       <item value="nexthop" />
       <item value="unreachable" />
@@ -32,7 +40,6 @@
       <item value="卖家" />
       <item value="上下级" />
       <item value="reward" />
-      <item value="Ω" />
       <item value="返利" />
       <item value="收货" />
       <item value="established" />
@@ -44,18 +51,11 @@
       <item value="rebate" />
       <item value="reload Statistic" />
       <item value="历史流水" />
-      <item value="推广佣金" />
-      <item value="promote Commonsion" />
-      <item value="团队奖励" />
-      <item value="团队讲理" />
-      <item value="推广" />
-      <item value="remaind Amount" />
-      <item value="remaind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1691" />
-        <entry key="ENGLISH" value="1691" />
+        <entry key="CHINESE" value="1692" />
+        <entry key="ENGLISH" value="1692" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
