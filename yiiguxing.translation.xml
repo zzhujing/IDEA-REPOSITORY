@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advertised window" />
+      <item value="advertised" />
+      <item value="adversited" />
       <item value="get a new work / improve 50 precent for my salary" />
       <item value="Ωget a new work / improve 50 precent for my salary" />
       <item value="1 week 1 time" />
@@ -48,9 +51,6 @@
       <item value="Seller" />
       <item value="Sell Info" />
       <item value="销售" />
-      <item value="卖家" />
-      <item value="上下级" />
-      <item value="reward" />
     </histories>
     <option name="languageScores">
       <map>
