@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get a new work / improve 50 precent for my salary" />
+      <item value="Ωget a new work / improve 50 precent for my salary" />
+      <item value="1 week 1 time" />
+      <item value="设计" />
+      <item value="算法" />
+      <item value="一年" />
+      <item value="持久进行" />
+      <item value="持久" />
+      <item value="持续" />
+      <item value="持续进行" />
       <item value="Legacy" />
       <item value="transit" />
       <item value="multihomed" />
@@ -41,21 +51,11 @@
       <item value="卖家" />
       <item value="上下级" />
       <item value="reward" />
-      <item value="返利" />
-      <item value="收货" />
-      <item value="established" />
-      <item value="dentry" />
-      <item value="manual that corresponds" />
-      <item value="is Promotion" />
-      <item value="佣金" />
-      <item value="Dist User Statistic Common Req" />
-      <item value="rebate" />
-      <item value="reload Statistic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1692" />
-        <entry key="ENGLISH" value="1692" />
+        <entry key="CHINESE" value="1694" />
+        <entry key="ENGLISH" value="1694" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
