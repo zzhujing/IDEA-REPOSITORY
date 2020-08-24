@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encapsulation" />
       <item value="Shaping" />
       <item value="Egr" />
       <item value="Egress" />
@@ -50,7 +51,6 @@
       <item value="Nation" />
       <item value="authentication" />
       <item value="This pseudo-type indicates that all accessors are affected" />
-      <item value="MASQUERADE" />
     </histories>
     <option name="languageScores">
       <map>
