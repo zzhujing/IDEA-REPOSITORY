@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tap" />
+      <item value="tun" />
+      <item value="tun/tap" />
       <item value="tunnel" />
       <item value="Encapsulation" />
       <item value="Shaping" />
@@ -48,9 +51,6 @@
       <item value="discipline" />
       <item value="Principal" />
       <item value="Custom Url Decision Manager" />
-      <item value="related" />
-      <item value="Nation" />
-      <item value="authentication" />
     </histories>
     <option name="languageScores">
       <map>
