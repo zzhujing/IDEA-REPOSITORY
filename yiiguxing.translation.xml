@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calico" />
       <item value="via" />
       <item value="Flannel" />
       <item value="tap" />
@@ -50,7 +51,6 @@
       <item value="queueing discipline" />
       <item value="queudiscipline" />
       <item value="discipline" />
-      <item value="Principal" />
     </histories>
     <option name="languageScores">
       <map>
