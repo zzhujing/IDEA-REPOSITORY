@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="via" />
       <item value="Flannel" />
       <item value="tap" />
       <item value="tun" />
@@ -38,7 +39,6 @@
       <item value="Ω" />
       <item value="multithomed" />
       <item value="stub" />
-      <item value="via" />
       <item value="nexthop" />
       <item value="unreachable" />
       <item value="verbose" />
