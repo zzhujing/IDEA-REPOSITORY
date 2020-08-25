@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="六十" />
+      <item value="past Thirty Days" />
+      <item value="past Thiry Days" />
       <item value="delivery" />
       <item value="past Thirty Days Order Ring Rate" />
       <item value="past Thirty Days Order Ring Ratio" />
@@ -48,14 +51,11 @@
       <item value="transit" />
       <item value="multihomed" />
       <item value="mutlihomed" />
-      <item value="mulitishio" />
-      <item value="molithomed" />
-      <item value="Ω" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1703" />
-        <entry key="ENGLISH" value="1703" />
+        <entry key="CHINESE" value="1705" />
+        <entry key="ENGLISH" value="1706" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
