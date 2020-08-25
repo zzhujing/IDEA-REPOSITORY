@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="past Thirty Days Order Ring Rate" />
+      <item value="past Thirty Days Order Ring Ratio" />
+      <item value="past Thirty Days Order Chain Ratio" />
+      <item value="ratio" />
+      <item value="环比" />
+      <item value="customer Order Avg Price" />
+      <item value="customer Order Rate" />
+      <item value="nearly Thirty Days Order Count" />
+      <item value="nearly Thirty Order Count" />
+      <item value="近三十日" />
+      <item value="近三十日 " />
+      <item value="近三十日下单商户数" />
       <item value="calico" />
       <item value="via" />
       <item value="Flannel" />
@@ -39,23 +51,11 @@
       <item value="molithomed" />
       <item value="Ω" />
       <item value="multithomed" />
-      <item value="stub" />
-      <item value="nexthop" />
-      <item value="unreachable" />
-      <item value="verbose" />
-      <item value="Network Address Translation" />
-      <item value="客服" />
-      <item value="小节" />
-      <item value="小姐" />
-      <item value="chapther" />
-      <item value="queueing discipline" />
-      <item value="queudiscipline" />
-      <item value="discipline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1694" />
-        <entry key="ENGLISH" value="1694" />
+        <entry key="CHINESE" value="1702" />
+        <entry key="ENGLISH" value="1703" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
