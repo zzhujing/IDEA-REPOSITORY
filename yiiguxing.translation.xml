@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancellation Requested" />
+      <item value="Sink" />
       <item value="Stream Shape" />
       <item value="BUSINESS COOPERATION CONNECT" />
       <item value="合作" />
@@ -49,13 +51,11 @@
       <item value="get a new work / improve 50 precent for my salary" />
       <item value="Ωget a new work / improve 50 precent for my salary" />
       <item value="1 week 1 time" />
-      <item value="设计" />
-      <item value="算法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1710" />
-        <entry key="ENGLISH" value="1711" />
+        <entry key="CHINESE" value="1712" />
+        <entry key="ENGLISH" value="1713" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
