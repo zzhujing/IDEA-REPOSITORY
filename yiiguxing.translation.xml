@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status" />
+      <item value="state" />
+      <item value="stte" />
       <item value="stage" />
       <item value="cancellation Requested" />
       <item value="Sink" />
@@ -48,13 +51,10 @@
       <item value="peer" />
       <item value="advertised window" />
       <item value="advertised" />
-      <item value="adversited" />
-      <item value="get a new work / improve 50 precent for my salary" />
-      <item value="Ωget a new work / improve 50 precent for my salary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1713" />
+        <entry key="CHINESE" value="1714" />
         <entry key="ENGLISH" value="1714" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
