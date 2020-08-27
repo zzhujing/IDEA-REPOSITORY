@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分析" />
       <item value="Transmittable Thread Local" />
       <item value="statuses" />
       <item value="status" />
@@ -50,12 +51,11 @@
       <item value="announce" />
       <item value="torrent" />
       <item value="peer to peer" />
-      <item value="peer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1715" />
-        <entry key="ENGLISH" value="1716" />
+        <entry key="CHINESE" value="1716" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
