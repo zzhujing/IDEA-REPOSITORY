@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calc Formula" />
+      <item value="计算公式" />
+      <item value="calc Formual" />
+      <item value="公式" />
       <item value="分析" />
       <item value="Transmittable Thread Local" />
       <item value="statuses" />
@@ -47,21 +51,18 @@
       <item value="Egr" />
       <item value="Egress" />
       <item value="Quality of Service" />
-      <item value="tracker" />
-      <item value="announce" />
-      <item value="torrent" />
-      <item value="peer to peer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1716" />
-        <entry key="ENGLISH" value="1717" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1718" />
+        <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="9" />
