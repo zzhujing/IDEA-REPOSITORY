@@ -1,70 +1,71 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="导师" />
-      <item value="倒数" />
-      <item value="Copyright" />
-      <item value="归档" />
-      <item value="reject When City Manager Role Disappear" />
-      <item value="UNIVERSITY" />
-      <item value="whether" />
-      <item value="check Phone Already Registry" />
-      <item value="有效" />
-      <item value="解除绑定" />
-      <item value="un Bind" />
-      <item value="app Banner" />
-      <item value="点赞" />
-      <item value="赞" />
-      <item value="评论" />
-      <item value="MINBOX" />
-      <item value="An invalid form control with name='salesGroup' is not focusable." />
-      <item value=" You can't specify target table 'a' for update in FROM clause" />
-      <item value="to Hex String" />
-      <item value="check Params Valid" />
-      <item value="组织" />
-      <item value="list By Name With Admin" />
-      <item value="list By Name Of Admin" />
-      <item value="旗下" />
-      <item value="get Roles With User Can Authorize" />
-      <item value="binded Warehouse" />
-      <item value="转换" />
-      <item value="passphrase" />
-      <item value="passphare" />
-      <item value="Criteria Definition" />
-      <item value="expected" />
-      <item value="监视器" />
-      <item value="CONTAINER" />
-      <item value="query Receiver And Logistics" />
-      <item value="Order Warehouse Bo" />
-      <item value="tickTime" />
-      <item value="ΩtickTime" />
-      <item value="topping Banner" />
-      <item value="置顶" />
-      <item value="指定" />
-      <item value="Http Message Not Readable Exception" />
-      <item value="被包含" />
-      <item value="include" />
-      <item value="包含" />
-      <item value="inclued Begin Time" />
-      <item value="Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
-      <item value="Shifts the element currently" />
-      <item value="deal With Boundary" />
-      <item value="dealy Boundary" />
-      <item value="deal Boundary" />
+      <item value="calc Formula" />
+      <item value="计算公式" />
+      <item value="calc Formual" />
+      <item value="公式" />
+      <item value="分析" />
+      <item value="Transmittable Thread Local" />
+      <item value="statuses" />
+      <item value="status" />
+      <item value="state" />
+      <item value="stte" />
+      <item value="stage" />
+      <item value="cancellation Requested" />
+      <item value="Sink" />
+      <item value="Stream Shape" />
+      <item value="BUSINESS COOPERATION CONNECT" />
+      <item value="合作" />
+      <item value="客服人员" />
+      <item value="客服" />
+      <item value="CUSTOMER SERVICE" />
+      <item value="售后客服" />
+      <item value="资质" />
+      <item value="certifacate" />
+      <item value="六十" />
+      <item value="past Thirty Days" />
+      <item value="past Thiry Days" />
+      <item value="delivery" />
+      <item value="past Thirty Days Order Ring Rate" />
+      <item value="past Thirty Days Order Ring Ratio" />
+      <item value="past Thirty Days Order Chain Ratio" />
+      <item value="ratio" />
+      <item value="环比" />
+      <item value="customer Order Avg Price" />
+      <item value="customer Order Rate" />
+      <item value="nearly Thirty Days Order Count" />
+      <item value="nearly Thirty Order Count" />
+      <item value="近三十日" />
+      <item value="近三十日 " />
+      <item value="近三十日下单商户数" />
+      <item value="calico" />
+      <item value="via" />
+      <item value="Flannel" />
+      <item value="tap" />
+      <item value="tun" />
+      <item value="tun/tap" />
+      <item value="tunnel" />
+      <item value="Encapsulation" />
+      <item value="Shaping" />
+      <item value="Egr" />
+      <item value="Egress" />
+      <item value="Quality of Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1561" />
-        <entry key="ENGLISH" value="1562" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1718" />
+        <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
-        <entry key="GERMAN" value="7" />
+        <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="7" />
+        <entry key="SPANISH" value="9" />
         <entry key="HUNGARIAN" value="5" />
       </map>
     </option>
