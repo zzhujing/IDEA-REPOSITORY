@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshould" />
+      <item value="匹配" />
+      <item value="Brute Force" />
+      <item value="Burce Force" />
       <item value="purge" />
       <item value="remaining" />
       <item value="hardware" />
@@ -47,15 +51,11 @@
       <item value="Flannel" />
       <item value="tap" />
       <item value="tun" />
-      <item value="tun/tap" />
-      <item value="tunnel" />
-      <item value="Encapsulation" />
-      <item value="Shaping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1720" />
-        <entry key="ENGLISH" value="1720" />
+        <entry key="CHINESE" value="1724" />
+        <entry key="ENGLISH" value="1725" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
