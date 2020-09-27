@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="percentile ranks" />
+      <item value="percentile_ranks" />
       <item value="aviod" />
       <item value="phrase" />
       <item value="phraase" />
@@ -49,8 +51,6 @@
       <item value="nearly Thirty Order Count" />
       <item value="近三十日" />
       <item value="近三十日 " />
-      <item value="近三十日下单商户数" />
-      <item value="calico" />
     </histories>
     <option name="languageScores">
       <map>
