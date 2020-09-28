@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in case you" />
+      <item value="Return the {@link RestHighLevelClient} instance used to connect to the cluster. &lt;br /&gt; * Annotate with {@link Bean} in case you want to expose a {@link RestHighLevelClient} instance to the * {@link org.springframework.context.ApplicationContext}." />
       <item value="percentile ranks" />
       <item value="percentile_ranks" />
       <item value="aviod" />
@@ -49,13 +51,11 @@
       <item value="customer Order Rate" />
       <item value="nearly Thirty Days Order Count" />
       <item value="nearly Thirty Order Count" />
-      <item value="近三十日" />
-      <item value="近三十日 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
-        <entry key="ENGLISH" value="1725" />
+        <entry key="CHINESE" value="1726" />
+        <entry key="ENGLISH" value="1727" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
