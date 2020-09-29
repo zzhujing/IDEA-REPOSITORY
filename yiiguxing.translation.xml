@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concrete" />
       <item value="Partial update of the document" />
       <item value="销量" />
       <item value="in case you" />
@@ -50,12 +51,11 @@
       <item value="ratio" />
       <item value="环比" />
       <item value="customer Order Avg Price" />
-      <item value="customer Order Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1728" />
-        <entry key="ENGLISH" value="1729" />
+        <entry key="CHINESE" value="1729" />
+        <entry key="ENGLISH" value="1730" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
