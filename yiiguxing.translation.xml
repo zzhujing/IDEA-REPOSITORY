@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="character" />
       <item value="criteria" />
       <item value="concrete" />
       <item value="Partial update of the document" />
@@ -50,12 +51,11 @@
       <item value="past Thirty Days Order Ring Ratio" />
       <item value="past Thirty Days Order Chain Ratio" />
       <item value="ratio" />
-      <item value="环比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1730" />
-        <entry key="ENGLISH" value="1731" />
+        <entry key="CHINESE" value="1731" />
+        <entry key="ENGLISH" value="1732" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
