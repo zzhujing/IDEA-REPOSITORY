@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="模拟" />
+      <item value="Annotated Type" />
       <item value="get Declared Fields" />
       <item value="Parameterized" />
       <item value="演示Parameterized" />
@@ -49,13 +51,11 @@
       <item value="Sink" />
       <item value="Stream Shape" />
       <item value="BUSINESS COOPERATION CONNECT" />
-      <item value="合作" />
-      <item value="客服人员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1743" />
-        <entry key="ENGLISH" value="1744" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
