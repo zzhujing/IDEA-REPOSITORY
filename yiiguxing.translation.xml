@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="œ" />
+      <item value="Inconvertible types; cannot cast 'java.lang.Class&lt;capture&lt;? extends java.util.Map&gt;&gt;' to 'java.lang.reflect.ParameterizedType'" />
+      <item value="for type variables of kinds" />
+      <item value="parameterized" />
+      <item value="raw types" />
       <item value="upper * bound(s)" />
       <item value="Wildcard Type" />
       <item value="Treated" />
@@ -46,16 +51,11 @@
       <item value="客服" />
       <item value="CUSTOMER SERVICE" />
       <item value="售后客服" />
-      <item value="资质" />
-      <item value="certifacate" />
-      <item value="六十" />
-      <item value="past Thirty Days" />
-      <item value="past Thiry Days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1737" />
-        <entry key="ENGLISH" value="1738" />
+        <entry key="CHINESE" value="1741" />
+        <entry key="ENGLISH" value="1742" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
