@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Declared Fields" />
+      <item value="Parameterized" />
+      <item value="演示Parameterized" />
       <item value="œ" />
       <item value="Inconvertible types; cannot cast 'java.lang.Class&lt;capture&lt;? extends java.util.Map&gt;&gt;' to 'java.lang.reflect.ParameterizedType'" />
       <item value="for type variables of kinds" />
@@ -48,14 +51,11 @@
       <item value="BUSINESS COOPERATION CONNECT" />
       <item value="合作" />
       <item value="客服人员" />
-      <item value="客服" />
-      <item value="CUSTOMER SERVICE" />
-      <item value="售后客服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1741" />
-        <entry key="ENGLISH" value="1742" />
+        <entry key="CHINESE" value="1743" />
+        <entry key="ENGLISH" value="1744" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
