@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="installation" />
       <item value="potentially" />
       <item value="模拟" />
       <item value="Annotated Type" />
@@ -50,12 +51,11 @@
       <item value="stage" />
       <item value="cancellation Requested" />
       <item value="Sink" />
-      <item value="Stream Shape" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1747" />
-        <entry key="ENGLISH" value="1747" />
+        <entry key="ENGLISH" value="1748" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
