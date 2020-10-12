@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fence" />
       <item value="is Whitespace" />
       <item value="-1 until used; then one past last index" />
-      <item value="fence" />
       <item value="equivalent" />
       <item value="性能" />
       <item value="Resolve the single type argument of the given generic interface against * the given target class which is assumed to implement the generic interface * and possibly declare a concrete type for its type variable." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1760" />
-        <entry key="ENGLISH" value="1761" />
+        <entry key="CHINESE" value="1761" />
+        <entry key="ENGLISH" value="1762" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
