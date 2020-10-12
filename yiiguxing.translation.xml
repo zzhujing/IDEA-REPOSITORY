@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Whitespace" />
       <item value="-1 until used; then one past last index" />
       <item value="fence" />
       <item value="equivalent" />
@@ -50,12 +51,11 @@
       <item value="threshould" />
       <item value="匹配" />
       <item value="Brute Force" />
-      <item value="Burce Force" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1759" />
-        <entry key="ENGLISH" value="1760" />
+        <entry key="CHINESE" value="1760" />
+        <entry key="ENGLISH" value="1761" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
