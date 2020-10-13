@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全排列" />
       <item value="retain All" />
       <item value="fence" />
       <item value="is Whitespace" />
@@ -50,12 +51,11 @@
       <item value="phraase" />
       <item value="term" />
       <item value="threshould" />
-      <item value="匹配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1762" />
-        <entry key="ENGLISH" value="1763" />
+        <entry key="CHINESE" value="1763" />
+        <entry key="ENGLISH" value="1764" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
