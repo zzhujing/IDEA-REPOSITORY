@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ω计算" />
       <item value="back Tracing Ressolver" />
       <item value="回溯" />
       <item value="Packet Demo" />
@@ -50,12 +51,11 @@
       <item value="销量" />
       <item value="in case you" />
       <item value="Return the {@link RestHighLevelClient} instance used to connect to the cluster. &lt;br /&gt; * Annotate with {@link Bean} in case you want to expose a {@link RestHighLevelClient} instance to the * {@link org.springframework.context.ApplicationContext}." />
-      <item value="percentile ranks" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1766" />
-        <entry key="ENGLISH" value="1766" />
+        <entry key="ENGLISH" value="1767" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
