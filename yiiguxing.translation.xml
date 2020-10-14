@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rotatable Angel" />
+      <item value="rotatableAngel" />
+      <item value="rotatable" />
       <item value="全排列" />
       <item value="retain All" />
       <item value="fence" />
@@ -48,13 +51,10 @@
       <item value="percentile_ranks" />
       <item value="aviod" />
       <item value="phrase" />
-      <item value="phraase" />
-      <item value="term" />
-      <item value="threshould" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1763" />
+        <entry key="CHINESE" value="1764" />
         <entry key="ENGLISH" value="1764" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
