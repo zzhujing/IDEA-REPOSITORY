@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="back Tracing Ressolver" />
+      <item value="回溯" />
+      <item value="Packet Demo" />
       <item value="rotatable Angel" />
       <item value="rotatableAngel" />
       <item value="rotatable" />
@@ -48,20 +51,18 @@
       <item value="in case you" />
       <item value="Return the {@link RestHighLevelClient} instance used to connect to the cluster. &lt;br /&gt; * Annotate with {@link Bean} in case you want to expose a {@link RestHighLevelClient} instance to the * {@link org.springframework.context.ApplicationContext}." />
       <item value="percentile ranks" />
-      <item value="percentile_ranks" />
-      <item value="aviod" />
-      <item value="phrase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1764" />
-        <entry key="ENGLISH" value="1764" />
+        <entry key="CHINESE" value="1766" />
+        <entry key="ENGLISH" value="1766" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="9" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
