@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="available" />
+      <item value="get If Unique" />
+      <item value="Available" />
+      <item value="get If Available" />
+      <item value="ΩAvailable" />
       <item value="autowired Candidate" />
       <item value="初始化" />
       <item value="Autowire Capable Bean Factory" />
@@ -46,16 +51,11 @@
       <item value="Parameterized" />
       <item value="演示Parameterized" />
       <item value="œ" />
-      <item value="Inconvertible types; cannot cast 'java.lang.Class&lt;capture&lt;? extends java.util.Map&gt;&gt;' to 'java.lang.reflect.ParameterizedType'" />
-      <item value="for type variables of kinds" />
-      <item value="parameterized" />
-      <item value="raw types" />
-      <item value="upper * bound(s)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1774" />
-        <entry key="ENGLISH" value="1775" />
+        <entry key="CHINESE" value="1780" />
+        <entry key="ENGLISH" value="1781" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
