@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="memorandum" />
+      <item value="备忘录" />
       <item value="方程式" />
       <item value="Matrix Shortest Path Demo" />
       <item value="矩阵最短路径" />
@@ -49,13 +51,11 @@
       <item value="a" />
       <item value="未删除" />
       <item value="UN DELETED" />
-      <item value="DELETED" />
-      <item value="ALIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1789" />
-        <entry key="ENGLISH" value="1790" />
+        <entry key="CHINESE" value="1790" />
+        <entry key="ENGLISH" value="1791" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
