@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jumbo Enum Set" />
+      <item value="Regular Enum Set" />
+      <item value="TEAM TOTAL REWARD" />
       <item value="status" />
       <item value="state" />
       <item value="is Externally Managed Config Member" />
@@ -48,14 +51,11 @@
       <item value="Packet Demo" />
       <item value="rotatable Angel" />
       <item value="rotatableAngel" />
-      <item value="rotatable" />
-      <item value="全排列" />
-      <item value="retain All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1798" />
-        <entry key="ENGLISH" value="1798" />
+        <entry key="CHINESE" value="1800" />
+        <entry key="ENGLISH" value="1801" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
