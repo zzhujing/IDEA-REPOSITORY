@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status" />
+      <item value="state" />
       <item value="is Externally Managed Config Member" />
       <item value="manipulate" />
       <item value="It provides the ability to flag a reflected object as * suppressing checks for Java language access control when it is used" />
@@ -49,12 +51,10 @@
       <item value="rotatable" />
       <item value="全排列" />
       <item value="retain All" />
-      <item value="fence" />
-      <item value="is Whitespace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1797" />
+        <entry key="CHINESE" value="1798" />
         <entry key="ENGLISH" value="1798" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
