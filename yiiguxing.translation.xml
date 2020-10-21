@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolvable" />
+      <item value="来源" />
       <item value="顶点" />
       <item value="逆邻接表" />
       <item value="Degree" />
@@ -49,12 +51,10 @@
       <item value="decapitalize" />
       <item value="alternatively" />
       <item value="逻辑条件" />
-      <item value="conditioni" />
-      <item value="promotion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1806" />
+        <entry key="CHINESE" value="1807" />
         <entry key="ENGLISH" value="1807" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
@@ -79,5 +79,6 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
