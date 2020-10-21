@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Degree" />
+      <item value="in Degree" />
+      <item value="入度" />
+      <item value="拓扑排序" />
+      <item value="kahn" />
+      <item value="Ωkahn" />
       <item value="is Candidate Class" />
       <item value="Jumbo Enum Set" />
       <item value="Regular Enum Set" />
@@ -45,17 +51,11 @@
       <item value="promotion" />
       <item value="批发价" />
       <item value="Chrono Unit" />
-      <item value="杨辉三角" />
-      <item value="Ω计算" />
-      <item value="back Tracing Ressolver" />
-      <item value="回溯" />
-      <item value="Packet Demo" />
-      <item value="rotatable Angel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1801" />
-        <entry key="ENGLISH" value="1802" />
+        <entry key="CHINESE" value="1805" />
+        <entry key="ENGLISH" value="1806" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
