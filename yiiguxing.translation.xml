@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="顶点" />
+      <item value="逆邻接表" />
       <item value="Degree" />
       <item value="in Degree" />
       <item value="入度" />
@@ -49,13 +51,11 @@
       <item value="逻辑条件" />
       <item value="conditioni" />
       <item value="promotion" />
-      <item value="批发价" />
-      <item value="Chrono Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1805" />
-        <entry key="ENGLISH" value="1806" />
+        <entry key="CHINESE" value="1806" />
+        <entry key="ENGLISH" value="1807" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
