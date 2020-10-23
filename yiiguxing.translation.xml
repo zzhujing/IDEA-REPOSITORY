@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="switch Test" />
       <item value="手动" />
       <item value="logical and must set task status to false" />
       <item value="logical And" />
@@ -50,12 +51,11 @@
       <item value="available" />
       <item value="get If Unique" />
       <item value="Available" />
-      <item value="get If Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1812" />
-        <entry key="ENGLISH" value="1813" />
+        <entry key="CHINESE" value="1813" />
+        <entry key="ENGLISH" value="1814" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
