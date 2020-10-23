@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispatcher" />
+      <item value="disptacher" />
+      <item value="dispacher" />
       <item value="switch Test" />
       <item value="手动" />
       <item value="logical and must set task status to false" />
@@ -48,18 +51,15 @@
       <item value="encounters" />
       <item value="multicast Event" />
       <item value="内建" />
-      <item value="available" />
-      <item value="get If Unique" />
-      <item value="Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1813" />
-        <entry key="ENGLISH" value="1814" />
+        <entry key="CHINESE" value="1814" />
+        <entry key="ENGLISH" value="1815" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
-        <entry key="FRENCH" value="9" />
+        <entry key="FRENCH" value="10" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="9" />
         <entry key="HUNGARIAN" value="5" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
