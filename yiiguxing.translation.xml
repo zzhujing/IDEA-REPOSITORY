@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logical and must set task status to false" />
       <item value="logical And" />
       <item value="manual Singleton Names" />
       <item value="Update the factory's internal set of manual singleton names." />
@@ -50,12 +51,11 @@
       <item value="Available" />
       <item value="get If Available" />
       <item value="ΩAvailable" />
-      <item value="autowired Candidate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1811" />
-        <entry key="ENGLISH" value="1811" />
+        <entry key="ENGLISH" value="1812" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
