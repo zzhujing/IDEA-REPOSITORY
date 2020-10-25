@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="copy Relevant Merged Bean Definition Caches" />
       <item value="stale" />
       <item value="Still in startup registration phase" />
       <item value="remove Manual Singleton Name" />
@@ -50,12 +51,11 @@
       <item value="Currency" />
       <item value="primitive" />
       <item value="privilege" />
-      <item value="原生类型" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1820" />
-        <entry key="ENGLISH" value="1820" />
+        <entry key="ENGLISH" value="1821" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
