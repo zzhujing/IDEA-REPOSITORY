@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="委派" />
       <item value="delegate" />
       <item value="Strategy" />
       <item value="In that sense, it is an alternative to {@link InitializingBean} which gets * triggered right at the end of a bean's local construction phase" />
@@ -50,12 +51,11 @@
       <item value="It provides the ability to flag a reflected object as * suppressing checks for Java language access control when it is used" />
       <item value="ability" />
       <item value="Autowired Annotation Resolution Demo" />
-      <item value="get Lazy Resolution Proxy If Necessary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1827" />
-        <entry key="ENGLISH" value="1827" />
+        <entry key="ENGLISH" value="1828" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
