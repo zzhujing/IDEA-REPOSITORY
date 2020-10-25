@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lazy little" />
+      <item value="lazylittle" />
       <item value="blitz" />
       <item value="mercy" />
       <item value="is Synthetic" />
@@ -49,13 +51,11 @@
       <item value="memorandum" />
       <item value="备忘录" />
       <item value="方程式" />
-      <item value="Matrix Shortest Path Demo" />
-      <item value="矩阵最短路径" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1823" />
-        <entry key="ENGLISH" value="1823" />
+        <entry key="CHINESE" value="1824" />
+        <entry key="ENGLISH" value="1824" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
