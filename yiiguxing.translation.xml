@@ -1,7 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="邻接表" />
       <item value="Ω" />
+      <item value="Edge" />
+      <item value="Dijstra Algo" />
+      <item value="Dijkstra" />
       <item value="堆化" />
       <item value="Purchase Order Count Task" />
       <item value="购买订单数" />
@@ -47,15 +51,11 @@
       <item value="kahn" />
       <item value="Ωkahn" />
       <item value="is Candidate Class" />
-      <item value="Jumbo Enum Set" />
-      <item value="Regular Enum Set" />
-      <item value="TEAM TOTAL REWARD" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1831" />
-        <entry key="ENGLISH" value="1832" />
+        <entry key="CHINESE" value="1833" />
+        <entry key="ENGLISH" value="1834" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
@@ -67,7 +67,7 @@
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
-        <entry key="SPANISH" value="9" />
+        <entry key="SPANISH" value="10" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="2" />
       </map>
