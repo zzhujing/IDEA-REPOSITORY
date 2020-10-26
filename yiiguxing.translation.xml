@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ω" />
       <item value="堆化" />
       <item value="Purchase Order Count Task" />
       <item value="购买订单数" />
@@ -50,7 +51,6 @@
       <item value="Regular Enum Set" />
       <item value="TEAM TOTAL REWARD" />
       <item value="status" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
