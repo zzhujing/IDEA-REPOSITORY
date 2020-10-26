@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Purchase Order Count Task" />
+      <item value="购买订单数" />
+      <item value="Buyer Order Count Task" />
       <item value="评估" />
       <item value="委派" />
       <item value="delegate" />
@@ -48,14 +51,11 @@
       <item value="status" />
       <item value="state" />
       <item value="is Externally Managed Config Member" />
-      <item value="manipulate" />
-      <item value="It provides the ability to flag a reflected object as * suppressing checks for Java language access control when it is used" />
-      <item value="ability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1827" />
-        <entry key="ENGLISH" value="1828" />
+        <entry key="CHINESE" value="1830" />
+        <entry key="ENGLISH" value="1831" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
