@@ -7,18 +7,18 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.vm</mask>
     <mask>*</mask>
-    <mask>*.*</mask>
     <mask>*.</mask>
     <mask>*.class</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
