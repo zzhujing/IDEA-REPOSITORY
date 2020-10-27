@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimize imports on the fly" />
       <item value="金额" />
       <item value="Ω评估" />
       <item value="评估" />
@@ -50,11 +51,10 @@
       <item value="顶点" />
       <item value="逆邻接表" />
       <item value="Degree" />
-      <item value="in Degree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1834" />
+        <entry key="CHINESE" value="1835" />
         <entry key="ENGLISH" value="1835" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
