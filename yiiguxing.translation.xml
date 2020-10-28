@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a condition that checks if a bean * has already been registered might choose to only be evaluated during the" />
+      <item value="certain" />
+      <item value="fine-grained" />
+      <item value="prevent" />
+      <item value="is being parsed" />
+      <item value="phases" />
+      <item value="various" />
+      <item value="PARSE" />
+      <item value="The various configuration phases where the condition could be evaluated" />
+      <item value="PARSE CONFIGURATION" />
+      <item value="stereotype" />
       <item value="lite" />
       <item value="Qualifier" />
       <item value="does" />
@@ -40,22 +51,11 @@
       <item value="conversation" />
       <item value="dispatcher" />
       <item value="disptacher" />
-      <item value="dispacher" />
-      <item value="switch Test" />
-      <item value="手动" />
-      <item value="logical and must set task status to false" />
-      <item value="logical And" />
-      <item value="manual Singleton Names" />
-      <item value="Update the factory's internal set of manual singleton names." />
-      <item value="分割" />
-      <item value="分割符" />
-      <item value="Resolvable" />
-      <item value="来源" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1836" />
-        <entry key="ENGLISH" value="1836" />
+        <entry key="CHINESE" value="1847" />
+        <entry key="ENGLISH" value="1848" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
