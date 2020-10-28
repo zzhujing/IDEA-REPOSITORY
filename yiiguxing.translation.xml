@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="catter" />
+      <item value="scatter" />
       <item value="is the next byte to be supplied as input;" />
       <item value="necessary" />
       <item value="Preconditions" />
@@ -49,12 +51,10 @@
       <item value="Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition" />
       <item value="copy Relevant Merged Bean Definition Caches" />
       <item value="stale" />
-      <item value="Still in startup registration phase" />
-      <item value="remove Manual Singleton Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1852" />
+        <entry key="CHINESE" value="1853" />
         <entry key="ENGLISH" value="1853" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
