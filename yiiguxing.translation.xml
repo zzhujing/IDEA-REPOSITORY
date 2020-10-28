@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="or some previously-written bytes," />
+      <item value="Whether or not a thread writing bytes to a pipe will block until another * thread reads those bytes" />
+      <item value="Once some bytes are written to the sink channel they can be read * from the source channel in exactly the order in which they were written" />
+      <item value="in exactly" />
+      <item value="consists" />
+      <item value="unidirectional" />
       <item value="Selectable Channel" />
       <item value="advance" />
       <item value="available" />
@@ -45,17 +51,11 @@
       <item value="堆化" />
       <item value="Purchase Order Count Task" />
       <item value="购买订单数" />
-      <item value="Buyer Order Count Task" />
-      <item value="委派" />
-      <item value="delegate" />
-      <item value="Strategy" />
-      <item value="In that sense, it is an alternative to {@link InitializingBean} which gets * triggered right at the end of a bean's local construction phase" />
-      <item value="avoiding side effects with accidental early * initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1860" />
-        <entry key="ENGLISH" value="1861" />
+        <entry key="CHINESE" value="1866" />
+        <entry key="ENGLISH" value="1867" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
