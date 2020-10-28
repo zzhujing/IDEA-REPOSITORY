@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advance" />
+      <item value="available" />
+      <item value="implied" />
+      <item value="a kind of" />
+      <item value="behaves" />
       <item value="gather" />
       <item value="Gather" />
       <item value="catter" />
@@ -46,16 +51,11 @@
       <item value="In that sense, it is an alternative to {@link InitializingBean} which gets * triggered right at the end of a bean's local construction phase" />
       <item value="avoiding side effects with accidental early * initialization" />
       <item value="lazy little" />
-      <item value="lazylittle" />
-      <item value="blitz" />
-      <item value="mercy" />
-      <item value="is Synthetic" />
-      <item value="Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1853" />
-        <entry key="ENGLISH" value="1853" />
+        <entry key="CHINESE" value="1859" />
+        <entry key="ENGLISH" value="1860" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
