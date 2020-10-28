@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assumes" />
+      <item value="This launcher assumes that dependency jars are * included inside a {@code /BOOT-INF/lib} directory and that application classes are * included inside a {@code /BOOT-INF/classes} directory." />
+      <item value="Reset any cached handlers just in case a jar protocol has already been used" />
       <item value="or some previously-written bytes," />
       <item value="Whether or not a thread writing bytes to a pipe will block until another * thread reads those bytes" />
       <item value="Once some bytes are written to the sink channel they can be read * from the source channel in exactly the order in which they were written" />
@@ -48,14 +51,11 @@
       <item value="Edge" />
       <item value="Dijstra Algo" />
       <item value="Dijkstra" />
-      <item value="堆化" />
-      <item value="Purchase Order Count Task" />
-      <item value="购买订单数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1866" />
-        <entry key="ENGLISH" value="1867" />
+        <entry key="CHINESE" value="1869" />
+        <entry key="ENGLISH" value="1870" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
