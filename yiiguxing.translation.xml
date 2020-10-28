@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selectable Channel" />
       <item value="advance" />
       <item value="available" />
       <item value="implied" />
@@ -50,12 +51,11 @@
       <item value="Strategy" />
       <item value="In that sense, it is an alternative to {@link InitializingBean} which gets * triggered right at the end of a bean's local construction phase" />
       <item value="avoiding side effects with accidental early * initialization" />
-      <item value="lazy little" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1859" />
-        <entry key="ENGLISH" value="1860" />
+        <entry key="CHINESE" value="1860" />
+        <entry key="ENGLISH" value="1861" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
