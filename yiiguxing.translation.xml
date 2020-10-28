@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gather" />
+      <item value="Gather" />
       <item value="catter" />
       <item value="scatter" />
       <item value="is the next byte to be supplied as input;" />
@@ -49,8 +51,6 @@
       <item value="mercy" />
       <item value="is Synthetic" />
       <item value="Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition" />
-      <item value="copy Relevant Merged Bean Definition Caches" />
-      <item value="stale" />
     </histories>
     <option name="languageScores">
       <map>
