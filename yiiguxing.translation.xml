@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preconditions" />
       <item value="The actual behavior is implementation-specific" />
       <item value="underlying" />
       <item value="a condition that checks if a bean * has already been registered might choose to only be evaluated during the" />
@@ -50,12 +51,11 @@
       <item value="remove Manual Singleton Name" />
       <item value="Bean Registration Demo" />
       <item value="current" />
-      <item value="conversation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1849" />
-        <entry key="ENGLISH" value="1850" />
+        <entry key="CHINESE" value="1850" />
+        <entry key="ENGLISH" value="1851" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
