@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lite" />
       <item value="Qualifier" />
       <item value="does" />
       <item value="optimize imports on the fly" />
@@ -50,7 +51,6 @@
       <item value="分割符" />
       <item value="Resolvable" />
       <item value="来源" />
-      <item value="顶点" />
     </histories>
     <option name="languageScores">
       <map>
