@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="segment" />
       <item value="wire" />
       <item value="various" />
       <item value="Whether or not a selection operation blocks to wait for one or more * channels to become ready, and if so for how long, is the only essential * difference between the three selection methods." />
@@ -50,7 +51,6 @@
       <item value="The various configuration phases where the condition could be evaluated" />
       <item value="PARSE CONFIGURATION" />
       <item value="stereotype" />
-      <item value="lite" />
     </histories>
     <option name="languageScores">
       <map>
