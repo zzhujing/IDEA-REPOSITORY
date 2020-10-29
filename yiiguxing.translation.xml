@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="independent" />
+      <item value="retained" />
+      <item value="NUL-terminated" />
       <item value="Iterates over the readable bytes of this buffer with the specified {@code processor} in ascending order." />
       <item value="Iterates" />
       <item value="in ascending order" />
@@ -48,13 +51,10 @@
       <item value="necessary" />
       <item value="Preconditions" />
       <item value="The actual behavior is implementation-specific" />
-      <item value="underlying" />
-      <item value="a condition that checks if a bean * has already been registered might choose to only be evaluated during the" />
-      <item value="certain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1886" />
+        <entry key="CHINESE" value="1887" />
         <entry key="ENGLISH" value="1887" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
