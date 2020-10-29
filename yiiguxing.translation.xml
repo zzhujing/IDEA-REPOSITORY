@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wire" />
+      <item value="various" />
       <item value="Whether or not a selection operation blocks to wait for one or more * channels to become ready, and if so for how long, is the only essential * difference between the three selection methods." />
       <item value="If all of the keys in the key set at the start of this step have empty * interest sets then neither the selected-key set nor any of the keys' * ready-operation sets will be updated" />
       <item value="preserved" />
@@ -44,17 +46,15 @@
       <item value="prevent" />
       <item value="is being parsed" />
       <item value="phases" />
-      <item value="various" />
       <item value="PARSE" />
       <item value="The various configuration phases where the condition could be evaluated" />
       <item value="PARSE CONFIGURATION" />
       <item value="stereotype" />
       <item value="lite" />
-      <item value="Qualifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1882" />
+        <entry key="CHINESE" value="1883" />
         <entry key="ENGLISH" value="1883" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
