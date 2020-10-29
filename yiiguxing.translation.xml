@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with any particular selector" />
+      <item value="This involves deallocating whatever resources were * allocated to the channel by the selector" />
+      <item value="remains" />
       <item value="enclosing" />
       <item value="assumes" />
       <item value="This launcher assumes that dependency jars are * included inside a {@code /BOOT-INF/lib} directory and that application classes are * included inside a {@code /BOOT-INF/classes} directory." />
@@ -48,14 +51,11 @@
       <item value="Extensible" />
       <item value="Redundant call to 'format()'" />
       <item value="邻接表" />
-      <item value="Ω" />
-      <item value="Edge" />
-      <item value="Dijstra Algo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1870" />
-        <entry key="ENGLISH" value="1871" />
+        <entry key="CHINESE" value="1873" />
+        <entry key="ENGLISH" value="1874" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
