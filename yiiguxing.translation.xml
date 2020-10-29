@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unsigned" />
       <item value="independent" />
       <item value="retained" />
       <item value="NUL-terminated" />
@@ -50,12 +51,11 @@
       <item value="is the next byte to be supplied as input;" />
       <item value="necessary" />
       <item value="Preconditions" />
-      <item value="The actual behavior is implementation-specific" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1887" />
-        <entry key="ENGLISH" value="1887" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
