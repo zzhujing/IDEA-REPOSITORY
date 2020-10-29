@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether or not a selection operation blocks to wait for one or more * channels to become ready, and if so for how long, is the only essential * difference between the three selection methods." />
+      <item value="If all of the keys in the key set at the start of this step have empty * interest sets then neither the selected-key set nor any of the keys' * ready-operation sets will be updated" />
+      <item value="preserved" />
+      <item value="previously" />
+      <item value="If the channel's key is not already in the selected-key set then * it is added to that set and its ready-operation set is modified to * identify exactly those operations for which the channel is now reported * to be ready." />
+      <item value="he underlying operating system is queried for an update as to the * readiness of each remaining channel to perform any of the operations * identified by its key's interest set as of the moment that the selection * operation began" />
+      <item value="to perform any of the operations * identified" />
+      <item value="involves" />
+      <item value="Selection operations that add to the selected-key set" />
       <item value="with any particular selector" />
       <item value="This involves deallocating whatever resources were * allocated to the channel by the selector" />
       <item value="remains" />
@@ -42,20 +51,11 @@
       <item value="stereotype" />
       <item value="lite" />
       <item value="Qualifier" />
-      <item value="does" />
-      <item value="optimize imports on the fly" />
-      <item value="金额" />
-      <item value="Ω评估" />
-      <item value="评估" />
-      <item value="authoring" />
-      <item value="Extensible" />
-      <item value="Redundant call to 'format()'" />
-      <item value="邻接表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1873" />
-        <entry key="ENGLISH" value="1874" />
+        <entry key="CHINESE" value="1882" />
+        <entry key="ENGLISH" value="1883" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
