@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This assertion will fail intermittently since values" />
+      <item value="ΩThis assertion will fail intermittently since values" />
+      <item value="prohibited" />
+      <item value="raised" />
+      <item value="Ωraised" />
+      <item value="assumed" />
+      <item value="specialized" />
       <item value="unsigned" />
       <item value="independent" />
       <item value="retained" />
@@ -44,18 +51,11 @@
       <item value="implied" />
       <item value="a kind of" />
       <item value="behaves" />
-      <item value="gather" />
-      <item value="Gather" />
-      <item value="catter" />
-      <item value="scatter" />
-      <item value="is the next byte to be supplied as input;" />
-      <item value="necessary" />
-      <item value="Preconditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1887" />
-        <entry key="ENGLISH" value="1888" />
+        <entry key="CHINESE" value="1890" />
+        <entry key="ENGLISH" value="1890" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
