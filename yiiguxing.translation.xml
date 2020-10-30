@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interruptible" />
       <item value="universal" />
       <item value="encouraged" />
       <item value="This assertion will fail intermittently since values" />
@@ -50,12 +51,11 @@
       <item value="Selectable Channel" />
       <item value="advance" />
       <item value="available" />
-      <item value="implied" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1891" />
-        <entry key="ENGLISH" value="1891" />
+        <entry key="ENGLISH" value="1892" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
