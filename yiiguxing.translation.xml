@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unstable Api" />
       <item value="Skeleton" />
       <item value="interruptible" />
       <item value="universal" />
@@ -50,12 +51,11 @@
       <item value="consists" />
       <item value="unidirectional" />
       <item value="Selectable Channel" />
-      <item value="advance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1892" />
-        <entry key="ENGLISH" value="1893" />
+        <entry key="CHINESE" value="1893" />
+        <entry key="ENGLISH" value="1894" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
