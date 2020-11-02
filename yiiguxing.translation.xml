@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disrupt" />
+      <item value="and the queue retrieval * operations obtain elements at the head of the queue" />
+      <item value="retrieval" />
       <item value="touch" />
       <item value="assigned" />
       <item value="canonical Property Name" />
@@ -48,14 +51,11 @@
       <item value="remains" />
       <item value="enclosing" />
       <item value="assumes" />
-      <item value="This launcher assumes that dependency jars are * included inside a {@code /BOOT-INF/lib} directory and that application classes are * included inside a {@code /BOOT-INF/classes} directory." />
-      <item value="Reset any cached handlers just in case a jar protocol has already been used" />
-      <item value="or some previously-written bytes," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1899" />
-        <entry key="ENGLISH" value="1900" />
+        <entry key="CHINESE" value="1902" />
+        <entry key="ENGLISH" value="1903" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
