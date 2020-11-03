@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotations are to be discarded by the compiler" />
+      <item value="Annotations" />
+      <item value="slice Number Of Packs" />
+      <item value="slice Of Packs" />
+      <item value="一片" />
+      <item value="成品装箱数" />
+      <item value="装箱数" />
+      <item value="number Of Packs" />
+      <item value="包装片数" />
+      <item value="外箱" />
+      <item value="包材损耗" />
+      <item value="Exterior" />
+      <item value="外观" />
+      <item value="outward" />
+      <item value="重量不符量" />
+      <item value="头尾量" />
+      <item value="头尾两" />
+      <item value="middle And Back Plan Output" />
+      <item value="Back" />
+      <item value="Middle And Back Order DB" />
+      <item value="中后段" />
+      <item value="Post Order DB" />
+      <item value="后部" />
+      <item value="Forepart" />
+      <item value="后期" />
+      <item value="Ω后期" />
+      <item value="后段" />
+      <item value="后端" />
+      <item value="Morphia" />
+      <item value="Bank Morphia" />
       <item value="Forepart Order DB" />
       <item value="curator" />
       <item value="convert If Nessary" />
@@ -21,41 +51,11 @@
       <item value="This assertion will fail intermittently since values" />
       <item value="ΩThis assertion will fail intermittently since values" />
       <item value="prohibited" />
-      <item value="raised" />
-      <item value="Ωraised" />
-      <item value="assumed" />
-      <item value="specialized" />
-      <item value="unsigned" />
-      <item value="independent" />
-      <item value="retained" />
-      <item value="NUL-terminated" />
-      <item value="Iterates over the readable bytes of this buffer with the specified {@code processor} in ascending order." />
-      <item value="Iterates" />
-      <item value="in ascending order" />
-      <item value="semantic" />
-      <item value="guarantee about" />
-      <item value="guarantee" />
-      <item value="discardable" />
-      <item value="exceeds" />
-      <item value="segment" />
-      <item value="wire" />
-      <item value="various" />
-      <item value="Whether or not a selection operation blocks to wait for one or more * channels to become ready, and if so for how long, is the only essential * difference between the three selection methods." />
-      <item value="If all of the keys in the key set at the start of this step have empty * interest sets then neither the selected-key set nor any of the keys' * ready-operation sets will be updated" />
-      <item value="preserved" />
-      <item value="previously" />
-      <item value="If the channel's key is not already in the selected-key set then * it is added to that set and its ready-operation set is modified to * identify exactly those operations for which the channel is now reported * to be ready." />
-      <item value="he underlying operating system is queried for an update as to the * readiness of each remaining channel to perform any of the operations * identified by its key's interest set as of the moment that the selection * operation began" />
-      <item value="to perform any of the operations * identified" />
-      <item value="involves" />
-      <item value="Selection operations that add to the selected-key set" />
-      <item value="with any particular selector" />
-      <item value="This involves deallocating whatever resources were * allocated to the channel by the selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1906" />
-        <entry key="ENGLISH" value="1907" />
+        <entry key="CHINESE" value="1925" />
+        <entry key="ENGLISH" value="1926" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
