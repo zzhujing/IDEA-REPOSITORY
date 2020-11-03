@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forepart Order DB" />
+      <item value="curator" />
       <item value="convert If Nessary" />
       <item value="disrupt" />
       <item value="and the queue retrieval * operations obtain elements at the head of the queue" />
@@ -49,13 +51,11 @@
       <item value="Selection operations that add to the selected-key set" />
       <item value="with any particular selector" />
       <item value="This involves deallocating whatever resources were * allocated to the channel by the selector" />
-      <item value="remains" />
-      <item value="enclosing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1904" />
-        <entry key="ENGLISH" value="1905" />
+        <entry key="CHINESE" value="1906" />
+        <entry key="ENGLISH" value="1907" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
