@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="piece Number Of Packs" />
+      <item value="not Match Weight Piece" />
+      <item value="片" />
+      <item value="not Match Weight Slice" />
       <item value="Annotations are to be discarded by the compiler" />
       <item value="Annotations" />
       <item value="slice Number Of Packs" />
@@ -47,15 +51,11 @@
       <item value="Skeleton" />
       <item value="interruptible" />
       <item value="universal" />
-      <item value="encouraged" />
-      <item value="This assertion will fail intermittently since values" />
-      <item value="ΩThis assertion will fail intermittently since values" />
-      <item value="prohibited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1925" />
-        <entry key="ENGLISH" value="1926" />
+        <entry key="CHINESE" value="1929" />
+        <entry key="ENGLISH" value="1930" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
