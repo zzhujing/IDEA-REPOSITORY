@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variant" />
       <item value="被除数" />
       <item value="divident" />
       <item value="除数" />
@@ -50,12 +51,11 @@
       <item value="touch" />
       <item value="assigned" />
       <item value="canonical Property Name" />
-      <item value="Credit Card Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1935" />
-        <entry key="ENGLISH" value="1936" />
+        <entry key="CHINESE" value="1936" />
+        <entry key="ENGLISH" value="1937" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
