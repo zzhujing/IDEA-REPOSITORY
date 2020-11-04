@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成本" />
+      <item value="single Slice" />
+      <item value="工时" />
       <item value="payload" />
       <item value="durex" />
       <item value="Ωdurex" />
@@ -48,14 +51,11 @@
       <item value="Bank Morphia" />
       <item value="Forepart Order DB" />
       <item value="curator" />
-      <item value="convert If Nessary" />
-      <item value="disrupt" />
-      <item value="and the queue retrieval * operations obtain elements at the head of the queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1939" />
-        <entry key="ENGLISH" value="1940" />
+        <entry key="CHINESE" value="1942" />
+        <entry key="ENGLISH" value="1943" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
