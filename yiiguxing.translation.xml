@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in order to avoid double invocations of the same listener" />
+      <item value="Explicitly remove target for a proxy, if registered already," />
       <item value="is Candidate Class" />
       <item value="Mismatched" />
       <item value="BROKEN" />
@@ -49,13 +51,11 @@
       <item value="middle And Back Plan Output" />
       <item value="Back" />
       <item value="Middle And Back Order DB" />
-      <item value="中后段" />
-      <item value="Post Order DB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1949" />
-        <entry key="ENGLISH" value="1950" />
+        <entry key="CHINESE" value="1951" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
