@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="durex" />
+      <item value="Ωdurex" />
       <item value="via" />
       <item value="variant" />
       <item value="被除数" />
@@ -49,13 +51,11 @@
       <item value="disrupt" />
       <item value="and the queue retrieval * operations obtain elements at the head of the queue" />
       <item value="retrieval" />
-      <item value="touch" />
-      <item value="assigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1937" />
-        <entry key="ENGLISH" value="1938" />
+        <entry key="CHINESE" value="1939" />
+        <entry key="ENGLISH" value="1939" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
