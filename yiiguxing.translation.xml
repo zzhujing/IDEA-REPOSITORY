@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Business" />
+      <item value="do Bisiness" />
+      <item value="业务" />
       <item value="Early Application Event Demo" />
       <item value="in order to avoid double invocations of the same listener" />
       <item value="Explicitly remove target for a proxy, if registered already," />
@@ -48,14 +51,11 @@
       <item value="outward" />
       <item value="重量不符量" />
       <item value="头尾量" />
-      <item value="头尾两" />
-      <item value="middle And Back Plan Output" />
-      <item value="Back" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1952" />
-        <entry key="ENGLISH" value="1953" />
+        <entry key="CHINESE" value="1955" />
+        <entry key="ENGLISH" value="1956" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
