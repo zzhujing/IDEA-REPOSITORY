@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="碎肉" />
+      <item value="dogmeat Price" />
+      <item value="原材料" />
+      <item value="采购单价" />
       <item value="入库单号" />
       <item value="成本" />
       <item value="single Slice" />
@@ -47,15 +51,11 @@
       <item value="后期" />
       <item value="Ω后期" />
       <item value="后段" />
-      <item value="后端" />
-      <item value="Morphia" />
-      <item value="Bank Morphia" />
-      <item value="Forepart Order DB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1943" />
+        <entry key="CHINESE" value="1944" />
+        <entry key="ENGLISH" value="1945" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
