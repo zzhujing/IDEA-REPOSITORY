@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BROKEN" />
+      <item value="CORRECT" />
+      <item value="not Match Weight Slice Number" />
       <item value="碎肉" />
       <item value="dogmeat Price" />
       <item value="原材料" />
@@ -48,14 +51,11 @@
       <item value="Post Order DB" />
       <item value="后部" />
       <item value="Forepart" />
-      <item value="后期" />
-      <item value="Ω后期" />
-      <item value="后段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1944" />
-        <entry key="ENGLISH" value="1945" />
+        <entry key="CHINESE" value="1947" />
+        <entry key="ENGLISH" value="1948" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
