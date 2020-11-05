@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="财务数据" />
       <item value="原切" />
       <item value="整切" />
       <item value="apply Material No" />
@@ -50,7 +51,6 @@
       <item value="外箱" />
       <item value="包材损耗" />
       <item value="Exterior" />
-      <item value="外观" />
     </histories>
     <option name="languageScores">
       <map>
