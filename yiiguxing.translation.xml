@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Liquibase Changelog Missing Failure Analyzer" />
       <item value="Reserved Code Cache Size" />
       <item value="Failed to load cache entry for task ':source-learning:compileJava'" />
       <item value="avoid" />
@@ -50,12 +51,11 @@
       <item value="divident" />
       <item value="除数" />
       <item value="set Maximum Integer Digits" />
-      <item value="set Maximum Fraction Digits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1972" />
-        <entry key="ENGLISH" value="1973" />
+        <entry key="CHINESE" value="1973" />
+        <entry key="ENGLISH" value="1974" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
