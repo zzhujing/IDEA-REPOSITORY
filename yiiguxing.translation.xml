@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reserved Code Cache Size" />
+      <item value="Failed to load cache entry for task ':source-learning:compileJava'" />
       <item value="avoid" />
       <item value="  prompted" />
       <item value="&gt;Provides 'pseudo-reification' to avoid noisy Map generics in the calling * code as well as convenience methods for looking up annotation attributes * in a type-safe fashion." />
@@ -49,13 +51,11 @@
       <item value="除数" />
       <item value="set Maximum Integer Digits" />
       <item value="set Maximum Fraction Digits" />
-      <item value="to Percent" />
-      <item value="piece Number Of Packs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1971" />
-        <entry key="ENGLISH" value="1971" />
+        <entry key="CHINESE" value="1972" />
+        <entry key="ENGLISH" value="1973" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
