@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阶段类型" />
+      <item value="段" />
+      <item value="forepart" />
       <item value="is Annotation Present" />
       <item value="calc Formula" />
       <item value="计算公式" />
@@ -48,14 +51,11 @@
       <item value="{@code AnnotatedType} represents the potentially annotated use of a type in * the program currently running in this VM" />
       <item value="potentially" />
       <item value="annotated driven" />
-      <item value="Base Task Reward Handler" />
-      <item value="not Match Exterior" />
-      <item value="财务数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1998" />
-        <entry key="ENGLISH" value="1999" />
+        <entry key="CHINESE" value="2000" />
+        <entry key="ENGLISH" value="2001" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
