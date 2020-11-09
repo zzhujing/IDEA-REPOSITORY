@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="y Axis" />
+      <item value="x Axis" />
       <item value="retry Resolve" />
       <item value="重新解析" />
       <item value="retrive" />
@@ -49,13 +51,11 @@
       <item value="in order to avoid double invocations of the same listener" />
       <item value="Explicitly remove target for a proxy, if registered already," />
       <item value="is Candidate Class" />
-      <item value="Mismatched" />
-      <item value="BROKEN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1990" />
-        <entry key="ENGLISH" value="1991" />
+        <entry key="CHINESE" value="1992" />
+        <entry key="ENGLISH" value="1992" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
@@ -68,7 +68,7 @@
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
-        <entry key="SPANISH" value="10" />
+        <entry key="SPANISH" value="11" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="2" />
       </map>
