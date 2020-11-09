@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legend" />
+      <item value="tooltip" />
+      <item value="series Layout By" />
+      <item value="smooth" />
       <item value="y Axis" />
       <item value="x Axis" />
       <item value="retry Resolve" />
@@ -47,15 +51,11 @@
       <item value="do Business" />
       <item value="do Bisiness" />
       <item value="业务" />
-      <item value="Early Application Event Demo" />
-      <item value="in order to avoid double invocations of the same listener" />
-      <item value="Explicitly remove target for a proxy, if registered already," />
-      <item value="is Candidate Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1992" />
-        <entry key="ENGLISH" value="1992" />
+        <entry key="CHINESE" value="1995" />
+        <entry key="ENGLISH" value="1996" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
