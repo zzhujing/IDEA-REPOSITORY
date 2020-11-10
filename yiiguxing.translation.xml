@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Circular" />
+      <item value="Cycle" />
+      <item value="Circular References Demo" />
+      <item value="Circular Reference" />
+      <item value="Circular Reference Demo" />
       <item value="Consider" />
       <item value="Try reading the class file via ASM for deterministic declaration order... // Unfortunately, the JVM's standard reflection returns methods in arbitrary // order, even between different runs of the same application on the same JVM." />
       <item value="Ω" />
@@ -46,16 +51,11 @@
       <item value="Deferred Import Selector" />
       <item value="Liquibase Changelog Missing Failure Analyzer" />
       <item value="Reserved Code Cache Size" />
-      <item value="Failed to load cache entry for task ':source-learning:compileJava'" />
-      <item value="avoid" />
-      <item value="  prompted" />
-      <item value="&gt;Provides 'pseudo-reification' to avoid noisy Map generics in the calling * code as well as convenience methods for looking up annotation attributes * in a type-safe fashion." />
-      <item value="pseudo-reification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2011" />
-        <entry key="ENGLISH" value="2012" />
+        <entry key="CHINESE" value="2015" />
+        <entry key="ENGLISH" value="2015" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
