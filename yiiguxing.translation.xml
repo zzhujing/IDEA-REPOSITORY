@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in Creation Check Exclusions" />
       <item value="Circular" />
       <item value="Cycle" />
       <item value="Circular References Demo" />
@@ -50,12 +51,11 @@
       <item value="odd" />
       <item value="Deferred Import Selector" />
       <item value="Liquibase Changelog Missing Failure Analyzer" />
-      <item value="Reserved Code Cache Size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2015" />
-        <entry key="ENGLISH" value="2015" />
+        <entry key="ENGLISH" value="2016" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
