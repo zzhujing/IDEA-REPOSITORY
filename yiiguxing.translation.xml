@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The &lt;i&gt;interrupted * status&lt;/i&gt; of the thread is unaffected by this method" />
+      <item value="has been interrupted" />
       <item value="Interrupting a thread that is not alive need not have any effect" />
       <item value="invocation" />
       <item value="Unless the current thread is interrupting itself, which is * always permitted" />
@@ -49,13 +51,11 @@
       <item value="exact preservation * of functionality may be maintained by continuing to use" />
       <item value="appropriate" />
       <item value="mechanisms" />
-      <item value="Process individual @Bean methods" />
-      <item value="individual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2019" />
-        <entry key="ENGLISH" value="2020" />
+        <entry key="CHINESE" value="2021" />
+        <entry key="ENGLISH" value="2022" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
