@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interrupting a thread that is not alive need not have any effect" />
+      <item value="invocation" />
+      <item value="Unless the current thread is interrupting itself, which is * always permitted" />
+      <item value="permitted" />
       <item value="in Creation Check Exclusions" />
       <item value="Circular" />
       <item value="Cycle" />
@@ -47,15 +51,11 @@
       <item value="mechanisms" />
       <item value="Process individual @Bean methods" />
       <item value="individual" />
-      <item value="even" />
-      <item value="odd" />
-      <item value="Deferred Import Selector" />
-      <item value="Liquibase Changelog Missing Failure Analyzer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2015" />
-        <entry key="ENGLISH" value="2016" />
+        <entry key="CHINESE" value="2019" />
+        <entry key="ENGLISH" value="2020" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
