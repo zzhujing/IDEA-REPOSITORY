@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="greater Than" />
       <item value="substitution" />
       <item value="The &lt;i&gt;interrupted * status&lt;/i&gt; of the thread is unaffected by this method" />
       <item value="has been interrupted" />
@@ -50,12 +51,11 @@
       <item value="qualifier annotations have to be local" />
       <item value="Ignore the given dependency interface for autowiring. * &lt;p&gt;This will typically be used by application contexts to register * dependencies that are resolved in other ways, like BeanFactory through * BeanFactoryAware or ApplicationContext through ApplicationContextAware. * &lt;p&gt;By default, only the BeanFactoryAware interface is ignored. * For further types to ignore, invoke this method for each type." />
       <item value="exact preservation * of functionality may be maintained by continuing to use" />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2022" />
-        <entry key="ENGLISH" value="2023" />
+        <entry key="CHINESE" value="2023" />
+        <entry key="ENGLISH" value="2024" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
