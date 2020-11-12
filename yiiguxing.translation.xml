@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in a form that does not necessarily require the * class-loading." />
       <item value="independent Inner Class" />
       <item value="enclosing Class Name" />
       <item value="is Independent" />
@@ -50,12 +51,11 @@
       <item value="tooltip" />
       <item value="y Axis" />
       <item value="x Axis" />
-      <item value="retry Resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2036" />
-        <entry key="ENGLISH" value="2037" />
+        <entry key="CHINESE" value="2037" />
+        <entry key="ENGLISH" value="2038" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
