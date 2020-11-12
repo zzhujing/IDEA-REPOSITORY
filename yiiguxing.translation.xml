@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="independent Inner Class" />
+      <item value="enclosing Class Name" />
       <item value="is Independent" />
+      <item value="Assignable Type Filter" />
       <item value="完成" />
       <item value="Indicates whether automatic detection of classes annotated with {@code @Component} * {@code @Repository}, {@code @Service}, or {@code @Controller} should be enabled" />
       <item value="ASSIGNABLE TYPE" />
@@ -48,14 +51,11 @@
       <item value="y Axis" />
       <item value="x Axis" />
       <item value="retry Resolve" />
-      <item value="重新解析" />
-      <item value="retrive" />
-      <item value="invalid hexadecimal representation of an ObjectId" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2032" />
-        <entry key="ENGLISH" value="2033" />
+        <entry key="CHINESE" value="2036" />
+        <entry key="ENGLISH" value="2037" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
