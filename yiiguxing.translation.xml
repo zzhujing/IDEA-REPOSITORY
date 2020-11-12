@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="original" />
       <item value="in a form that does not necessarily require the * class-loading." />
       <item value="independent Inner Class" />
       <item value="enclosing Class Name" />
@@ -50,12 +51,11 @@
       <item value="mab Efficiency" />
       <item value="tooltip" />
       <item value="y Axis" />
-      <item value="x Axis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2037" />
-        <entry key="ENGLISH" value="2038" />
+        <entry key="CHINESE" value="2038" />
+        <entry key="ENGLISH" value="2039" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
