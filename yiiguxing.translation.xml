@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The attached resolver will dynamically track any additions or removals from the * underlying {@link Environment} property sources." />
+      <item value="The attached resolver will dynamically track any additions or removals from the" />
       <item value="origin" />
       <item value="since 2.4.0 in favor of" />
       <item value="Bootstrapper" />
@@ -49,8 +51,6 @@
       <item value="阶段类型" />
       <item value="段" />
       <item value="forepart" />
-      <item value="is Annotation Present" />
-      <item value="calc Formula" />
     </histories>
     <option name="languageScores">
       <map>
