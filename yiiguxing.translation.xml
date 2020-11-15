@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retain All" />
+      <item value="Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes" />
+      <item value="Requested After" />
+      <item value="get Classes Requested After" />
       <item value="Initially sort alphabetically" />
       <item value="get In Priority Order" />
       <item value="precedence" />
@@ -47,15 +51,11 @@
       <item value="Interrupting a thread that is not alive need not have any effect" />
       <item value="invocation" />
       <item value="Unless the current thread is interrupting itself, which is * always permitted" />
-      <item value="permitted" />
-      <item value="in Creation Check Exclusions" />
-      <item value="Circular" />
-      <item value="Cycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2061" />
-        <entry key="ENGLISH" value="2062" />
+        <entry key="CHINESE" value="2065" />
+        <entry key="ENGLISH" value="2066" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
