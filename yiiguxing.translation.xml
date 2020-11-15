@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can be used to register instances that may be expensive to create, or need to be shared * before the {@link ApplicationContext} is available" />
+      <item value="expensive" />
       <item value="LOAD FILTERED PROPERTY" />
       <item value="The attached resolver will dynamically track any additions or removals from the * underlying {@link Environment} property sources." />
       <item value="The attached resolver will dynamically track any additions or removals from the" />
@@ -49,13 +51,11 @@
       <item value="REFUSING TRAFFIC" />
       <item value="orig" />
       <item value="dest" />
-      <item value="阶段类型" />
-      <item value="段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2046" />
-        <entry key="ENGLISH" value="2047" />
+        <entry key="CHINESE" value="2048" />
+        <entry key="ENGLISH" value="2049" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
