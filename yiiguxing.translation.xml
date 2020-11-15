@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precedence" />
+      <item value="indicate" />
+      <item value="A variation of {@link ImportSelector} that runs after all {@code @Configuration} beans * have been processed. This type of selector can be particularly useful when the selected * imports are {@code @Conditional}." />
+      <item value="particularly" />
+      <item value="variation" />
       <item value="processed" />
       <item value="get Outcomes" />
       <item value="Ancestors Matched Condition" />
@@ -46,16 +51,11 @@
       <item value="Cycle" />
       <item value="Circular References Demo" />
       <item value="Circular Reference" />
-      <item value="Circular Reference Demo" />
-      <item value="Consider" />
-      <item value="Try reading the class file via ASM for deterministic declaration order... // Unfortunately, the JVM's standard reflection returns methods in arbitrary // order, even between different runs of the same application on the same JVM." />
-      <item value="Ω" />
-      <item value="legend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2054" />
-        <entry key="ENGLISH" value="2055" />
+        <entry key="CHINESE" value="2059" />
+        <entry key="ENGLISH" value="2060" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
