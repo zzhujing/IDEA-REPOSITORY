@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRESERVE TARGET CLASS ATTRIBUTE" />
+      <item value="Useful in conjunction with annotations that * use @{@link Import} as a meta-annotation." />
+      <item value="ImportBy" />
       <item value="originating" />
       <item value="Descriptive Resource" />
       <item value="marketing" />
@@ -48,14 +51,11 @@
       <item value="If Nessesary" />
       <item value="to Percent If Nessesary" />
       <item value="greater Than" />
-      <item value="substitution" />
-      <item value="The &lt;i&gt;interrupted * status&lt;/i&gt; of the thread is unaffected by this method" />
-      <item value="has been interrupted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2067" />
-        <entry key="ENGLISH" value="2068" />
+        <entry key="CHINESE" value="2068" />
+        <entry key="ENGLISH" value="2069" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
