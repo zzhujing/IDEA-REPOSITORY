@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Descriptive Resource" />
       <item value="marketing" />
       <item value="retain All" />
       <item value="Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes" />
@@ -50,12 +51,11 @@
       <item value="The &lt;i&gt;interrupted * status&lt;/i&gt; of the thread is unaffected by this method" />
       <item value="has been interrupted" />
       <item value="Interrupting a thread that is not alive need not have any effect" />
-      <item value="invocation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2066" />
-        <entry key="ENGLISH" value="2066" />
+        <entry key="ENGLISH" value="2067" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
