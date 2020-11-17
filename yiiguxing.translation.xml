@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove Unprocessed Default Profiles" />
+      <item value="The default profile for these purposes is represented as null" />
+      <item value="pronounced" />
+      <item value="deck" />
+      <item value="double ended queue" />
       <item value="This annotation may be required when binding to names that clash with reserved language * keywords." />
       <item value="contributors" />
       <item value="get Or Else Supply" />
@@ -46,16 +51,11 @@
       <item value="The attached resolver will dynamically track any additions or removals from the" />
       <item value="origin" />
       <item value="since 2.4.0 in favor of" />
-      <item value="Bootstrapper" />
-      <item value="Subversion Client" />
-      <item value="configure Headless Property" />
-      <item value="Stack Trace Element" />
-      <item value="original" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2080" />
-        <entry key="ENGLISH" value="2081" />
+        <entry key="CHINESE" value="2085" />
+        <entry key="ENGLISH" value="2086" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
