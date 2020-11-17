@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fail On Inactive Source" />
+      <item value="FAIL ON BIND TO INACTIVE SOURCE" />
       <item value="remove Unprocessed Default Profiles" />
       <item value="The default profile for these purposes is represented as null" />
       <item value="pronounced" />
@@ -49,13 +51,11 @@
       <item value="LOAD FILTERED PROPERTY" />
       <item value="The attached resolver will dynamically track any additions or removals from the * underlying {@link Environment} property sources." />
       <item value="The attached resolver will dynamically track any additions or removals from the" />
-      <item value="origin" />
-      <item value="since 2.4.0 in favor of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2085" />
-        <entry key="ENGLISH" value="2086" />
+        <entry key="CHINESE" value="2087" />
+        <entry key="ENGLISH" value="2088" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
