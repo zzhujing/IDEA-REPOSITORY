@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This annotation may be required when binding to names that clash with reserved language * keywords." />
       <item value="contributors" />
       <item value="get Or Else Supply" />
       <item value="uniform" />
@@ -50,12 +51,11 @@
       <item value="configure Headless Property" />
       <item value="Stack Trace Element" />
       <item value="original" />
-      <item value="in a form that does not necessarily require the * class-loading." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2079" />
-        <entry key="ENGLISH" value="2080" />
+        <entry key="CHINESE" value="2080" />
+        <entry key="ENGLISH" value="2081" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
