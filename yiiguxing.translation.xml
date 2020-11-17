@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Config Data Environment Contributor" />
+      <item value="get Positive Profile Filter" />
       <item value="reorder" />
       <item value="ops" />
       <item value="Ωops" />
@@ -26,7 +28,6 @@
       <item value="Ancestors Matched Condition" />
       <item value="ACCEPTING TRAFFIC" />
       <item value="Parent Context Available Event" />
-      <item value="Config Data Environment Contributor" />
       <item value="underlying techology" />
       <item value="mandatory" />
       <item value="Can be used to register instances that may be expensive to create, or need to be shared * before the {@link ApplicationContext} is available" />
@@ -50,12 +51,11 @@
       <item value="Indicates whether automatic detection of classes annotated with {@code @Component} * {@code @Repository}, {@code @Service}, or {@code @Controller} should be enabled" />
       <item value="ASSIGNABLE TYPE" />
       <item value="series" />
-      <item value="to Percent If Necessary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2070" />
-        <entry key="ENGLISH" value="2071" />
+        <entry key="CHINESE" value="2072" />
+        <entry key="ENGLISH" value="2073" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
