@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bindable" />
       <item value="Config Data Environment Contributor" />
       <item value="get Positive Profile Filter" />
       <item value="reorder" />
@@ -50,11 +51,10 @@
       <item value="完成" />
       <item value="Indicates whether automatic detection of classes annotated with {@code @Component} * {@code @Repository}, {@code @Service}, or {@code @Controller} should be enabled" />
       <item value="ASSIGNABLE TYPE" />
-      <item value="series" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2072" />
+        <entry key="CHINESE" value="2073" />
         <entry key="ENGLISH" value="2073" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
