@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ops" />
+      <item value="Ωops" />
       <item value="PRESERVE TARGET CLASS ATTRIBUTE" />
       <item value="Useful in conjunction with annotations that * use @{@link Import} as a meta-annotation." />
       <item value="ImportBy" />
@@ -49,13 +51,11 @@
       <item value="series" />
       <item value="to Percent If Necessary" />
       <item value="If Nessesary" />
-      <item value="to Percent If Nessesary" />
-      <item value="greater Than" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2068" />
-        <entry key="ENGLISH" value="2069" />
+        <entry key="CHINESE" value="2070" />
+        <entry key="ENGLISH" value="2070" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
