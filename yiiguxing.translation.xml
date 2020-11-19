@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Digit Tens" />
       <item value="A data object is an * object composed itself of recursively bound properties" />
       <item value="Vcap" />
       <item value="Cloud Foundry Vcap Environment Post Processor" />
@@ -50,11 +51,10 @@
       <item value="processed" />
       <item value="get Outcomes" />
       <item value="Ancestors Matched Condition" />
-      <item value="ACCEPTING TRAFFIC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2094" />
+        <entry key="CHINESE" value="2095" />
         <entry key="ENGLISH" value="2095" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -63,7 +63,7 @@
         <entry key="FRENCH" value="10" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="1" />
+        <entry key="CATALAN" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="5" />
