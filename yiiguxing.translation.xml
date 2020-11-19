@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Positive" />
+      <item value="get Positive Profile Filter" />
       <item value="contains No Descendant Of" />
       <item value="Digit Tens" />
       <item value="A data object is an * object composed itself of recursively bound properties" />
@@ -28,7 +30,6 @@
       <item value="chop" />
       <item value="Bindable" />
       <item value="Config Data Environment Contributor" />
-      <item value="get Positive Profile Filter" />
       <item value="reorder" />
       <item value="ops" />
       <item value="Ωops" />
@@ -50,12 +51,11 @@
       <item value="particularly" />
       <item value="variation" />
       <item value="processed" />
-      <item value="get Outcomes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2095" />
-        <entry key="ENGLISH" value="2095" />
+        <entry key="CHINESE" value="2097" />
+        <entry key="ENGLISH" value="2098" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
