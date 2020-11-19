@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A data object is an * object composed itself of recursively bound properties" />
+      <item value="Vcap" />
+      <item value="Cloud Foundry Vcap Environment Post Processor" />
+      <item value="that sanitizes sensitive placeholders" />
+      <item value="sanitizes" />
       <item value="Qualifier" />
       <item value="背景" />
       <item value="北京" />
@@ -46,16 +51,11 @@
       <item value="get Outcomes" />
       <item value="Ancestors Matched Condition" />
       <item value="ACCEPTING TRAFFIC" />
-      <item value="Parent Context Available Event" />
-      <item value="underlying techology" />
-      <item value="mandatory" />
-      <item value="Can be used to register instances that may be expensive to create, or need to be shared * before the {@link ApplicationContext} is available" />
-      <item value="expensive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2089" />
-        <entry key="ENGLISH" value="2090" />
+        <entry key="CHINESE" value="2094" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
