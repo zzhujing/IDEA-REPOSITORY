@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains No Descendant Of" />
       <item value="Digit Tens" />
       <item value="A data object is an * object composed itself of recursively bound properties" />
       <item value="Vcap" />
@@ -50,7 +51,6 @@
       <item value="variation" />
       <item value="processed" />
       <item value="get Outcomes" />
-      <item value="Ancestors Matched Condition" />
     </histories>
     <option name="languageScores">
       <map>
