@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sneaky Throws" />
       <item value="additional" />
       <item value="expand Profiles" />
       <item value="has Explicit" />
@@ -50,12 +51,11 @@
       <item value="Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes" />
       <item value="Requested After" />
       <item value="get Classes Requested After" />
-      <item value="Initially sort alphabetically" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2105" />
-        <entry key="ENGLISH" value="2105" />
+        <entry key="ENGLISH" value="2106" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
