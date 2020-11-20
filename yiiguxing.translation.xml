@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="乐观" />
       <item value="IGNORE IMPORTS" />
       <item value="Sneaky Throws" />
       <item value="additional" />
@@ -50,12 +51,11 @@
       <item value="marketing" />
       <item value="retain All" />
       <item value="Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes" />
-      <item value="Requested After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2105" />
-        <entry key="ENGLISH" value="2106" />
+        <entry key="CHINESE" value="2106" />
+        <entry key="ENGLISH" value="2107" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
