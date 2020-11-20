@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="additional" />
       <item value="expand Profiles" />
       <item value="has Explicit" />
       <item value="is Enforced" />
@@ -50,11 +51,10 @@
       <item value="Requested After" />
       <item value="get Classes Requested After" />
       <item value="Initially sort alphabetically" />
-      <item value="get In Priority Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2104" />
+        <entry key="CHINESE" value="2105" />
         <entry key="ENGLISH" value="2105" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
