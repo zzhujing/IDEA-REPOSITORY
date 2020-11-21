@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Negative Profile Filter" />
       <item value="Negative" />
       <item value="乐观" />
       <item value="IGNORE IMPORTS" />
@@ -11,7 +12,6 @@
       <item value="is Enforced" />
       <item value="EXTENSION HINT PATTERN" />
       <item value="Nacos Property Source Locator" />
-      <item value="get Negative Profile Filter" />
       <item value="Positive" />
       <item value="get Positive Profile Filter" />
       <item value="contains No Descendant Of" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2107" />
-        <entry key="ENGLISH" value="2108" />
+        <entry key="CHINESE" value="2108" />
+        <entry key="ENGLISH" value="2109" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
