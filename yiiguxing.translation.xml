@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Also try the profile-specific section (if any) of the normal file" />
       <item value="get Negative Profile Filter" />
       <item value="Negative" />
       <item value="乐观" />
@@ -50,12 +51,11 @@
       <item value="originating" />
       <item value="Descriptive Resource" />
       <item value="marketing" />
-      <item value="retain All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2108" />
-        <entry key="ENGLISH" value="2109" />
+        <entry key="CHINESE" value="2109" />
+        <entry key="ENGLISH" value="2110" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
