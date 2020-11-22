@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Try profile specific sections in files we've already processed" />
       <item value="accepts Profiles" />
       <item value="positive negative" />
       <item value="Also try the profile-specific section (if any) of the normal file" />
@@ -50,12 +51,11 @@
       <item value="PRESERVE TARGET CLASS ATTRIBUTE" />
       <item value="Useful in conjunction with annotations that * use @{@link Import} as a meta-annotation." />
       <item value="ImportBy" />
-      <item value="originating" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2110" />
-        <entry key="ENGLISH" value="2111" />
+        <entry key="CHINESE" value="2111" />
+        <entry key="ENGLISH" value="2112" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
