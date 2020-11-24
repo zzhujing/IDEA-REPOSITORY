@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outcome" />
       <item value="在...之间" />
       <item value="variant" />
       <item value="individual" />
@@ -50,11 +51,10 @@
       <item value="Bindable" />
       <item value="Config Data Environment Contributor" />
       <item value="reorder" />
-      <item value="ops" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2117" />
+        <entry key="CHINESE" value="2118" />
         <entry key="ENGLISH" value="2118" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
