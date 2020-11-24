@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dummy" />
       <item value="The index one greater than the index of the last valid byte in * the buffer. * This value is always * in the range &lt;code&gt;0&lt;/code&gt; through &lt;code&gt;buf.length&lt;/code&gt;; * elements &lt;code&gt;buf[0]&lt;/code&gt; through &lt;code&gt;buf[count-1] * &lt;/code&gt;contain buffered input data obtained * from the underlying input stream." />
       <item value="The condition can only match the bean definitions that have been processed by the * application context so far and, as such, it is strongly recommended to use this * condition on auto-configuration classes only. If a candidate bean may be created by * another auto-configuration, make sure that the one using this condition runs after" />
       <item value="essentially" />
@@ -50,12 +51,11 @@
       <item value="double ended queue" />
       <item value="This annotation may be required when binding to names that clash with reserved language * keywords." />
       <item value="contributors" />
-      <item value="get Or Else Supply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2125" />
-        <entry key="ENGLISH" value="2126" />
+        <entry key="CHINESE" value="2126" />
+        <entry key="ENGLISH" value="2127" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
