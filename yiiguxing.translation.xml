@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The annotation type decorating a bean that should be checked. The condition matches * when all of the annotations specified are defined on beans in the" />
       <item value="various" />
       <item value="outcome" />
       <item value="在...之间" />
@@ -50,12 +51,11 @@
       <item value="DASHED" />
       <item value="chop" />
       <item value="Bindable" />
-      <item value="Config Data Environment Contributor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2118" />
-        <entry key="ENGLISH" value="2119" />
+        <entry key="CHINESE" value="2119" />
+        <entry key="ENGLISH" value="2120" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
