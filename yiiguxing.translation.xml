@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verbose" />
       <item value="relativize" />
       <item value="dummy" />
       <item value="The index one greater than the index of the last valid byte in * the buffer. * This value is always * in the range &lt;code&gt;0&lt;/code&gt; through &lt;code&gt;buf.length&lt;/code&gt;; * elements &lt;code&gt;buf[0]&lt;/code&gt; through &lt;code&gt;buf[count-1] * &lt;/code&gt;contain buffered input data obtained * from the underlying input stream." />
@@ -50,11 +51,10 @@
       <item value="pronounced" />
       <item value="deck" />
       <item value="double ended queue" />
-      <item value="This annotation may be required when binding to names that clash with reserved language * keywords." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2127" />
+        <entry key="CHINESE" value="2128" />
         <entry key="ENGLISH" value="2128" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
