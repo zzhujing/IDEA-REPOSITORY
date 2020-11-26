@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="override" />
       <item value="œ" />
       <item value="Raw use of parameterized class 'Food'" />
       <item value="Fruit" />
@@ -50,12 +51,11 @@
       <item value="Vcap" />
       <item value="Cloud Foundry Vcap Environment Post Processor" />
       <item value="that sanitizes sensitive placeholders" />
-      <item value="sanitizes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2135" />
-        <entry key="ENGLISH" value="2136" />
+        <entry key="CHINESE" value="2136" />
+        <entry key="ENGLISH" value="2137" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
