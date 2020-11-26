@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUBMIT" />
+      <item value="RESIGN" />
+      <item value="上级" />
+      <item value="人事" />
+      <item value="认识" />
+      <item value="财务" />
+      <item value="报销" />
+      <item value="离职" />
+      <item value="请假" />
+      <item value="审批" />
+      <item value="流程" />
+      <item value="TRANSIENT" />
+      <item value="DISPENSING" />
+      <item value="Insufficient" />
+      <item value="RESTING" />
+      <item value="In cents" />
       <item value="Halted" />
       <item value="is Transient" />
       <item value="DOLLAR" />
@@ -35,27 +51,11 @@
       <item value="Fruit" />
       <item value="Regular Enum Set" />
       <item value="Jumbo Enum Set" />
-      <item value="Retains" />
-      <item value="Invocation Handler" />
-      <item value="This method propagates any exception thrown by the nullary constructor, including a checked exception. Use of this method effectively bypasses the compile-time exception checking that would otherwise be performed by the compiler. The Constructor.newInstance method avoids this problem by wrapping any exception thrown by the constructor in a (checked) InvocationTargetException. The call" />
-      <item value="This method propagates any exception thrown by the * nullary constructor, including a checked exception. Use of * this method effectively bypasses the compile-time exception * checking that would otherwise be performed by the compiler. * The {@link * java.lang.reflect.Constructor#newInstance(java.lang.Object...) * Constructor.newInstance} method avoids this problem by wrapping * any exception thrown by the constructor in a (checked) {@link * java.lang.reflect.InvocationTargetException}." />
-      <item value="propagates" />
-      <item value="verbose" />
-      <item value="relativize" />
-      <item value="dummy" />
-      <item value="The index one greater than the index of the last valid byte in * the buffer. * This value is always * in the range &lt;code&gt;0&lt;/code&gt; through &lt;code&gt;buf.length&lt;/code&gt;; * elements &lt;code&gt;buf[0]&lt;/code&gt; through &lt;code&gt;buf[count-1] * &lt;/code&gt;contain buffered input data obtained * from the underlying input stream." />
-      <item value="The condition can only match the bean definitions that have been processed by the * application context so far and, as such, it is strongly recommended to use this * condition on auto-configuration classes only. If a candidate bean may be created by * another auto-configuration, make sure that the one using this condition runs after" />
-      <item value="essentially" />
-      <item value="Conditional On Single Candidate" />
-      <item value="plural" />
-      <item value="singular" />
-      <item value="The annotation type decorating a bean that should be checked. The condition matches * when all of the annotations specified are defined on beans in the" />
-      <item value="various" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2167" />
-        <entry key="ENGLISH" value="2168" />
+        <entry key="CHINESE" value="2181" />
+        <entry key="ENGLISH" value="2182" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
