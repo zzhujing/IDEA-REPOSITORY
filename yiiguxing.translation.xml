@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Halted" />
+      <item value="is Transient" />
+      <item value="DOLLAR" />
+      <item value="QUARTER" />
+      <item value="DIME" />
+      <item value="NICKEL" />
+      <item value="ABORT TRANSACTION" />
+      <item value="SOAP" />
+      <item value="SODA" />
+      <item value="TOOTHPASTE" />
+      <item value="CHIPS" />
+      <item value="State Machine Demo" />
       <item value="Chain Of Responsibility Demo" />
       <item value="java design" />
       <item value="Delivering" />
@@ -39,23 +51,11 @@
       <item value="singular" />
       <item value="The annotation type decorating a bean that should be checked. The condition matches * when all of the annotations specified are defined on beans in the" />
       <item value="various" />
-      <item value="outcome" />
-      <item value="在...之间" />
-      <item value="variant" />
-      <item value="individual" />
-      <item value="LEGACY PROFILES NAME" />
-      <item value="get Negative Profile Filter" />
-      <item value="Try profile specific sections in files we've already processed" />
-      <item value="accepts Profiles" />
-      <item value="positive negative" />
-      <item value="Also try the profile-specific section (if any) of the normal file" />
-      <item value="Negative" />
-      <item value="乐观" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2151" />
-        <entry key="ENGLISH" value="2152" />
+        <entry key="CHINESE" value="2167" />
+        <entry key="ENGLISH" value="2168" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
