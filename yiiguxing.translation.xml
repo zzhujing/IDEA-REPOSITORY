@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="occurs" />
+      <item value="ceil" />
       <item value="rewind" />
       <item value="compact" />
       <item value="implied" />
@@ -49,13 +51,11 @@
       <item value="General Delivery" />
       <item value="complement Of" />
       <item value="Universe" />
-      <item value="get Universe" />
-      <item value="Complements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2192" />
-        <entry key="ENGLISH" value="2193" />
+        <entry key="CHINESE" value="2193" />
+        <entry key="ENGLISH" value="2194" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
