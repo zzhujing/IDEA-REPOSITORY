@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inflater Input Stream" />
       <item value="inclusive" />
       <item value="navigable Key Set" />
       <item value="descending Map" />
@@ -50,12 +51,11 @@
       <item value="火龙果" />
       <item value="PEAR" />
       <item value="mismatch" />
-      <item value="compare Unsigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2187" />
-        <entry key="ENGLISH" value="2188" />
+        <entry key="CHINESE" value="2188" />
+        <entry key="ENGLISH" value="2189" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
