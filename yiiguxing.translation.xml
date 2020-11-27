@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inclusive" />
+      <item value="navigable Key Set" />
+      <item value="descending Map" />
       <item value="the portion of" />
       <item value="diff Value" />
       <item value="实收获量" />
@@ -48,14 +51,11 @@
       <item value="PEAR" />
       <item value="mismatch" />
       <item value="compare Unsigned" />
-      <item value="Dual Pivot Quicksort" />
-      <item value="override" />
-      <item value="œ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2184" />
-        <entry key="ENGLISH" value="2185" />
+        <entry key="CHINESE" value="2187" />
+        <entry key="ENGLISH" value="2188" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
