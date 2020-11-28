@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="20" />
+      <item value="29" />
       <item value="volatile" />
       <item value="ceil" />
       <item value="occurs" />
@@ -49,12 +51,10 @@
       <item value="Delivering" />
       <item value="ILLEGIBLE" />
       <item value="Readability" />
-      <item value="General Delivery" />
-      <item value="complement Of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2194" />
+        <entry key="CHINESE" value="2195" />
         <entry key="ENGLISH" value="2195" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
