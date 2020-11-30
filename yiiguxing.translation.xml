@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化" />
       <item value="divide And Remainder" />
       <item value="转发" />
       <item value="sink source" />
@@ -50,12 +51,11 @@
       <item value="Halted" />
       <item value="is Transient" />
       <item value="DOLLAR" />
-      <item value="QUARTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2204" />
-        <entry key="ENGLISH" value="2205" />
+        <entry key="CHINESE" value="2205" />
+        <entry key="ENGLISH" value="2206" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
