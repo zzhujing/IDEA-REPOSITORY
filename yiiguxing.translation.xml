@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
       <item value="审核状态" />
       <item value="是否匿名" />
       <item value="服务态度" />
@@ -50,7 +51,6 @@
       <item value="财务" />
       <item value="报销" />
       <item value="离职" />
-      <item value="请假" />
     </histories>
     <option name="languageScores">
       <map>
