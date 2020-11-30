@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否匿名" />
+      <item value="服务态度" />
+      <item value="送货速度" />
+      <item value="商品包装" />
+      <item value="goodsPackStar" />
+      <item value="goods_pack_star" />
+      <item value="goods_pack_count" />
+      <item value="包装" />
       <item value="comment" />
       <item value="优化" />
       <item value="divide And Remainder" />
@@ -43,19 +51,11 @@
       <item value="离职" />
       <item value="请假" />
       <item value="审批" />
-      <item value="流程" />
-      <item value="TRANSIENT" />
-      <item value="DISPENSING" />
-      <item value="Insufficient" />
-      <item value="RESTING" />
-      <item value="In cents" />
-      <item value="Halted" />
-      <item value="is Transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2206" />
-        <entry key="ENGLISH" value="2206" />
+        <entry key="CHINESE" value="2207" />
+        <entry key="ENGLISH" value="2208" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
