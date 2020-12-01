@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfer support" />
+      <item value="transfer" />
+      <item value="transefer" />
       <item value="Hint Exception" />
       <item value="后缀" />
       <item value="审核状态" />
@@ -48,19 +51,16 @@
       <item value="RESIGN" />
       <item value="上级" />
       <item value="人事" />
-      <item value="认识" />
-      <item value="财务" />
-      <item value="报销" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2208" />
-        <entry key="ENGLISH" value="2209" />
+        <entry key="CHINESE" value="2210" />
+        <entry key="ENGLISH" value="2211" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
-        <entry key="FRENCH" value="10" />
+        <entry key="FRENCH" value="11" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
