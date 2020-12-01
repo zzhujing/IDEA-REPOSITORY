@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Average" />
+      <item value="中评" />
+      <item value="negative" />
+      <item value="差评" />
       <item value="transfer support" />
       <item value="transfer" />
       <item value="transefer" />
@@ -47,15 +51,11 @@
       <item value="diff Value" />
       <item value="实收获量" />
       <item value="是收获量" />
-      <item value="SUBMIT" />
-      <item value="RESIGN" />
-      <item value="上级" />
-      <item value="人事" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2210" />
-        <entry key="ENGLISH" value="2211" />
+        <entry key="CHINESE" value="2213" />
+        <entry key="ENGLISH" value="2213" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
