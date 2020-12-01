@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unstable Api" />
       <item value="arbitrary" />
       <item value="SO BACKLOG" />
       <item value="determin Nick Name" />
@@ -50,12 +51,11 @@
       <item value="compact" />
       <item value="implied" />
       <item value="set Comment" />
-      <item value="Inflater Input Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2217" />
-        <entry key="ENGLISH" value="2218" />
+        <entry key="CHINESE" value="2218" />
+        <entry key="ENGLISH" value="2219" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
