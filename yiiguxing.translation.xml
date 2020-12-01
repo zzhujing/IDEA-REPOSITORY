@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the {@link EventExecutor} which is used to execute an arbitrary task." />
       <item value="Unstable Api" />
       <item value="arbitrary" />
       <item value="SO BACKLOG" />
@@ -50,12 +51,11 @@
       <item value="rewind" />
       <item value="compact" />
       <item value="implied" />
-      <item value="set Comment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2218" />
-        <entry key="ENGLISH" value="2219" />
+        <entry key="CHINESE" value="2219" />
+        <entry key="ENGLISH" value="2220" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
