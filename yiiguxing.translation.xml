@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rawtypes" />
+      <item value="Inferred type 'E' for type parameter 'E' is not within its bound; should implement 'com.baomidou.mybatisplus.core.metadata.IPage&lt;com.dxd.mall.applet.dal.entity.MallOrderCommentDetail&gt;'" />
       <item value="œ" />
       <item value="Confusing argument 'this.getStars()', unclear if a varargs or non-varargs call is desired" />
       <item value="Average" />
@@ -49,13 +51,11 @@
       <item value="inclusive" />
       <item value="navigable Key Set" />
       <item value="descending Map" />
-      <item value="the portion of" />
-      <item value="diff Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2213" />
-        <entry key="ENGLISH" value="2214" />
+        <entry key="CHINESE" value="2214" />
+        <entry key="ENGLISH" value="2215" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
