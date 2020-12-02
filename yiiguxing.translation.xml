@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="放大" />
       <item value="comparison" />
       <item value="Video On Of Off VO" />
       <item value="auto Third Delivery Time" />
@@ -50,12 +51,11 @@
       <item value="29" />
       <item value="volatile" />
       <item value="ceil" />
-      <item value="occurs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2222" />
-        <entry key="ENGLISH" value="2223" />
+        <entry key="CHINESE" value="2223" />
+        <entry key="ENGLISH" value="2224" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
