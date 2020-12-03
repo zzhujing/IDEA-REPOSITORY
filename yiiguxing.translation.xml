@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a slice of this buffer's readable bytes. Modifying the content * of the returned buffer or this buffer affects each other's content * while they maintain separate indexes and marks" />
+      <item value="touch" />
+      <item value="retained" />
+      <item value="identical" />
+      <item value="The search takes place from the current {@code readerIndex} * (inclusive) to the current {@code writerIndex} (exclusive)" />
       <item value="放大" />
       <item value="comparison" />
       <item value="Video On Of Off VO" />
@@ -46,16 +51,11 @@
       <item value="a program component that is capable of * performing one or more distinct I/O operations" />
       <item value="hardware" />
       <item value="nexus" />
-      <item value="Hot Spot Intrinsic Candidate" />
-      <item value="20" />
-      <item value="29" />
-      <item value="volatile" />
-      <item value="ceil" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2223" />
-        <entry key="ENGLISH" value="2224" />
+        <entry key="CHINESE" value="2228" />
+        <entry key="ENGLISH" value="2229" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
