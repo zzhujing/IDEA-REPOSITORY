@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assist" />
+      <item value="辅助" />
+      <item value="辅助字段" />
       <item value="Returns a slice of this buffer's readable bytes. Modifying the content * of the returned buffer or this buffer affects each other's content * while they maintain separate indexes and marks" />
       <item value="touch" />
       <item value="retained" />
@@ -48,14 +51,11 @@
       <item value="intended" />
       <item value="A channel is either open or closed. A channel is open upon creation, * and once closed it remains closed" />
       <item value="A channel represents an open connection to an entity such as a hardware * device, a file, a network socket, or a program component that is capable of * performing one or more distinct I/O operations, for example reading or * writing." />
-      <item value="a program component that is capable of * performing one or more distinct I/O operations" />
-      <item value="hardware" />
-      <item value="nexus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2228" />
-        <entry key="ENGLISH" value="2229" />
+        <entry key="CHINESE" value="2230" />
+        <entry key="ENGLISH" value="2230" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
