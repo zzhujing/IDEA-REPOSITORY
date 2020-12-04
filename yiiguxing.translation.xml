@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联系人" />
+      <item value="通讯录" />
       <item value="Assist" />
       <item value="辅助" />
       <item value="辅助字段" />
@@ -49,13 +51,11 @@
       <item value="sink" />
       <item value="Ωsink" />
       <item value="intended" />
-      <item value="A channel is either open or closed. A channel is open upon creation, * and once closed it remains closed" />
-      <item value="A channel represents an open connection to an entity such as a hardware * device, a file, a network socket, or a program component that is capable of * performing one or more distinct I/O operations, for example reading or * writing." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2230" />
-        <entry key="ENGLISH" value="2230" />
+        <entry key="ENGLISH" value="2231" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
