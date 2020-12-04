@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="smooth" />
       <item value="联系人" />
       <item value="通讯录" />
       <item value="Assist" />
@@ -50,12 +51,11 @@
       <item value="source" />
       <item value="sink" />
       <item value="Ωsink" />
-      <item value="intended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2230" />
-        <entry key="ENGLISH" value="2231" />
+        <entry key="CHINESE" value="2231" />
+        <entry key="ENGLISH" value="2232" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
