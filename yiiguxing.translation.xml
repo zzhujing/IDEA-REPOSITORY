@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="画像" />
+      <item value="Contact Customer" />
+      <item value="联系" />
+      <item value="Contract Customer" />
+      <item value="Contract Custom" />
       <item value="smooth" />
       <item value="联系人" />
       <item value="通讯录" />
@@ -46,16 +51,11 @@
       <item value="comment" />
       <item value="优化" />
       <item value="divide And Remainder" />
-      <item value="转发" />
-      <item value="sink source" />
-      <item value="source" />
-      <item value="sink" />
-      <item value="Ωsink" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2231" />
-        <entry key="ENGLISH" value="2232" />
+        <entry key="CHINESE" value="2236" />
+        <entry key="ENGLISH" value="2237" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
