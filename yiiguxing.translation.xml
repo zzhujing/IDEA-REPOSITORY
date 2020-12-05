@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unshared" />
       <item value="Reflective Channel Factory" />
       <item value="chunked" />
       <item value="update Contact" />
@@ -50,12 +51,11 @@
       <item value="goodsPackStar" />
       <item value="goods_pack_star" />
       <item value="goods_pack_count" />
-      <item value="包装" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2239" />
-        <entry key="ENGLISH" value="2240" />
+        <entry key="CHINESE" value="2240" />
+        <entry key="ENGLISH" value="2241" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
