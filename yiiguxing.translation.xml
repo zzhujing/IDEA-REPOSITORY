@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Keep Sport With nine o'clock" />
+      <item value="Ω节" />
       <item value="unshared" />
       <item value="Reflective Channel Factory" />
       <item value="chunked" />
@@ -49,13 +51,11 @@
       <item value="送货速度" />
       <item value="商品包装" />
       <item value="goodsPackStar" />
-      <item value="goods_pack_star" />
-      <item value="goods_pack_count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2240" />
-        <entry key="ENGLISH" value="2241" />
+        <entry key="CHINESE" value="2242" />
+        <entry key="ENGLISH" value="2242" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
