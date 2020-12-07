@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assumed" />
+      <item value="public" />
       <item value="delta" />
       <item value="Keep Sport With nine o'clock" />
       <item value="Ω节" />
@@ -49,13 +51,11 @@
       <item value="审核状态" />
       <item value="是否匿名" />
       <item value="服务态度" />
-      <item value="送货速度" />
-      <item value="商品包装" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2242" />
-        <entry key="ENGLISH" value="2243" />
+        <entry key="CHINESE" value="2244" />
+        <entry key="ENGLISH" value="2244" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
