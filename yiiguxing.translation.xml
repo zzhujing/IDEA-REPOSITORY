@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="深入理解JVM" />
       <item value="assumed" />
       <item value="public" />
       <item value="delta" />
@@ -50,12 +51,11 @@
       <item value="后缀" />
       <item value="审核状态" />
       <item value="是否匿名" />
-      <item value="服务态度" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2244" />
-        <entry key="ENGLISH" value="2244" />
+        <entry key="ENGLISH" value="2245" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
