@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="图床" />
       <item value="fly" />
       <item value="flyer" />
       <item value="深入理解JVM" />
@@ -50,12 +51,11 @@
       <item value="transfer" />
       <item value="transefer" />
       <item value="Hint Exception" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2245" />
-        <entry key="ENGLISH" value="2245" />
+        <entry key="ENGLISH" value="2246" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
