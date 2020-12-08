@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fly" />
+      <item value="flyer" />
       <item value="深入理解JVM" />
       <item value="assumed" />
       <item value="public" />
@@ -49,12 +51,10 @@
       <item value="transefer" />
       <item value="Hint Exception" />
       <item value="后缀" />
-      <item value="审核状态" />
-      <item value="是否匿名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2244" />
+        <entry key="CHINESE" value="2245" />
         <entry key="ENGLISH" value="2245" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
