@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="another twist to" />
+      <item value="length Adjustment" />
       <item value="set Discard After Reads" />
       <item value="MERGE CUMULATOR" />
       <item value="now" />
@@ -49,13 +51,11 @@
       <item value="Confusing argument 'this.getStars()', unclear if a varargs or non-varargs call is desired" />
       <item value="Average" />
       <item value="中评" />
-      <item value="negative" />
-      <item value="差评" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2250" />
-        <entry key="ENGLISH" value="2251" />
+        <entry key="CHINESE" value="2252" />
+        <entry key="ENGLISH" value="2253" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
