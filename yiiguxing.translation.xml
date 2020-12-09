@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get If Unique" />
       <item value="擅长运动" />
       <item value="good At Sports" />
       <item value="擅长的" />
@@ -50,12 +51,11 @@
       <item value="Unstable Api" />
       <item value="arbitrary" />
       <item value="SO BACKLOG" />
-      <item value="determin Nick Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2255" />
-        <entry key="ENGLISH" value="2256" />
+        <entry key="CHINESE" value="2256" />
+        <entry key="ENGLISH" value="2257" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
