@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguous Constructors" />
+      <item value="min Type Diff Weight" />
       <item value="resolve Prepared Arguments" />
       <item value="constructor To Use" />
       <item value="Inconsistent" />
@@ -49,13 +51,11 @@
       <item value="Returns a slice of this buffer's readable bytes. Modifying the content * of the returned buffer or this buffer affects each other's content * while they maintain separate indexes and marks" />
       <item value="touch" />
       <item value="retained" />
-      <item value="identical" />
-      <item value="The search takes place from the current {@code readerIndex} * (inclusive) to the current {@code writerIndex} (exclusive)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2264" />
-        <entry key="ENGLISH" value="2265" />
+        <entry key="CHINESE" value="2266" />
+        <entry key="ENGLISH" value="2267" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
