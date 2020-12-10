@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If valid arguments found, determine type difference weight. // Try type difference weight on both the converted arguments and // the raw arguments. If the raw weight is better, use it. // Decrease raw weight by 1024 to prefer it over equal converted weight." />
+      <item value="Decrease raw weight by 1024 to prefer it over equal converted weight" />
       <item value="prepared" />
       <item value="is Lenient Constructor Resolution" />
       <item value="get Preferred Constructors" />
@@ -49,13 +51,11 @@
       <item value="Contract Custom" />
       <item value="smooth" />
       <item value="联系人" />
-      <item value="通讯录" />
-      <item value="Assist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2272" />
-        <entry key="ENGLISH" value="2273" />
+        <entry key="CHINESE" value="2274" />
+        <entry key="ENGLISH" value="2275" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
