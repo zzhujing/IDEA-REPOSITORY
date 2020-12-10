@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preferred constructors for default construction?" />
+      <item value="Class Derived Bean Definition" />
       <item value="introducation" />
       <item value="show Injected Value" />
       <item value="get If Unique" />
@@ -49,13 +51,11 @@
       <item value="comparison" />
       <item value="Video On Of Off VO" />
       <item value="auto Third Delivery Time" />
-      <item value="Returns the {@link EventExecutor} which is used to execute an arbitrary task." />
-      <item value="Unstable Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2258" />
-        <entry key="ENGLISH" value="2258" />
+        <entry key="CHINESE" value="2259" />
+        <entry key="ENGLISH" value="2260" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
