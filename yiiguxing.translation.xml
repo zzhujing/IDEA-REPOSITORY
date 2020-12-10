@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Injected Value" />
       <item value="get If Unique" />
       <item value="擅长运动" />
       <item value="good At Sports" />
@@ -50,12 +51,11 @@
       <item value="Returns the {@link EventExecutor} which is used to execute an arbitrary task." />
       <item value="Unstable Api" />
       <item value="arbitrary" />
-      <item value="SO BACKLOG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2256" />
-        <entry key="ENGLISH" value="2257" />
+        <entry key="CHINESE" value="2257" />
+        <entry key="ENGLISH" value="2258" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
