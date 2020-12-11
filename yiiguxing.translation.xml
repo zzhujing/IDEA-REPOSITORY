@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A BeanWrapper's default for the &quot;extractOldValueForEditor&quot; setting * is &quot;false&quot;, to avoid side effects caused by getter method invocations. * Turn this to &quot;true&quot; to expose present property values to custom editors" />
+      <item value="extract Old Value For Editor" />
+      <item value="Typically not used directly but rather implicitly via a" />
+      <item value="The central interface of Spring's low-level JavaBeans infrastructure." />
+      <item value="infrastructure" />
+      <item value="Bean Wrapper" />
       <item value="is Wildcard Without Bounds" />
       <item value="perceived" />
       <item value="pragmatically" />
@@ -45,17 +51,11 @@
       <item value="fly" />
       <item value="flyer" />
       <item value="深入理解JVM" />
-      <item value="assumed" />
-      <item value="public" />
-      <item value="delta" />
-      <item value="Keep Sport With nine o'clock" />
-      <item value="Ω节" />
-      <item value="unshared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2285" />
-        <entry key="ENGLISH" value="2285" />
+        <entry key="CHINESE" value="2290" />
+        <entry key="ENGLISH" value="2291" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
