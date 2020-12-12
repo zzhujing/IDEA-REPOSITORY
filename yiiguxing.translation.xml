@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="are supposed to be added to" />
+      <item value="the name of the bean which declares the given dependency" />
       <item value="A BeanWrapper's default for the &quot;extractOldValueForEditor&quot; setting * is &quot;false&quot;, to avoid side effects caused by getter method invocations. * Turn this to &quot;true&quot; to expose present property values to custom editors" />
       <item value="extract Old Value For Editor" />
       <item value="Typically not used directly but rather implicitly via a" />
@@ -49,13 +51,11 @@
       <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load" />
       <item value="图床" />
       <item value="fly" />
-      <item value="flyer" />
-      <item value="深入理解JVM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2290" />
-        <entry key="ENGLISH" value="2291" />
+        <entry key="CHINESE" value="2292" />
+        <entry key="ENGLISH" value="2293" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
