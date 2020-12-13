@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Assignability Weight" />
       <item value="are supposed to be added to" />
       <item value="the name of the bean which declares the given dependency" />
       <item value="A BeanWrapper's default for the &quot;extractOldValueForEditor&quot; setting * is &quot;false&quot;, to avoid side effects caused by getter method invocations. * Turn this to &quot;true&quot; to expose present property values to custom editors" />
@@ -50,12 +51,11 @@
       <item value="now" />
       <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load" />
       <item value="图床" />
-      <item value="fly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2292" />
-        <entry key="ENGLISH" value="2293" />
+        <entry key="CHINESE" value="2293" />
+        <entry key="ENGLISH" value="2294" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
