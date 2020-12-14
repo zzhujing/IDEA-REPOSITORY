@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收藏" />
       <item value="前端控制器" />
       <item value="商品编号" />
       <item value="在依赖注入过程中特殊可注入对象" />
@@ -50,12 +51,11 @@
       <item value="有用" />
       <item value="体育生" />
       <item value="another twist to" />
-      <item value="length Adjustment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2298" />
-        <entry key="ENGLISH" value="2298" />
+        <entry key="ENGLISH" value="2299" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
