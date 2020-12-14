@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="First Directly Declared" />
       <item value="directly" />
       <item value="Get the index of the aggregate collection containing this annotation." />
       <item value="reorder" />
@@ -50,12 +51,11 @@
       <item value="resolve Prepared Arguments" />
       <item value="constructor To Use" />
       <item value="Inconsistent" />
-      <item value="Inconsistent constructor declaration on bean with name '&quot; + beanName + &quot;': single autowire-marked constructor flagged as optional - &quot; + &quot;this constructor is effectively required since there is no &quot; + &quot;default constructor to fall back to: &quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2312" />
-        <entry key="ENGLISH" value="2313" />
+        <entry key="CHINESE" value="2313" />
+        <entry key="ENGLISH" value="2314" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
