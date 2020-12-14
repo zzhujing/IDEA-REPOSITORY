@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前端控制器" />
+      <item value="商品编号" />
       <item value="在依赖注入过程中特殊可注入对象" />
       <item value="Dependency Source Demo" />
       <item value="Resolvable Dependency Demo" />
@@ -49,13 +51,11 @@
       <item value="体育生" />
       <item value="another twist to" />
       <item value="length Adjustment" />
-      <item value="set Discard After Reads" />
-      <item value="MERGE CUMULATOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2296" />
-        <entry key="ENGLISH" value="2296" />
+        <entry key="CHINESE" value="2298" />
+        <entry key="ENGLISH" value="2298" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
