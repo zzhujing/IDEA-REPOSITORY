@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="在依赖注入过程中特殊可注入对象" />
+      <item value="Dependency Source Demo" />
       <item value="Resolvable Dependency Demo" />
       <item value="get Assignability Weight" />
       <item value="are supposed to be added to" />
@@ -49,13 +51,11 @@
       <item value="length Adjustment" />
       <item value="set Discard After Reads" />
       <item value="MERGE CUMULATOR" />
-      <item value="now" />
-      <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2294" />
-        <entry key="ENGLISH" value="2295" />
+        <entry key="CHINESE" value="2296" />
+        <entry key="ENGLISH" value="2296" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
