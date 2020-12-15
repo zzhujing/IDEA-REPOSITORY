@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Synthesize" />
+      <item value="Synthe" />
       <item value="The result is synthesized using a JDK {@link Proxy} and as a result may * incur a computational cost when first invoked." />
       <item value="An annotation is considered synthesizable if * one of the following is true." />
       <item value="The annotation declares attributes that are annotations or arrays of * annotations that are themselves synthesizable" />
@@ -49,12 +51,10 @@
       <item value="Qualifier" />
       <item value="but in the case of a dependency collection, not the very same bean itself" />
       <item value="Consider self references as a final pass" />
-      <item value="Consider" />
-      <item value="Determine whether the specified bean qualifies as an autowire candidate, * to be injected into other beans which declare a dependency of matching type. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2327" />
+        <entry key="CHINESE" value="2328" />
         <entry key="ENGLISH" value="2328" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
