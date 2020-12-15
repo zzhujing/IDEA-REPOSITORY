@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enclosing" />
       <item value="If this merged annotation was created {@linkplain #from(Annotation) from} * an annotation instance, that annotation will be returned unmodified if it is * not &lt;em&gt;synthesizable&lt;/em&gt;. An annotation is considered synthesizable if * one of the following is true." />
       <item value="Synthesize" />
       <item value="Synthe" />
@@ -50,7 +51,6 @@
       <item value="perceived" />
       <item value="pragmatically" />
       <item value="Qualifier" />
-      <item value="but in the case of a dependency collection, not the very same bean itself" />
     </histories>
     <option name="languageScores">
       <map>
