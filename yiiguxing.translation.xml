@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="within" />
       <item value="This ordering * means that, for most use-cases, the most suitable annotations appear * earliest in the stream" />
       <item value="be used to reorder a stream of annotations" />
       <item value="distance" />
@@ -50,12 +51,11 @@
       <item value="Decrease raw weight by 1024 to prefer it over equal converted weight." />
       <item value="Try type difference weight on both the converted arguments and // the raw arguments. If the raw weight is better, use it" />
       <item value="ambiguous Constructors" />
-      <item value="min Type Diff Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2315" />
-        <entry key="ENGLISH" value="2316" />
+        <entry key="CHINESE" value="2316" />
+        <entry key="ENGLISH" value="2317" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
