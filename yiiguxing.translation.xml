@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create a new view of the annotation that exposes non-merged attribute values. Methods from this view will return attribute values with only alias mirroring rules applied. Aliases to meta-source attributes will not be applied." />
+      <item value="with Non Merged Attributes" />
+      <item value="only alias mirroring * rules applied" />
+      <item value="with only alias mirroring * rules applied" />
       <item value="within" />
       <item value="This ordering * means that, for most use-cases, the most suitable annotations appear * earliest in the stream" />
       <item value="be used to reorder a stream of annotations" />
@@ -47,15 +51,11 @@
       <item value="Decrease raw weight by 1024 to prefer it over equal converted weight" />
       <item value="prepared" />
       <item value="is Lenient Constructor Resolution" />
-      <item value="get Preferred Constructors" />
-      <item value="Decrease raw weight by 1024 to prefer it over equal converted weight." />
-      <item value="Try type difference weight on both the converted arguments and // the raw arguments. If the raw weight is better, use it" />
-      <item value="ambiguous Constructors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2316" />
-        <entry key="ENGLISH" value="2317" />
+        <entry key="CHINESE" value="2320" />
+        <entry key="ENGLISH" value="2320" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
