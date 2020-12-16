@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Outcomes" />
+      <item value="fire" />
       <item value="Try reading the class file via ASM for deterministic declaration order... // Unfortunately, the JVM's standard reflection returns methods in arbitrary // order, even between different runs of the same application on the same JVM" />
       <item value="originating" />
       <item value="Check the set of scanned definitions for any further config classes and parse recursively if needed" />
       <item value="Register the ImportRegistry as a bean in order to support ImportAware @Configuration classes" />
       <item value="consider Inherited" />
       <item value="Assignable Type Filter" />
-      <item value="fire" />
       <item value="fledged" />
       <item value="for example strategy implementations * in Spring's component scanning support (where the default definition class is * {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, * which also implements the AnnotatedBeanDefinition interface)" />
       <item value="This GenericBeanDefinition variant is mainly useful for testing code that expects * to operate on an AnnotatedBeanDefinition, for example strategy implementations * in Spring's component scanning support (where the default definition class is * {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, * which also implements the AnnotatedBeanDefinition interface)." />
@@ -50,12 +51,11 @@
       <item value="商品编号" />
       <item value="在依赖注入过程中特殊可注入对象" />
       <item value="Dependency Source Demo" />
-      <item value="Resolvable Dependency Demo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2342" />
-        <entry key="ENGLISH" value="2343" />
+        <entry key="CHINESE" value="2344" />
+        <entry key="ENGLISH" value="2345" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
