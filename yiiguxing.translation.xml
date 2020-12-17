@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="residue Times" />
       <item value="get Outcomes" />
       <item value="fire" />
       <item value="Try reading the class file via ASM for deterministic declaration order... // Unfortunately, the JVM's standard reflection returns methods in arbitrary // order, even between different runs of the same application on the same JVM" />
@@ -50,12 +51,11 @@
       <item value="前端控制器" />
       <item value="商品编号" />
       <item value="在依赖注入过程中特殊可注入对象" />
-      <item value="Dependency Source Demo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2344" />
-        <entry key="ENGLISH" value="2345" />
+        <entry key="CHINESE" value="2345" />
+        <entry key="ENGLISH" value="2346" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
