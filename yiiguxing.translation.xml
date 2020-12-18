@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Java Heap Out Of Memory Demo" />
+      <item value="hello" />
+      <item value="verbose" />
+      <item value="Ωverbose" />
       <item value="intern" />
       <item value="suppress" />
       <item value="set Residue Times" />
@@ -47,15 +51,11 @@
       <item value="Note that attribute values are &lt;b&gt;not&lt;/b&gt; converted when accessed." />
       <item value="Merged Annotation" />
       <item value="in favor of" />
-      <item value="in favor of Spring's common bean definition formats" />
-      <item value="Deprecated" />
-      <item value="get Originating Bean Definition" />
-      <item value="收藏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2347" />
-        <entry key="ENGLISH" value="2347" />
+        <entry key="CHINESE" value="2348" />
+        <entry key="ENGLISH" value="2349" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
