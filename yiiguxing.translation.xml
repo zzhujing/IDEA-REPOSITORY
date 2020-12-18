@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intern" />
       <item value="suppress" />
       <item value="set Residue Times" />
       <item value="residue Times" />
@@ -50,11 +51,10 @@
       <item value="Deprecated" />
       <item value="get Originating Bean Definition" />
       <item value="收藏" />
-      <item value="前端控制器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2346" />
+        <entry key="CHINESE" value="2347" />
         <entry key="ENGLISH" value="2347" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -65,7 +65,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="KURDISH" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
