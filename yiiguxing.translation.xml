@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PermGen Space" />
+      <item value="PermGen" />
       <item value="Java Heap Out Of Memory Demo" />
       <item value="hello" />
       <item value="verbose" />
@@ -49,12 +51,10 @@
       <item value="Get the index of the aggregate collection containing this annotation." />
       <item value="reorder" />
       <item value="Note that attribute values are &lt;b&gt;not&lt;/b&gt; converted when accessed." />
-      <item value="Merged Annotation" />
-      <item value="in favor of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2348" />
+        <entry key="CHINESE" value="2349" />
         <entry key="ENGLISH" value="2349" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
