@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NUMBER OF ERRORS" />
+      <item value="NUMBER OR ERROS" />
+      <item value="ERRORS OF INPUT" />
+      <item value="输入错误次数" />
       <item value="IDENTITY PREFIX" />
       <item value="String" />
       <item value="touch" />
@@ -47,15 +51,11 @@
       <item value="within" />
       <item value="This ordering * means that, for most use-cases, the most suitable annotations appear * earliest in the stream" />
       <item value="be used to reorder a stream of annotations" />
-      <item value="distance" />
-      <item value="Publisher" />
-      <item value="First Directly Declared" />
-      <item value="directly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2351" />
-        <entry key="ENGLISH" value="2352" />
+        <entry key="CHINESE" value="2355" />
+        <entry key="ENGLISH" value="2356" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
