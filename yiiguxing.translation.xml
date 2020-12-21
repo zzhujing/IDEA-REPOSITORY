@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDENTITY PREFIX" />
+      <item value="String" />
       <item value="touch" />
       <item value="PermGen Space" />
       <item value="PermGen" />
@@ -49,13 +51,11 @@
       <item value="Publisher" />
       <item value="First Directly Declared" />
       <item value="directly" />
-      <item value="Get the index of the aggregate collection containing this annotation." />
-      <item value="reorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2349" />
-        <entry key="ENGLISH" value="2350" />
+        <entry key="CHINESE" value="2351" />
+        <entry key="ENGLISH" value="2352" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="7" />
