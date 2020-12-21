@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="estimator Handle" />
       <item value="touch" />
       <item value="bytes To Read" />
       <item value="individual Read Max" />
@@ -50,12 +51,11 @@
       <item value="synthesizable" />
       <item value="incur a computational cost when first invoked" />
       <item value="synthesize" />
-      <item value="Create a new view of the annotation that exposes non-merged attribute values. Methods from this view will return attribute values with only alias mirroring rules applied. Aliases to meta-source attributes will not be applied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2362" />
-        <entry key="ENGLISH" value="2363" />
+        <entry key="CHINESE" value="2363" />
+        <entry key="ENGLISH" value="2364" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
