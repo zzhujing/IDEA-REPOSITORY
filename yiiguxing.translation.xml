@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suitable" />
       <item value="Instantiated Student Factory" />
       <item value="instantiation Factory Creation Bean" />
       <item value="adjust Max Bytes Per Gathering Write" />
@@ -50,12 +51,11 @@
       <item value="Synthesize" />
       <item value="Synthe" />
       <item value="The result is synthesized using a JDK {@link Proxy} and as a result may * incur a computational cost when first invoked." />
-      <item value="An annotation is considered synthesizable if * one of the following is true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2368" />
-        <entry key="ENGLISH" value="2369" />
+        <entry key="CHINESE" value="2369" />
+        <entry key="ENGLISH" value="2370" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
