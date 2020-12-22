@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="over-eager type matching" />
+      <item value="This is often the result of over-eager type matching" />
+      <item value="is Assignable From" />
       <item value="Consistent creation of early reference within full singleton lock" />
       <item value="dependent Bean Name" />
       <item value="but only if it hasn't been used for other purposes than type checking" />
@@ -48,9 +51,6 @@
       <item value="Register the ImportRegistry as a bean in order to support ImportAware @Configuration classes" />
       <item value="consider Inherited" />
       <item value="Assignable Type Filter" />
-      <item value="fledged" />
-      <item value="for example strategy implementations * in Spring's component scanning support (where the default definition class is * {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, * which also implements the AnnotatedBeanDefinition interface)" />
-      <item value="This GenericBeanDefinition variant is mainly useful for testing code that expects * to operate on an AnnotatedBeanDefinition, for example strategy implementations * in Spring's component scanning support (where the default definition class is * {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, * which also implements the AnnotatedBeanDefinition interface)." />
     </histories>
     <option name="languageScores">
       <map>
