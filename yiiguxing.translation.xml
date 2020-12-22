@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consistent creation of early reference within full singleton lock" />
       <item value="dependent Bean Name" />
       <item value="but only if it hasn't been used for other purposes than type checking" />
       <item value="Map between dependent bean names: bean name to Set of dependent bean names" />
@@ -50,12 +51,11 @@
       <item value="fledged" />
       <item value="for example strategy implementations * in Spring's component scanning support (where the default definition class is * {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, * which also implements the AnnotatedBeanDefinition interface)" />
       <item value="This GenericBeanDefinition variant is mainly useful for testing code that expects * to operate on an AnnotatedBeanDefinition, for example strategy implementations * in Spring's component scanning support (where the default definition class is * {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, * which also implements the AnnotatedBeanDefinition interface)." />
-      <item value="but distinguishes by type beans that have been &lt;em&gt;scanned&lt;/em&gt; vs those that have * been otherwise registered or detected by other means." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2377" />
-        <entry key="ENGLISH" value="2378" />
+        <entry key="CHINESE" value="2378" />
+        <entry key="ENGLISH" value="2379" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
