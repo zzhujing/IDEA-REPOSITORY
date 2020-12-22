@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Map between dependent bean names: bean name to Set of dependent bean names" />
+      <item value="Whether to resort to injecting a raw bean instance in case of circular reference, * even if the injected bean eventually got wrapped" />
+      <item value="Whether to resort to injecting a raw bean instance in case of circular reference" />
+      <item value="allow Raw Injection Despite Wrapping" />
+      <item value="in its raw version as part of a circular reference, but has eventually been &quot; + &quot;wrapped. This means that said other beans do not use the final version of the &quot; + &quot;bean. This is often the result of over-eager type matching - consider using &quot; + &quot;'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
+      <item value="eventually" />
       <item value="suitable" />
       <item value="Instantiated Student Factory" />
       <item value="instantiation Factory Creation Bean" />
@@ -45,17 +51,11 @@
       <item value="but distinguishes by type beans that have been &lt;em&gt;scanned&lt;/em&gt; vs those that have * been otherwise registered or detected by other means." />
       <item value="It rather retrieves all relevant metadata from the &quot;.class&quot; file itself, * parsed with the ASM ClassReader" />
       <item value="independent" />
-      <item value="n a form that does not necessarily require the * class-loading." />
-      <item value="enclosing" />
-      <item value="If this merged annotation was created {@linkplain #from(Annotation) from} * an annotation instance, that annotation will be returned unmodified if it is * not &lt;em&gt;synthesizable&lt;/em&gt;. An annotation is considered synthesizable if * one of the following is true." />
-      <item value="Synthesize" />
-      <item value="Synthe" />
-      <item value="The result is synthesized using a JDK {@link Proxy} and as a result may * incur a computational cost when first invoked." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2369" />
-        <entry key="ENGLISH" value="2370" />
+        <entry key="CHINESE" value="2375" />
+        <entry key="ENGLISH" value="2376" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
