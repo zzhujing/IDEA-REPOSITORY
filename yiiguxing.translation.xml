@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Throughput" />
+      <item value="ParNew" />
+      <item value="Parallel Scavenge" />
       <item value="Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly" />
       <item value="Ω" />
       <item value="分析" />
@@ -48,13 +51,10 @@
       <item value="hello" />
       <item value="verbose" />
       <item value="Ωverbose" />
-      <item value="intern" />
-      <item value="suppress" />
-      <item value="set Residue Times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2386" />
+        <entry key="CHINESE" value="2387" />
         <entry key="ENGLISH" value="2387" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
