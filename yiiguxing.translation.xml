@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ω" />
+      <item value="分析" />
       <item value="convertible" />
       <item value="is Eligible" />
       <item value="but has eventually been &quot; + &quot;wrapped" />
@@ -49,13 +51,11 @@
       <item value="suppress" />
       <item value="set Residue Times" />
       <item value="residue Times" />
-      <item value="get Outcomes" />
-      <item value="fire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2384" />
-        <entry key="ENGLISH" value="2385" />
+        <entry key="CHINESE" value="2385" />
+        <entry key="ENGLISH" value="2386" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
