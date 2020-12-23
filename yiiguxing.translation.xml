@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly" />
       <item value="Ω" />
       <item value="分析" />
       <item value="convertible" />
@@ -50,12 +51,11 @@
       <item value="intern" />
       <item value="suppress" />
       <item value="set Residue Times" />
-      <item value="residue Times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2385" />
-        <entry key="ENGLISH" value="2386" />
+        <entry key="CHINESE" value="2386" />
+        <entry key="ENGLISH" value="2387" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
