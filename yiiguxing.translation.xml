@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distribuation" />
+      <item value="distribution" />
       <item value="Pretenure" />
       <item value="test Pretenure Size" />
       <item value="Survivor" />
@@ -49,8 +51,6 @@
       <item value="Slf 4 j" />
       <item value="pwd Check Passed" />
       <item value="pwd Check Passwd" />
-      <item value="NUMBER OF ERRORS" />
-      <item value="NUMBER OR ERROS" />
     </histories>
     <option name="languageScores">
       <map>
