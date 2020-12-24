@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pretenure Size Threshold" />
       <item value="distribuation" />
       <item value="distribution" />
       <item value="Pretenure" />
@@ -50,12 +51,11 @@
       <item value="fix Origin User Expire" />
       <item value="Slf 4 j" />
       <item value="pwd Check Passed" />
-      <item value="pwd Check Passwd" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2391" />
-        <entry key="ENGLISH" value="2391" />
+        <entry key="ENGLISH" value="2392" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
