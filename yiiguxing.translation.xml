@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="that exceeded the limit for maxPostSize set on the associated connector" />
       <item value="Disposition" />
       <item value="histogram" />
       <item value="dish" />
@@ -50,12 +51,11 @@
       <item value="instantiation Factory Creation Bean" />
       <item value="adjust Max Bytes Per Gathering Write" />
       <item value="get Max Bytes Per Gathering Write" />
-      <item value="fire Channel Writability Changed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2394" />
-        <entry key="ENGLISH" value="2394" />
+        <entry key="ENGLISH" value="2395" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
