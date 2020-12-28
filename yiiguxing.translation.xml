@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disposition" />
       <item value="histogram" />
       <item value="dish" />
       <item value="Java mission Control" />
@@ -50,7 +51,6 @@
       <item value="adjust Max Bytes Per Gathering Write" />
       <item value="get Max Bytes Per Gathering Write" />
       <item value="fire Channel Writability Changed" />
-      <item value="estimator Handle" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
-        <entry key="FRENCH" value="11" />
+        <entry key="FRENCH" value="12" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
