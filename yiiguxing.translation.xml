@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enables simplistic sampling resource leak detection which reports there is a leak or not, * at the cost of small overhead (default)." />
+      <item value="Enables advanced sampling resource leak detection which reports where the leaked object was accessed * recently at the cost of high overhead." />
+      <item value="* Weak reference objects, which do not prevent their referents from being * made finalizable, finalized, and then reclaimed. Weak references are most * often used to implement canonicalizing mappings. * * &lt;p&gt; Suppose that the garbage collector determines at a certain point in time * that an object is &lt;a href=&quot;package-summary.html#reachability&quot;&gt;weakly * reachable&lt;/a&gt;. At that time it will atomically clear all weak references to * that object and all weak references to any other weakly-reachable objects * from which that object is reachable through a chain of strong and soft * references. At the same time it will declare all of the formerly * weakly-reachable objects to be finalizable. At the same time or at some * later time it will enqueue those newly-cleared weak references that are * registered with reference queues." />
+      <item value="PARANOID" />
+      <item value="ADVANCED" />
+      <item value="reachability Fence" />
       <item value="Instrumented" />
       <item value="Instrument" />
       <item value="Instrumented Unpooled Unsafe Heap Byte Buf" />
@@ -45,17 +51,11 @@
       <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example" />
       <item value="over-eager type matching" />
       <item value="This is often the result of over-eager type matching" />
-      <item value="is Assignable From" />
-      <item value="Consistent creation of early reference within full singleton lock" />
-      <item value="dependent Bean Name" />
-      <item value="but only if it hasn't been used for other purposes than type checking" />
-      <item value="Map between dependent bean names: bean name to Set of dependent bean names" />
-      <item value="Whether to resort to injecting a raw bean instance in case of circular reference, * even if the injected bean eventually got wrapped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2400" />
-        <entry key="ENGLISH" value="2401" />
+        <entry key="CHINESE" value="2407" />
+        <entry key="ENGLISH" value="2408" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
