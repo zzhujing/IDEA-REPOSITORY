@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instrumented" />
+      <item value="Instrument" />
+      <item value="Instrumented Unpooled Unsafe Heap Byte Buf" />
       <item value="Reserved Code Cache Size" />
       <item value="ReservedCodeCacheSize" />
       <item value="执行结果" />
@@ -48,14 +51,11 @@
       <item value="but only if it hasn't been used for other purposes than type checking" />
       <item value="Map between dependent bean names: bean name to Set of dependent bean names" />
       <item value="Whether to resort to injecting a raw bean instance in case of circular reference, * even if the injected bean eventually got wrapped" />
-      <item value="Whether to resort to injecting a raw bean instance in case of circular reference" />
-      <item value="allow Raw Injection Despite Wrapping" />
-      <item value="in its raw version as part of a circular reference, but has eventually been &quot; + &quot;wrapped. This means that said other beans do not use the final version of the &quot; + &quot;bean. This is often the result of over-eager type matching - consider using &quot; + &quot;'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2398" />
-        <entry key="ENGLISH" value="2399" />
+        <entry key="CHINESE" value="2400" />
+        <entry key="ENGLISH" value="2401" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
