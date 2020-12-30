@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Global Channel Traffic Shaping Handler" />
       <item value="consolidate" />
       <item value="read In Progress" />
       <item value="Flush Consolidation Handler" />
@@ -50,12 +51,11 @@
       <item value="Survivor" />
       <item value="Eden" />
       <item value="ΩEden" />
-      <item value="on Assembly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2426" />
-        <entry key="ENGLISH" value="2427" />
+        <entry key="CHINESE" value="2427" />
+        <entry key="ENGLISH" value="2428" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
