@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="average" />
+      <item value="多媒体" />
       <item value="retrieve" />
       <item value="Convenience" />
       <item value="enclosing" />
@@ -49,13 +51,11 @@
       <item value="Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly" />
       <item value="Ω" />
       <item value="分析" />
-      <item value="convertible" />
-      <item value="is Eligible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2413" />
-        <entry key="ENGLISH" value="2414" />
+        <entry key="CHINESE" value="2415" />
+        <entry key="ENGLISH" value="2416" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
