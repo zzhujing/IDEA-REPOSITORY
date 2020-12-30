@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fragment" />
+      <item value="MalformedURLException if the given URL specification is not valid" />
+      <item value="URI" />
+      <item value="Url Resource" />
       <item value="average" />
       <item value="多媒体" />
       <item value="retrieve" />
@@ -47,15 +51,11 @@
       <item value="suvivor" />
       <item value="Throughput" />
       <item value="ParNew" />
-      <item value="Parallel Scavenge" />
-      <item value="Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly" />
-      <item value="Ω" />
-      <item value="分析" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2415" />
-        <entry key="ENGLISH" value="2416" />
+        <entry key="CHINESE" value="2419" />
+        <entry key="ENGLISH" value="2420" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -83,6 +83,17 @@
         <option name="appId" value="20191101000350914" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1d350030b252f15e" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
