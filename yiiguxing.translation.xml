@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
+      <item value="Convenience" />
       <item value="enclosing" />
       <item value="Identifier" />
       <item value="a URL can be broken into several parts" />
@@ -49,13 +51,11 @@
       <item value="分析" />
       <item value="convertible" />
       <item value="is Eligible" />
-      <item value="but has eventually been &quot; + &quot;wrapped" />
-      <item value="This is often the result of over-eager type matching - consider using &quot; + &quot;'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2410" />
-        <entry key="ENGLISH" value="2411" />
+        <entry key="CHINESE" value="2413" />
+        <entry key="ENGLISH" value="2414" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
