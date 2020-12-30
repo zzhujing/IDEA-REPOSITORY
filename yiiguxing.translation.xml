@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enclosing" />
+      <item value="Identifier" />
+      <item value="a URL can be broken into several parts" />
+      <item value="complicated" />
       <item value="Enables simplistic sampling resource leak detection which reports there is a leak or not, * at the cost of small overhead (default)." />
       <item value="Enables advanced sampling resource leak detection which reports where the leaked object was accessed * recently at the cost of high overhead." />
       <item value="* Weak reference objects, which do not prevent their referents from being * made finalizable, finalized, and then reclaimed. Weak references are most * often used to implement canonicalizing mappings. * * &lt;p&gt; Suppose that the garbage collector determines at a certain point in time * that an object is &lt;a href=&quot;package-summary.html#reachability&quot;&gt;weakly * reachable&lt;/a&gt;. At that time it will atomically clear all weak references to * that object and all weak references to any other weakly-reachable objects * from which that object is reachable through a chain of strong and soft * references. At the same time it will declare all of the formerly * weakly-reachable objects to be finalizable. At the same time or at some * later time it will enqueue those newly-cleared weak references that are * registered with reference queues." />
@@ -47,21 +51,17 @@
       <item value="is Eligible" />
       <item value="but has eventually been &quot; + &quot;wrapped" />
       <item value="This is often the result of over-eager type matching - consider using &quot; + &quot;'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
-      <item value="This is often the result of over-eager type matching - consider using &quot; + &quot;'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example" />
-      <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example" />
-      <item value="over-eager type matching" />
-      <item value="This is often the result of over-eager type matching" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2407" />
-        <entry key="ENGLISH" value="2408" />
+        <entry key="CHINESE" value="2410" />
+        <entry key="ENGLISH" value="2411" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="8" />
-        <entry key="FRENCH" value="12" />
+        <entry key="FRENCH" value="13" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
