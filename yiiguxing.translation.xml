@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="触发" />
       <item value="Global Channel Traffic Shaping Handler" />
       <item value="consolidate" />
       <item value="read In Progress" />
@@ -50,12 +51,11 @@
       <item value="test Pretenure Size" />
       <item value="Survivor" />
       <item value="Eden" />
-      <item value="ΩEden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2427" />
-        <entry key="ENGLISH" value="2428" />
+        <entry key="CHINESE" value="2428" />
+        <entry key="ENGLISH" value="2429" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
