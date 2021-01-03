@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可见性" />
       <item value="fire Channel Writability Changed" />
       <item value="this will prevent the subsequent events from being handled by this handler" />
       <item value="No need to keep this handler in the pipeline anymore because the decision is going to be made now" />
@@ -50,12 +51,11 @@
       <item value="Pretenure Size Threshold" />
       <item value="distribuation" />
       <item value="distribution" />
-      <item value="Pretenure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2431" />
-        <entry key="ENGLISH" value="2432" />
+        <entry key="CHINESE" value="2432" />
+        <entry key="ENGLISH" value="2433" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
