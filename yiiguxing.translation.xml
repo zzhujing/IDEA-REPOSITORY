@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="小镇" />
+      <item value="TOWN MAN" />
       <item value="Orderliness Demo" />
       <item value="Orderlines" />
       <item value="有序性" />
@@ -49,13 +51,11 @@
       <item value="dish" />
       <item value="Java mission Control" />
       <item value="Stub" />
-      <item value="instrument" />
-      <item value="verbose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2434" />
-        <entry key="ENGLISH" value="2435" />
+        <entry key="CHINESE" value="2436" />
+        <entry key="ENGLISH" value="2437" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
