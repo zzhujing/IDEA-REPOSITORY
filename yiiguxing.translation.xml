@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="库存" />
       <item value="potentially" />
       <item value="管程" />
       <item value="Monitor" />
@@ -50,12 +51,11 @@
       <item value="megabytes" />
       <item value="boundary" />
       <item value="that exceeded the limit for maxPostSize set on the associated connector" />
-      <item value="Disposition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2439" />
-        <entry key="ENGLISH" value="2440" />
+        <entry key="CHINESE" value="2440" />
+        <entry key="ENGLISH" value="2441" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
