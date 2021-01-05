@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="升级" />
+      <item value="所省级" />
+      <item value="Read Write Lock Demo" />
       <item value="Striped" />
       <item value="satisfies" />
       <item value="剩余的" />
@@ -48,14 +51,11 @@
       <item value="Convenience" />
       <item value="enclosing" />
       <item value="Identifier" />
-      <item value="a URL can be broken into several parts" />
-      <item value="complicated" />
-      <item value="Enables simplistic sampling resource leak detection which reports there is a leak or not, * at the cost of small overhead (default)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2452" />
-        <entry key="ENGLISH" value="2453" />
+        <entry key="CHINESE" value="2454" />
+        <entry key="ENGLISH" value="2455" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
