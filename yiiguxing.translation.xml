@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="referred to as the &lt;em&gt;witness value&lt;/em&gt;" />
+      <item value="witness" />
+      <item value="acquire" />
+      <item value="semaphore" />
       <item value="库存" />
       <item value="potentially" />
       <item value="管程" />
@@ -47,15 +51,11 @@
       <item value="Reserved Code Cache Size" />
       <item value="ReservedCodeCacheSize" />
       <item value="执行结果" />
-      <item value="执行" />
-      <item value="megabytes" />
-      <item value="boundary" />
-      <item value="that exceeded the limit for maxPostSize set on the associated connector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2440" />
-        <entry key="ENGLISH" value="2441" />
+        <entry key="CHINESE" value="2444" />
+        <entry key="ENGLISH" value="2445" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
