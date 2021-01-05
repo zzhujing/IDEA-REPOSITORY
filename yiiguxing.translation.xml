@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drain Permits" />
+      <item value="排干所有的permits" />
       <item value="Semaphore Rate Limiter" />
       <item value="Semaphore Rate Limit" />
       <item value="Equivalent" />
@@ -49,13 +51,11 @@
       <item value="PARANOID" />
       <item value="ADVANCED" />
       <item value="reachability Fence" />
-      <item value="Instrumented" />
-      <item value="Instrument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2448" />
-        <entry key="ENGLISH" value="2449" />
+        <entry key="CHINESE" value="2449" />
+        <entry key="ENGLISH" value="2450" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
