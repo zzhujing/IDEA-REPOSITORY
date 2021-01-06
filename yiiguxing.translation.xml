@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="load Fence" />
       <item value="Table of cells" />
       <item value="cells" />
       <item value="precisely" />
@@ -50,12 +51,11 @@
       <item value="mode" />
       <item value="fragment" />
       <item value="MalformedURLException if the given URL specification is not valid" />
-      <item value="URI" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2461" />
-        <entry key="ENGLISH" value="2462" />
+        <entry key="CHINESE" value="2462" />
+        <entry key="ENGLISH" value="2463" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
