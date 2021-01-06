@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="either" />
       <item value="ctl" />
       <item value="load Fence" />
       <item value="Table of cells" />
@@ -50,11 +51,10 @@
       <item value="way" />
       <item value="方式" />
       <item value="mode" />
-      <item value="fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2463" />
+        <entry key="CHINESE" value="2464" />
         <entry key="ENGLISH" value="2464" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
