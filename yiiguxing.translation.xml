@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minimal Future" />
+      <item value="reachability Fence" />
       <item value="Guarded Suspension" />
       <item value="Guarded Supspend" />
       <item value="expunge Stale Entry" />
@@ -49,13 +51,11 @@
       <item value="acquire" />
       <item value="semaphore" />
       <item value="库存" />
-      <item value="potentially" />
-      <item value="管程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2479" />
-        <entry key="ENGLISH" value="2480" />
+        <entry key="CHINESE" value="2481" />
+        <entry key="ENGLISH" value="2482" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
