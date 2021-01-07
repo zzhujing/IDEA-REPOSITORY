@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guarded Suspension" />
+      <item value="Guarded Supspend" />
       <item value="expunge Stale Entry" />
       <item value="Weak Reference" />
       <item value="inheritable" />
@@ -49,13 +51,11 @@
       <item value="库存" />
       <item value="potentially" />
       <item value="管程" />
-      <item value="Monitor" />
-      <item value="uninterruptibly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2477" />
-        <entry key="ENGLISH" value="2478" />
+        <entry key="CHINESE" value="2479" />
+        <entry key="ENGLISH" value="2480" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -71,7 +71,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="WELSH" value="1" />
-        <entry key="SPANISH" value="12" />
+        <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="2" />
       </map>
