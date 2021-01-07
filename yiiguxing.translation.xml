@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="immutable" />
+      <item value="不变的" />
+      <item value="Immutiable" />
       <item value="radix" />
       <item value="聚合" />
       <item value="Forcibly sets or resets the value subsequently returned by * method {@link #get()} and related methods, whether or not * already completed" />
@@ -48,14 +51,11 @@
       <item value="TOWN MAN" />
       <item value="Orderliness Demo" />
       <item value="Orderlines" />
-      <item value="有序性" />
-      <item value="可见性" />
-      <item value="fire Channel Writability Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2473" />
-        <entry key="ENGLISH" value="2474" />
+        <entry key="CHINESE" value="2475" />
+        <entry key="ENGLISH" value="2475" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
