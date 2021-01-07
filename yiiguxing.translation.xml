@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gwt Compatible" />
+      <item value="Smooth Rate Limiter" />
+      <item value="Smooth Bursty" />
       <item value="Phaser" />
       <item value="已终止" />
       <item value="阶段" />
@@ -48,14 +51,11 @@
       <item value="排干所有的permits" />
       <item value="Semaphore Rate Limiter" />
       <item value="Semaphore Rate Limit" />
-      <item value="Equivalent" />
-      <item value="set Exclusive Owner Thread" />
-      <item value="referred to as the &lt;em&gt;witness value&lt;/em&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2483" />
-        <entry key="ENGLISH" value="2484" />
+        <entry key="CHINESE" value="2486" />
+        <entry key="ENGLISH" value="2487" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
