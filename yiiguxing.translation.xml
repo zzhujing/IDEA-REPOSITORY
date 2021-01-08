@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Predecessors" />
+      <item value="decessors" />
+      <item value="has Queued Predecessors" />
       <item value="segregate" />
       <item value="halt" />
       <item value="gating Sequence Cache" />
@@ -48,14 +51,11 @@
       <item value="radix" />
       <item value="聚合" />
       <item value="Forcibly sets or resets the value subsequently returned by * method {@link #get()} and related methods, whether or not * already completed" />
-      <item value="Forcibly" />
-      <item value="Returns the result value (or throws any encountered exception) * if completed, else returns the given valueIfAbsent" />
-      <item value="if this invocation caused this CompletableFuture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2511" />
-        <entry key="ENGLISH" value="2512" />
+        <entry key="CHINESE" value="2515" />
+        <entry key="ENGLISH" value="2516" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
