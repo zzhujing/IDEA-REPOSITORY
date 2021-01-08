@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="segregate" />
+      <item value="halt" />
       <item value="gating Sequence Cache" />
       <item value="mask" />
       <item value="Mask" />
@@ -49,13 +51,11 @@
       <item value="Forcibly" />
       <item value="Returns the result value (or throws any encountered exception) * if completed, else returns the given valueIfAbsent" />
       <item value="if this invocation caused this CompletableFuture" />
-      <item value="complete Exceptionally" />
-      <item value="If not already completed, causes invocations of {@link #get()} * and related methods to throw the given exception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2509" />
-        <entry key="ENGLISH" value="2510" />
+        <entry key="CHINESE" value="2511" />
+        <entry key="ENGLISH" value="2512" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
