@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="n the two's complement binary * representation of the specified {@code int} value" />
+      <item value="in the two's complement binary" />
+      <item value="the number of one-bits in the two's complement binary * representation of the specified {@code int} value" />
+      <item value="population count" />
+      <item value="Returns the number of one-bits in the two's complement binary * representation of the specified {@code int} value" />
+      <item value="bit Count" />
+      <item value="create Multi Producer" />
       <item value="elapsed Nanos" />
       <item value="the overhead of measurement can be more than a microsecond, so it is generally * not useful to specify {@link TimeUnit#NANOSECONDS} precision here." />
       <item value="Returns the current elapsed time shown on this stopwatch, expressed in the desired time unit, * with any fraction rounded down" />
@@ -44,18 +51,11 @@
       <item value="causes invocations of" />
       <item value="either" />
       <item value="ctl" />
-      <item value="load Fence" />
-      <item value="Table of cells" />
-      <item value="cells" />
-      <item value="precisely" />
-      <item value="As the queue is unbounded" />
-      <item value="Retrieves" />
-      <item value="Cyclic Barrier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2499" />
-        <entry key="ENGLISH" value="2500" />
+        <entry key="CHINESE" value="2506" />
+        <entry key="ENGLISH" value="2507" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
