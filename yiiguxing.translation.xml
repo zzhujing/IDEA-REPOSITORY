@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resync" />
       <item value="re Sync" />
       <item value="reserve" />
       <item value="POSITIVE INFINITY" />
@@ -50,11 +51,10 @@
       <item value="Striped" />
       <item value="satisfies" />
       <item value="剩余的" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2491" />
+        <entry key="CHINESE" value="2492" />
         <entry key="ENGLISH" value="2492" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
