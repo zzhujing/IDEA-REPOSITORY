@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gating Sequence Cache" />
+      <item value="mask" />
+      <item value="Mask" />
+      <item value="in the two's complement binary * representation of the specified" />
       <item value="n the two's complement binary * representation of the specified {@code int} value" />
       <item value="in the two's complement binary" />
       <item value="the number of one-bits in the two's complement binary * representation of the specified {@code int} value" />
@@ -47,15 +51,11 @@
       <item value="if this invocation caused this CompletableFuture" />
       <item value="complete Exceptionally" />
       <item value="If not already completed, causes invocations of {@link #get()} * and related methods to throw the given exception." />
-      <item value="If not already completed, causes invocations of {@link #get()} * and related methods to throw the given exception" />
-      <item value="causes invocations of" />
-      <item value="either" />
-      <item value="ctl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2506" />
-        <entry key="ENGLISH" value="2507" />
+        <entry key="CHINESE" value="2509" />
+        <entry key="ENGLISH" value="2510" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
