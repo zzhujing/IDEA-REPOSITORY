@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="elapsed Nanos" />
+      <item value="the overhead of measurement can be more than a microsecond, so it is generally * not useful to specify {@link TimeUnit#NANOSECONDS} precision here." />
+      <item value="Returns the current elapsed time shown on this stopwatch, expressed in the desired time unit, * with any fraction rounded down" />
+      <item value="elapsed" />
+      <item value="We always hold the mutex when calling this. TODO(cpovirk): Is that important? Perhaps we need * to guarantee that each call to reserveEarliestAvailable, etc. sees a value &gt;= the previous? * Also, is it OK that we don't hold the mutex when sleeping" />
+      <item value="guarantee" />
+      <item value="max Burst Seconds" />
       <item value="resync" />
       <item value="re Sync" />
       <item value="reserve" />
@@ -44,18 +51,11 @@
       <item value="As the queue is unbounded" />
       <item value="Retrieves" />
       <item value="Cyclic Barrier" />
-      <item value="Stamped" />
-      <item value="升级" />
-      <item value="所省级" />
-      <item value="Read Write Lock Demo" />
-      <item value="Striped" />
-      <item value="satisfies" />
-      <item value="剩余的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2492" />
-        <entry key="ENGLISH" value="2492" />
+        <entry key="CHINESE" value="2499" />
+        <entry key="ENGLISH" value="2500" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
