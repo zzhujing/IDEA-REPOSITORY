@@ -77,23 +77,4 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20191101000350914" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="1d350030b252f15e" />
-      </youdao-translate>
-    </option>
-  </component>
 </application>
