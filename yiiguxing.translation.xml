@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TOWN_" />
+      <item value="User Level" />
       <item value="trail" />
       <item value="Predecessors" />
       <item value="decessors" />
@@ -49,13 +51,11 @@
       <item value="immutable" />
       <item value="不变的" />
       <item value="Immutiable" />
-      <item value="radix" />
-      <item value="聚合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2516" />
-        <entry key="ENGLISH" value="2517" />
+        <entry key="CHINESE" value="2518" />
+        <entry key="ENGLISH" value="2519" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -76,5 +76,17 @@
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610333268089" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20191101000350914" />
+      </app-key>
+    </option>
+    <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
