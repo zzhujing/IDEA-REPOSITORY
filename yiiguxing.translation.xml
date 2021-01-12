@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="switch On" />
       <item value="Ω" />
       <item value="integral" />
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
@@ -50,12 +51,11 @@
       <item value="Minimal Future" />
       <item value="reachability Fence" />
       <item value="Guarded Suspension" />
-      <item value="Guarded Supspend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2523" />
-        <entry key="ENGLISH" value="2524" />
+        <entry key="CHINESE" value="2524" />
+        <entry key="ENGLISH" value="2525" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
