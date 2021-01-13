@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arch" />
       <item value="Default FFMPEG Locator" />
       <item value="余数&#10;" />
       <item value="yu'su" />
@@ -50,12 +51,11 @@
       <item value="Smooth Rate Limiter" />
       <item value="Smooth Bursty" />
       <item value="Phaser" />
-      <item value="已终止" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2526" />
-        <entry key="ENGLISH" value="2527" />
+        <entry key="CHINESE" value="2527" />
+        <entry key="ENGLISH" value="2528" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
