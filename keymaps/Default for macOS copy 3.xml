@@ -150,6 +150,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowByteCodeJclasslib">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
