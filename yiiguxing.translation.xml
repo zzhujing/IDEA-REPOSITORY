@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="1298" />
     <option name="newTranslationDialogY" value="735" />
     <histories>
+      <item value="rhino&#10;" />
+      <item value="seniority&#10;" />
+      <item value="se" />
+      <item value="satisfaction&#10;" />
+      <item value="s" />
+      <item value="purchasing_power&#10;" />
+      <item value="pur" />
+      <item value="neutral&#10;" />
+      <item value="neut" />
+      <item value="ne" />
+      <item value="Ωne" />
+      <item value="Ω" />
+      <item value="loyalty&#10;" />
+      <item value="lo" />
+      <item value="last_sentiment&#10;" />
+      <item value="sentiment&#10;" />
       <item value="Utility Class" />
       <item value="丝袜&#10;" />
       <item value="and looking for argname annotation values optionally accompanying AspectJ annotated methods." />
@@ -16,7 +32,6 @@
       <item value="synchronization" />
       <item value="template&#10;" />
       <item value="switch On" />
-      <item value="Ω" />
       <item value="integral" />
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
       <item value="a fixed period" />
@@ -38,21 +53,6 @@
       <item value="n the two's complement binary * representation of the specified {@code int} value" />
       <item value="in the two's complement binary" />
       <item value="the number of one-bits in the two's complement binary * representation of the specified {@code int} value" />
-      <item value="population count" />
-      <item value="Returns the number of one-bits in the two's complement binary * representation of the specified {@code int} value" />
-      <item value="bit Count" />
-      <item value="create Multi Producer" />
-      <item value="elapsed Nanos" />
-      <item value="the overhead of measurement can be more than a microsecond, so it is generally * not useful to specify {@link TimeUnit#NANOSECONDS} precision here." />
-      <item value="Returns the current elapsed time shown on this stopwatch, expressed in the desired time unit, * with any fraction rounded down" />
-      <item value="elapsed" />
-      <item value="We always hold the mutex when calling this. TODO(cpovirk): Is that important? Perhaps we need * to guarantee that each call to reserveEarliestAvailable, etc. sees a value &gt;= the previous? * Also, is it OK that we don't hold the mutex when sleeping" />
-      <item value="guarantee" />
-      <item value="max Burst Seconds" />
-      <item value="resync" />
-      <item value="re Sync" />
-      <item value="reserve" />
-      <item value="POSITIVE INFINITY" />
     </histories>
     <option name="languageScores">
       <map>
