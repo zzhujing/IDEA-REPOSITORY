@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1298" />
     <option name="newTranslationDialogY" value="735" />
     <histories>
+      <item value="Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified." />
+      <item value="contract" />
+      <item value="benefit" />
       <item value="get Caller Class" />
       <item value="Buried Point" />
       <item value="rhino&#10;" />
@@ -50,14 +53,11 @@
       <item value="halt" />
       <item value="gating Sequence Cache" />
       <item value="mask" />
-      <item value="Mask" />
-      <item value="in the two's complement binary * representation of the specified" />
-      <item value="n the two's complement binary * representation of the specified {@code int} value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2533" />
-        <entry key="ENGLISH" value="2534" />
+        <entry key="CHINESE" value="2536" />
+        <entry key="ENGLISH" value="2537" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
