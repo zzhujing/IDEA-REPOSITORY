@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1298" />
     <option name="newTranslationDialogY" value="735" />
     <histories>
+      <item value="print Even" />
+      <item value="偶数&#10;" />
+      <item value="奇数&#10;" />
       <item value="permit Foo" />
       <item value="str Str With Recursion" />
       <item value="Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified." />
@@ -50,14 +53,11 @@
       <item value="trail" />
       <item value="Predecessors" />
       <item value="decessors" />
-      <item value="has Queued Predecessors" />
-      <item value="segregate" />
-      <item value="halt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2538" />
-        <entry key="ENGLISH" value="2539" />
+        <entry key="CHINESE" value="2539" />
+        <entry key="ENGLISH" value="2540" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
