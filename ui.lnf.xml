@@ -2,7 +2,6 @@
   <component name="UISettings">
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="1193" />
-    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="36" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
