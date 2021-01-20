@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="collect Num" />
+      <item value="collections Num" />
+      <item value="收藏数量&#10;" />
+      <item value="collection Num" />
+      <item value="收藏&#10;" />
       <item value="instrucation" />
       <item value="instru" />
       <item value="ins" />
@@ -48,16 +53,11 @@
       <item value="lo" />
       <item value="last_sentiment&#10;" />
       <item value="sentiment&#10;" />
-      <item value="Utility Class" />
-      <item value="丝袜&#10;" />
-      <item value="and looking for argname annotation values optionally accompanying AspectJ annotated methods." />
-      <item value="such as looking for debug information that may have been emitted at compile time" />
-      <item value="various" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2545" />
-        <entry key="ENGLISH" value="2546" />
+        <entry key="CHINESE" value="2548" />
+        <entry key="ENGLISH" value="2549" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
