@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="transfer Count" />
+      <item value="transfer Times" />
       <item value="钻石，飞天&#10;" />
       <item value="钻石" />
       <item value="钻石&#10;" />
@@ -51,13 +53,11 @@
       <item value="rhino&#10;" />
       <item value="seniority&#10;" />
       <item value="se" />
-      <item value="satisfaction&#10;" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2550" />
-        <entry key="ENGLISH" value="2550" />
+        <entry key="CHINESE" value="2551" />
+        <entry key="ENGLISH" value="2552" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
