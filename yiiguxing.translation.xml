@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="instrucation" />
+      <item value="instru" />
+      <item value="ins" />
       <item value="Alibaba Remove Commented Code" />
       <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'&#10;" />
       <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'" />
@@ -50,9 +53,6 @@
       <item value="and looking for argname annotation values optionally accompanying AspectJ annotated methods." />
       <item value="such as looking for debug information that may have been emitted at compile time" />
       <item value="various" />
-      <item value="opaque" />
-      <item value="arch" />
-      <item value="Default FFMPEG Locator" />
     </histories>
     <option name="languageScores">
       <map>
