@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="exports" />
+      <item value="ensure Drivers Initialized" />
       <item value="Before the {@code Class} can be used it must be resolved" />
       <item value="Converts an array of bytes into an instance of class {@code Class}. Before the {@code Class} can be used it must be resolved." />
       <item value="define Class" />
@@ -51,13 +53,11 @@
       <item value="未知客户&#10;" />
       <item value="SUBSCRIBE" />
       <item value="色情网站&#10;" />
-      <item value="print Even" />
-      <item value="偶数&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2558" />
-        <entry key="ENGLISH" value="2559" />
+        <entry key="CHINESE" value="2560" />
+        <entry key="ENGLISH" value="2561" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
