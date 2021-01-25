@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="spread Invoker" />
       <item value="CallSite&#10;" />
       <item value="Ω" />
       <item value="invoke Exact" />
@@ -52,12 +53,11 @@
       <item value="infrastructure" />
       <item value="uni Exceptionally Stage" />
       <item value="差值&#10;" />
-      <item value="Sneaky Throws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2561" />
-        <entry key="ENGLISH" value="2562" />
+        <entry key="CHINESE" value="2562" />
+        <entry key="ENGLISH" value="2563" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
