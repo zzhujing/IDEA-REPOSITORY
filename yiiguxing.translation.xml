@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="invoke Exact" />
       <item value="梨&#10;" />
       <item value="li" />
       <item value="exports" />
@@ -52,12 +53,11 @@
       <item value="差值&#10;" />
       <item value="Sneaky Throws" />
       <item value="know&#10;" />
-      <item value="未知客户&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2560" />
-        <entry key="ENGLISH" value="2561" />
+        <entry key="CHINESE" value="2561" />
+        <entry key="ENGLISH" value="2562" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
