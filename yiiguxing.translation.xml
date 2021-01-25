@@ -3,12 +3,14 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="Otherwise, the call proceeds as if this method handle were first adjusted by calling {@link asType asType} to adjust this method handle to the required type, and then the call proceeds as if by {@link invokeExact invokeExact} on the adjusted method handle." />
+      <item value="if this method handle were first adjusted by calling {@link asType asType} to adjust this method handle to the required type" />
+      <item value="invoke Exact" />
       <item value="Method Handle" />
       <item value="permanent" />
       <item value="spread Invoker" />
       <item value="CallSite&#10;" />
       <item value="Ω" />
-      <item value="invoke Exact" />
       <item value="梨&#10;" />
       <item value="li" />
       <item value="exports" />
@@ -51,13 +53,11 @@
       <item value="转移&#10;" />
       <item value="wx Cp Name" />
       <item value="聚合&#10;" />
-      <item value="applications will work with either transactional operators or declarative transaction demarcation through AOP" />
-      <item value="infrastructure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2564" />
-        <entry key="ENGLISH" value="2565" />
+        <entry key="CHINESE" value="2567" />
+        <entry key="ENGLISH" value="2568" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
