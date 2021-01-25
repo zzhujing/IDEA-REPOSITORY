@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="Associated web resources for this webapp." />
       <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations" />
       <item value="UNCONDITIONAL" />
       <item value="TRUSTED" />
@@ -52,12 +53,11 @@
       <item value="Alibaba Remove Commented Code" />
       <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'&#10;" />
       <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'" />
-      <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'œ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2570" />
-        <entry key="ENGLISH" value="2571" />
+        <entry key="CHINESE" value="2571" />
+        <entry key="ENGLISH" value="2572" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
