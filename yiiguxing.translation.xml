@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="UNCONDITIONAL" />
+      <item value="TRUSTED" />
       <item value="Otherwise, the call proceeds as if this method handle were first adjusted by calling {@link asType asType} to adjust this method handle to the required type, and then the call proceeds as if by {@link invokeExact invokeExact} on the adjusted method handle." />
       <item value="if this method handle were first adjusted by calling {@link asType asType} to adjust this method handle to the required type" />
       <item value="invoke Exact" />
@@ -51,13 +53,11 @@
       <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'" />
       <item value="Instantiation of utility class 'ThisReferenceEscapeDemo'œ" />
       <item value="转移&#10;" />
-      <item value="wx Cp Name" />
-      <item value="聚合&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2567" />
-        <entry key="ENGLISH" value="2568" />
+        <entry key="CHINESE" value="2569" />
+        <entry key="ENGLISH" value="2570" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
