@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="precede" />
+      <item value="diagnostic" />
       <item value="&lt;p&gt;If this stream is ordered then the longest prefix is a contiguous sequence of elements of this stream that match the given predicate. The first element of the sequence is the first element of this stream, and the element immediately following the last element of the sequence does not match the given predicate." />
       <item value="Returns, if this stream is ordered, a stream consisting of the longest prefix of elements taken from this stream that match the given predicate. Otherwise returns, if this stream is unordered, a stream consisting of a subset of elements taken from this stream that match the given predicate" />
       <item value="consisting" />
@@ -51,13 +53,11 @@
       <item value="黄金&#10;" />
       <item value="白银&#10;" />
       <item value="青铜&#10;" />
-      <item value="青铜" />
-      <item value="collect Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2584" />
-        <entry key="ENGLISH" value="2585" />
+        <entry key="CHINESE" value="2586" />
+        <entry key="ENGLISH" value="2587" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
