@@ -10,6 +10,7 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
