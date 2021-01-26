@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="corrupted class files" />
       <item value="old Symbol Ref" />
       <item value="misleadingly named" />
       <item value="assigns" />
@@ -52,12 +53,11 @@
       <item value="collection Num" />
       <item value="收藏&#10;" />
       <item value="instrucation" />
-      <item value="instru" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2578" />
-        <entry key="ENGLISH" value="2579" />
+        <entry key="CHINESE" value="2579" />
+        <entry key="ENGLISH" value="2580" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
