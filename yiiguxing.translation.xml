@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="Because condition queues are accessed only when holding in exclusive mode, we just need a simple linked queue to hold nodes while they are waiting on conditions" />
       <item value="precede" />
       <item value="diagnostic" />
       <item value="&lt;p&gt;If this stream is ordered then the longest prefix is a contiguous sequence of elements of this stream that match the given predicate. The first element of the sequence is the first element of this stream, and the element immediately following the last element of the sequence does not match the given predicate." />
@@ -52,12 +53,11 @@
       <item value="铂金&#10;" />
       <item value="黄金&#10;" />
       <item value="白银&#10;" />
-      <item value="青铜&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2586" />
-        <entry key="ENGLISH" value="2587" />
+        <entry key="CHINESE" value="2587" />
+        <entry key="ENGLISH" value="2588" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611279632736" />
+    <option name="lastTrimTime" value="1611811010167" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
