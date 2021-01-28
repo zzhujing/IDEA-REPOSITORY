@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="has Queued Predecessors" />
+      <item value="waitStatus value to indicate the next acquireShared should unconditionally propagate." />
+      <item value="waitStatus value to indicate thread is waiting on condition" />
+      <item value="waitStatus value to indicate successor's thread needs unparking" />
       <item value="waitStatus must be 0 or PROPAGATE. Indicate that we need a signal, but don't park yet. Caller will need to retry to make sure it cannot acquire before parking" />
       <item value="SIGNAL" />
       <item value="This node has already set status asking a release to signal it, so it can safely park." />
@@ -49,15 +53,11 @@
       <item value="recognized" />
       <item value="在....之间&#10;" />
       <item value="betw" />
-      <item value="transfer Count" />
-      <item value="transfer Times" />
-      <item value="钻石，飞天&#10;" />
-      <item value="钻石" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2593" />
-        <entry key="ENGLISH" value="2594" />
+        <entry key="CHINESE" value="2597" />
+        <entry key="ENGLISH" value="2598" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
