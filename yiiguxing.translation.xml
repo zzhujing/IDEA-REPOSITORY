@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="632" />
     <histories>
       <item value="has Queued Predecessors" />
+      <item value="Queries whether any threads have been waiting to acquire longer than the current thread." />
       <item value="waitStatus value to indicate the next acquireShared should unconditionally propagate." />
       <item value="waitStatus value to indicate thread is waiting on condition" />
       <item value="waitStatus value to indicate successor's thread needs unparking" />
@@ -52,12 +53,11 @@
       <item value="own risk" />
       <item value="recognized" />
       <item value="在....之间&#10;" />
-      <item value="betw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2597" />
-        <entry key="ENGLISH" value="2598" />
+        <entry key="CHINESE" value="2599" />
+        <entry key="ENGLISH" value="2600" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
