@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="632" />
     <histories>
+      <item value="apparently First Queued Is Exclusive" />
+      <item value="writer Should Block" />
       <item value="has Queued Threads" />
       <item value="has Queued Predecessors" />
       <item value="Queries whether any threads have been waiting to acquire longer than the current thread." />
@@ -51,13 +53,11 @@
       <item value="Commaœ" />
       <item value="which uses JDK 8's reflection facilities for introspecting parameter names (based on the &quot;-parameters&quot; compiler flag)" />
       <item value="facilities" />
-      <item value="own risk" />
-      <item value="recognized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2600" />
-        <entry key="ENGLISH" value="2601" />
+        <entry key="CHINESE" value="2603" />
+        <entry key="ENGLISH" value="2604" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
