@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="794" />
-    <option name="newTranslationDialogY" value="632" />
+    <option name="newTranslationDialogX" value="3425" />
+    <option name="newTranslationDialogY" value="398" />
     <histories>
+      <item value="introduce" />
+      <item value="intro" />
+      <item value="on behalf of" />
+      <item value="on nehalf of" />
+      <item value="on nehalf " />
+      <item value="on" />
       <item value="Ω" />
       <item value="apparently First Queued Is Exclusive" />
       <item value="writer Should Block" />
@@ -47,12 +53,6 @@
       <item value="li" />
       <item value="exports" />
       <item value="ensure Drivers Initialized" />
-      <item value="Converts an array of bytes into an instance of class {@code Class}. Before the {@code Class} can be used it must be resolved." />
-      <item value="define Class" />
-      <item value="Comma&#10;" />
-      <item value="Commaœ" />
-      <item value="which uses JDK 8's reflection facilities for introspecting parameter names (based on the &quot;-parameters&quot; compiler flag)" />
-      <item value="facilities" />
     </histories>
     <option name="languageScores">
       <map>
