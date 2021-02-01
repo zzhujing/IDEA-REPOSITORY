@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="3425" />
-    <option name="newTranslationDialogY" value="398" />
+    <option name="newTranslationDialogX" value="1034" />
+    <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="累加器&#10;" />
       <item value="Assembler" />
       <item value="particular" />
       <item value="introduce&#10;" />
@@ -52,7 +53,6 @@
       <item value="Before the {@code Class} can be used it must be resolved" />
       <item value="Associated web resources for this webapp." />
       <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations" />
-      <item value="UNCONDITIONAL" />
     </histories>
     <option name="languageScores">
       <map>
