@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1034" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="max Time" />
       <item value="this" />
       <item value="supertype" />
       <item value="associated with none. In any case, it may be invoked through an associated method handle called its {@linkplain dynamicInvoker dynamic invoker}." />
@@ -52,12 +53,11 @@
       <item value="Returns, if this stream is ordered, a stream consisting of the longest prefix of elements taken from this stream that match the given predicate. Otherwise returns, if this stream is unordered, a stream consisting of a subset of elements taken from this stream that match the given predicate" />
       <item value="consisting" />
       <item value="a stream consisting of the remaining elements of this stream after dropping a subset of elements that match the given predicate" />
-      <item value="Returns, if this stream is ordered, a stream consisting of the remaining elements of this stream after dropping the longest prefix of elements that match the given predicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2622" />
-        <entry key="ENGLISH" value="2623" />
+        <entry key="CHINESE" value="2624" />
+        <entry key="ENGLISH" value="2625" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611811010167" />
+    <option name="lastTrimTime" value="1612250100788" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
