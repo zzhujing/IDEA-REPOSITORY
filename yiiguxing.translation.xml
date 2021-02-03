@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1034" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="bounded Elastic" />
       <item value="the base {@link Context} tied to the subscription that will be visible to operators upstream" />
       <item value="the base {@link Context} tied to the subscription that will" />
       <item value="tend to forget to" />
@@ -52,12 +53,11 @@
       <item value="Because condition queues are accessed only when holding in exclusive mode, we just need a simple linked queue to hold nodes while they are waiting on conditions" />
       <item value="precede" />
       <item value="diagnostic" />
-      <item value="&lt;p&gt;If this stream is ordered then the longest prefix is a contiguous sequence of elements of this stream that match the given predicate. The first element of the sequence is the first element of this stream, and the element immediately following the last element of the sequence does not match the given predicate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2627" />
-        <entry key="ENGLISH" value="2628" />
+        <entry key="CHINESE" value="2628" />
+        <entry key="ENGLISH" value="2629" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
