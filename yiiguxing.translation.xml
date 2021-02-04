@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="738" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="Advisor" />
+      <item value="is Assignable From" />
       <item value="拦截&#10;" />
       <item value="invoke Suspending Function" />
       <item value="Coroutines-supporting extension of the callback interface." />
@@ -53,13 +55,11 @@
       <item value="has Queued Threads" />
       <item value="has Queued Predecessors" />
       <item value="Queries whether any threads have been waiting to acquire longer than the current thread." />
-      <item value="waitStatus value to indicate the next acquireShared should unconditionally propagate." />
-      <item value="waitStatus value to indicate thread is waiting on condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2631" />
-        <entry key="ENGLISH" value="2632" />
+        <entry key="CHINESE" value="2633" />
+        <entry key="ENGLISH" value="2634" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
