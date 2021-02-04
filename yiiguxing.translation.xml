@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="1034" />
-    <option name="newTranslationDialogY" value="452" />
+    <option name="newTranslationDialogHeight" value="369" />
+    <option name="newTranslationDialogWidth" value="896" />
+    <option name="newTranslationDialogX" value="738" />
+    <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;&#10;&#10;&#10;&#10;" />
+      <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;&#10;" />
+      <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;" />
+      <item value="Ω" />
       <item value="bounded Elastic" />
       <item value="the base {@link Context} tied to the subscription that will be visible to operators upstream" />
       <item value="the base {@link Context} tied to the subscription that will" />
@@ -20,7 +26,6 @@
       <item value="Assembler" />
       <item value="particular" />
       <item value="introduce&#10;" />
-      <item value="Ω" />
       <item value="designated" />
       <item value="defensive" />
       <item value="bridge" />
@@ -50,9 +55,6 @@
       <item value="The null check could be elided, but is present to help the VM" />
       <item value="elided" />
       <item value="predecessor" />
-      <item value="Because condition queues are accessed only when holding in exclusive mode, we just need a simple linked queue to hold nodes while they are waiting on conditions" />
-      <item value="precede" />
-      <item value="diagnostic" />
     </histories>
     <option name="languageScores">
       <map>
