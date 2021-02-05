@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="738" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="Eligible" />
+      <item value="convention" />
+      <item value="is Original Instance" />
       <item value="Advisor" />
       <item value="is Assignable From" />
       <item value="拦截&#10;" />
@@ -52,14 +55,11 @@
       <item value="on" />
       <item value="apparently First Queued Is Exclusive" />
       <item value="writer Should Block" />
-      <item value="has Queued Threads" />
-      <item value="has Queued Predecessors" />
-      <item value="Queries whether any threads have been waiting to acquire longer than the current thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2633" />
-        <entry key="ENGLISH" value="2634" />
+        <entry key="CHINESE" value="2636" />
+        <entry key="ENGLISH" value="2637" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
