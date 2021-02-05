@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="738" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="便利的&#10;" />
+      <item value="Convention Pointcut Api Demo" />
       <item value="&#10;Invocation" />
       <item value="ΩInvocation" />
       <item value="be made on&#10;" />
@@ -53,13 +55,11 @@
       <item value="introduce" />
       <item value="intro" />
       <item value="on behalf of" />
-      <item value="on nehalf of" />
-      <item value="on nehalf " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2636" />
-        <entry key="ENGLISH" value="2637" />
+        <entry key="CHINESE" value="2637" />
+        <entry key="ENGLISH" value="2638" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
