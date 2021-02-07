@@ -4,7 +4,11 @@
     <option name="newTranslationDialogWidth" value="896" />
     <option name="newTranslationDialogX" value="738" />
     <option name="newTranslationDialogY" value="333" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="type pattern the introduction is restricted to&#10;" />
+      <item value="Ω" />
+      <item value="Declare Parents Advisor" />
       <item value="let's lock locally but reuse the factory's singleton lock" />
       <item value="Advisor" />
       <item value="Proceeding Join Point" />
@@ -36,7 +40,6 @@
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;&#10;&#10;&#10;&#10;" />
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;&#10;" />
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;" />
-      <item value="Ω" />
       <item value="bounded Elastic" />
       <item value="the base {@link Context} tied to the subscription that will be visible to operators upstream" />
       <item value="the base {@link Context} tied to the subscription that will" />
@@ -53,13 +56,11 @@
       <item value="累加器&#10;" />
       <item value="Assembler" />
       <item value="particular" />
-      <item value="introduce&#10;" />
-      <item value="designated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2649" />
-        <entry key="ENGLISH" value="2650" />
+        <entry key="CHINESE" value="2650" />
+        <entry key="ENGLISH" value="2651" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
