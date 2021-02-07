@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="738" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="PRESERVE" />
       <item value="便利的&#10;" />
       <item value="Convention Pointcut Api Demo" />
       <item value="&#10;Invocation" />
@@ -54,12 +55,11 @@
       <item value="Camel Case Abbreviating Field Naming Strategy" />
       <item value="introduce" />
       <item value="intro" />
-      <item value="on behalf of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2637" />
-        <entry key="ENGLISH" value="2638" />
+        <entry key="CHINESE" value="2638" />
+        <entry key="ENGLISH" value="2639" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
