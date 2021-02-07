@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="738" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="Consider" />
       <item value="is not valid since the JDK no longer returns declared methods" />
       <item value="declaration Order In Aspect" />
       <item value="Prior to" />
@@ -54,12 +55,11 @@
       <item value="the take over userid" />
       <item value="the hand over userid" />
       <item value="FEMALE" />
-      <item value="Camel Case Splitting Field Naming Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2641" />
-        <entry key="ENGLISH" value="2642" />
+        <entry key="CHINESE" value="2642" />
+        <entry key="ENGLISH" value="2643" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612250100788" />
+    <option name="lastTrimTime" value="1612682102076" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
