@@ -2,16 +2,26 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="369" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="738" />
-    <option name="newTranslationDialogY" value="333" />
+    <option name="newTranslationDialogX" value="589" />
+    <option name="newTranslationDialogY" value="643" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="particularly&#10;" />
+      <item value="parti" />
+      <item value="Ω" />
+      <item value="applied" />
+      <item value="repetitive&#10;" />
+      <item value="This class distinguishes between &quot;common&quot; interceptors: shared for all proxies it creates, and &quot;specific&quot; interceptors: unique per bean instance. There need not be any common interceptors. If there are, they are set using the interceptorNames property. As with org.springframework.aop.framework.ProxyFactoryBean, interceptors names in the current factory are used rather than bean references to allow correct handling of prototype advisors and interceptors: for example, to support stateful mixins. Any advice type is supported for &quot;interceptorNames&quot; entries.&#10;" />
+      <item value="unique per bean instance&#10;" />
+      <item value="specific&#10;" />
+      <item value="distinguishes&#10;" />
+      <item value="specific" />
+      <item value="distinguishes" />
       <item value="eventually" />
       <item value="Predict" />
       <item value="Escalate Apc" />
       <item value="This is somewhat tricky... We have to process introductions first, but we need to preserve order in the ultimate list." />
       <item value="type pattern the introduction is restricted to&#10;" />
-      <item value="Ω" />
       <item value="Declare Parents Advisor" />
       <item value="let's lock locally but reuse the factory's singleton lock" />
       <item value="Advisor" />
@@ -46,21 +56,11 @@
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;" />
       <item value="bounded Elastic" />
       <item value="the base {@link Context} tied to the subscription that will be visible to operators upstream" />
-      <item value="the base {@link Context} tied to the subscription that will" />
-      <item value="tend to forget to" />
-      <item value="max Time" />
-      <item value="this" />
-      <item value="supertype" />
-      <item value="associated with none. In any case, it may be invoked through an associated method handle called its {@linkplain dynamicInvoker dynamic invoker}." />
-      <item value="several" />
-      <item value="An {@code invokedynamic} instruction linked to a {@code CallSite} delegates all calls to the site's current target" />
-      <item value="abstract" />
-      <item value="A {@code CallSite} is a holder for a variable {@link MethodHandle}, which is called its {@code target}. An {@code invokedynamic} instruction linked to a {@code CallSite} delegates all calls to the site's current target. A {@code CallSite} may be associated with several {@code invokedynamic} instructions, or it may be &quot;free floating&quot;, associated with none. In any case, it may be invoked through an associated method handle called its {@linkplain dynamicInvoker dynamic invoker}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2654" />
-        <entry key="ENGLISH" value="2655" />
+        <entry key="CHINESE" value="2657" />
+        <entry key="ENGLISH" value="2658" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
