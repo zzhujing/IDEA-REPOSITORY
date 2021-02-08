@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="643" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Auto-proxying will occur even if there is no advice" />
+      <item value="They can also return additional interceptors that should just be applied to the specific bean instance" />
       <item value="particularly&#10;" />
       <item value="parti" />
       <item value="Ω" />
@@ -54,13 +56,11 @@
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;&#10;&#10;&#10;&#10;" />
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;&#10;" />
       <item value="This operator discards elements it internally queued for backpressure upon cancellation or error triggered by a data signal.&#10;" />
-      <item value="bounded Elastic" />
-      <item value="the base {@link Context} tied to the subscription that will be visible to operators upstream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2657" />
-        <entry key="ENGLISH" value="2658" />
+        <entry key="CHINESE" value="2659" />
+        <entry key="ENGLISH" value="2660" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
