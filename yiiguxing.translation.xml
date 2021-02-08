@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="perspective" />
+      <item value="discarded" />
       <item value="an {@link Transactional} annotation on such a method within a local call will be ignored since Spring's interceptor does not even kick in for such a runtime scenario. For a more advanced mode of interception, consider switching this to {@link AdviceModeASPECTJ}." />
       <item value="Please note that proxy mode allows for interception of calls through the proxy only" />
       <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two TransactionManager beans present in the same container. As the name suggests, the annotationDrivenTransactionManager() will be the one used for processing @Transactional methods. See TransactionManagementConfigurer Javadoc for further details.&#10;" />
@@ -54,13 +56,11 @@
       <item value="let's lock locally but reuse the factory's singleton lock" />
       <item value="Advisor" />
       <item value="Proceeding Join Point" />
-      <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the advice declaration are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list." />
-      <item value="interpreting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2673" />
-        <entry key="ENGLISH" value="2674" />
+        <entry key="CHINESE" value="2675" />
+        <entry key="ENGLISH" value="2676" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
