@@ -2,12 +2,23 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="369" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="589" />
-    <option name="newTranslationDialogY" value="643" />
+    <option name="newTranslationDialogX" value="987" />
+    <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="similar&#10;" />
+      <item value="an {@link Transactional} annotation on such a method within a local call will be ignored since Spring's interceptor does not even kick in for such a runtime scenario. For a more advanced mode of interception, consider switching this to {@link AdviceModeASPECTJ}." />
+      <item value="Please note that proxy mode allows for interception of calls through the proxy only" />
+      <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two TransactionManager beans present in the same container. As the name suggests, the annotationDrivenTransactionManager() will be the one used for processing @Transactional methods. See TransactionManagementConfigurer Javadoc for further details.&#10;" />
+      <item value="approach&#10;" />
+      <item value="establish&#10;" />
+      <item value="scenarios&#10;" />
       <item value="Ω" />
+      <item value="demonstrates&#10;" />
+      <item value="imperative" />
+      <item value="&#10;imperative" />
+      <item value="Ωimperative" />
+      <item value="Ωim" />
+      <item value="similar&#10;" />
       <item value="CGLIB GeneratorStrategy variant which exposes the application ClassLoader as current thread context ClassLoader for the time of class generation. The ASM ClassWriter in Spring's ASM variant will pick it up when doing common superclass resolution." />
       <item value="Class Loader Aware Generator Strategy" />
       <item value="a cached byte array for every {@code loadClass} call in order to pick up recently loaded types in the parent ClassLoader" />
@@ -45,22 +56,11 @@
       <item value="Proceeding Join Point" />
       <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the advice declaration are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list." />
       <item value="interpreting" />
-      <item value="When compiling without debug info" />
-      <item value="are not available" />
-      <item value="Consider" />
-      <item value="is not valid since the JDK no longer returns declared methods" />
-      <item value="declaration Order In Aspect" />
-      <item value="Prior to" />
-      <item value="PRESERVE" />
-      <item value="便利的&#10;" />
-      <item value="Convention Pointcut Api Demo" />
-      <item value="&#10;Invocation" />
-      <item value="ΩInvocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2671" />
-        <entry key="ENGLISH" value="2672" />
+        <entry key="CHINESE" value="2673" />
+        <entry key="ENGLISH" value="2674" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
