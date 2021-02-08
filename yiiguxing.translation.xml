@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="643" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CGLIB GeneratorStrategy variant which exposes the application ClassLoader as current thread context ClassLoader for the time of class generation. The ASM ClassWriter in Spring's ASM variant will pick it up when doing common superclass resolution." />
+      <item value="Class Loader Aware Generator Strategy" />
+      <item value="a cached byte array for every {@code loadClass} call in order to pick up recently loaded types in the parent ClassLoader" />
+      <item value="Redefines" />
       <item value="opaque" />
       <item value="Objenesis Cglib Aop Proxy" />
       <item value="Objenesis" />
@@ -52,15 +56,11 @@
       <item value="&#10;Invocation" />
       <item value="ΩInvocation" />
       <item value="be made on&#10;" />
-      <item value="Eligible" />
-      <item value="convention" />
-      <item value="is Original Instance" />
-      <item value="is Assignable From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2667" />
-        <entry key="ENGLISH" value="2668" />
+        <entry key="CHINESE" value="2671" />
+        <entry key="ENGLISH" value="2672" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
