@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="643" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="similar&#10;" />
+      <item value="Ω" />
       <item value="CGLIB GeneratorStrategy variant which exposes the application ClassLoader as current thread context ClassLoader for the time of class generation. The ASM ClassWriter in Spring's ASM variant will pick it up when doing common superclass resolution." />
       <item value="Class Loader Aware Generator Strategy" />
       <item value="a cached byte array for every {@code loadClass} call in order to pick up recently loaded types in the parent ClassLoader" />
@@ -25,7 +27,6 @@
       <item value="They can also return additional interceptors that should just be applied to the specific bean instance" />
       <item value="particularly&#10;" />
       <item value="parti" />
-      <item value="Ω" />
       <item value="applied" />
       <item value="repetitive&#10;" />
       <item value="This class distinguishes between &quot;common&quot; interceptors: shared for all proxies it creates, and &quot;specific&quot; interceptors: unique per bean instance. There need not be any common interceptors. If there are, they are set using the interceptorNames property. As with org.springframework.aop.framework.ProxyFactoryBean, interceptors names in the current factory are used rather than bean references to allow correct handling of prototype advisors and interceptors: for example, to support stateful mixins. Any advice type is supported for &quot;interceptorNames&quot; entries.&#10;" />
@@ -55,7 +56,6 @@
       <item value="Convention Pointcut Api Demo" />
       <item value="&#10;Invocation" />
       <item value="ΩInvocation" />
-      <item value="be made on&#10;" />
     </histories>
     <option name="languageScores">
       <map>
