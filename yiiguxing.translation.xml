@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="333" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This is somewhat tricky... We have to process introductions first, but we need to preserve order in the ultimate list." />
       <item value="type pattern the introduction is restricted to&#10;" />
       <item value="Ω" />
       <item value="Declare Parents Advisor" />
@@ -55,12 +56,11 @@
       <item value="Produces a method handle equivalent to an invokedynamic instruction" />
       <item value="累加器&#10;" />
       <item value="Assembler" />
-      <item value="particular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2650" />
-        <entry key="ENGLISH" value="2651" />
+        <entry key="CHINESE" value="2651" />
+        <entry key="ENGLISH" value="2652" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
