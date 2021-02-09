@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Do not support a current transaction; rather always execute non-transactionally" />
+      <item value="PROPAGATION NOT SUPPORTED" />
       <item value="MANDATORY" />
       <item value="declaratively" />
       <item value="fine-grained" />
@@ -54,13 +56,11 @@
       <item value="In particular&#10;" />
       <item value="In par" />
       <item value="Based on the propagation behavior definitions analogous to EJB CMT attributes" />
-      <item value="compliant" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2721" />
-        <entry key="ENGLISH" value="2722" />
+        <entry key="CHINESE" value="2723" />
+        <entry key="ENGLISH" value="2724" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
