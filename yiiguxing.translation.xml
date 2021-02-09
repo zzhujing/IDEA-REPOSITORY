@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MANDATORY" />
       <item value="declaratively" />
       <item value="fine-grained" />
       <item value="performed" />
@@ -55,12 +56,11 @@
       <item value="Based on the propagation behavior definitions analogous to EJB CMT attributes" />
       <item value="compliant" />
       <item value="corresponding" />
-      <item value="qualifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2720" />
-        <entry key="ENGLISH" value="2721" />
+        <entry key="CHINESE" value="2721" />
+        <entry key="ENGLISH" value="2722" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
