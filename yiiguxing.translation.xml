@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Within" />
+      <item value="concept" />
+      <item value="find out about specific transaction characteristics" />
+      <item value="mechanism" />
+      <item value="Only subclasses that cannot handle all operations in one method" />
+      <item value="as will be the case for around advice" />
+      <item value="cooperating" />
       <item value="no guarantees that {@code AopContext} access will work" />
       <item value="Methods annotated with '@Transactional' must be overridableœ&#10;" />
       <item value="Methods annotated with '@Transactional' must be overridableœ" />
@@ -49,18 +56,11 @@
       <item value="aware&#10;" />
       <item value="leave" />
       <item value="We need to leave all regular beans uninitialized to let the auto-proxy creator apply to them!" />
-      <item value="Retrieval" />
-      <item value="if the bean is identified as one to proxy by the subclass" />
-      <item value="distinguishes" />
-      <item value="Auto-proxying will occur even if there is no advice" />
-      <item value="They can also return additional interceptors that should just be applied to the specific bean instance" />
-      <item value="particularly&#10;" />
-      <item value="parti" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2683" />
-        <entry key="ENGLISH" value="2684" />
+        <entry key="CHINESE" value="2690" />
+        <entry key="ENGLISH" value="2691" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
