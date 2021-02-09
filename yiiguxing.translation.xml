@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="no guarantees that {@code AopContext} access will work" />
+      <item value="Methods annotated with '@Transactional' must be overridableœ&#10;" />
+      <item value="Methods annotated with '@Transactional' must be overridableœ" />
       <item value="work it out" />
       <item value="rely on&#10;" />
       <item value="In particular&#10;" />
@@ -53,14 +56,11 @@
       <item value="They can also return additional interceptors that should just be applied to the specific bean instance" />
       <item value="particularly&#10;" />
       <item value="parti" />
-      <item value="applied" />
-      <item value="repetitive&#10;" />
-      <item value="This class distinguishes between &quot;common&quot; interceptors: shared for all proxies it creates, and &quot;specific&quot; interceptors: unique per bean instance. There need not be any common interceptors. If there are, they are set using the interceptorNames property. As with org.springframework.aop.framework.ProxyFactoryBean, interceptors names in the current factory are used rather than bean references to allow correct handling of prototype advisors and interceptors: for example, to support stateful mixins. Any advice type is supported for &quot;interceptorNames&quot; entries.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2682" />
-        <entry key="ENGLISH" value="2683" />
+        <entry key="CHINESE" value="2683" />
+        <entry key="ENGLISH" value="2684" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
