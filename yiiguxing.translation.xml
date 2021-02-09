@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Assignable From" />
       <item value="Participating" />
       <item value="is Global Rollback On Participation Failure" />
       <item value="Do not support a current transaction; rather always execute non-transactionally" />
@@ -55,12 +56,11 @@
       <item value="Methods annotated with '@Transactional' must be overridableœ" />
       <item value="work it out" />
       <item value="rely on&#10;" />
-      <item value="In particular&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2725" />
-        <entry key="ENGLISH" value="2726" />
+        <entry key="CHINESE" value="2726" />
+        <entry key="ENGLISH" value="2727" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
