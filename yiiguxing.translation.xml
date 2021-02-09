@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="not for empty ones that result from PROPAGATION_SUPPORTS with no existing backend transaction." />
+      <item value="SYNCHRONIZATION ALWAYS" />
       <item value="resume" />
       <item value="Connection Synchronization" />
       <item value="Suspend" />
@@ -54,13 +56,11 @@
       <item value="approach&#10;" />
       <item value="establish&#10;" />
       <item value="scenarios&#10;" />
-      <item value="Ω" />
-      <item value="demonstrates&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2705" />
-        <entry key="ENGLISH" value="2706" />
+        <entry key="CHINESE" value="2707" />
+        <entry key="ENGLISH" value="2708" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
