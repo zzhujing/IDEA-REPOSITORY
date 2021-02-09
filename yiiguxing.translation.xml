@@ -6,6 +6,19 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="declaratively" />
+      <item value="fine-grained" />
+      <item value="performed" />
+      <item value="Resource management code should check for thread-bound resources, e.g. JDBC Connections or Hibernate Sessions, via {@code getResource}. Such code is normally not supposed to bind resources to threads, as this is the responsibility of transaction managers. A further option is to lazily bind on first use if transaction synchronization is active, for performing transactions that span an arbitrary number of resources." />
+      <item value="for performing transactions that span an arbitrary number of resources." />
+      <item value="responsibility" />
+      <item value="Supports one resource per key without overwriting" />
+      <item value="overwriting" />
+      <item value="To be used by resource management code but not by typical application code" />
+      <item value="delegate" />
+      <item value="A further option is to lazily bind on first use if transaction synchronization is active, for performing transactions that span an arbitrary number of resources." />
+      <item value="Supports one resource per key without overwriting, that is, a resource needs to be removed before a new one can be set for the same key. Supports a list of transaction synchronizations if synchronization is active" />
+      <item value="but not by typical application code" />
       <item value="not for empty ones that result from PROPAGATION_SUPPORTS with no existing backend transaction." />
       <item value="SYNCHRONIZATION ALWAYS" />
       <item value="resume" />
@@ -43,24 +56,11 @@
       <item value="compliant" />
       <item value="corresponding" />
       <item value="qualifier" />
-      <item value="introspection&#10;" />
-      <item value="introspect&#10;" />
-      <item value="int" />
-      <item value="traversed" />
-      <item value="retrieval" />
-      <item value="perspective" />
-      <item value="discarded" />
-      <item value="an {@link Transactional} annotation on such a method within a local call will be ignored since Spring's interceptor does not even kick in for such a runtime scenario. For a more advanced mode of interception, consider switching this to {@link AdviceModeASPECTJ}." />
-      <item value="Please note that proxy mode allows for interception of calls through the proxy only" />
-      <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two TransactionManager beans present in the same container. As the name suggests, the annotationDrivenTransactionManager() will be the one used for processing @Transactional methods. See TransactionManagementConfigurer Javadoc for further details.&#10;" />
-      <item value="approach&#10;" />
-      <item value="establish&#10;" />
-      <item value="scenarios&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2707" />
-        <entry key="ENGLISH" value="2708" />
+        <entry key="CHINESE" value="2720" />
+        <entry key="ENGLISH" value="2721" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
