@@ -1,10 +1,17 @@
 <keymap version="1" name="Default for macOS copy 3" parent="Mac OS X 10.5+">
-  <action id="$EditorTranslateAction">
+  <action id="$EditorTranslateAction" />
+  <action id="$InclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="$ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="$TerminalTranslationAction" />
+  <action id="$TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="$TranslateQuickDocAction" />
+  <action id="$TranslateTextComponent" />
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
@@ -53,11 +60,14 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="Editor EditorTranslateAction">
+  <action id="Editor InclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Editor TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
@@ -176,6 +186,7 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="ToggleQuickDocTranslationAction" />
   <action id="TypeHierarchy.Class">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
