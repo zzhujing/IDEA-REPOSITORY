@@ -6,6 +6,16 @@
     <option name="newTranslationDialogY" value="534" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the behavior of&#10;" />
+      <item value="the be" />
+      <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two CacheManager beans present in the same container.&#10;" />
+      <item value="Ω" />
+      <item value="desirable&#10;" />
+      <item value="de" />
+      <item value="approch&#10;&#10;&#10;&#10;" />
+      <item value="approch&#10;&#10;&#10;" />
+      <item value="approch&#10;&#10;" />
+      <item value="approch&#10;" />
       <item value="management" />
       <item value="approach&#10;" />
       <item value="appro" />
@@ -13,7 +23,6 @@
       <item value="con" />
       <item value="consider&#10;" />
       <item value="Ωconsider" />
-      <item value="Ω" />
       <item value="establish&#10;" />
       <item value="e" />
       <item value="for those that&#10;" />
@@ -47,15 +56,6 @@
       <item value="overwriting" />
       <item value="To be used by resource management code but not by typical application code" />
       <item value="delegate" />
-      <item value="A further option is to lazily bind on first use if transaction synchronization is active, for performing transactions that span an arbitrary number of resources." />
-      <item value="Supports one resource per key without overwriting, that is, a resource needs to be removed before a new one can be set for the same key. Supports a list of transaction synchronizations if synchronization is active" />
-      <item value="but not by typical application code" />
-      <item value="not for empty ones that result from PROPAGATION_SUPPORTS with no existing backend transaction." />
-      <item value="SYNCHRONIZATION ALWAYS" />
-      <item value="resume" />
-      <item value="Connection Synchronization" />
-      <item value="Suspend" />
-      <item value="do Suspend" />
     </histories>
     <option name="languageScores">
       <map>
