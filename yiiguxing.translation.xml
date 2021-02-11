@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1795" />
     <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="aware&#10;" />
+      <item value="awareness&#10;" />
       <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10; " />
       <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10;" />
       <item value="from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;" />
@@ -53,8 +55,6 @@
       <item value="performed" />
       <item value="Resource management code should check for thread-bound resources, e.g. JDBC Connections or Hibernate Sessions, via {@code getResource}. Such code is normally not supposed to bind resources to threads, as this is the responsibility of transaction managers. A further option is to lazily bind on first use if transaction synchronization is active, for performing transactions that span an arbitrary number of resources." />
       <item value="for performing transactions that span an arbitrary number of resources." />
-      <item value="responsibility" />
-      <item value="Supports one resource per key without overwriting" />
     </histories>
     <option name="languageScores">
       <map>
