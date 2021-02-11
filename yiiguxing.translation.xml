@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="369" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="968" />
-    <option name="newTranslationDialogY" value="534" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="1795" />
+    <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10; " />
+      <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10;" />
+      <item value="from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;" />
       <item value="the behavior of&#10;" />
       <item value="the be" />
       <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two CacheManager beans present in the same container.&#10;" />
@@ -53,9 +55,6 @@
       <item value="for performing transactions that span an arbitrary number of resources." />
       <item value="responsibility" />
       <item value="Supports one resource per key without overwriting" />
-      <item value="overwriting" />
-      <item value="To be used by resource management code but not by typical application code" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
