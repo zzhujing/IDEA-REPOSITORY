@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1795" />
     <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="is Opaque" />
+      <item value="Objenesis Cglib Aop Proxy" />
+      <item value="independent" />
       <item value="aware&#10;" />
       <item value="awareness&#10;" />
       <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10; " />
@@ -52,14 +55,11 @@
       <item value="MANDATORY" />
       <item value="declaratively" />
       <item value="fine-grained" />
-      <item value="performed" />
-      <item value="Resource management code should check for thread-bound resources, e.g. JDBC Connections or Hibernate Sessions, via {@code getResource}. Such code is normally not supposed to bind resources to threads, as this is the responsibility of transaction managers. A further option is to lazily bind on first use if transaction synchronization is active, for performing transactions that span an arbitrary number of resources." />
-      <item value="for performing transactions that span an arbitrary number of resources." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2731" />
-        <entry key="ENGLISH" value="2732" />
+        <entry key="CHINESE" value="2733" />
+        <entry key="ENGLISH" value="2734" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612682102076" />
+    <option name="lastTrimTime" value="1613305116795" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
