@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1024" />
     <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="Ω" />
       <item value="Interface to be implemented by classes that hold the configuration of a factory of AOP proxies" />
       <item value="Advised" />
       <item value="either class or method level." />
@@ -12,7 +13,6 @@
       <item value="detected" />
       <item value="Whether the eviction should occur before the method is invoked.&#10;Setting this attribute to true, causes the eviction to occur irrespective of the method outcome (i.e., whether it threw an exception or not).&#10;Defaults to false, meaning that the cache eviction operation will occur after the advised method is invoked successfully (i.e. only if the invocation did not throw an exception).&#10;" />
       <item value="Whether the eviction should occur before the method is invoked.&#10;" />
-      <item value="Ω" />
       <item value="before" />
       <item value="Whether" />
       <item value="invoked" />
