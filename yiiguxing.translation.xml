@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1294" />
     <option name="newTranslationDialogY" value="807" />
     <histories>
+      <item value="is Synchronized" />
+      <item value="conventional" />
+      <item value="substitute" />
       <item value="This is effectively a hint and the actual cache provider that you are using may not support it in a synchronized fashion. Check your provider documentation for more details on the actual semantics." />
       <item value="The synchronization leads to a couple of limitations:" />
       <item value="Registrar&#10;" />
@@ -52,14 +55,11 @@
       <item value="e" />
       <item value="for those that&#10;" />
       <item value="for t'ho'se" />
-      <item value="significant&#10;" />
-      <item value="sign" />
-      <item value="as there is no reasonable default that the framework can use as a convention&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2749" />
-        <entry key="ENGLISH" value="2750" />
+        <entry key="CHINESE" value="2752" />
+        <entry key="ENGLISH" value="2753" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
