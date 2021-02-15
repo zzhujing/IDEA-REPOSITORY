@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1024" />
     <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="either class or method level." />
+      <item value="level" />
+      <item value="detected" />
       <item value="Whether the eviction should occur before the method is invoked.&#10;Setting this attribute to true, causes the eviction to occur irrespective of the method outcome (i.e., whether it threw an exception or not).&#10;Defaults to false, meaning that the cache eviction operation will occur after the advised method is invoked successfully (i.e. only if the invocation did not throw an exception).&#10;" />
       <item value="Whether the eviction should occur before the method is invoked.&#10;" />
       <item value="Ω" />
@@ -52,14 +55,11 @@
       <item value="intersection" />
       <item value="populate" />
       <item value="equivalent to defining a set of interface member ITDs for the public methods of the interface&#10;" />
-      <item value="Declare Parents" />
-      <item value="Introduction Info" />
-      <item value="is Assignable From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2739" />
-        <entry key="ENGLISH" value="2740" />
+        <entry key="CHINESE" value="2742" />
+        <entry key="ENGLISH" value="2743" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />

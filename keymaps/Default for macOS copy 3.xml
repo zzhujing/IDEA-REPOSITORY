@@ -1,6 +1,5 @@
 <keymap version="1" name="Default for macOS copy 3" parent="Mac OS X 10.5+">
-  <action id="$EditorTranslateAction" />
-  <action id="$InclusiveTranslateAction">
+  <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="$ShowTranslationDialogAction">
@@ -60,7 +59,7 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="Editor InclusiveTranslateAction">
+  <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Editor ShowTranslationDialogAction">
