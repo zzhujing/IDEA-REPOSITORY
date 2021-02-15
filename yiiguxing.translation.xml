@@ -2,9 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="369" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="1795" />
+    <option name="newTranslationDialogX" value="1024" />
     <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="Whether the eviction should occur before the method is invoked.&#10;Setting this attribute to true, causes the eviction to occur irrespective of the method outcome (i.e., whether it threw an exception or not).&#10;Defaults to false, meaning that the cache eviction operation will occur after the advised method is invoked successfully (i.e. only if the invocation did not throw an exception).&#10;" />
+      <item value="Whether the eviction should occur before the method is invoked.&#10;" />
+      <item value="Ω" />
+      <item value="before" />
+      <item value="Whether" />
+      <item value="invoked" />
+      <item value="synchronized" />
       <item value="preserve Target Class" />
       <item value="is Opaque" />
       <item value="Objenesis Cglib Aop Proxy" />
@@ -17,7 +24,6 @@
       <item value="the behavior of&#10;" />
       <item value="the be" />
       <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two CacheManager beans present in the same container.&#10;" />
-      <item value="Ω" />
       <item value="desirable&#10;" />
       <item value="de" />
       <item value="approch&#10;&#10;&#10;&#10;" />
@@ -49,17 +55,11 @@
       <item value="Declare Parents" />
       <item value="Introduction Info" />
       <item value="is Assignable From" />
-      <item value="Participating" />
-      <item value="is Global Rollback On Participation Failure" />
-      <item value="Do not support a current transaction; rather always execute non-transactionally" />
-      <item value="PROPAGATION NOT SUPPORTED" />
-      <item value="MANDATORY" />
-      <item value="declaratively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2734" />
-        <entry key="ENGLISH" value="2735" />
+        <entry key="CHINESE" value="2739" />
+        <entry key="ENGLISH" value="2740" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
