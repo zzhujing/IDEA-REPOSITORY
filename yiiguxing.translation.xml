@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1294" />
     <option name="newTranslationDialogY" value="807" />
     <histories>
+      <item value="ancestors" />
       <item value="externally Managed Config Members" />
       <item value="post Process Merged Bean Definition" />
       <item value="is Synchronized" />
@@ -54,12 +55,11 @@
       <item value="consider&#10;" />
       <item value="Ωconsider" />
       <item value="establish&#10;" />
-      <item value="e" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2754" />
-        <entry key="ENGLISH" value="2755" />
+        <entry key="CHINESE" value="2755" />
+        <entry key="ENGLISH" value="2756" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
