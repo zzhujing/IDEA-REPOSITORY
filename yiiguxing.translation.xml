@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1294" />
     <option name="newTranslationDialogY" value="807" />
     <histories>
+      <item value="constrained" />
       <item value="is Cascading" />
       <item value="is Constrained" />
       <item value="Resource Bundle Message Interpolator" />
@@ -54,12 +55,11 @@
       <item value="approch&#10;" />
       <item value="management" />
       <item value="approach&#10;" />
-      <item value="appro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2760" />
-        <entry key="ENGLISH" value="2761" />
+        <entry key="CHINESE" value="2761" />
+        <entry key="ENGLISH" value="2762" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
