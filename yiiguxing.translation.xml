@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1294" />
     <option name="newTranslationDialogY" value="807" />
     <histories>
+      <item value="the reflective field that is the target of the conversion" />
+      <item value="the method parameter that is the target of the conversion" />
+      <item value="Extract" />
       <item value="Interpolates" />
       <item value="Inner class to avoid a hard-coded Hibernate Validator dependency." />
       <item value="constrained" />
@@ -52,14 +55,11 @@
       <item value="desirable&#10;" />
       <item value="de" />
       <item value="approch&#10;&#10;&#10;&#10;" />
-      <item value="approch&#10;&#10;&#10;" />
-      <item value="approch&#10;&#10;" />
-      <item value="approch&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2763" />
-        <entry key="ENGLISH" value="2764" />
+        <entry key="CHINESE" value="2766" />
+        <entry key="ENGLISH" value="2767" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
