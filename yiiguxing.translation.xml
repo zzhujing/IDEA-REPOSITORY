@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1294" />
     <option name="newTranslationDialogY" value="807" />
     <histories>
+      <item value="ignore Unresolvable Placeholders" />
+      <item value="against any underlying source" />
+      <item value="against" />
+      <item value="properties" />
+      <item value="Interface for resolving properties against any underlying source." />
       <item value="the reflective field that is the target of the conversion" />
       <item value="the method parameter that is the target of the conversion" />
       <item value="Extract" />
@@ -50,16 +55,11 @@
       <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10;" />
       <item value="from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;" />
       <item value="the behavior of&#10;" />
-      <item value="the be" />
-      <item value="This approach may be desirable simply because it is more explicit, or it may be necessary in order to distinguish between two CacheManager beans present in the same container.&#10;" />
-      <item value="desirable&#10;" />
-      <item value="de" />
-      <item value="approch&#10;&#10;&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2766" />
-        <entry key="ENGLISH" value="2767" />
+        <entry key="CHINESE" value="2771" />
+        <entry key="ENGLISH" value="2772" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
