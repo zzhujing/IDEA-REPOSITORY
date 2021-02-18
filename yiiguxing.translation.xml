@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="909" />
     <option name="newTranslationDialogY" value="541" />
     <histories>
+      <item value="determine" />
+      <item value="The wac environment's initPropertySources will be called in any case when the context is refreshed; do it eagerly here to ensure servlet property sources are in place for use in any post-processing or initialization that occurs below prior to refresh" />
       <item value="Simply delegates to ContextLoader as well as to ContextCleanupListener.&#10;" />
       <item value="Ω" />
       <item value="ignore Unresolvable Placeholders" />
@@ -53,13 +55,11 @@
       <item value="aware&#10;" />
       <item value="awareness&#10;" />
       <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10; " />
-      <item value="he default is true, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype.&#10;" />
-      <item value="from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2771" />
-        <entry key="ENGLISH" value="2772" />
+        <entry key="CHINESE" value="2773" />
+        <entry key="ENGLISH" value="2774" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
