@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1954" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="disposition" />
       <item value="suitable for&#10;" />
       <item value="Generic Web Application Context" />
       <item value="Extension" />
@@ -54,12 +55,11 @@
       <item value="invoked" />
       <item value="synchronized" />
       <item value="preserve Target Class" />
-      <item value="is Opaque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2777" />
-        <entry key="ENGLISH" value="2778" />
+        <entry key="CHINESE" value="2778" />
+        <entry key="ENGLISH" value="2779" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
