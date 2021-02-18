@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="369" />
+    <option name="newTranslationDialogHeight" value="256" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="909" />
-    <option name="newTranslationDialogY" value="541" />
+    <option name="newTranslationDialogX" value="1954" />
+    <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="suitable for&#10;" />
+      <item value="Generic Web Application Context" />
       <item value="Extension" />
       <item value="扩展&#10;" />
       <item value="No context instance was injected at construction time -&gt; see if one has been registered in the servlet context. If one exists, it is assumed that the parent context (if any) has already been set and that the user has performed any initialization such as setting the context id" />
@@ -53,13 +55,11 @@
       <item value="synchronized" />
       <item value="preserve Target Class" />
       <item value="is Opaque" />
-      <item value="Objenesis Cglib Aop Proxy" />
-      <item value="independent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2775" />
-        <entry key="ENGLISH" value="2776" />
+        <entry key="CHINESE" value="2777" />
+        <entry key="ENGLISH" value="2778" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
