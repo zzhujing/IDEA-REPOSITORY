@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="1954" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="his is to enable handlers from other frameworks to be integrated with this framework without custom coding, as well as to allow for annotation-driven handler objects that do not obey any specific Java interface." />
+      <item value="contain" />
+      <item value="This interface is used to allow the {@link DispatcherServlet} to be indefinitely extensible. The {@code DispatcherServlet} accesses all installed handlers through this interface, meaning that it does not contain code specific to any handler type." />
+      <item value="flash" />
+      <item value="快照&#10;" />
+      <item value="Flash" />
+      <item value="Flash Map" />
+      <item value="retrieving" />
+      <item value="consisting of&#10;" />
+      <item value="consisiting&#10;" />
+      <item value="sonsi" />
       <item value="disposition" />
       <item value="suitable for&#10;" />
       <item value="Generic Web Application Context" />
@@ -44,22 +55,11 @@
       <item value="A specialized type of {@link MethodMatcher} that takes into account introductions when matching methods. If there are no introductions on the target class, a method matcher may be able to optimize matching more effectively for example." />
       <item value="used for calls that are unadvised but can return this" />
       <item value="Interface to be implemented by classes that hold the configuration of a factory of AOP proxies" />
-      <item value="Advised" />
-      <item value="either class or method level." />
-      <item value="level" />
-      <item value="detected" />
-      <item value="Whether the eviction should occur before the method is invoked.&#10;Setting this attribute to true, causes the eviction to occur irrespective of the method outcome (i.e., whether it threw an exception or not).&#10;Defaults to false, meaning that the cache eviction operation will occur after the advised method is invoked successfully (i.e. only if the invocation did not throw an exception).&#10;" />
-      <item value="Whether the eviction should occur before the method is invoked.&#10;" />
-      <item value="before" />
-      <item value="Whether" />
-      <item value="invoked" />
-      <item value="synchronized" />
-      <item value="preserve Target Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2778" />
-        <entry key="ENGLISH" value="2779" />
+        <entry key="CHINESE" value="2785" />
+        <entry key="ENGLISH" value="2786" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
