@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1954" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="is Pre Flight Request" />
       <item value="his is to enable handlers from other frameworks to be integrated with this framework without custom coding, as well as to allow for annotation-driven handler objects that do not obey any specific Java interface." />
       <item value="contain" />
       <item value="This interface is used to allow the {@link DispatcherServlet} to be indefinitely extensible. The {@code DispatcherServlet} accesses all installed handlers through this interface, meaning that it does not contain code specific to any handler type." />
@@ -54,12 +55,11 @@
       <item value="{@code true} if the object on whose behalf we are asking is the subject on one or more introductions; {@code false} otherwise @return whether or not this method matches statically" />
       <item value="A specialized type of {@link MethodMatcher} that takes into account introductions when matching methods. If there are no introductions on the target class, a method matcher may be able to optimize matching more effectively for example." />
       <item value="used for calls that are unadvised but can return this" />
-      <item value="Interface to be implemented by classes that hold the configuration of a factory of AOP proxies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2785" />
-        <entry key="ENGLISH" value="2786" />
+        <entry key="CHINESE" value="2786" />
+        <entry key="ENGLISH" value="2787" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
