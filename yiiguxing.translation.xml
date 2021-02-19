@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="594" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Path Container" />
       <item value="Ω" />
       <item value="lattery" />
       <item value="within&#10;" />
@@ -54,12 +55,11 @@
       <item value="Interpolates" />
       <item value="Inner class to avoid a hard-coded Hibernate Validator dependency." />
       <item value="constrained" />
-      <item value="is Cascading" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2799" />
-        <entry key="ENGLISH" value="2800" />
+        <entry key="CHINESE" value="2800" />
+        <entry key="ENGLISH" value="2801" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
