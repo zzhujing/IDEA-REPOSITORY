@@ -2,14 +2,25 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="1954" />
-    <option name="newTranslationDialogY" value="524" />
+    <option name="newTranslationDialogX" value="594" />
+    <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Ω" />
+      <item value="lattery" />
+      <item value="within&#10;" />
+      <item value="sub-divides" />
+      <item value="&lt;p&gt;Each {@link PathSegment} exposes its content in decoded form and with path parameters removed. This makes it safe to match one path segment at a time without the risk of decoded reserved characters altering the structure of the path." />
+      <item value="p&gt;Each {@link PathSegment} exposes its content in decoded form and with path parameters removed" />
+      <item value="exposes" />
+      <item value="Structured representation of a URI path parsed via {@link parsePath(String)} into a sequence of {@link Separator} and {@link PathSegment} elements." />
+      <item value="representation" />
+      <item value="should" />
+      <item value="The lattery is typically used for request mapping within the application while the former is useful when preparing external links that point back to the application." />
+      <item value="cleanup After Include" />
       <item value="to be able to restore the original attributes after the include" />
       <item value="an include" />
       <item value="Method must have maximum one parameter&#10;" />
       <item value="Method must have maximum one parameter " />
-      <item value="Ω" />
       <item value="masked" />
       <item value="is Pre Flight Request" />
       <item value="his is to enable handlers from other frameworks to be integrated with this framework without custom coding, as well as to allow for annotation-driven handler objects that do not obey any specific Java interface." />
@@ -44,22 +55,11 @@
       <item value="Inner class to avoid a hard-coded Hibernate Validator dependency." />
       <item value="constrained" />
       <item value="is Cascading" />
-      <item value="is Constrained" />
-      <item value="Resource Bundle Message Interpolator" />
-      <item value="Constraint Violation Exception" />
-      <item value="Variant" />
-      <item value="ancestors" />
-      <item value="externally Managed Config Members" />
-      <item value="post Process Merged Bean Definition" />
-      <item value="is Synchronized" />
-      <item value="conventional" />
-      <item value="substitute" />
-      <item value="This is effectively a hint and the actual cache provider that you are using may not support it in a synchronized fashion. Check your provider documentation for more details on the actual semantics." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2789" />
-        <entry key="ENGLISH" value="2790" />
+        <entry key="CHINESE" value="2799" />
+        <entry key="ENGLISH" value="2800" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
