@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1954" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="Method must have maximum one parameter&#10;" />
+      <item value="Method must have maximum one parameter " />
+      <item value="Ω" />
+      <item value="masked" />
       <item value="is Pre Flight Request" />
       <item value="his is to enable handlers from other frameworks to be integrated with this framework without custom coding, as well as to allow for annotation-driven handler objects that do not obey any specific Java interface." />
       <item value="contain" />
@@ -26,7 +30,6 @@
       <item value="determine" />
       <item value="The wac environment's initPropertySources will be called in any case when the context is refreshed; do it eagerly here to ensure servlet property sources are in place for use in any post-processing or initialization that occurs below prior to refresh" />
       <item value="Simply delegates to ContextLoader as well as to ContextCleanupListener.&#10;" />
-      <item value="Ω" />
       <item value="ignore Unresolvable Placeholders" />
       <item value="against any underlying source" />
       <item value="against" />
@@ -52,14 +55,11 @@
       <item value="This is effectively a hint and the actual cache provider that you are using may not support it in a synchronized fashion. Check your provider documentation for more details on the actual semantics." />
       <item value="The synchronization leads to a couple of limitations:" />
       <item value="Registrar&#10;" />
-      <item value="{@code true} if the object on whose behalf we are asking is the subject on one or more introductions; {@code false} otherwise @return whether or not this method matches statically" />
-      <item value="A specialized type of {@link MethodMatcher} that takes into account introductions when matching methods. If there are no introductions on the target class, a method matcher may be able to optimize matching more effectively for example." />
-      <item value="used for calls that are unadvised but can return this" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2786" />
-        <entry key="ENGLISH" value="2787" />
+        <entry key="CHINESE" value="2787" />
+        <entry key="ENGLISH" value="2788" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
