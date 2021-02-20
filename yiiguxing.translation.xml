@@ -4,7 +4,10 @@
     <option name="newTranslationDialogWidth" value="896" />
     <option name="newTranslationDialogX" value="594" />
     <option name="newTranslationDialogY" value="520" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="trailing slash" />
+      <item value="trailing slashœ" />
       <item value="Path Container" />
       <item value="Ω" />
       <item value="lattery" />
@@ -53,13 +56,11 @@
       <item value="the method parameter that is the target of the conversion" />
       <item value="Extract" />
       <item value="Interpolates" />
-      <item value="Inner class to avoid a hard-coded Hibernate Validator dependency." />
-      <item value="constrained" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2800" />
-        <entry key="ENGLISH" value="2801" />
+        <entry key="CHINESE" value="2802" />
+        <entry key="ENGLISH" value="2803" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -82,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613305116795" />
+    <option name="lastTrimTime" value="1613798428100" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
