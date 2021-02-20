@@ -6,6 +6,15 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="determine" />
+      <item value="deter" />
+      <item value="de" />
+      <item value="决定&#10;" />
+      <item value="determinal&#10;" />
+      <item value="ditermin&#10;" />
+      <item value="ditermin" />
+      <item value="ditermi" />
+      <item value="d" />
       <item value="Command" />
       <item value="Command Info Strategy" />
       <item value="I Command Info Strategy" />
@@ -47,15 +56,6 @@
       <item value="Generic Web Application Context" />
       <item value="Extension" />
       <item value="扩展&#10;" />
-      <item value="No context instance was injected at construction time -&gt; see if one has been registered in the servlet context. If one exists, it is assumed that the parent context (if any) has already been set and that the user has performed any initialization such as setting the context id" />
-      <item value="determine" />
-      <item value="The wac environment's initPropertySources will be called in any case when the context is refreshed; do it eagerly here to ensure servlet property sources are in place for use in any post-processing or initialization that occurs below prior to refresh" />
-      <item value="Simply delegates to ContextLoader as well as to ContextCleanupListener.&#10;" />
-      <item value="ignore Unresolvable Placeholders" />
-      <item value="against any underlying source" />
-      <item value="against" />
-      <item value="properties" />
-      <item value="Interface for resolving properties against any underlying source." />
     </histories>
     <option name="languageScores">
       <map>
