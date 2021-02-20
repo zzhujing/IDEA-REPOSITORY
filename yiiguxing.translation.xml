@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Command" />
+      <item value="Command Info Strategy" />
+      <item value="I Command Info Strategy" />
       <item value="multipart Resolver" />
       <item value="trailing slash" />
       <item value="trailing slashœ" />
@@ -53,14 +56,11 @@
       <item value="against" />
       <item value="properties" />
       <item value="Interface for resolving properties against any underlying source." />
-      <item value="the reflective field that is the target of the conversion" />
-      <item value="the method parameter that is the target of the conversion" />
-      <item value="Extract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2803" />
-        <entry key="ENGLISH" value="2804" />
+        <entry key="CHINESE" value="2806" />
+        <entry key="ENGLISH" value="2807" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
