@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multipart Resolver" />
       <item value="trailing slash" />
       <item value="trailing slashœ" />
       <item value="Path Container" />
@@ -55,12 +56,11 @@
       <item value="the reflective field that is the target of the conversion" />
       <item value="the method parameter that is the target of the conversion" />
       <item value="Extract" />
-      <item value="Interpolates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2802" />
-        <entry key="ENGLISH" value="2803" />
+        <entry key="CHINESE" value="2803" />
+        <entry key="ENGLISH" value="2804" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
