@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="that would serve a specific request" />
       <item value="Pre Flight Handler" />
       <item value="This is primarily an SPI to allow Spring Security to align its pattern matching with the same pattern matching that would be used in Spring MVC for a given request, in order to avoid security issues. Use of this introspector should be avoided for other purposes because it incurs the overhead of resolving the handler for a request." />
       <item value="Helper class to get information from the {@code HandlerMapping} that would serve a specific request." />
@@ -55,7 +56,6 @@
       <item value="Flash" />
       <item value="Flash Map" />
       <item value="retrieving" />
-      <item value="consisting of&#10;" />
     </histories>
     <option name="languageScores">
       <map>
