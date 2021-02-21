@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pre Flight Handler" />
+      <item value="This is primarily an SPI to allow Spring Security to align its pattern matching with the same pattern matching that would be used in Spring MVC for a given request, in order to avoid security issues. Use of this introspector should be avoided for other purposes because it incurs the overhead of resolving the handler for a request." />
+      <item value="Helper class to get information from the {@code HandlerMapping} that would serve a specific request." />
+      <item value="Wildcard is worth 100" />
+      <item value="Captured" />
+      <item value="motivates the need for efficient matching" />
+      <item value="continuously matched against incoming requests" />
       <item value="determine" />
       <item value="deter" />
       <item value="de" />
@@ -49,18 +56,11 @@
       <item value="Flash Map" />
       <item value="retrieving" />
       <item value="consisting of&#10;" />
-      <item value="consisiting&#10;" />
-      <item value="sonsi" />
-      <item value="disposition" />
-      <item value="suitable for&#10;" />
-      <item value="Generic Web Application Context" />
-      <item value="Extension" />
-      <item value="扩展&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2806" />
-        <entry key="ENGLISH" value="2807" />
+        <entry key="CHINESE" value="2814" />
+        <entry key="ENGLISH" value="2815" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
