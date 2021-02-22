@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add If Absent" />
       <item value="晋升&#10;" />
       <item value="get Effective Mall Command" />
       <item value="get Effective" />
@@ -55,12 +56,11 @@
       <item value="trailing slashœ" />
       <item value="Path Container" />
       <item value="lattery" />
-      <item value="within&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2826" />
-        <entry key="ENGLISH" value="2827" />
+        <entry key="CHINESE" value="2827" />
+        <entry key="ENGLISH" value="2828" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
