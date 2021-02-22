@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Active Outcome" />
+      <item value="can Active Permit" />
       <item value="that it has completed and the request was dispatched for further processing of the concurrent result." />
       <item value="or the request was dispatched for further processing" />
       <item value="Concurrent handling started during a forward" />
@@ -54,13 +56,11 @@
       <item value="is Pre Flight Request" />
       <item value="his is to enable handlers from other frameworks to be integrated with this framework without custom coding, as well as to allow for annotation-driven handler objects that do not obey any specific Java interface." />
       <item value="contain" />
-      <item value="This interface is used to allow the {@link DispatcherServlet} to be indefinitely extensible. The {@code DispatcherServlet} accesses all installed handlers through this interface, meaning that it does not contain code specific to any handler type." />
-      <item value="flash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2818" />
-        <entry key="ENGLISH" value="2819" />
+        <entry key="CHINESE" value="2820" />
+        <entry key="ENGLISH" value="2821" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
