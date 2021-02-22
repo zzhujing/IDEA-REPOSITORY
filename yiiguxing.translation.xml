@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="可用的&#10;" />
+      <item value="Ω" />
+      <item value="available" />
+      <item value="used" />
+      <item value="usaged" />
+      <item value="usage" />
+      <item value="useage" />
       <item value="lottery&#10;" />
       <item value="lootery" />
       <item value="draw&#10;" />
@@ -41,7 +48,6 @@
       <item value="trailing slash" />
       <item value="trailing slashœ" />
       <item value="Path Container" />
-      <item value="Ω" />
       <item value="lattery" />
       <item value="within&#10;" />
       <item value="sub-divides" />
@@ -50,21 +56,15 @@
       <item value="exposes" />
       <item value="Structured representation of a URI path parsed via {@link parsePath(String)} into a sequence of {@link Separator} and {@link PathSegment} elements." />
       <item value="representation" />
-      <item value="should" />
-      <item value="The lattery is typically used for request mapping within the application while the former is useful when preparing external links that point back to the application." />
-      <item value="cleanup After Include" />
-      <item value="to be able to restore the original attributes after the include" />
-      <item value="an include" />
-      <item value="Method must have maximum one parameter&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2821" />
-        <entry key="ENGLISH" value="2822" />
+        <entry key="CHINESE" value="2824" />
+        <entry key="ENGLISH" value="2825" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
-        <entry key="DANISH" value="7" />
+        <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="14" />
         <entry key="FINNISH" value="1" />
