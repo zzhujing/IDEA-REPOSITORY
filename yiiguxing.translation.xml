@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A typical use of this method would be to clean up thread-local variables" />
+      <item value="typical" />
+      <item value="avoid modifying them" />
+      <item value="This can be done proactively on every request from {@code preHandle} regardless of whether async request processing will start" />
       <item value="scrume&#10;&#10;" />
       <item value="scrum&#10;" />
       <item value="add If Absent" />
@@ -52,15 +56,11 @@
       <item value="d" />
       <item value="Command" />
       <item value="Command Info Strategy" />
-      <item value="I Command Info Strategy" />
-      <item value="multipart Resolver" />
-      <item value="trailing slash" />
-      <item value="trailing slashœ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2827" />
-        <entry key="ENGLISH" value="2828" />
+        <entry key="CHINESE" value="2831" />
+        <entry key="ENGLISH" value="2832" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
