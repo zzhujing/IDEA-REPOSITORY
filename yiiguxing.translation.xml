@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Effective Mall Command" />
+      <item value="get Effective" />
       <item value="luckDraw&#10;" />
       <item value="luckDraw" />
       <item value="抽奖&#10;" />
@@ -54,13 +56,11 @@
       <item value="lattery" />
       <item value="within&#10;" />
       <item value="sub-divides" />
-      <item value="&lt;p&gt;Each {@link PathSegment} exposes its content in decoded form and with path parameters removed. This makes it safe to match one path segment at a time without the risk of decoded reserved characters altering the structure of the path." />
-      <item value="p&gt;Each {@link PathSegment} exposes its content in decoded form and with path parameters removed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2824" />
-        <entry key="ENGLISH" value="2825" />
+        <entry key="CHINESE" value="2826" />
+        <entry key="ENGLISH" value="2827" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
