@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Semicolon Content" />
       <item value="that would serve a specific request" />
       <item value="Pre Flight Handler" />
       <item value="This is primarily an SPI to allow Spring Security to align its pattern matching with the same pattern matching that would be used in Spring MVC for a given request, in order to avoid security issues. Use of this introspector should be avoided for other purposes because it incurs the overhead of resolving the handler for a request." />
@@ -55,12 +56,11 @@
       <item value="快照&#10;" />
       <item value="Flash" />
       <item value="Flash Map" />
-      <item value="retrieving" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2814" />
-        <entry key="ENGLISH" value="2815" />
+        <entry key="CHINESE" value="2815" />
+        <entry key="ENGLISH" value="2816" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
