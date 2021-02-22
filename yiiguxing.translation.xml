@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="that it has completed and the request was dispatched for further processing of the concurrent result." />
+      <item value="or the request was dispatched for further processing" />
+      <item value="Concurrent handling started during a forward" />
       <item value="Semicolon Content" />
       <item value="that would serve a specific request" />
       <item value="Pre Flight Handler" />
@@ -53,14 +56,11 @@
       <item value="contain" />
       <item value="This interface is used to allow the {@link DispatcherServlet} to be indefinitely extensible. The {@code DispatcherServlet} accesses all installed handlers through this interface, meaning that it does not contain code specific to any handler type." />
       <item value="flash" />
-      <item value="快照&#10;" />
-      <item value="Flash" />
-      <item value="Flash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2815" />
-        <entry key="ENGLISH" value="2816" />
+        <entry key="CHINESE" value="2818" />
+        <entry key="ENGLISH" value="2819" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
