@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prevent&#10;" />
+      <item value="prevent" />
+      <item value="prevent Response Caching" />
+      <item value="Composite" />
+      <item value="making them available for @ExceptionHandler methods and other scenarios." />
       <item value="A typical use of this method would be to clean up thread-local variables" />
       <item value="typical" />
       <item value="avoid modifying them" />
@@ -51,16 +56,11 @@
       <item value="决定&#10;" />
       <item value="determinal&#10;" />
       <item value="ditermin&#10;" />
-      <item value="ditermin" />
-      <item value="ditermi" />
-      <item value="d" />
-      <item value="Command" />
-      <item value="Command Info Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2831" />
-        <entry key="ENGLISH" value="2832" />
+        <entry key="CHINESE" value="2834" />
+        <entry key="ENGLISH" value="2835" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
