@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="705" />
-    <option name="newTranslationDialogY" value="612" />
+    <option name="newTranslationDialogX" value="676" />
+    <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="emitter&#10;" />
       <item value="a variable name is not specified, then the map is populated with all matrix variable names and values.&#10;" />
       <item value="Ω" />
       <item value="Matrix Variable" />
@@ -55,7 +56,6 @@
       <item value="This is primarily an SPI to allow Spring Security to align its pattern matching with the same pattern matching that would be used in Spring MVC for a given request, in order to avoid security issues. Use of this introspector should be avoided for other purposes because it incurs the overhead of resolving the handler for a request." />
       <item value="Helper class to get information from the {@code HandlerMapping} that would serve a specific request." />
       <item value="Wildcard is worth 100" />
-      <item value="Captured" />
     </histories>
     <option name="languageScores">
       <map>
