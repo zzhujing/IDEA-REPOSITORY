@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
     <option name="newTranslationDialogWidth" value="896" />
-    <option name="newTranslationDialogX" value="594" />
-    <option name="newTranslationDialogY" value="520" />
+    <option name="newTranslationDialogX" value="705" />
+    <option name="newTranslationDialogY" value="612" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="a variable name is not specified, then the map is populated with all matrix variable names and values.&#10;" />
+      <item value="Ω" />
+      <item value="Matrix Variable" />
       <item value="containing Class" />
       <item value="Expose cause as provided argument as well" />
       <item value="Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class" />
@@ -31,7 +34,6 @@
       <item value="luckDraw" />
       <item value="抽奖&#10;" />
       <item value="max_lottery_count&#10;" />
-      <item value="Ω" />
       <item value="可用的&#10;" />
       <item value="available" />
       <item value="used" />
@@ -54,13 +56,11 @@
       <item value="Helper class to get information from the {@code HandlerMapping} that would serve a specific request." />
       <item value="Wildcard is worth 100" />
       <item value="Captured" />
-      <item value="motivates the need for efficient matching" />
-      <item value="continuously matched against incoming requests" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2840" />
-        <entry key="ENGLISH" value="2841" />
+        <entry key="CHINESE" value="2841" />
+        <entry key="ENGLISH" value="2842" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
