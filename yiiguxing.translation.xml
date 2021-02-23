@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Pre Flight Request" />
       <item value="he syntax is largely the same with the latter being more tailored for web usage and more efficient" />
       <item value="throw When Exists" />
       <item value="emitter&#10;" />
@@ -55,12 +56,11 @@
       <item value="Semicolon Content" />
       <item value="that would serve a specific request" />
       <item value="Pre Flight Handler" />
-      <item value="This is primarily an SPI to allow Spring Security to align its pattern matching with the same pattern matching that would be used in Spring MVC for a given request, in order to avoid security issues. Use of this introspector should be avoided for other purposes because it incurs the overhead of resolving the handler for a request." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2843" />
-        <entry key="ENGLISH" value="2844" />
+        <entry key="CHINESE" value="2844" />
+        <entry key="ENGLISH" value="2845" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
