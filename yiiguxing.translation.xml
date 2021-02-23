@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="520" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class" />
+      <item value="ControllerAdvice} annotated class" />
+      <item value="assignable" />
+      <item value="Array of classes. &lt;p&gt;Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class." />
       <item value="prevent&#10;" />
       <item value="prevent" />
       <item value="prevent Response Caching" />
@@ -52,15 +56,11 @@
       <item value="continuously matched against incoming requests" />
       <item value="determine" />
       <item value="deter" />
-      <item value="de" />
-      <item value="决定&#10;" />
-      <item value="determinal&#10;" />
-      <item value="ditermin&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2834" />
-        <entry key="ENGLISH" value="2835" />
+        <entry key="CHINESE" value="2838" />
+        <entry key="ENGLISH" value="2839" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
