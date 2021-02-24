@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt;&lt;strong&gt;Note&lt;strong&gt; that adding converters to the list, turns off default converter registration. To simply add a converter without impacting default registration, consider using the method {@link extendMessageConverters(java.util.List)} instead." />
+      <item value="turns off" />
+      <item value="A hook for extending or modifying the list of converters after it has been configured. This may be useful for example to allow default converters to be registered and then insert a custom converter through this method." />
       <item value="get Variable Name For Parameter" />
       <item value="Content Negotiation Strategy" />
       <item value="A base class for resolving method argument values by reading from the body of a request with {@link HttpMessageConverter HttpMessageConverters}." />
@@ -53,14 +56,11 @@
       <item value="晋升&#10;" />
       <item value="get Effective Mall Command" />
       <item value="get Effective" />
-      <item value="luckDraw&#10;" />
-      <item value="luckDraw" />
-      <item value="抽奖&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2863" />
-        <entry key="ENGLISH" value="2864" />
+        <entry key="CHINESE" value="2866" />
+        <entry key="ENGLISH" value="2867" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
