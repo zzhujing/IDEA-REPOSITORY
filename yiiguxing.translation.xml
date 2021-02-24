@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Content Negotiation Strategy" />
+      <item value="A base class for resolving method argument values by reading from the body of a request with {@link HttpMessageConverter HttpMessageConverters}." />
+      <item value="Extends {@link AbstractMessageConverterMethodArgumentResolver} with the ability to handle method return values by writing to the response with {@link HttpMessageConverter HttpMessageConverters}." />
+      <item value="ability" />
       <item value="parts" />
       <item value="f Applicable" />
       <item value="potentially" />
@@ -52,15 +56,11 @@
       <item value="luckDraw" />
       <item value="抽奖&#10;" />
       <item value="max_lottery_count&#10;" />
-      <item value="可用的&#10;" />
-      <item value="available" />
-      <item value="used" />
-      <item value="usaged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2858" />
-        <entry key="ENGLISH" value="2859" />
+        <entry key="CHINESE" value="2862" />
+        <entry key="ENGLISH" value="2863" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
