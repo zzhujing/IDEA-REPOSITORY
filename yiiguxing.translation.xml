@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The ServletResponse with which to initialise the asynchronous context" />
       <item value="is Pre Flight Request" />
       <item value="he syntax is largely the same with the latter being more tailored for web usage and more efficient" />
       <item value="throw When Exists" />
@@ -55,12 +56,11 @@
       <item value="Concurrent handling started during a forward" />
       <item value="Semicolon Content" />
       <item value="that would serve a specific request" />
-      <item value="Pre Flight Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2844" />
-        <entry key="ENGLISH" value="2845" />
+        <entry key="CHINESE" value="2845" />
+        <entry key="ENGLISH" value="2846" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
