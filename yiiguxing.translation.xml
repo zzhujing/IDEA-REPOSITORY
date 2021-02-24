@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="detect Handler Methods In Ancestor Contexts" />
+      <item value="Response Body Emitter" />
       <item value="The ServletResponse with which to initialise the asynchronous context" />
       <item value="is Pre Flight Request" />
       <item value="he syntax is largely the same with the latter being more tailored for web usage and more efficient" />
@@ -54,13 +56,11 @@
       <item value="that it has completed and the request was dispatched for further processing of the concurrent result." />
       <item value="or the request was dispatched for further processing" />
       <item value="Concurrent handling started during a forward" />
-      <item value="Semicolon Content" />
-      <item value="that would serve a specific request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2845" />
-        <entry key="ENGLISH" value="2846" />
+        <entry key="CHINESE" value="2847" />
+        <entry key="ENGLISH" value="2848" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
