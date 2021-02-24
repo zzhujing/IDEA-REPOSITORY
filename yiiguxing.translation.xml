@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Effectively &quot;resumes&quot; processing with the asynchronously produced return value" />
       <item value="use Trailing Slash Match" />
       <item value="remove Semicolon Content" />
       <item value="consumed" />
@@ -55,12 +56,11 @@
       <item value="useage" />
       <item value="lottery&#10;" />
       <item value="lootery" />
-      <item value="draw&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2853" />
-        <entry key="ENGLISH" value="2854" />
+        <entry key="CHINESE" value="2854" />
+        <entry key="ENGLISH" value="2855" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
