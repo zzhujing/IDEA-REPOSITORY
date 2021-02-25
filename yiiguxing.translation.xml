@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Once the requested media type has been determined, this resolver queries each delegate view resolver for a {@link View} and determines if the requested media type is {@linkplain MediaTypeincludes(MediaType) compatible} with the view's {@linkplain ViewgetContentType() content type}). The most compatible view is returned." />
+      <item value="though&#10;" />
+      <item value="&#10;though&#10;" />
+      <item value="Ωthough&#10;" />
+      <item value="through&#10;" />
+      <item value="Ω" />
+      <item value="are picked up automatically" />
       <item value="the handler (or {@link HandlerMethod}) that started asynchronous execution, for type andor instance examination" />
       <item value="&lt;p&gt;&lt;strong&gt;Note&lt;strong&gt; that adding converters to the list, turns off default converter registration. To simply add a converter without impacting default registration, consider using the method {@link extendMessageConverters(java.util.List)} instead." />
       <item value="turns off" />
@@ -34,7 +41,6 @@
       <item value="throw When Exists" />
       <item value="emitter&#10;" />
       <item value="a variable name is not specified, then the map is populated with all matrix variable names and values.&#10;" />
-      <item value="Ω" />
       <item value="Matrix Variable" />
       <item value="containing Class" />
       <item value="Expose cause as provided argument as well" />
@@ -50,17 +56,11 @@
       <item value="A typical use of this method would be to clean up thread-local variables" />
       <item value="typical" />
       <item value="avoid modifying them" />
-      <item value="This can be done proactively on every request from {@code preHandle} regardless of whether async request processing will start" />
-      <item value="scrume&#10;&#10;" />
-      <item value="scrum&#10;" />
-      <item value="add If Absent" />
-      <item value="晋升&#10;" />
-      <item value="get Effective Mall Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2867" />
-        <entry key="ENGLISH" value="2868" />
+        <entry key="CHINESE" value="2869" />
+        <entry key="ENGLISH" value="2870" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
