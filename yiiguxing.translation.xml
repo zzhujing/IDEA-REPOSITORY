@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Interrupting a thread that is not alive need not have any effect" />
+      <item value="If none of the previous conditions hold then this thread's interrupt status will be set" />
+      <item value="relinquish" />
+      <item value="or until a certain amount of real time has elapsed." />
+      <item value="awakened" />
       <item value="incorrectly" />
       <item value="Once the requested media type has been determined, this resolver queries each delegate view resolver for a {@link View} and determines if the requested media type is {@linkplain MediaTypeincludes(MediaType) compatible} with the view's {@linkplain ViewgetContentType() content type}). The most compatible view is returned." />
       <item value="though&#10;" />
@@ -51,16 +56,11 @@
       <item value="Array of classes. &lt;p&gt;Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class." />
       <item value="prevent&#10;" />
       <item value="prevent" />
-      <item value="prevent Response Caching" />
-      <item value="Composite" />
-      <item value="making them available for @ExceptionHandler methods and other scenarios." />
-      <item value="A typical use of this method would be to clean up thread-local variables" />
-      <item value="typical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2870" />
-        <entry key="ENGLISH" value="2871" />
+        <entry key="CHINESE" value="2876" />
+        <entry key="ENGLISH" value="2877" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613798428100" />
+    <option name="lastTrimTime" value="1614575776532" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
