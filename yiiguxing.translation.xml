@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has Queued Predecessors" />
       <item value="Latch" />
       <item value="Count Down Latch" />
       <item value="Interrupting a thread that is not alive need not have any effect" />
@@ -55,12 +56,11 @@
       <item value="Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class" />
       <item value="ControllerAdvice} annotated class" />
       <item value="assignable" />
-      <item value="Array of classes. &lt;p&gt;Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2878" />
-        <entry key="ENGLISH" value="2879" />
+        <entry key="CHINESE" value="2879" />
+        <entry key="ENGLISH" value="2880" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
