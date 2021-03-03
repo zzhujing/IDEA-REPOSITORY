@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Otherwise" />
+      <item value="exclusive" />
       <item value="Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
       <item value="saturate" />
       <item value="Walkthrough" />
@@ -54,13 +56,11 @@
       <item value="narrowing" />
       <item value="detect Handler Methods In Ancestor Contexts" />
       <item value="Response Body Emitter" />
-      <item value="The ServletResponse with which to initialise the asynchronous context" />
-      <item value="is Pre Flight Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2889" />
-        <entry key="ENGLISH" value="2890" />
+        <entry key="CHINESE" value="2891" />
+        <entry key="ENGLISH" value="2892" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
