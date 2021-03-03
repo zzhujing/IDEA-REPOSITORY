@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Wakes up node's successor, if one exists." />
+      <item value="predNext is the apparent node to unsplice. CASes below will fail if not, in which case, we lost race vs another cancel or signal, so no further action is necessary, although with a possibility that a cancelled node may transiently remain reachable." />
       <item value="Otherwise" />
       <item value="exclusive" />
       <item value="Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
@@ -54,13 +56,11 @@
       <item value="Narrows" />
       <item value="with a request only mapped if each such parameter is found to have the given value" />
       <item value="narrowing" />
-      <item value="detect Handler Methods In Ancestor Contexts" />
-      <item value="Response Body Emitter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2891" />
-        <entry key="ENGLISH" value="2892" />
+        <entry key="CHINESE" value="2893" />
+        <entry key="ENGLISH" value="2894" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
