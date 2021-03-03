@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="waitStatus value to indicate the next acquireShared should unconditionally propagate" />
+      <item value="But under high contention, expected throughput of this class is significantly higher" />
       <item value="how Much" />
       <item value="Alive Lock Demo" />
       <item value="The abstract class {@link ApplicationListener} for {@link ApplicationContextEvent} guarantees just one-time execution and prevents the event propagation in the hierarchical {@link ApplicationContext ApplicationContexts}" />
@@ -54,13 +56,11 @@
       <item value="emitter&#10;" />
       <item value="a variable name is not specified, then the map is populated with all matrix variable names and values.&#10;" />
       <item value="Matrix Variable" />
-      <item value="containing Class" />
-      <item value="Expose cause as provided argument as well" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2882" />
-        <entry key="ENGLISH" value="2883" />
+        <entry key="CHINESE" value="2884" />
+        <entry key="ENGLISH" value="2885" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
