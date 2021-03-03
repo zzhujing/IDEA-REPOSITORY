@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="how Much" />
+      <item value="Alive Lock Demo" />
       <item value="The abstract class {@link ApplicationListener} for {@link ApplicationContextEvent} guarantees just one-time execution and prevents the event propagation in the hierarchical {@link ApplicationContext ApplicationContexts}" />
       <item value="has Queued Predecessors" />
       <item value="Latch" />
@@ -54,13 +56,11 @@
       <item value="Matrix Variable" />
       <item value="containing Class" />
       <item value="Expose cause as provided argument as well" />
-      <item value="Controllers that are assignable to at least one of the given types will be advised by the {@code @ControllerAdvice} annotated class" />
-      <item value="ControllerAdvice} annotated class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2880" />
-        <entry key="ENGLISH" value="2881" />
+        <entry key="CHINESE" value="2882" />
+        <entry key="ENGLISH" value="2883" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
