@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="zero if acquisition in shared mode succeeded but no subsequent shared-mode acquire can succeed" />
       <item value="Release action for shared mode -- signals successor and ensures propagation" />
       <item value="Sets head of queue, and checks if successor may be waiting in shared mode, if so propagating if either propagate &gt; 0 or PROPAGATE status was set." />
       <item value="If successor needs signal, try to set pred's next-link so it will get one. Otherwise wake it up to propagate." />
@@ -55,12 +56,11 @@
       <item value="Effectively &quot;resumes&quot; processing with the asynchronously produced return value" />
       <item value="use Trailing Slash Match" />
       <item value="remove Semicolon Content" />
-      <item value="consumed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2896" />
-        <entry key="ENGLISH" value="2897" />
+        <entry key="CHINESE" value="2897" />
+        <entry key="ENGLISH" value="2898" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
