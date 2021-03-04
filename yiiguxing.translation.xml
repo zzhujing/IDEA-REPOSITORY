@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="predecessor" />
       <item value="racy" />
       <item value="possibly racy reads" />
       <item value="Returns a stamp that can later be validated, or zero if exclusively locked." />
@@ -55,12 +56,11 @@
       <item value="turns off" />
       <item value="A hook for extending or modifying the list of converters after it has been configured. This may be useful for example to allow default converters to be registered and then insert a custom converter through this method." />
       <item value="get Variable Name For Parameter" />
-      <item value="Content Negotiation Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2904" />
-        <entry key="ENGLISH" value="2905" />
+        <entry key="CHINESE" value="2905" />
+        <entry key="ENGLISH" value="2906" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
