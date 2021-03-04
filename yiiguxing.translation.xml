@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="升级&#10;" />
+      <item value="降级&#10;" />
       <item value="If the lock state matches the given stamp, atomically performs one of the following actions. If the stamp represents holding a write lock, returns it. Or, if a read lock, if the write lock is available, releases the read lock and returns a write stamp. Or, if an optimistic read, returns a write stamp only if immediately available." />
       <item value="atomically performs one of the following actions" />
       <item value="performs" />
@@ -54,8 +56,6 @@
       <item value="ability" />
       <item value="parts" />
       <item value="f Applicable" />
-      <item value="potentially" />
-      <item value="get Containing Class" />
     </histories>
     <option name="languageScores">
       <map>
