@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If the lock state matches the given stamp, atomically performs one of the following actions. If the stamp represents holding a write lock, returns it. Or, if a read lock, if the write lock is available, releases the read lock and returns a write stamp. Or, if an optimistic read, returns a write stamp only if immediately available." />
+      <item value="atomically performs one of the following actions" />
+      <item value="performs" />
       <item value="zero if acquisition in shared mode succeeded but no subsequent shared-mode acquire can succeed" />
       <item value="Release action for shared mode -- signals successor and ensures propagation" />
       <item value="Sets head of queue, and checks if successor may be waiting in shared mode, if so propagating if either propagate &gt; 0 or PROPAGATE status was set." />
@@ -53,14 +56,11 @@
       <item value="f Applicable" />
       <item value="potentially" />
       <item value="get Containing Class" />
-      <item value="Effectively &quot;resumes&quot; processing with the asynchronously produced return value" />
-      <item value="use Trailing Slash Match" />
-      <item value="remove Semicolon Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2897" />
-        <entry key="ENGLISH" value="2898" />
+        <entry key="CHINESE" value="2900" />
+        <entry key="ENGLISH" value="2901" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
