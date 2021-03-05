@@ -6,8 +6,9 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="successor" />
+      <item value="Removes and transfers nodes until hit non-cancelled one or null. Split out from signal in part to encourage compilers to inline the case of no waiters." />
       <item value="Returns true if a node, always one that was initially placed on a condition queue, is now waiting to reacquire on sync queue" />
+      <item value="successor" />
       <item value="is Held Exclusively" />
       <item value="set Head And Propagate" />
       <item value="Additionally, we must loop in case a new node is added while we are doing this." />
@@ -55,12 +56,11 @@
       <item value="Returns true if the current thread, when trying to acquire the read lock, and otherwise eligible to do so, should block because of policy for overtaking other waiting threads" />
       <item value="waitStatus value to indicate the next acquireShared should unconditionally propagate" />
       <item value="But under high contention, expected throughput of this class is significantly higher" />
-      <item value="how Much" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2928" />
-        <entry key="ENGLISH" value="2929" />
+        <entry key="CHINESE" value="2930" />
+        <entry key="ENGLISH" value="2931" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
