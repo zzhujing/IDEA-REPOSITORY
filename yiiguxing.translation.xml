@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Splice onto queue and try to set waitStatus of predecessor to indicate that thread is (probably) waiting. If cancelled or attempt to set waitStatus fails, wake up to resync (in which case the waitStatus can be transiently and harmlessly wrong)." />
+      <item value="Splice" />
       <item value="Removes and transfers nodes until hit non-cancelled one or null. Split out from signal in part to encourage compilers to inline the case of no waiters." />
       <item value="Returns true if a node, always one that was initially placed on a condition queue, is now waiting to reacquire on sync queue" />
       <item value="successor" />
@@ -54,13 +56,11 @@
       <item value="Walkthrough" />
       <item value="Reserved Stack Access" />
       <item value="Returns true if the current thread, when trying to acquire the read lock, and otherwise eligible to do so, should block because of policy for overtaking other waiting threads" />
-      <item value="waitStatus value to indicate the next acquireShared should unconditionally propagate" />
-      <item value="But under high contention, expected throughput of this class is significantly higher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2930" />
-        <entry key="ENGLISH" value="2931" />
+        <entry key="CHINESE" value="2932" />
+        <entry key="ENGLISH" value="2933" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
