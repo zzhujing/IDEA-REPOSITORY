@@ -6,6 +6,17 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ensure that a release propagates, even if there are other in-progress acquiresreleases. This proceeds in the usual way of trying to unparkSuccessor of head if it needs signal" />
+      <item value="propagates" />
+      <item value="signals successor and ensures propagation" />
+      <item value="Support for three different return values enables this method to be used in contexts where acquires only sometimes act exclusively" />
+      <item value="and a positive value if acquisition in shared mode succeeded and subsequent shared-mode acquires might also succeed" />
+      <item value="negative" />
+      <item value="but no subsequent shared-mode acquire can succeed" />
+      <item value="the acquire argument. This value is always the one passed to an acquire method, or is the value saved on entry to a condition wait. The value is otherwise uninterpreted and can represent anything you like" />
+      <item value="This method is always invoked by the thread performing acquire. If this method reports failure, the acquire method may queue the thread, if it is not already queued, until it is signalled by a release from some other thread." />
+      <item value="his method is always invoked by the thread p ire. If this method reports failure, the ac queue the thread, if it is not already queue alled by a release from some other thread." />
+      <item value="This method should query if the state of the object permits it to be acquired in the shared mode, and if so to acquire it." />
       <item value="approximate" />
       <item value="elapsed" />
       <item value="分隔符&#10;" />
@@ -45,22 +56,11 @@
       <item value="has Queued Predecessors" />
       <item value="Latch" />
       <item value="Count Down Latch" />
-      <item value="Interrupting a thread that is not alive need not have any effect" />
-      <item value="If none of the previous conditions hold then this thread's interrupt status will be set" />
-      <item value="relinquish" />
-      <item value="or until a certain amount of real time has elapsed." />
-      <item value="awakened" />
-      <item value="incorrectly" />
-      <item value="Once the requested media type has been determined, this resolver queries each delegate view resolver for a {@link View} and determines if the requested media type is {@linkplain MediaTypeincludes(MediaType) compatible} with the view's {@linkplain ViewgetContentType() content type}). The most compatible view is returned." />
-      <item value="though&#10;" />
-      <item value="&#10;though&#10;" />
-      <item value="Ωthough&#10;" />
-      <item value="through&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2911" />
-        <entry key="ENGLISH" value="2912" />
+        <entry key="CHINESE" value="2922" />
+        <entry key="ENGLISH" value="2923" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
