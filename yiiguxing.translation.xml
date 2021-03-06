@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can use {@link CandidateComponentsIndex the index} if it is available of scans the classpath otherwise" />
       <item value="Splice onto queue and try to set waitStatus of predecessor to indicate that thread is (probably) waiting. If cancelled or attempt to set waitStatus fails, wake up to resync (in which case the waitStatus can be transiently and harmlessly wrong)." />
       <item value="Splice" />
       <item value="Removes and transfers nodes until hit non-cancelled one or null. Split out from signal in part to encourage compilers to inline the case of no waiters." />
@@ -55,12 +56,11 @@
       <item value="saturate" />
       <item value="Walkthrough" />
       <item value="Reserved Stack Access" />
-      <item value="Returns true if the current thread, when trying to acquire the read lock, and otherwise eligible to do so, should block because of policy for overtaking other waiting threads" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2932" />
-        <entry key="ENGLISH" value="2933" />
+        <entry key="CHINESE" value="2933" />
+        <entry key="ENGLISH" value="2934" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614575776532" />
+    <option name="lastTrimTime" value="1615017601272" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
