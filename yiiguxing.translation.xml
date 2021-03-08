@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EXCLUSION" />
+      <item value="Independent" />
+      <item value="is Independent" />
+      <item value="consider" />
+      <item value="Considers" />
+      <item value="consider Inherited" />
       <item value="Can use {@link CandidateComponentsIndex the index} if it is available of scans the classpath otherwise" />
       <item value="Splice onto queue and try to set waitStatus of predecessor to indicate that thread is (probably) waiting. If cancelled or attempt to set waitStatus fails, wake up to resync (in which case the waitStatus can be transiently and harmlessly wrong)." />
       <item value="Splice" />
@@ -50,17 +56,11 @@
       <item value="If successor needs signal, try to set pred's next-link so it will get one. Otherwise wake it up to propagate." />
       <item value="Wakes up node's successor, if one exists." />
       <item value="predNext is the apparent node to unsplice. CASes below will fail if not, in which case, we lost race vs another cancel or signal, so no further action is necessary, although with a possibility that a cancelled node may transiently remain reachable." />
-      <item value="Otherwise" />
-      <item value="exclusive" />
-      <item value="Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
-      <item value="saturate" />
-      <item value="Walkthrough" />
-      <item value="Reserved Stack Access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2933" />
-        <entry key="ENGLISH" value="2934" />
+        <entry key="CHINESE" value="2939" />
+        <entry key="ENGLISH" value="2940" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
