@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Post-process the given merged bean definition for the specified bean." />
       <item value="Eager" />
       <item value="EXCLUSION" />
       <item value="Independent" />
@@ -55,12 +56,11 @@
       <item value="Release action for shared mode -- signals successor and ensures propagation" />
       <item value="Sets head of queue, and checks if successor may be waiting in shared mode, if so propagating if either propagate &gt; 0 or PROPAGATE status was set." />
       <item value="If successor needs signal, try to set pred's next-link so it will get one. Otherwise wake it up to propagate." />
-      <item value="Wakes up node's successor, if one exists." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2940" />
-        <entry key="ENGLISH" value="2941" />
+        <entry key="CHINESE" value="2941" />
+        <entry key="ENGLISH" value="2942" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
