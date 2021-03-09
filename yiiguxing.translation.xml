@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="587" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Exploded" />
+      <item value="Reset any cached handlers just in case a jar protocol has already been used. We reset the handler by trying to set a null {@link URLStreamHandlerFactory} which should have no effect other than clearing the handlers cache" />
       <item value="archives" />
       <item value="Utility that can be used to invoke lambdas in a safe way. Primarily designed to help support generically typed callbacks where {@link ClassCastException class cast exceptions} need to be dealt with due to class erasure." />
       <item value="is Candidate Class" />
@@ -54,13 +56,11 @@
       <item value="hypot" />
       <item value="升级&#10;" />
       <item value="降级&#10;" />
-      <item value="If the lock state matches the given stamp, atomically performs one of the following actions. If the stamp represents holding a write lock, returns it. Or, if a read lock, if the write lock is available, releases the read lock and returns a write stamp. Or, if an optimistic read, returns a write stamp only if immediately available." />
-      <item value="atomically performs one of the following actions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2946" />
-        <entry key="ENGLISH" value="2947" />
+        <entry key="CHINESE" value="2948" />
+        <entry key="ENGLISH" value="2949" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
