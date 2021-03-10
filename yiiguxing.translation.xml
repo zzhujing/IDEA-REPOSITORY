@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="453" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Note that this variant does not take attribute overrides into account.&#10;" />
       <item value="As a consequence, additional annotations of the specified annotationType will be ignored.&#10;" />
       <item value="in contrast to&#10;" />
       <item value="in cont" />
@@ -55,7 +56,6 @@
       <item value="and a positive value if acquisition in shared mode succeeded and subsequent shared-mode acquires might also succeed" />
       <item value="negative" />
       <item value="but no subsequent shared-mode acquire can succeed" />
-      <item value="the acquire argument. This value is always the one passed to an acquire method, or is the value saved on entry to a condition wait. The value is otherwise uninterpreted and can represent anything you like" />
     </histories>
     <option name="languageScores">
       <map>
