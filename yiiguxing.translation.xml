@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="453" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Produ" />
       <item value="The {@link Condition} should be evaluated when adding a regular (non {@code @Configuration}) bean. The condition will not prevent {@code @Configuration} classes from being added. &lt;p&gt;At the time that the condition is evaluated, all {@code @Configuration} classes will have been parsed." />
       <item value="prevent" />
       <item value="Note that this variant does not take attribute overrides into account.&#10;" />
@@ -55,7 +56,6 @@
       <item value="propagates" />
       <item value="signals successor and ensures propagation" />
       <item value="Support for three different return values enables this method to be used in contexts where acquires only sometimes act exclusively" />
-      <item value="and a positive value if acquisition in shared mode succeeded and subsequent shared-mode acquires might also succeed" />
     </histories>
     <option name="languageScores">
       <map>
