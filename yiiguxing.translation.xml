@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor&#10;" />
+      <item value="All public methods in this class that return annotations, arrays of annotations, or {@link AnnotationAttributes} transparently support attribute aliases configured via {@link AliasFor @AliasFor}. Consult the various {@code synthesizeAnnotation(..)} methods for details." />
+      <item value="For fine-grained support for meta-annotations with &lt;em&gt;attribute overrides&lt;em&gt; in &lt;em&gt;composed annotations&lt;em&gt;, consider using {@link AnnotatedElementUtils}'s more specific methods instead." />
+      <item value="Consult the javadoc for each method in this class for details." />
+      <item value="Terminology" />
       <item value="reorder" />
       <item value="ENCLOSING" />
       <item value="Find all directly declared annotations as well as any @Inherited superclass annotations. This strategy is only really useful when used with Class types since the @Inherited annotation is ignored for all other annotated elements. This strategy does not search implemented interfaces.&#10;" />
@@ -51,16 +56,11 @@
       <item value="This method should query if the state of the object permits it to be acquired in the shared mode, and if so to acquire it." />
       <item value="approximate" />
       <item value="elapsed" />
-      <item value="分隔符&#10;" />
-      <item value="协同&#10;" />
-      <item value="as well as" />
-      <item value="Used by condition wait methods as well as acquire" />
-      <item value="predecessor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2952" />
-        <entry key="ENGLISH" value="2953" />
+        <entry key="CHINESE" value="2956" />
+        <entry key="ENGLISH" value="2957" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
