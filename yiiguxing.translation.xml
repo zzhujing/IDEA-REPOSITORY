@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="389" />
+    <option name="newTranslationDialogHeight" value="390" />
     <option name="newTranslationDialogWidth" value="1028" />
     <option name="newTranslationDialogX" value="544" />
-    <option name="newTranslationDialogY" value="454" />
+    <option name="newTranslationDialogY" value="453" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="As a consequence, additional annotations of the specified annotationType will be ignored.&#10;" />
+      <item value="in contrast to&#10;" />
+      <item value="in cont" />
+      <item value="Ω" />
       <item value="and transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor.&#10;" />
       <item value="transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor&#10;" />
       <item value="All public methods in this class that return annotations, arrays of annotations, or {@link AnnotationAttributes} transparently support attribute aliases configured via {@link AliasFor @AliasFor}. Consult the various {@code synthesizeAnnotation(..)} methods for details." />
@@ -52,10 +56,6 @@
       <item value="negative" />
       <item value="but no subsequent shared-mode acquire can succeed" />
       <item value="the acquire argument. This value is always the one passed to an acquire method, or is the value saved on entry to a condition wait. The value is otherwise uninterpreted and can represent anything you like" />
-      <item value="This method is always invoked by the thread performing acquire. If this method reports failure, the acquire method may queue the thread, if it is not already queued, until it is signalled by a release from some other thread." />
-      <item value="his method is always invoked by the thread p ire. If this method reports failure, the ac queue the thread, if it is not already queue alled by a release from some other thread." />
-      <item value="This method should query if the state of the object permits it to be acquired in the shared mode, and if so to acquire it." />
-      <item value="approximate" />
     </histories>
     <option name="languageScores">
       <map>
