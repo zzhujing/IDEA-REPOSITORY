@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reorder" />
       <item value="ENCLOSING" />
       <item value="Find all directly declared annotations as well as any @Inherited superclass annotations. This strategy is only really useful when used with Class types since the @Inherited annotation is ignored for all other annotated elements. This strategy does not search implemented interfaces.&#10;" />
       <item value="is identical to" />
@@ -55,12 +56,11 @@
       <item value="as well as" />
       <item value="Used by condition wait methods as well as acquire" />
       <item value="predecessor" />
-      <item value="racy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2951" />
-        <entry key="ENGLISH" value="2952" />
+        <entry key="CHINESE" value="2952" />
+        <entry key="ENGLISH" value="2953" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
