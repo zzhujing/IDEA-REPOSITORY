@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="620" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="410" />
-    <option name="newTranslationDialogY" value="453" />
+    <option name="newTranslationDialogX" value="228" />
+    <option name="newTranslationDialogY" value="557" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Eager&#10;&#10;&#10;&#10;" />
+      <item value="EagerInit&#10;&#10;&#10;" />
+      <item value="allowEagerInit&#10;&#10;" />
+      <item value="allowEager&#10;Init&#10;" />
+      <item value="allowEargeInit&#10;" />
+      <item value="allowEa" />
       <item value="Return {@code true} if the specified class name was processed by the annotation processor." />
       <item value="DEFAULT EXCLUSION FILTER" />
       <item value="Interface used to group results from different import selectors.&#10;" />
@@ -50,12 +56,6 @@
       <item value="EXCLUSION" />
       <item value="Independent" />
       <item value="is Independent" />
-      <item value="consider" />
-      <item value="Considers" />
-      <item value="consider Inherited" />
-      <item value="Can use {@link CandidateComponentsIndex the index} if it is available of scans the classpath otherwise" />
-      <item value="Splice onto queue and try to set waitStatus of predecessor to indicate that thread is (probably) waiting. If cancelled or attempt to set waitStatus fails, wake up to resync (in which case the waitStatus can be transiently and harmlessly wrong)." />
-      <item value="Splice" />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615017601272" />
+    <option name="lastTrimTime" value="1615451827216" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
