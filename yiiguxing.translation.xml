@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="557" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A simple bootstrap context that is available during startup and Environment post-processing up to the point that the ApplicationContext is prepared.&#10;Provides lazy access to singletons that may be expensive to create, or need to be shared before the ApplicationContext is available.&#10;" />
+      <item value="Bootstrap Context" />
       <item value="provided" />
       <item value="Eager&#10;&#10;&#10;&#10;" />
       <item value="EagerInit&#10;&#10;&#10;" />
@@ -54,13 +56,11 @@
       <item value="ultimate Target Class" />
       <item value="Post-process the given merged bean definition for the specified bean." />
       <item value="Eager" />
-      <item value="EXCLUSION" />
-      <item value="Independent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2968" />
-        <entry key="ENGLISH" value="2969" />
+        <entry key="CHINESE" value="2969" />
+        <entry key="ENGLISH" value="2970" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
