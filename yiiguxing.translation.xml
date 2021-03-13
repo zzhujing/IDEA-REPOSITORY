@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="269" />
     <option name="newTranslationDialogY" value="458" />
     <histories>
+      <item value="liquibase" />
       <item value="ForPopur'se" />
       <item value="ForPopu" />
       <item value="ForPo" />
@@ -54,11 +55,10 @@
       <item value="Consult the javadoc for each method in this class for details." />
       <item value="Terminology" />
       <item value="reorder" />
-      <item value="ENCLOSING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2969" />
+        <entry key="CHINESE" value="2970" />
         <entry key="ENGLISH" value="2970" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -77,7 +77,7 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
       </map>
     </option>
   </component>
