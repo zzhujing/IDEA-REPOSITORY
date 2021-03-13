@@ -3,5 +3,6 @@
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Maven" shouldLog="false" />
     <notification groupId="Settings Error" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" />
   </component>
 </application>
