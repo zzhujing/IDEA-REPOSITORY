@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="620" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="210" />
-    <option name="newTranslationDialogY" value="394" />
+    <option name="newTranslationDialogX" value="267" />
+    <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="sensible&#10;" />
+      <item value="particular womon&#10;" />
+      <item value="particular&#10;" />
       <item value="Provides lazy access to singletons that may be expensive to create, or need to be shared before the ApplicationContext is available.&#10;" />
       <item value="liquibase" />
       <item value="ForPopur'se" />
@@ -52,9 +55,6 @@
       <item value="and transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor.&#10;" />
       <item value="transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor&#10;" />
       <item value="All public methods in this class that return annotations, arrays of annotations, or {@link AnnotationAttributes} transparently support attribute aliases configured via {@link AliasFor @AliasFor}. Consult the various {@code synthesizeAnnotation(..)} methods for details." />
-      <item value="For fine-grained support for meta-annotations with &lt;em&gt;attribute overrides&lt;em&gt; in &lt;em&gt;composed annotations&lt;em&gt;, consider using {@link AnnotatedElementUtils}'s more specific methods instead." />
-      <item value="Consult the javadoc for each method in this class for details." />
-      <item value="Terminology" />
     </histories>
     <option name="languageScores">
       <map>
