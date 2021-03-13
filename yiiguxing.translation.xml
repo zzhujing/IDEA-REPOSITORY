@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="620" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="269" />
-    <option name="newTranslationDialogY" value="458" />
+    <option name="newTranslationDialogX" value="210" />
+    <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Provides lazy access to singletons that may be expensive to create, or need to be shared before the ApplicationContext is available.&#10;" />
       <item value="liquibase" />
       <item value="ForPopur'se" />
       <item value="ForPopu" />
@@ -54,7 +55,6 @@
       <item value="For fine-grained support for meta-annotations with &lt;em&gt;attribute overrides&lt;em&gt; in &lt;em&gt;composed annotations&lt;em&gt;, consider using {@link AnnotatedElementUtils}'s more specific methods instead." />
       <item value="Consult the javadoc for each method in this class for details." />
       <item value="Terminology" />
-      <item value="reorder" />
     </histories>
     <option name="languageScores">
       <map>
