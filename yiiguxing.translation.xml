@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="267" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="lazylittle" />
       <item value="Deducer" />
       <item value="application Context" />
       <item value="班级&#10;" />
@@ -54,15 +55,16 @@
       <item value="Note that this variant does not take attribute overrides into account.&#10;" />
       <item value="As a consequence, additional annotations of the specified annotationType will be ignored.&#10;" />
       <item value="in contrast to&#10;" />
-      <item value="in cont" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2971" />
+        <entry key="CHINESE" value="2972" />
         <entry key="ENGLISH" value="2972" />
+        <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
+        <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="14" />
