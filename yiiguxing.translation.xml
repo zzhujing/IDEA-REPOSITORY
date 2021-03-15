@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="267" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="application Context" />
       <item value="班级&#10;" />
       <item value="sensible&#10;" />
       <item value="particular womon&#10;" />
@@ -54,12 +55,11 @@
       <item value="in contrast to&#10;" />
       <item value="in cont" />
       <item value="and transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor.&#10;" />
-      <item value="transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2970" />
-        <entry key="ENGLISH" value="2970" />
+        <entry key="ENGLISH" value="2971" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
