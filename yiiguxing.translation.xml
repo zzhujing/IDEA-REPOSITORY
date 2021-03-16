@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="620" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="267" />
-    <option name="newTranslationDialogY" value="414" />
+    <option name="newTranslationDialogX" value="361" />
+    <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="sausage&#10;" />
+      <item value="sau" />
       <item value="lazylittle" />
       <item value="Deducer" />
       <item value="application Context" />
@@ -53,8 +55,6 @@
       <item value="The {@link Condition} should be evaluated when adding a regular (non {@code @Configuration}) bean. The condition will not prevent {@code @Configuration} classes from being added. &lt;p&gt;At the time that the condition is evaluated, all {@code @Configuration} classes will have been parsed." />
       <item value="prevent" />
       <item value="Note that this variant does not take attribute overrides into account.&#10;" />
-      <item value="As a consequence, additional annotations of the specified annotationType will be ignored.&#10;" />
-      <item value="in contrast to&#10;" />
     </histories>
     <option name="languageScores">
       <map>
