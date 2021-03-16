@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="shippingType&#10;" />
+      <item value="shipping&#10;" />
       <item value="sausage&#10;" />
       <item value="sau" />
       <item value="lazylittle" />
@@ -53,8 +55,6 @@
       <item value="EQUAL OR NEWER" />
       <item value="Produ" />
       <item value="The {@link Condition} should be evaluated when adding a regular (non {@code @Configuration}) bean. The condition will not prevent {@code @Configuration} classes from being added. &lt;p&gt;At the time that the condition is evaluated, all {@code @Configuration} classes will have been parsed." />
-      <item value="prevent" />
-      <item value="Note that this variant does not take attribute overrides into account.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
