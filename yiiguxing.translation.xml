@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="gap&#10;" />
+      <item value="Ω" />
       <item value="shippingType&#10;" />
       <item value="shipping&#10;" />
       <item value="sausage&#10;" />
@@ -22,7 +24,6 @@
       <item value="ForPopu" />
       <item value="ForPo" />
       <item value="For" />
-      <item value="Ω" />
       <item value="故意的&#10;" />
       <item value="po'purse" />
       <item value="popu" />
@@ -54,7 +55,6 @@
       <item value="plural" />
       <item value="EQUAL OR NEWER" />
       <item value="Produ" />
-      <item value="The {@link Condition} should be evaluated when adding a regular (non {@code @Configuration}) bean. The condition will not prevent {@code @Configuration} classes from being added. &lt;p&gt;At the time that the condition is evaluated, all {@code @Configuration} classes will have been parsed." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615451827216" />
+    <option name="lastTrimTime" value="1615907129577" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
