@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="aggregates" />
       <item value="gap&#10;" />
       <item value="Ω" />
       <item value="shippingType&#10;" />
@@ -54,12 +55,11 @@
       <item value="singular" />
       <item value="plural" />
       <item value="EQUAL OR NEWER" />
-      <item value="Produ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2972" />
-        <entry key="ENGLISH" value="2972" />
+        <entry key="ENGLISH" value="2973" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
