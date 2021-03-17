@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="Deferred Log Factory" />
       <item value="Annotations are considered both on the bean itself, as well as any factory method" />
       <item value="considered" />
       <item value="contains No Descendant Of" />
@@ -54,12 +55,11 @@
       <item value="retain All" />
       <item value="Hint for that an auto-configuration should be applied after other specified auto-configuration classes.&#10;" />
       <item value="identifying matching beans" />
-      <item value="ancestors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2975" />
-        <entry key="ENGLISH" value="2976" />
+        <entry key="CHINESE" value="2976" />
+        <entry key="ENGLISH" value="2977" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
