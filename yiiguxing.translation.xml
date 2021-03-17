@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="with Legacy Profiles" />
       <item value="legacy" />
       <item value="Deferred Log Factory" />
       <item value="Annotations are considered both on the bean itself, as well as any factory method" />
@@ -54,7 +55,6 @@
       <item value="Interface used to group results from different import selectors.&#10;" />
       <item value="Group" />
       <item value="retain All" />
-      <item value="Hint for that an auto-configuration should be applied after other specified auto-configuration classes.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
