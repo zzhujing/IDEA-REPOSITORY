@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="客服&#10;" />
       <item value="gauge" />
       <item value="Abstract Health Indicator" />
       <item value="describing" />
@@ -54,7 +55,6 @@
       <item value="allowEargeInit&#10;" />
       <item value="allowEa" />
       <item value="Return {@code true} if the specified class name was processed by the annotation processor." />
-      <item value="DEFAULT EXCLUSION FILTER" />
     </histories>
     <option name="languageScores">
       <map>
