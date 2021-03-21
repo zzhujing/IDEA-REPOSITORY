@@ -5,8 +5,14 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
-      <item value="related&#10;" />
+      <item value="convention&#10;" />
+      <item value="conventional&#10;" />
+      <item value="conven" />
+      <item value="conventional&#10;locations&#10;" />
+      <item value="encryption&#10;" />
+      <item value="en" />
       <item value="Ω" />
+      <item value="related&#10;" />
       <item value="remaining&#10;" />
       <item value="剩余的&#10;" />
       <item value="re" />
@@ -49,12 +55,6 @@
       <item value="lazylittle" />
       <item value="Deducer" />
       <item value="application Context" />
-      <item value="班级&#10;" />
-      <item value="sensible&#10;" />
-      <item value="particular womon&#10;" />
-      <item value="particular&#10;" />
-      <item value="Provides lazy access to singletons that may be expensive to create, or need to be shared before the ApplicationContext is available.&#10;" />
-      <item value="liquibase" />
     </histories>
     <option name="languageScores">
       <map>
