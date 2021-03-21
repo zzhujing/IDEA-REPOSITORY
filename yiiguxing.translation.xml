@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="related&#10;" />
+      <item value="Ω" />
+      <item value="remaining&#10;" />
+      <item value="剩余的&#10;" />
+      <item value="re" />
+      <item value="reman" />
+      <item value="rem" />
+      <item value="剩余&#10;" />
       <item value="负数&#10;" />
       <item value="正数&#10;" />
       <item value="zheng'shu" />
@@ -34,7 +42,6 @@
       <item value="contains No Descendant Of" />
       <item value="aggregates" />
       <item value="gap&#10;" />
-      <item value="Ω" />
       <item value="shippingType&#10;" />
       <item value="shipping&#10;" />
       <item value="sausage&#10;" />
@@ -48,13 +55,6 @@
       <item value="particular&#10;" />
       <item value="Provides lazy access to singletons that may be expensive to create, or need to be shared before the ApplicationContext is available.&#10;" />
       <item value="liquibase" />
-      <item value="ForPopur'se" />
-      <item value="ForPopu" />
-      <item value="ForPo" />
-      <item value="For" />
-      <item value="故意的&#10;" />
-      <item value="po'purse" />
-      <item value="popu" />
     </histories>
     <option name="languageScores">
       <map>
