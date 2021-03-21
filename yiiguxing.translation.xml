@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="467" />
     <histories>
+      <item value="that affect global static state" />
+      <item value="and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off" />
+      <item value="that affect global static state, so we need a way to switch those off." />
+      <item value="toxic" />
+      <item value="gh_425: SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
+      <item value="is it possible or sensible to share a ResourceLoader" />
       <item value="convention&#10;" />
       <item value="conventional&#10;" />
       <item value="conven" />
@@ -49,17 +55,11 @@
       <item value="aggregates" />
       <item value="gap&#10;" />
       <item value="shippingType&#10;" />
-      <item value="shipping&#10;" />
-      <item value="sausage&#10;" />
-      <item value="sau" />
-      <item value="lazylittle" />
-      <item value="Deducer" />
-      <item value="application Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2984" />
-        <entry key="ENGLISH" value="2985" />
+        <entry key="CHINESE" value="2990" />
+        <entry key="ENGLISH" value="2991" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615907129577" />
+    <option name="lastTrimTime" value="1616344526284" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
