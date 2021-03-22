@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="incr Specify Column Count" />
+      <item value="指定的&#10;" />
+      <item value="指定&#10;" />
       <item value="Note That" />
       <item value="笔记&#10;" />
       <item value="Node" />
@@ -52,14 +55,11 @@
       <item value="describing" />
       <item value="with Legacy Profiles" />
       <item value="legacy" />
-      <item value="Deferred Log Factory" />
-      <item value="Annotations are considered both on the bean itself, as well as any factory method" />
-      <item value="considered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2993" />
-        <entry key="ENGLISH" value="2994" />
+        <entry key="CHINESE" value="2994" />
+        <entry key="ENGLISH" value="2995" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
