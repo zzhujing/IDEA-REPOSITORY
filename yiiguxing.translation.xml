@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="retrieve" />
       <item value="Logging will go dark until the ConfigFileApplicationListener fires" />
       <item value="incr Specify Column Count" />
       <item value="指定的&#10;" />
@@ -54,12 +55,11 @@
       <item value="gauge" />
       <item value="Abstract Health Indicator" />
       <item value="describing" />
-      <item value="with Legacy Profiles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2995" />
-        <entry key="ENGLISH" value="2996" />
+        <entry key="CHINESE" value="2996" />
+        <entry key="ENGLISH" value="2997" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
