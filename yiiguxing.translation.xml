@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="手动&#10;" />
+      <item value="打标签&#10;" />
       <item value="retrieve" />
       <item value="Logging will go dark until the ConfigFileApplicationListener fires" />
       <item value="incr Specify Column Count" />
@@ -53,8 +55,6 @@
       <item value="retain All" />
       <item value="客服&#10;" />
       <item value="gauge" />
-      <item value="Abstract Health Indicator" />
-      <item value="describing" />
     </histories>
     <option name="languageScores">
       <map>
