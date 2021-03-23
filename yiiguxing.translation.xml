@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="361" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="A successful invocation with no exception thrown implies the client is able to make calls" />
+      <item value="probe" />
       <item value="手动&#10;" />
       <item value="打标签&#10;" />
       <item value="retrieve" />
@@ -53,13 +55,11 @@
       <item value="oh my gosh&#10;" />
       <item value="etains only the elements in this list that are contained in the specified collection (optional operation)" />
       <item value="retain All" />
-      <item value="客服&#10;" />
-      <item value="gauge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2996" />
-        <entry key="ENGLISH" value="2997" />
+        <entry key="CHINESE" value="2998" />
+        <entry key="ENGLISH" value="2999" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
