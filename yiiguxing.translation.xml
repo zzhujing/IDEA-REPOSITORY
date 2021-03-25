@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="671" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="361" />
-    <option name="newTranslationDialogY" value="416" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="379" />
     <histories>
+      <item value="Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation&#10;" />
       <item value="A successful invocation with no exception thrown implies the client is able to make calls" />
       <item value="probe" />
       <item value="手动&#10;" />
@@ -54,7 +55,6 @@
       <item value="主动&#10;" />
       <item value="oh my gosh&#10;" />
       <item value="etains only the elements in this list that are contained in the specified collection (optional operation)" />
-      <item value="retain All" />
     </histories>
     <option name="languageScores">
       <map>
