@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="379" />
     <histories>
+      <item value="Linked Case Insensitive Map" />
       <item value="Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation&#10;" />
       <item value="A successful invocation with no exception thrown implies the client is able to make calls" />
       <item value="probe" />
@@ -54,12 +55,11 @@
       <item value="主动删除&#10;" />
       <item value="主动&#10;" />
       <item value="oh my gosh&#10;" />
-      <item value="etains only the elements in this list that are contained in the specified collection (optional operation)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2998" />
-        <entry key="ENGLISH" value="2999" />
+        <entry key="CHINESE" value="2999" />
+        <entry key="ENGLISH" value="3000" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
