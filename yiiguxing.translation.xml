@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="379" />
     <histories>
+      <item value="Fetch Wx Cp Customer Contact Info Job" />
       <item value="get If Available" />
       <item value="hints" />
       <item value="Allows setting the value of &lt;code&gt;hint&lt;code&gt; that is passed on to the LoadBalancer request and can subsequently be used in {@link ReactiveLoadBalancer} implementations." />
@@ -54,12 +55,11 @@
       <item value="positive&#10;" />
       <item value="反面&#10;" />
       <item value="正面&#10;" />
-      <item value="被动删除&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3002" />
-        <entry key="ENGLISH" value="3003" />
+        <entry key="CHINESE" value="3003" />
+        <entry key="ENGLISH" value="3004" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
