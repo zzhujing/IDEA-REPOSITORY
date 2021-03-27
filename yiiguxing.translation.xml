@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="379" />
     <histories>
+      <item value="Ported from" />
+      <item value="Specifications" />
       <item value="Fetch Wx Cp Customer Contact Info Job" />
       <item value="get If Available" />
       <item value="hints" />
@@ -53,13 +55,11 @@
       <item value="消极&#10;" />
       <item value="消极的&#10;" />
       <item value="positive&#10;" />
-      <item value="反面&#10;" />
-      <item value="正面&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3003" />
-        <entry key="ENGLISH" value="3004" />
+        <entry key="CHINESE" value="3005" />
+        <entry key="ENGLISH" value="3006" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616344526284" />
+    <option name="lastTrimTime" value="1616859704419" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
