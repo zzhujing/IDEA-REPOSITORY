@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="709" />
     <option name="newTranslationDialogY" value="716" />
     <histories>
+      <item value="expand" />
       <item value="intended to&#10;" />
       <item value="intend&#10;" />
       <item value="inten" />
@@ -54,12 +55,11 @@
       <item value="负数&#10;" />
       <item value="正数&#10;" />
       <item value="zheng'shu" />
-      <item value="证书&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3007" />
-        <entry key="ENGLISH" value="3008" />
+        <entry key="CHINESE" value="3008" />
+        <entry key="ENGLISH" value="3009" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
