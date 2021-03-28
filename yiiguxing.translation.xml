@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="671" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="170" />
-    <option name="newTranslationDialogY" value="379" />
+    <option name="newTranslationDialogX" value="709" />
+    <option name="newTranslationDialogY" value="716" />
     <histories>
+      <item value="intended to&#10;" />
+      <item value="intend&#10;" />
+      <item value="inten" />
       <item value="get Reachable Servers" />
       <item value="maintenance" />
       <item value="Ported from" />
@@ -52,9 +55,6 @@
       <item value="正数&#10;" />
       <item value="zheng'shu" />
       <item value="证书&#10;" />
-      <item value="NEGATIVE" />
-      <item value="POSITIVE" />
-      <item value="消极&#10;" />
     </histories>
     <option name="languageScores">
       <map>
