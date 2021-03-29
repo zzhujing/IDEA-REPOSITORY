@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="671" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="709" />
-    <option name="newTranslationDialogY" value="716" />
+    <option name="newTranslationDialogX" value="319" />
+    <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class." />
+      <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class.&#10;" />
+      <item value="is Independent" />
       <item value="expand" />
       <item value="intended to&#10;" />
       <item value="intend&#10;" />
@@ -52,14 +55,11 @@
       <item value="reman" />
       <item value="rem" />
       <item value="剩余&#10;" />
-      <item value="负数&#10;" />
-      <item value="正数&#10;" />
-      <item value="zheng'shu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3008" />
-        <entry key="ENGLISH" value="3009" />
+        <entry key="CHINESE" value="3010" />
+        <entry key="ENGLISH" value="3011" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
