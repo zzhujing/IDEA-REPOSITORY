@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="319" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="标记&#10;" />
       <item value="市&#10;" />
       <item value="shi" />
       <item value="地域&#10;" />
@@ -54,7 +55,6 @@
       <item value="conventional&#10;locations&#10;" />
       <item value="encryption&#10;" />
       <item value="en" />
-      <item value="Ω" />
     </histories>
     <option name="languageScores">
       <map>
