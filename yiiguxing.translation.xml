@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="319" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="地域&#10;" />
+      <item value="USER AREA" />
+      <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces" />
       <item value="Thread starvation or clock leap detected" />
       <item value="whether 404s should be decoded instead of throwing FeignExceptions" />
       <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class." />
@@ -52,14 +55,11 @@
       <item value="Ω" />
       <item value="related&#10;" />
       <item value="remaining&#10;" />
-      <item value="剩余的&#10;" />
-      <item value="re" />
-      <item value="reman" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3012" />
-        <entry key="ENGLISH" value="3013" />
+        <entry key="CHINESE" value="3014" />
+        <entry key="ENGLISH" value="3015" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
