@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="319" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="enrich" />
       <item value="reserve" />
       <item value="如果必要的话&#10;" />
       <item value="Ness" />
@@ -54,12 +55,11 @@
       <item value="that affect global static state, so we need a way to switch those off." />
       <item value="toxic" />
       <item value="gh_425: SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
-      <item value="is it possible or sensible to share a ResourceLoader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3018" />
-        <entry key="ENGLISH" value="3019" />
+        <entry key="CHINESE" value="3019" />
+        <entry key="ENGLISH" value="3020" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
