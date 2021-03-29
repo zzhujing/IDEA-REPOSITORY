@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="319" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="如果必要的话&#10;" />
+      <item value="Ness" />
+      <item value="If Nessary" />
+      <item value="do Save Batch If Nessary" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax" />
       <item value="标记&#10;" />
       <item value="市&#10;" />
       <item value="shi" />
@@ -50,16 +55,11 @@
       <item value="gh_425: SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
       <item value="is it possible or sensible to share a ResourceLoader" />
       <item value="convention&#10;" />
-      <item value="conventional&#10;" />
-      <item value="conven" />
-      <item value="conventional&#10;locations&#10;" />
-      <item value="encryption&#10;" />
-      <item value="en" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3014" />
-        <entry key="ENGLISH" value="3015" />
+        <entry key="CHINESE" value="3017" />
+        <entry key="ENGLISH" value="3018" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
