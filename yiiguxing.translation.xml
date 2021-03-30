@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="319" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="灰度发布&#10;" />
+      <item value="灰度&#10;" />
       <item value="s" />
       <item value="Base Contract" />
       <item value="enrich" />
@@ -53,8 +55,6 @@
       <item value="Node" />
       <item value="Node That" />
       <item value="that affect global static state" />
-      <item value="and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off" />
-      <item value="that affect global static state, so we need a way to switch those off." />
     </histories>
     <option name="languageScores">
       <map>
