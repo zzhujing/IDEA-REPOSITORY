@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="319" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="restrict" />
       <item value="灰度发布&#10;" />
       <item value="灰度&#10;" />
       <item value="s" />
@@ -54,12 +55,11 @@
       <item value="笔记&#10;" />
       <item value="Node" />
       <item value="Node That" />
-      <item value="that affect global static state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3020" />
-        <entry key="ENGLISH" value="3021" />
+        <entry key="CHINESE" value="3021" />
+        <entry key="ENGLISH" value="3022" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
