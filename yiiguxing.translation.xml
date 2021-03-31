@@ -2,9 +2,46 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="671" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="361" />
-    <option name="newTranslationDialogY" value="416" />
+    <option name="newTranslationDialogX" value="319" />
+    <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="restrict" />
+      <item value="灰度发布&#10;" />
+      <item value="灰度&#10;" />
+      <item value="s" />
+      <item value="Base Contract" />
+      <item value="enrich" />
+      <item value="reserve" />
+      <item value="如果必要的话&#10;" />
+      <item value="Ness" />
+      <item value="If Nessary" />
+      <item value="do Save Batch If Nessary" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax" />
+      <item value="标记&#10;" />
+      <item value="市&#10;" />
+      <item value="shi" />
+      <item value="地域&#10;" />
+      <item value="USER AREA" />
+      <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces" />
+      <item value="Thread starvation or clock leap detected" />
+      <item value="whether 404s should be decoded instead of throwing FeignExceptions" />
+      <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class." />
+      <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class.&#10;" />
+      <item value="is Independent" />
+      <item value="expand" />
+      <item value="intended to&#10;" />
+      <item value="intend&#10;" />
+      <item value="inten" />
+      <item value="get Reachable Servers" />
+      <item value="maintenance" />
+      <item value="Ported from" />
+      <item value="Specifications" />
+      <item value="Fetch Wx Cp Customer Contact Info Job" />
+      <item value="get If Available" />
+      <item value="hints" />
+      <item value="Allows setting the value of &lt;code&gt;hint&lt;code&gt; that is passed on to the LoadBalancer request and can subsequently be used in {@link ReactiveLoadBalancer} implementations." />
+      <item value="Linked Case Insensitive Map" />
+      <item value="Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation&#10;" />
       <item value="A successful invocation with no exception thrown implies the client is able to make calls" />
       <item value="probe" />
       <item value="手动&#10;" />
@@ -18,48 +55,11 @@
       <item value="笔记&#10;" />
       <item value="Node" />
       <item value="Node That" />
-      <item value="that affect global static state" />
-      <item value="and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off" />
-      <item value="that affect global static state, so we need a way to switch those off." />
-      <item value="toxic" />
-      <item value="gh_425: SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
-      <item value="is it possible or sensible to share a ResourceLoader" />
-      <item value="convention&#10;" />
-      <item value="conventional&#10;" />
-      <item value="conven" />
-      <item value="conventional&#10;locations&#10;" />
-      <item value="encryption&#10;" />
-      <item value="en" />
-      <item value="Ω" />
-      <item value="related&#10;" />
-      <item value="remaining&#10;" />
-      <item value="剩余的&#10;" />
-      <item value="re" />
-      <item value="reman" />
-      <item value="rem" />
-      <item value="剩余&#10;" />
-      <item value="负数&#10;" />
-      <item value="正数&#10;" />
-      <item value="zheng'shu" />
-      <item value="证书&#10;" />
-      <item value="NEGATIVE" />
-      <item value="POSITIVE" />
-      <item value="消极&#10;" />
-      <item value="消极的&#10;" />
-      <item value="positive&#10;" />
-      <item value="反面&#10;" />
-      <item value="正面&#10;" />
-      <item value="被动删除&#10;" />
-      <item value="主动删除&#10;" />
-      <item value="主动&#10;" />
-      <item value="oh my gosh&#10;" />
-      <item value="etains only the elements in this list that are contained in the specified collection (optional operation)" />
-      <item value="retain All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2998" />
-        <entry key="ENGLISH" value="2999" />
+        <entry key="CHINESE" value="3021" />
+        <entry key="ENGLISH" value="3022" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616344526284" />
+    <option name="lastTrimTime" value="1616859704419" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
