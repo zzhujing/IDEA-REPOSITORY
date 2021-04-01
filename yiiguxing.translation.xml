@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="671" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="319" />
-    <option name="newTranslationDialogY" value="417" />
+    <option name="newTranslationDialogX" value="374" />
+    <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="This presently allows for removing the corresponding object from the scope, seamlessly creating a new instance in the scope on next access.&#10;" />
+      <item value="transla" />
       <item value="restrict" />
       <item value="灰度发布&#10;" />
       <item value="灰度&#10;" />
@@ -53,8 +55,6 @@
       <item value="指定&#10;" />
       <item value="Note That" />
       <item value="笔记&#10;" />
-      <item value="Node" />
-      <item value="Node That" />
     </histories>
     <option name="languageScores">
       <map>
