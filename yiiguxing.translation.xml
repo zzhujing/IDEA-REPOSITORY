@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="length Adjustment" />
       <item value="Add an introduction that implements only the methods on ScopedObject." />
       <item value="introduction" />
       <item value="scoped" />
@@ -54,12 +55,11 @@
       <item value="retrieve" />
       <item value="Logging will go dark until the ConfigFileApplicationListener fires" />
       <item value="incr Specify Column Count" />
-      <item value="指定的&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3024" />
-        <entry key="ENGLISH" value="3025" />
+        <entry key="CHINESE" value="3025" />
+        <entry key="ENGLISH" value="3026" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
