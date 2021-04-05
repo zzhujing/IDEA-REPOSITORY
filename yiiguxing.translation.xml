@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="Legacy Context Refresher" />
+      <item value="supersedes&#10;" />
+      <item value="For full introspection of generic event types, consider implementing the GenericApplicationListener interface instead.&#10;" />
+      <item value="introspection&#10;&#10;" />
+      <item value="introspect&#10;" />
+      <item value="itnrospect&#10;" />
       <item value="length Adjustment" />
       <item value="Add an introduction that implements only the methods on ScopedObject." />
       <item value="introduction" />
@@ -49,17 +55,11 @@
       <item value="Linked Case Insensitive Map" />
       <item value="Please change caller according to com.intellij.openapi.project.IndexNotReadyException documentation&#10;" />
       <item value="A successful invocation with no exception thrown implies the client is able to make calls" />
-      <item value="probe" />
-      <item value="手动&#10;" />
-      <item value="打标签&#10;" />
-      <item value="retrieve" />
-      <item value="Logging will go dark until the ConfigFileApplicationListener fires" />
-      <item value="incr Specify Column Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3025" />
-        <entry key="ENGLISH" value="3026" />
+        <entry key="CHINESE" value="3026" />
+        <entry key="ENGLISH" value="3027" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
