@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="is Valid Url" />
       <item value="Set to false to prevent users from changing the default accidentally" />
       <item value="Ω" />
       <item value="accidentally" />
@@ -54,12 +55,11 @@
       <item value="inten" />
       <item value="get Reachable Servers" />
       <item value="maintenance" />
-      <item value="Ported from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3033" />
-        <entry key="ENGLISH" value="3034" />
+        <entry key="CHINESE" value="3034" />
+        <entry key="ENGLISH" value="3035" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
