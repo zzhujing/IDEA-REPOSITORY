@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="Set to false to prevent users from changing the default accidentally" />
+      <item value="Ω" />
+      <item value="accidentally" />
+      <item value="Wherever we call addLast we can use the order in the List since the first item will end up before the rest" />
       <item value="Just the listeners that affect the environment" />
       <item value="captured" />
       <item value="captured Property Sources" />
@@ -51,15 +55,11 @@
       <item value="get Reachable Servers" />
       <item value="maintenance" />
       <item value="Ported from" />
-      <item value="Specifications" />
-      <item value="Fetch Wx Cp Customer Contact Info Job" />
-      <item value="get If Available" />
-      <item value="hints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3030" />
-        <entry key="ENGLISH" value="3031" />
+        <entry key="CHINESE" value="3033" />
+        <entry key="ENGLISH" value="3034" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
