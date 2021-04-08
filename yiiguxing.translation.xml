@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="Let's give another twist to the previous example. The only difference from the previous example is that the length field represents the length of the whole message instead of the message body, just like the third example. We have to count the length of HDR1 and Length into &lt;tt&gt;lengthAdjustment&lt;tt&gt;. Please note that we don't need to take the length of HDR2 into account because the length field already includes the whole header length" />
+      <item value="twist" />
+      <item value="In most cases, the length field represents the length of the message body only, as shown in the previous examples. However, in some protocols, the length field represents the length of the whole message, including the message header. In such a case, we specify a non-zero &lt;tt&gt;lengthAdjustment&lt;tt&gt;. Because the length value in this example message is always greater than the body length by &lt;tt&gt;2&lt;tt&gt;, we specify &lt;tt&gt;-2&lt;tt&gt; as &lt;tt&gt;lengthAdjustment&lt;tt&gt; for compensation." />
       <item value="Reached" />
       <item value="failure Threshold" />
       <item value="failure Threshold Reached" />
@@ -52,14 +55,11 @@
       <item value="市&#10;" />
       <item value="shi" />
       <item value="地域&#10;" />
-      <item value="USER AREA" />
-      <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces" />
-      <item value="Thread starvation or clock leap detected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3044" />
-        <entry key="ENGLISH" value="3045" />
+        <entry key="CHINESE" value="3047" />
+        <entry key="ENGLISH" value="3048" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
