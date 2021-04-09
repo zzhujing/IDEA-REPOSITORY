@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="dagrade" />
       <item value="Unsatisfied" />
       <item value="stat Interval Ms" />
       <item value="DEGRADE GRADE RT" />
@@ -54,7 +55,6 @@
       <item value="如果必要的话&#10;" />
       <item value="Ness" />
       <item value="If Nessary" />
-      <item value="do Save Batch If Nessary" />
     </histories>
     <option name="languageScores">
       <map>
