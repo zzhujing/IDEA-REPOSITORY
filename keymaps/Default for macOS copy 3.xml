@@ -24,6 +24,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
