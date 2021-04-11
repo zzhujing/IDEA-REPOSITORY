@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="374" />
     <option name="newTranslationDialogY" value="584" />
     <histories>
+      <item value="Collapser" />
       <item value="Hystrix Bad Request Exception" />
       <item value="期望的&#10;" />
       <item value="uncapitalize" />
@@ -54,7 +55,6 @@
       <item value="s" />
       <item value="Base Contract" />
       <item value="enrich" />
-      <item value="reserve" />
     </histories>
     <option name="languageScores">
       <map>
