@@ -56,4 +56,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="sleep" value="Uninterruptibles.sleepUninterruptibly($DELAY_TIME$, TimeUnit.$END$);" description="Guava Uninterruptibles Utils" toReformat="false" toShortenFQNames="true">
+    <variable name="DELAY_TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
