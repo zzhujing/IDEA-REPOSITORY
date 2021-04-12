@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="691" />
     <histories>
+      <item value="to Epoch Milli" />
       <item value="高可用&#10;高性能&#10;高可扩展&#10;" />
       <item value="高可用&#10;高性能&#10;" />
       <item value="高可用&#10;" />
@@ -54,11 +55,10 @@
       <item value="introspection&#10;&#10;" />
       <item value="introspect&#10;" />
       <item value="itnrospect&#10;" />
-      <item value="length Adjustment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3054" />
+        <entry key="CHINESE" value="3055" />
         <entry key="ENGLISH" value="3055" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617726373124" />
+    <option name="lastTrimTime" value="1618193138723" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
