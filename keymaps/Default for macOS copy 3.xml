@@ -41,6 +41,10 @@
     <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.NavigateAction" />
