@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="691" />
     <histories>
+      <item value="Intergration&#10;" />
       <item value="范围&#10;" />
       <item value="Sys District" />
       <item value="to Epoch Milli" />
@@ -54,7 +55,6 @@
       <item value="Legacy Context Refresher" />
       <item value="supersedes&#10;" />
       <item value="For full introspection of generic event types, consider implementing the GenericApplicationListener interface instead.&#10;" />
-      <item value="introspection&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
