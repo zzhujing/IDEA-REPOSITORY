@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="out of date data received" />
       <item value="is Independent" />
       <item value="Correlation Strategy" />
       <item value="Declarative Layers" />
@@ -54,12 +55,11 @@
       <item value="Hystrix has been removed from Spring Cloud Netflix and it was the only implementation using this annotation" />
       <item value="tenant" />
       <item value="get Failover File" />
-      <item value="add Tenant Listeners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3061" />
-        <entry key="ENGLISH" value="3062" />
+        <entry key="CHINESE" value="3062" />
+        <entry key="ENGLISH" value="3063" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
