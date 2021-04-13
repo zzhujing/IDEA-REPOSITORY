@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="529" />
     <option name="newTranslationDialogY" value="691" />
     <histories>
+      <item value="invasive&#10;" />
+      <item value="invais" />
       <item value="Intergration&#10;" />
       <item value="范围&#10;" />
       <item value="Sys District" />
@@ -53,8 +55,6 @@
       <item value="captured Property Sources" />
       <item value="Backwards compatible" />
       <item value="Legacy Context Refresher" />
-      <item value="supersedes&#10;" />
-      <item value="For full introspection of generic event types, consider implementing the GenericApplicationListener interface instead.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
