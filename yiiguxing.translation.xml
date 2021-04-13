@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="Declarative Layers" />
+      <item value="Declaresive Layers" />
       <item value="adjust Counter If Necessary" />
       <item value="Rendezvous Channel" />
       <item value="since..if..&#10;" />
@@ -53,13 +55,11 @@
       <item value="add Tenant Listeners" />
       <item value="changes during the initialization of the current context are reflected" />
       <item value="reflected" />
-      <item value="is Valid Url" />
-      <item value="Set to false to prevent users from changing the default accidentally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3057" />
-        <entry key="ENGLISH" value="3058" />
+        <entry key="CHINESE" value="3059" />
+        <entry key="ENGLISH" value="3060" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
