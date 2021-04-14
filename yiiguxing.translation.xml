@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="641" />
     <histories>
+      <item value="最后&#10;" />
+      <item value="untimate&#10;" />
+      <item value="un'ti'ma" />
+      <item value="u" />
+      <item value="最终的&#10;" />
+      <item value="untima" />
       <item value="trend&#10;" />
       <item value="is recommend to use in the scenario of actively pulling messages." />
       <item value="SUSPEND CURRENT QUEUE A_MOMENT" />
@@ -49,12 +55,6 @@
       <item value="stat Interval Ms" />
       <item value="DEGRADE GRADE RT" />
       <item value="Degrade Rule" />
-      <item value="opaque" />
-      <item value="Let's give another twist to the previous example. The only difference from the previous example is that the length field represents the length of the whole message instead of the message body, just like the third example. We have to count the length of HDR1 and Length into &lt;tt&gt;lengthAdjustment&lt;tt&gt;. Please note that we don't need to take the length of HDR2 into account because the length field already includes the whole header length" />
-      <item value="twist" />
-      <item value="In most cases, the length field represents the length of the message body only, as shown in the previous examples. However, in some protocols, the length field represents the length of the whole message, including the message header. In such a case, we specify a non-zero &lt;tt&gt;lengthAdjustment&lt;tt&gt;. Because the length value in this example message is always greater than the body length by &lt;tt&gt;2&lt;tt&gt;, we specify &lt;tt&gt;-2&lt;tt&gt; as &lt;tt&gt;lengthAdjustment&lt;tt&gt; for compensation." />
-      <item value="Reached" />
-      <item value="failure Threshold" />
     </histories>
     <option name="languageScores">
       <map>
