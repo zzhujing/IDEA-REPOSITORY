@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="671" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2711" />
-    <option name="newTranslationDialogY" value="438" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="641" />
     <histories>
+      <item value="trend&#10;" />
       <item value="is recommend to use in the scenario of actively pulling messages." />
       <item value="SUSPEND CURRENT QUEUE A_MOMENT" />
       <item value="only for binlog consumption" />
@@ -54,7 +55,6 @@
       <item value="In most cases, the length field represents the length of the message body only, as shown in the previous examples. However, in some protocols, the length field represents the length of the whole message, including the message header. In such a case, we specify a non-zero &lt;tt&gt;lengthAdjustment&lt;tt&gt;. Because the length value in this example message is always greater than the body length by &lt;tt&gt;2&lt;tt&gt;, we specify &lt;tt&gt;-2&lt;tt&gt; as &lt;tt&gt;lengthAdjustment&lt;tt&gt; for compensation." />
       <item value="Reached" />
       <item value="failure Threshold" />
-      <item value="failure Threshold Reached" />
     </histories>
     <option name="languageScores">
       <map>
