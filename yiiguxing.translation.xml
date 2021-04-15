@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="add Generic Argument Value" />
       <item value="If multiple @StreamListener methods are listening to the same binding target, none of them may return a value" />
       <item value="薪水&#10;" />
       <item value="balancer" />
@@ -54,12 +55,11 @@
       <item value="either..or..&#10;" />
       <item value="bulkhead&#10;" />
       <item value="Collapser" />
-      <item value="Hystrix Bad Request Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3069" />
-        <entry key="ENGLISH" value="3070" />
+        <entry key="CHINESE" value="3070" />
+        <entry key="ENGLISH" value="3071" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
