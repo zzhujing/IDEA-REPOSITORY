@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="671" />
+    <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <option name="newTranslationDialogX" value="128" />
-    <option name="newTranslationDialogY" value="300" />
+    <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="analogue&#10;" />
       <item value="In a typical request/reply scenario, the incoming Message may convey the destination to use for the reply. In that case, that destination should take precedence.&#10;" />
       <item value="in case of&#10;" />
       <item value="destination from which messages will be received by Processor.INPUT" />
@@ -54,7 +55,6 @@
       <item value="期望的&#10;" />
       <item value="uncapitalize" />
       <item value="dagrade" />
-      <item value="Unsatisfied" />
     </histories>
     <option name="languageScores">
       <map>
