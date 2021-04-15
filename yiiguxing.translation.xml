@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="If multiple @StreamListener methods are listening to the same binding target, none of them may return a value" />
+      <item value="薪水&#10;" />
+      <item value="balancer" />
       <item value="analogue&#10;" />
       <item value="In a typical request/reply scenario, the incoming Message may convey the destination to use for the reply. In that case, that destination should take precedence.&#10;" />
       <item value="in case of&#10;" />
@@ -52,14 +55,11 @@
       <item value="bulkhead&#10;" />
       <item value="Collapser" />
       <item value="Hystrix Bad Request Exception" />
-      <item value="期望的&#10;" />
-      <item value="uncapitalize" />
-      <item value="dagrade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3067" />
-        <entry key="ENGLISH" value="3068" />
+        <entry key="CHINESE" value="3069" />
+        <entry key="ENGLISH" value="3070" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
