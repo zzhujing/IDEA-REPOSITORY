@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false.&#10;" />
+      <item value="is Assignable From" />
       <item value="A common interface defining methods for start/stop lifecycle control. The typical use case for this is to control asynchronous processing. NOTE: This interface does not imply specific auto-startup semantics. Consider implementing SmartLifecycle for that purpose.&#10;" />
       <item value="add Generic Argument Value" />
       <item value="If multiple @StreamListener methods are listening to the same binding target, none of them may return a value" />
@@ -53,13 +55,11 @@
       <item value="elaspts&#10;" />
       <item value="elas" />
       <item value="send" />
-      <item value="either..or..&#10;" />
-      <item value="bulkhead&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3070" />
-        <entry key="ENGLISH" value="3071" />
+        <entry key="CHINESE" value="3071" />
+        <entry key="ENGLISH" value="3072" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
