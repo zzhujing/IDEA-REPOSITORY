@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="A common interface defining methods for start/stop lifecycle control. The typical use case for this is to control asynchronous processing. NOTE: This interface does not imply specific auto-startup semantics. Consider implementing SmartLifecycle for that purpose.&#10;" />
       <item value="add Generic Argument Value" />
       <item value="If multiple @StreamListener methods are listening to the same binding target, none of them may return a value" />
       <item value="薪水&#10;" />
@@ -54,7 +55,6 @@
       <item value="send" />
       <item value="either..or..&#10;" />
       <item value="bulkhead&#10;" />
-      <item value="Collapser" />
     </histories>
     <option name="languageScores">
       <map>
