@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="641" />
     <histories>
+      <item value="in case of&#10;" />
       <item value="destination from which messages will be received by Processor.INPUT" />
       <item value="最后&#10;" />
       <item value="untimate&#10;" />
@@ -54,7 +55,6 @@
       <item value="dagrade" />
       <item value="Unsatisfied" />
       <item value="stat Interval Ms" />
-      <item value="DEGRADE GRADE RT" />
     </histories>
     <option name="languageScores">
       <map>
