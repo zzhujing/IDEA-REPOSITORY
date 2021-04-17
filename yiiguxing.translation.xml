@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="destination" />
       <item value="do Execute Segement" />
       <item value="incorrect" />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false.&#10;" />
@@ -54,12 +55,11 @@
       <item value="period&#10;" />
       <item value="elapses&#10;" />
       <item value="ela" />
-      <item value="elaspts&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3073" />
-        <entry key="ENGLISH" value="3073" />
+        <entry key="ENGLISH" value="3074" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
