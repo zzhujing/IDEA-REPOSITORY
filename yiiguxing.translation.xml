@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="It will be removed at 4.4.0 cause for exception handling and the wrong Semantics of timeout. A new one will be provided in next version" />
+      <item value="Semantics" />
       <item value="Gets the message queue offset according to some time in milliseconds" />
       <item value="according to" />
       <item value="Sent Application Event" />
@@ -53,13 +55,11 @@
       <item value="Sys District" />
       <item value="to Epoch Milli" />
       <item value="高可用&#10;高性能&#10;高可扩展&#10;" />
-      <item value="高可用&#10;高性能&#10;" />
-      <item value="高可用&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3076" />
-        <entry key="ENGLISH" value="3077" />
+        <entry key="CHINESE" value="3078" />
+        <entry key="ENGLISH" value="3079" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
