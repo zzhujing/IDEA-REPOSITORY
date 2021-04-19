@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="原因&#10;" />
+      <item value="resaon" />
       <item value="rebalance" />
       <item value="feed" />
       <item value="all on-going requests" />
@@ -53,8 +55,6 @@
       <item value="promotion&#10;" />
       <item value="invasive&#10;" />
       <item value="invais" />
-      <item value="Intergration&#10;" />
-      <item value="范围&#10;" />
     </histories>
     <option name="languageScores">
       <map>
