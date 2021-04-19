@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="128" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="surefire" />
+      <item value="artifact Id" />
       <item value="原因&#10;" />
       <item value="resaon" />
       <item value="rebalance" />
@@ -53,13 +55,11 @@
       <item value="thereby&#10;" />
       <item value="因此&#10;" />
       <item value="promotion&#10;" />
-      <item value="invasive&#10;" />
-      <item value="invais" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3081" />
-        <entry key="ENGLISH" value="3082" />
+        <entry key="CHINESE" value="3084" />
+        <entry key="ENGLISH" value="3085" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
