@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="-1765" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="This Project Mainly To Output My Java Learning" />
+      <item value="这个项目主要用来输出对于平时Java相关的学习" />
+      <item value="这个项目主要用来输出对于平时Java相关的" />
+      <item value="这个项目主要用来输出对于平时" />
+      <item value="这个项目主要用来" />
+      <item value="这个项目zhu" />
       <item value="improve self&#10;" />
       <item value="improve " />
       <item value="im" />
@@ -49,17 +55,11 @@
       <item value="out of date data received" />
       <item value="is Independent" />
       <item value="Correlation Strategy" />
-      <item value="Declarative Layers" />
-      <item value="Declaresive Layers" />
-      <item value="adjust Counter If Necessary" />
-      <item value="Rendezvous Channel" />
-      <item value="since..if..&#10;" />
-      <item value="therefore&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3085" />
-        <entry key="ENGLISH" value="3086" />
+        <entry key="CHINESE" value="3086" />
+        <entry key="ENGLISH" value="3087" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
