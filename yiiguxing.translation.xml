@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Seekable Byte Channel" />
       <item value="Checked exception received by a thread when another thread closes the channel or the part of the channel upon which it is blocked in an IO operation." />
       <item value="hopping&#10;" />
       <item value="跳槽&#10;" />
@@ -54,12 +55,11 @@
       <item value="untima" />
       <item value="trend&#10;" />
       <item value="is recommend to use in the scenario of actively pulling messages." />
-      <item value="SUSPEND CURRENT QUEUE A_MOMENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3087" />
-        <entry key="ENGLISH" value="3088" />
+        <entry key="CHINESE" value="3088" />
+        <entry key="ENGLISH" value="3089" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
