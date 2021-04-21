@@ -2,9 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="-1765" />
-    <option name="newTranslationDialogY" value="416" />
+    <option name="newTranslationDialogX" value="410" />
+    <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="hopping&#10;" />
+      <item value="跳槽&#10;" />
+      <item value="Jump Job&#10;" />
+      <item value="Jump Job" />
       <item value="This Project Mainly To Output My Java Learning" />
       <item value="这个项目主要用来输出对于平时Java相关的学习" />
       <item value="这个项目主要用来输出对于平时Java相关的" />
@@ -51,10 +55,6 @@
       <item value="is recommend to use in the scenario of actively pulling messages." />
       <item value="SUSPEND CURRENT QUEUE A_MOMENT" />
       <item value="only for binlog consumption" />
-      <item value="reconsume Times" />
-      <item value="out of date data received" />
-      <item value="is Independent" />
-      <item value="Correlation Strategy" />
     </histories>
     <option name="languageScores">
       <map>
