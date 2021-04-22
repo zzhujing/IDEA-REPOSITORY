@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Compacts&#10;" />
       <item value="Interruptible" />
       <item value="This method may be invoked at any time. If another thread has already initiated a read operation upon this channel, however, then an invocation of this method will block until the first operation is complete.&#10;" />
       <item value="Whether or not other kinds of IO operations may proceed concurrently with a read operation depends upon the type of the channel" />
@@ -54,7 +55,6 @@
       <item value="It will be removed at 4.4.0 cause for exception handling and the wrong Semantics of timeout. A new one will be provided in next version" />
       <item value="Semantics" />
       <item value="Gets the message queue offset according to some time in milliseconds" />
-      <item value="according to" />
     </histories>
     <option name="languageScores">
       <map>
