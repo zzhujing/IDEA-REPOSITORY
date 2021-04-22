@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="This method may be invoked at any time. If another thread has already initiated a read operation upon this channel, however, then an invocation of this method will block until the first operation is complete.&#10;" />
+      <item value="Whether or not other kinds of IO operations may proceed concurrently with a read operation depends upon the type of the channel" />
+      <item value="Only one read operation upon a readable channel may be in progress at any given time" />
+      <item value="Only one r given time" />
       <item value="Network Channel" />
       <item value="described" />
       <item value="intended to be" />
@@ -51,15 +55,11 @@
       <item value="Gets the message queue offset according to some time in milliseconds" />
       <item value="according to" />
       <item value="Sent Application Event" />
-      <item value="destination" />
-      <item value="do Execute Segement" />
-      <item value="incorrect" />
-      <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3106" />
-        <entry key="ENGLISH" value="3107" />
+        <entry key="CHINESE" value="3108" />
+        <entry key="ENGLISH" value="3109" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
