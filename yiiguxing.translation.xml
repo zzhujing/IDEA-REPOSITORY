@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="monolithic&#10;" />
+      <item value="mono" />
       <item value="handsome&#10;" />
       <item value="gather&#10;" />
       <item value="scatter&#10;gatter&#10;" />
@@ -53,8 +55,6 @@
       <item value="artifact Id" />
       <item value="原因&#10;" />
       <item value="resaon" />
-      <item value="rebalance" />
-      <item value="feed" />
     </histories>
     <option name="languageScores">
       <map>
