@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="handsome&#10;" />
       <item value="gather&#10;" />
       <item value="scatter&#10;gatter&#10;" />
       <item value="scatter&#10;" />
@@ -54,7 +55,6 @@
       <item value="resaon" />
       <item value="rebalance" />
       <item value="feed" />
-      <item value="all on-going requests" />
     </histories>
     <option name="languageScores">
       <map>
