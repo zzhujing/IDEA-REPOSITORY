@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="described" />
+      <item value="intended to be" />
+      <item value="intended to" />
+      <item value="Channels are, in general, intended to be safe for multithreaded access as described in the specifications of the interfaces and classes that extend and implement this interface" />
+      <item value="and once closed it remains closed" />
+      <item value="upon" />
+      <item value="A channel is open upon creation, and once closed it remains closed" />
+      <item value="performing one or more distinct IO operations" />
+      <item value="is capable of" />
+      <item value="is capable of performing one or more distinct IO operations" />
+      <item value="socket" />
+      <item value="A nexus for IO operations" />
+      <item value="nexus" />
       <item value="Flipping" />
       <item value="normalized Properties" />
       <item value="mutate" />
@@ -42,24 +55,11 @@
       <item value="incorrect" />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false.&#10;" />
       <item value="is Assignable From" />
-      <item value="A common interface defining methods for start/stop lifecycle control. The typical use case for this is to control asynchronous processing. NOTE: This interface does not imply specific auto-startup semantics. Consider implementing SmartLifecycle for that purpose.&#10;" />
-      <item value="add Generic Argument Value" />
-      <item value="If multiple @StreamListener methods are listening to the same binding target, none of them may return a value" />
-      <item value="薪水&#10;" />
-      <item value="balancer" />
-      <item value="analogue&#10;" />
-      <item value="In a typical request/reply scenario, the incoming Message may convey the destination to use for the reply. In that case, that destination should take precedence.&#10;" />
-      <item value="in case of&#10;" />
-      <item value="destination from which messages will be received by Processor.INPUT" />
-      <item value="最后&#10;" />
-      <item value="untimate&#10;" />
-      <item value="un'ti'ma" />
-      <item value="u" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3092" />
-        <entry key="ENGLISH" value="3093" />
+        <entry key="CHINESE" value="3105" />
+        <entry key="ENGLISH" value="3106" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
