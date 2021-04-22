@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Function Catalog" />
       <item value="monolithic&#10;" />
       <item value="mono" />
       <item value="handsome&#10;" />
@@ -54,12 +55,11 @@
       <item value="surefire" />
       <item value="artifact Id" />
       <item value="原因&#10;" />
-      <item value="resaon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3109" />
-        <entry key="ENGLISH" value="3110" />
+        <entry key="CHINESE" value="3110" />
+        <entry key="ENGLISH" value="3111" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
