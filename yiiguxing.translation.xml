@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="copy selected-key set as action may remove keys" />
       <item value="Sneaky Throws" />
       <item value="&#10;action – The action to perform&#10;timeout – If positive, block for up to timeout milliseconds, more or less, while waiting for a channel to become ready; if zero, block indefinitely; must not be negative&#10;" />
       <item value="Function Catalog" />
@@ -54,7 +55,6 @@
       <item value="improve " />
       <item value="im" />
       <item value="improve" />
-      <item value="surefire" />
     </histories>
     <option name="languageScores">
       <map>
