@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Loads this buffer's content into physical memory.&#10;This method makes a best effort to ensure that, when it returns, this buffer's content is resident in physical memory. Invoking this method may cause some number of page faults and I/O operations to occur&#10;&#10;" />
       <item value="INTERRUPTED" />
       <item value="EVFILT READ" />
       <item value="copy selected-key set as action may remove keys" />
@@ -54,7 +55,6 @@
       <item value="这个项目主要用来" />
       <item value="这个项目zhu" />
       <item value="improve self&#10;" />
-      <item value="improve " />
     </histories>
     <option name="languageScores">
       <map>
