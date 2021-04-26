@@ -154,7 +154,9 @@
   </action>
   <action id="RunClass" />
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="RunDashboard.Run" />
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
