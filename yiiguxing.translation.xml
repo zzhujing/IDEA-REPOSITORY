@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="retain" />
       <item value="estimator Handle" />
       <item value="减法&#10;" />
       <item value="MAX VALUE" />
@@ -54,7 +55,6 @@
       <item value="Jump Job" />
       <item value="This Project Mainly To Output My Java Learning" />
       <item value="这个项目主要用来输出对于平时Java相关的学习" />
-      <item value="这个项目主要用来输出对于平时Java相关的" />
     </histories>
     <option name="languageScores">
       <map>
