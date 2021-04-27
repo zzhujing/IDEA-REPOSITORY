@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="减法&#10;" />
       <item value="MAX VALUE" />
       <item value="Decimal&#10;" />
       <item value="Loads this buffer's content into physical memory.&#10;This method makes a best effort to ensure that, when it returns, this buffer's content is resident in physical memory. Invoking this method may cause some number of page faults and I/O operations to occur&#10;&#10;" />
@@ -54,7 +55,6 @@
       <item value="这个项目主要用来输出对于平时Java相关的学习" />
       <item value="这个项目主要用来输出对于平时Java相关的" />
       <item value="这个项目主要用来输出对于平时" />
-      <item value="这个项目主要用来" />
     </histories>
     <option name="languageScores">
       <map>
