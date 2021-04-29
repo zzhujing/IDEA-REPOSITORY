@@ -5,9 +5,10 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Add the given ByteBuf and increase the writerIndex if increaseWriterIndex is true. If the provided buffer is a CompositeByteBuf itself, a &quot;shallow copy&quot; of its readable components will be performed. Thus the actual number of new components added may vary and in particular will be zero if the provided buffer is not readable.&#10;ByteBuf.release() ownership of buffer is transferred to this CompositeByteBuf.&#10;" />
+      <item value="retain" />
       <item value="backing&#10;" />
       <item value="array Offset" />
-      <item value="retain" />
       <item value="estimator Handle" />
       <item value="减法&#10;" />
       <item value="MAX VALUE" />
@@ -54,7 +55,6 @@
       <item value="hopping&#10;" />
       <item value="跳槽&#10;" />
       <item value="Jump Job&#10;" />
-      <item value="Jump Job" />
     </histories>
     <option name="languageScores">
       <map>
