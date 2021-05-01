@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="huge Capacity" />
       <item value="smp&#10;" />
       <item value="Add the given ByteBuf and increase the writerIndex if increaseWriterIndex is true. If the provided buffer is a CompositeByteBuf itself, a &quot;shallow copy&quot; of its readable components will be performed. Thus the actual number of new components added may vary and in particular will be zero if the provided buffer is not readable.&#10;ByteBuf.release() ownership of buffer is transferred to this CompositeByteBuf.&#10;" />
       <item value="retain" />
@@ -54,7 +55,6 @@
       <item value="Seekable Byte Channel" />
       <item value="Checked exception received by a thread when another thread closes the channel or the part of the channel upon which it is blocked in an IO operation." />
       <item value="hopping&#10;" />
-      <item value="跳槽&#10;" />
     </histories>
     <option name="languageScores">
       <map>
