@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Partial Stroking&#10;" />
       <item value="sequence of zero or more bytes (octets" />
       <item value="sequent&#10;" />
       <item value="sequential&#10;" />
@@ -54,7 +55,6 @@
       <item value="nexus" />
       <item value="Flipping" />
       <item value="normalized Properties" />
-      <item value="mutate" />
     </histories>
     <option name="languageScores">
       <map>
