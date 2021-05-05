@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="discard&#10;" />
+      <item value="disacard&#10;" />
       <item value="gather&#10;" />
       <item value="Partial Stroking&#10;" />
       <item value="sequence of zero or more bytes (octets" />
@@ -53,8 +55,6 @@
       <item value="socket" />
       <item value="A nexus for IO operations" />
       <item value="nexus" />
-      <item value="Flipping" />
-      <item value="normalized Properties" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619614667193" />
+    <option name="lastTrimTime" value="1620257890525" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
