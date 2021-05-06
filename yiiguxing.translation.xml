@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="Compensate" />
       <item value="discard&#10;" />
       <item value="disacard&#10;" />
       <item value="gather&#10;" />
@@ -54,7 +55,6 @@
       <item value="is capable of performing one or more distinct IO operations" />
       <item value="socket" />
       <item value="A nexus for IO operations" />
-      <item value="nexus" />
     </histories>
     <option name="languageScores">
       <map>
