@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="电子礼卡&#10;" />
+      <item value="电子礼物&#10;" />
       <item value="Compensate" />
       <item value="discard&#10;" />
       <item value="disacard&#10;" />
@@ -53,8 +55,6 @@
       <item value="performing one or more distinct IO operations" />
       <item value="is capable of" />
       <item value="is capable of performing one or more distinct IO operations" />
-      <item value="socket" />
-      <item value="A nexus for IO operations" />
     </histories>
     <option name="languageScores">
       <map>
