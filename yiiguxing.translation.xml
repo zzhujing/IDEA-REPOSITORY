@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="touch" />
       <item value="We can only skip if the EventExecutor is the same as otherwise we need to ensure we offload everything to preserve ordering" />
       <item value="advanced&#10;" />
       <item value="paranoid&#10;" />
@@ -13,7 +14,6 @@
       <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes." />
       <item value="arbitrary" />
       <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes. If this object is determined to be leaked, the information recorded by this operation will be provided to you via {@link ResourceLeakDetector}." />
-      <item value="touch" />
       <item value="heap Arena" />
       <item value="retain&#10;" />
       <item value="电子礼卡&#10;" />
