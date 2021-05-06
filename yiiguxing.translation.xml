@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="advanced&#10;" />
+      <item value="paranoid&#10;" />
+      <item value="para" />
+      <item value="interact" />
+      <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes." />
+      <item value="arbitrary" />
+      <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes. If this object is determined to be leaked, the information recorded by this operation will be provided to you via {@link ResourceLeakDetector}." />
+      <item value="touch" />
       <item value="heap Arena" />
       <item value="retain&#10;" />
       <item value="电子礼卡&#10;" />
@@ -47,14 +55,6 @@
       <item value="Only one read operation upon a readable channel may be in progress at any given time" />
       <item value="Only one r given time" />
       <item value="Network Channel" />
-      <item value="described" />
-      <item value="intended to be" />
-      <item value="intended to" />
-      <item value="Channels are, in general, intended to be safe for multithreaded access as described in the specifications of the interfaces and classes that extend and implement this interface" />
-      <item value="and once closed it remains closed" />
-      <item value="upon" />
-      <item value="A channel is open upon creation, and once closed it remains closed" />
-      <item value="performing one or more distinct IO operations" />
     </histories>
     <option name="languageScores">
       <map>
