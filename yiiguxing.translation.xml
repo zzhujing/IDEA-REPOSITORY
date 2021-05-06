@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="We can only skip if the EventExecutor is the same as otherwise we need to ensure we offload everything to preserve ordering" />
       <item value="advanced&#10;" />
       <item value="paranoid&#10;" />
       <item value="para" />
@@ -54,7 +55,6 @@
       <item value="Whether or not other kinds of IO operations may proceed concurrently with a read operation depends upon the type of the channel" />
       <item value="Only one read operation upon a readable channel may be in progress at any given time" />
       <item value="Only one r given time" />
-      <item value="Network Channel" />
     </histories>
     <option name="languageScores">
       <map>
