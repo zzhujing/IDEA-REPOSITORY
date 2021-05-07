@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="410" />
-    <option name="newTranslationDialogY" value="502" />
+    <option name="newTranslationDialogX" value="767" />
+    <option name="newTranslationDialogY" value="865" />
     <histories>
+      <item value="arbitrary&#10;" />
+      <item value="arbi" />
       <item value="adjust Into" />
       <item value="instant" />
       <item value="手动&#10;" />
@@ -53,13 +55,11 @@
       <item value="monolithic&#10;" />
       <item value="mono" />
       <item value="handsome&#10;" />
-      <item value="scatter&#10;gatter&#10;" />
-      <item value="scatter&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3122" />
-        <entry key="ENGLISH" value="3123" />
+        <entry key="CHINESE" value="3124" />
+        <entry key="ENGLISH" value="3124" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
