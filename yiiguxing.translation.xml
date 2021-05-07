@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="502" />
     <histories>
+      <item value="gmt Create" />
       <item value="TRANSFERRING" />
       <item value="转赠&#10;" />
       <item value="touch" />
@@ -54,12 +55,11 @@
       <item value="Compacts&#10;" />
       <item value="Interruptible" />
       <item value="This method may be invoked at any time. If another thread has already initiated a read operation upon this channel, however, then an invocation of this method will block until the first operation is complete.&#10;" />
-      <item value="Whether or not other kinds of IO operations may proceed concurrently with a read operation depends upon the type of the channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3110" />
-        <entry key="ENGLISH" value="3111" />
+        <entry key="CHINESE" value="3111" />
+        <entry key="ENGLISH" value="3112" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
