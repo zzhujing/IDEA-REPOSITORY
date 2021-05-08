@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="767" />
     <option name="newTranslationDialogY" value="865" />
     <histories>
+      <item value="转赠退回&#10;" />
       <item value="arbitrary&#10;" />
       <item value="arbi" />
       <item value="adjust Into" />
@@ -54,12 +55,11 @@
       <item value="Function Catalog" />
       <item value="monolithic&#10;" />
       <item value="mono" />
-      <item value="handsome&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3124" />
-        <entry key="ENGLISH" value="3124" />
+        <entry key="CHINESE" value="3133" />
+        <entry key="ENGLISH" value="3133" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
