@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="215" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="is Compatible" />
       <item value="trap&#10;" />
       <item value="rebase&#10;" />
       <item value="领取&#10;" />
@@ -54,12 +55,11 @@
       <item value="EVFILT READ" />
       <item value="copy selected-key set as action may remove keys" />
       <item value="Sneaky Throws" />
-      <item value="&#10;action – The action to perform&#10;timeout – If positive, block for up to timeout milliseconds, more or less, while waiting for a channel to become ready; if zero, block indefinitely; must not be negative&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3147" />
-        <entry key="ENGLISH" value="3145" />
+        <entry key="ENGLISH" value="3146" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
