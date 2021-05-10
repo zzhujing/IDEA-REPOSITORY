@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="215" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="close Forcibly" />
+      <item value="Forcibly" />
+      <item value="is Compatible" />
       <item value="downcast to access transport-specific operation&#10;" />
       <item value="downcast to access transport-specific" />
       <item value="downcast to access transport-s" />
@@ -13,7 +16,6 @@
       <item value="semantics&#10;" />
       <item value="se" />
       <item value="any I/O calls will return immediately with no guarantee that the requested I/O operation has been completed at the end of the call&#10;" />
-      <item value="is Compatible" />
       <item value="trap&#10;" />
       <item value="rebase&#10;" />
       <item value="领取&#10;" />
@@ -53,13 +55,11 @@
       <item value="Add the given ByteBuf and increase the writerIndex if increaseWriterIndex is true. If the provided buffer is a CompositeByteBuf itself, a &quot;shallow copy&quot; of its readable components will be performed. Thus the actual number of new components added may vary and in particular will be zero if the provided buffer is not readable.&#10;ByteBuf.release() ownership of buffer is transferred to this CompositeByteBuf.&#10;" />
       <item value="retain" />
       <item value="backing&#10;" />
-      <item value="array Offset" />
-      <item value="estimator Handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3155" />
-        <entry key="ENGLISH" value="3151" />
+        <entry key="ENGLISH" value="3152" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
