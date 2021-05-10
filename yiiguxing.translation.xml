@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="215" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="downcast to access transport-specific operation&#10;" />
+      <item value="downcast to access transport-specific" />
+      <item value="downcast to access transport-s" />
+      <item value="downcast to access trans" />
+      <item value="downcast&#10;" />
+      <item value="semantics&#10;" />
+      <item value="se" />
+      <item value="any I/O calls will return immediately with no guarantee that the requested I/O operation has been completed at the end of the call&#10;" />
       <item value="is Compatible" />
       <item value="trap&#10;" />
       <item value="rebase&#10;" />
@@ -47,19 +55,11 @@
       <item value="backing&#10;" />
       <item value="array Offset" />
       <item value="estimator Handle" />
-      <item value="减法&#10;" />
-      <item value="MAX VALUE" />
-      <item value="Decimal&#10;" />
-      <item value="Loads this buffer's content into physical memory.&#10;This method makes a best effort to ensure that, when it returns, this buffer's content is resident in physical memory. Invoking this method may cause some number of page faults and I/O operations to occur&#10;&#10;" />
-      <item value="INTERRUPTED" />
-      <item value="EVFILT READ" />
-      <item value="copy selected-key set as action may remove keys" />
-      <item value="Sneaky Throws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3147" />
-        <entry key="ENGLISH" value="3146" />
+        <entry key="CHINESE" value="3155" />
+        <entry key="ENGLISH" value="3151" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
