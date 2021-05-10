@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="215" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="check if the channel is still open as it could be closed in the mean time when the register call was outside of the eventLoop" />
+      <item value="Make this future impossible to cancel" />
+      <item value="impossible" />
+      <item value="set Uncancellable" />
       <item value="close Forcibly" />
       <item value="Forcibly" />
       <item value="is Compatible" />
@@ -51,15 +55,11 @@
       <item value="sequential&#10;" />
       <item value="sequential" />
       <item value="huge Capacity" />
-      <item value="smp&#10;" />
-      <item value="Add the given ByteBuf and increase the writerIndex if increaseWriterIndex is true. If the provided buffer is a CompositeByteBuf itself, a &quot;shallow copy&quot; of its readable components will be performed. Thus the actual number of new components added may vary and in particular will be zero if the provided buffer is not readable.&#10;ByteBuf.release() ownership of buffer is transferred to this CompositeByteBuf.&#10;" />
-      <item value="retain" />
-      <item value="backing&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3155" />
-        <entry key="ENGLISH" value="3154" />
+        <entry key="CHINESE" value="3156" />
+        <entry key="ENGLISH" value="3157" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
