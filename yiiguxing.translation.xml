@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="1007" />
     <histories>
+      <item value="replay&#10;" />
       <item value="Expand" />
       <item value="cumulate" />
       <item value="deallocation&#10;" />
@@ -54,12 +55,11 @@
       <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes." />
       <item value="arbitrary" />
       <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes. If this object is determined to be leaked, the information recorded by this operation will be provided to you via {@link ResourceLeakDetector}." />
-      <item value="heap Arena" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3169" />
-        <entry key="ENGLISH" value="3170" />
+        <entry key="CHINESE" value="3176" />
+        <entry key="ENGLISH" value="3176" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
