@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="1007" />
     <histories>
+      <item value="is Invited Req" />
       <item value="temporal" />
       <item value="replay&#10;" />
       <item value="Expand" />
@@ -54,12 +55,11 @@
       <item value="para" />
       <item value="interact" />
       <item value="Records the current access location of this object with an additional arbitrary information for debugging purposes." />
-      <item value="arbitrary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3176" />
-        <entry key="ENGLISH" value="3177" />
+        <entry key="CHINESE" value="3177" />
+        <entry key="ENGLISH" value="3178" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
