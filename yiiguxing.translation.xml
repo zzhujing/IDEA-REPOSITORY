@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="1007" />
     <histories>
+      <item value="length Adjustment" />
+      <item value="assumes" />
+      <item value="proprietary" />
+      <item value="particularly" />
       <item value="粘包&#10;" />
       <item value="zhan'ba'p" />
       <item value="小战报" />
@@ -51,15 +55,11 @@
       <item value="gmt Create" />
       <item value="TRANSFERRING" />
       <item value="转赠&#10;" />
-      <item value="touch" />
-      <item value="We can only skip if the EventExecutor is the same as otherwise we need to ensure we offload everything to preserve ordering" />
-      <item value="advanced&#10;" />
-      <item value="paranoid&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3223" />
-        <entry key="ENGLISH" value="3224" />
+        <entry key="CHINESE" value="3227" />
+        <entry key="ENGLISH" value="3228" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
