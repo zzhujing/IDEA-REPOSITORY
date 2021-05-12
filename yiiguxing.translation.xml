@@ -3,8 +3,9 @@
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <option name="newTranslationDialogX" value="368" />
-    <option name="newTranslationDialogY" value="1007" />
+    <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties.&#10;" />
       <item value="length Adjustment" />
       <item value="assumes" />
       <item value="proprietary" />
@@ -54,11 +55,10 @@
       <item value="手动&#10;" />
       <item value="gmt Create" />
       <item value="TRANSFERRING" />
-      <item value="转赠&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3227" />
+        <entry key="CHINESE" value="3228" />
         <entry key="ENGLISH" value="3228" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
