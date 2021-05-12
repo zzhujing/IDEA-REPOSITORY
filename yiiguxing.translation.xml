@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="to read the Object out of the" />
       <item value="reconstituted&#10;" />
       <item value="Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties.&#10;" />
       <item value="length Adjustment" />
@@ -54,12 +55,11 @@
       <item value="adjust Into" />
       <item value="instant" />
       <item value="手动&#10;" />
-      <item value="gmt Create" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3229" />
-        <entry key="ENGLISH" value="3228" />
+        <entry key="ENGLISH" value="3229" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
