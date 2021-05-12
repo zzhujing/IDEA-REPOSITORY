@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="889" />
     <option name="newTranslationDialogY" value="695" />
     <histories>
+      <item value="Disk&#10;" />
+      <item value="Abstract Disk Http Data" />
       <item value="the offset from the beginning of the file, in bytes, at which the next read or write occurs&#10;" />
       <item value="envelope&#10;" />
       <item value="env" />
@@ -53,12 +55,10 @@
       <item value="trap&#10;" />
       <item value="rebase&#10;" />
       <item value="领取&#10;" />
-      <item value="转赠退回&#10;" />
-      <item value="arbitrary&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3231" />
+        <entry key="CHINESE" value="3232" />
         <entry key="ENGLISH" value="3229" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
