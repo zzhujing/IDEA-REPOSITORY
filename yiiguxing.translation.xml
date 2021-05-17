@@ -2,9 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="889" />
-    <option name="newTranslationDialogY" value="695" />
+    <option name="newTranslationDialogX" value="325" />
+    <option name="newTranslationDialogY" value="649" />
     <histories>
+      <item value="For example, typical implementations will cancel via {@link Threadinterrupt}, so any task that fails to respond to interrupts may never terminate." />
+      <item value="There are no guarantees beyond best-effort attempts to stop processing actively executing tasks" />
+      <item value="guarantees" />
+      <item value="Attempts to stop all actively executing tasks, halts the processing of waiting tasks, and returns a list of the tasks that were awaiting execution.&#10;" />
       <item value="Lock was released in the store due to expiration. &quot; + &quot;The integrity of data protected by this lock may have been compromised." />
       <item value="Disk&#10;" />
       <item value="Abstract Disk Http Data" />
@@ -51,15 +55,11 @@
       <item value="downcast to access trans" />
       <item value="downcast&#10;" />
       <item value="semantics&#10;" />
-      <item value="se" />
-      <item value="any I/O calls will return immediately with no guarantee that the requested I/O operation has been completed at the end of the call&#10;" />
-      <item value="trap&#10;" />
-      <item value="rebase&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3232" />
-        <entry key="ENGLISH" value="3230" />
+        <entry key="CHINESE" value="3233" />
+        <entry key="ENGLISH" value="3233" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620717039494" />
+    <option name="lastTrimTime" value="1621216156868" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
