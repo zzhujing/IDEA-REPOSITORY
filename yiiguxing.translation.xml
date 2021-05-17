@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Returns approximated number of unique elements added into this instances and other instances defined through &lt;code&gt;otherLogNames&lt;code&gt;." />
+      <item value="approximated" />
       <item value="start score inclusive" />
       <item value="inclusive" />
       <item value="infinity" />
@@ -53,13 +55,11 @@
       <item value="check if the channel is still open as it could be closed in the mean time when the register call was outside of the eventLoop" />
       <item value="Make this future impossible to cancel" />
       <item value="impossible" />
-      <item value="set Uncancellable" />
-      <item value="close Forcibly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3237" />
-        <entry key="ENGLISH" value="3238" />
+        <entry key="CHINESE" value="3239" />
+        <entry key="ENGLISH" value="3240" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
