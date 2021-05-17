@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="325" />
     <option name="newTranslationDialogY" value="649" />
     <histories>
+      <item value="commenced" />
       <item value="For example, typical implementations will cancel via {@link Threadinterrupt}, so any task that fails to respond to interrupts may never terminate." />
       <item value="There are no guarantees beyond best-effort attempts to stop processing actively executing tasks" />
       <item value="guarantees" />
@@ -54,12 +55,11 @@
       <item value="downcast to access transport-s" />
       <item value="downcast to access trans" />
       <item value="downcast&#10;" />
-      <item value="semantics&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3233" />
-        <entry key="ENGLISH" value="3233" />
+        <entry key="ENGLISH" value="3234" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
