@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Circle" />
+      <item value="radius&#10;" />
+      <item value="da" />
+      <item value="geo&#10;" />
       <item value="令牌&#10;" />
       <item value="quote" />
       <item value="Returns approximated number of unique elements added into this instances and other instances defined through &lt;code&gt;otherLogNames&lt;code&gt;." />
@@ -51,15 +55,11 @@
       <item value="is Not Valid Promise" />
       <item value="Ensure we call handlerAdded(...) before we actually notify the promise. This is needed as the user may already fire events through the pipeline in the ChannelFutureListener." />
       <item value="Thus full iterations to do insertions is assumed to be a good compromised to saving memory and tail management complexity." />
-      <item value="We only keep the head because it is expected that the list is used infrequently and its size is small." />
-      <item value="infrequently" />
-      <item value="Force the Selector to select now as the &quot;canceled&quot; SelectionKey may still be cached and not removed because no Select.select(..) operation was called yet." />
-      <item value="check if the channel is still open as it could be closed in the mean time when the register call was outside of the eventLoop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3248" />
-        <entry key="ENGLISH" value="3249" />
+        <entry key="CHINESE" value="3254" />
+        <entry key="ENGLISH" value="3255" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
