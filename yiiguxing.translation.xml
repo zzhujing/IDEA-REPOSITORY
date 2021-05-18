@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="令牌&#10;" />
       <item value="quote" />
       <item value="Returns approximated number of unique elements added into this instances and other instances defined through &lt;code&gt;otherLogNames&lt;code&gt;." />
       <item value="approximated" />
@@ -54,12 +55,11 @@
       <item value="infrequently" />
       <item value="Force the Selector to select now as the &quot;canceled&quot; SelectionKey may still be cached and not removed because no Select.select(..) operation was called yet." />
       <item value="check if the channel is still open as it could be closed in the mean time when the register call was outside of the eventLoop" />
-      <item value="Make this future impossible to cancel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3240" />
-        <entry key="ENGLISH" value="3241" />
+        <entry key="CHINESE" value="3248" />
+        <entry key="ENGLISH" value="3249" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
