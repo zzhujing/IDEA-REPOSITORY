@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="This file is not intended to be edited by hand" />
       <item value="Circle" />
       <item value="radius&#10;" />
       <item value="da" />
@@ -54,12 +55,11 @@
       <item value="recipient" />
       <item value="is Not Valid Promise" />
       <item value="Ensure we call handlerAdded(...) before we actually notify the promise. This is needed as the user may already fire events through the pipeline in the ChannelFutureListener." />
-      <item value="Thus full iterations to do insertions is assumed to be a good compromised to saving memory and tail management complexity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3254" />
-        <entry key="ENGLISH" value="3255" />
+        <entry key="CHINESE" value="3255" />
+        <entry key="ENGLISH" value="3256" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
