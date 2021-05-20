@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="数据结构&#10;" />
+      <item value="strut" />
+      <item value="Display Redis MQ Implemention" />
       <item value="Future Designer" />
       <item value="发呆&#10;" />
       <item value="复杂&#10;" />
@@ -52,14 +55,11 @@
       <item value="Lock was released in the store due to expiration. &quot; + &quot;The integrity of data protected by this lock may have been compromised." />
       <item value="Disk&#10;" />
       <item value="Abstract Disk Http Data" />
-      <item value="the offset from the beginning of the file, in bytes, at which the next read or write occurs&#10;" />
-      <item value="envelope&#10;" />
-      <item value="env" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3359" />
-        <entry key="ENGLISH" value="3360" />
+        <entry key="CHINESE" value="3366" />
+        <entry key="ENGLISH" value="3367" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
