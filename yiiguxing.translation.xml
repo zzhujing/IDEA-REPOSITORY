@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="humidity" />
+      <item value="湿度&#10;" />
+      <item value="温度" />
       <item value="device&#10;" />
       <item value="dev" />
       <item value="devil'ce" />
@@ -52,14 +55,11 @@
       <item value="粘包&#10;" />
       <item value="zhan'ba'p" />
       <item value="小战报" />
-      <item value="is Invited Req" />
-      <item value="temporal" />
-      <item value="replay&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3283" />
-        <entry key="ENGLISH" value="3282" />
+        <entry key="CHINESE" value="3299" />
+        <entry key="ENGLISH" value="3299" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
