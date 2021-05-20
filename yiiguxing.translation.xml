@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="故事&#10;" />
       <item value="humidity" />
       <item value="湿度&#10;" />
       <item value="温度" />
@@ -54,12 +55,11 @@
       <item value="particularly" />
       <item value="粘包&#10;" />
       <item value="zhan'ba'p" />
-      <item value="小战报" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3299" />
-        <entry key="ENGLISH" value="3299" />
+        <entry key="CHINESE" value="3304" />
+        <entry key="ENGLISH" value="3304" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
