@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Future Designer" />
+      <item value="发呆&#10;" />
+      <item value="复杂&#10;" />
+      <item value="造价员&#10;" />
+      <item value="编程&#10;" />
+      <item value="软件工程师&#10;" />
+      <item value="运动&#10;" />
+      <item value="体育运动&#10;" />
+      <item value="ACG" />
+      <item value="SPORTS" />
       <item value="故事&#10;" />
       <item value="humidity" />
       <item value="湿度&#10;" />
@@ -45,21 +55,11 @@
       <item value="the offset from the beginning of the file, in bytes, at which the next read or write occurs&#10;" />
       <item value="envelope&#10;" />
       <item value="env" />
-      <item value="envo" />
-      <item value="to read the Object out of the" />
-      <item value="reconstituted&#10;" />
-      <item value="Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties.&#10;" />
-      <item value="length Adjustment" />
-      <item value="assumes" />
-      <item value="proprietary" />
-      <item value="particularly" />
-      <item value="粘包&#10;" />
-      <item value="zhan'ba'p" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3304" />
-        <entry key="ENGLISH" value="3304" />
+        <entry key="CHINESE" value="3359" />
+        <entry key="ENGLISH" value="3360" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
