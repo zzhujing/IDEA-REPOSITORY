@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Defines to return messages of current Stream never delivered to any other consumer." />
+      <item value="delivered" />
       <item value="数据结构&#10;" />
       <item value="strut" />
       <item value="Display Redis MQ Implemention" />
@@ -53,13 +55,11 @@
       <item value="guarantees" />
       <item value="Attempts to stop all actively executing tasks, halts the processing of waiting tasks, and returns a list of the tasks that were awaiting execution.&#10;" />
       <item value="Lock was released in the store due to expiration. &quot; + &quot;The integrity of data protected by this lock may have been compromised." />
-      <item value="Disk&#10;" />
-      <item value="Abstract Disk Http Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3366" />
-        <entry key="ENGLISH" value="3367" />
+        <entry key="CHINESE" value="3368" />
+        <entry key="ENGLISH" value="3369" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
