@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="airs pos&#10;" />
+      <item value="buds&#10;" />
       <item value="bu'ni" />
       <item value="delivered&#10;" />
       <item value="Defines to return messages of current Stream never delivered to any other consumer." />
@@ -53,13 +55,11 @@
       <item value="Sets the thread keep-alive time, which is the amount of time that threads may remain idle before being terminated&#10;" />
       <item value="commenced" />
       <item value="For example, typical implementations will cancel via {@link Threadinterrupt}, so any task that fails to respond to interrupts may never terminate." />
-      <item value="There are no guarantees beyond best-effort attempts to stop processing actively executing tasks" />
-      <item value="guarantees" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3401" />
-        <entry key="ENGLISH" value="3400" />
+        <entry key="CHINESE" value="3407" />
+        <entry key="ENGLISH" value="3406" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621216156868" />
+    <option name="lastTrimTime" value="1621648912126" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
