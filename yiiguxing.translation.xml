@@ -5,10 +5,15 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="lease Time" />
+      <item value="To increase reliability during failover, all operations wait for propagation to all Redis slaves" />
+      <item value="reliability" />
+      <item value="guarantees" />
+      <item value="get Lock" />
+      <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
       <item value="refund Compose" />
       <item value="成员&#10;" />
       <item value="frequently" />
-      <item value="guarantees" />
       <item value="airs pos&#10;" />
       <item value="buds&#10;" />
       <item value="bu'ni" />
@@ -50,16 +55,11 @@
       <item value="quote" />
       <item value="Returns approximated number of unique elements added into this instances and other instances defined through &lt;code&gt;otherLogNames&lt;code&gt;." />
       <item value="approximated" />
-      <item value="start score inclusive" />
-      <item value="inclusive" />
-      <item value="infinity" />
-      <item value="POSITIVE INFINITY" />
-      <item value="start Score Inclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3417" />
-        <entry key="ENGLISH" value="3418" />
+        <entry key="CHINESE" value="3423" />
+        <entry key="ENGLISH" value="3424" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
