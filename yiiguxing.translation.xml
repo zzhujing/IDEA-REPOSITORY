@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="182" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="frequently" />
       <item value="guarantees" />
       <item value="airs pos&#10;" />
       <item value="buds&#10;" />
@@ -54,12 +55,11 @@
       <item value="start Score Inclusive" />
       <item value="Sets the thread keep-alive time, which is the amount of time that threads may remain idle before being terminated. Threads that wait this amount of time without processing a task will be terminated if there are more than the core number of threads currently in the pool, or if this pool allows core thread timeout. This overrides any value set in the constructor.&#10;" />
       <item value="Sets the thread keep-alive time, which is the amount of time that threads may remain idle before being terminated&#10;" />
-      <item value="commenced" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3407" />
-        <entry key="ENGLISH" value="3407" />
+        <entry key="ENGLISH" value="3408" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
