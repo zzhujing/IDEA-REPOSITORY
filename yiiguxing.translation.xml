@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="eventually&#10;" />
       <item value="分布式&#10;" />
       <item value="Distribute Lock Test Runner" />
       <item value="giftshow&#10;" />
@@ -54,12 +55,11 @@
       <item value="This file is not intended to be edited by hand" />
       <item value="Circle" />
       <item value="radius&#10;" />
-      <item value="da" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3434" />
-        <entry key="ENGLISH" value="3434" />
+        <entry key="CHINESE" value="3454" />
+        <entry key="ENGLISH" value="3453" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
