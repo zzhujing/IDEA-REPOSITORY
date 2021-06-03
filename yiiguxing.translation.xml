@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="springio&#10;" />
       <item value="rebase&#10;" />
       <item value="re" />
       <item value="Buried Point" />
@@ -54,12 +55,11 @@
       <item value="devil'ce" />
       <item value="de" />
       <item value="设备名称&#10;" />
-      <item value="设备&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3461" />
-        <entry key="ENGLISH" value="3461" />
+        <entry key="CHINESE" value="3462" />
+        <entry key="ENGLISH" value="3462" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622101602564" />
+    <option name="lastTrimTime" value="1622701454669" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
