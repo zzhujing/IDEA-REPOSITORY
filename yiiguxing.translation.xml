@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
       <item value="springio&#10;" />
       <item value="rebase&#10;" />
       <item value="re" />
@@ -54,11 +55,10 @@
       <item value="dev" />
       <item value="devil'ce" />
       <item value="de" />
-      <item value="设备名称&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3462" />
+        <entry key="CHINESE" value="3463" />
         <entry key="ENGLISH" value="3462" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
