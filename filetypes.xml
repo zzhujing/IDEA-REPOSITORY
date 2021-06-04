@@ -15,7 +15,6 @@
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping ext="pom" type="XML" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
