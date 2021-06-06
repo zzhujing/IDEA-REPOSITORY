@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="increasingly&#10;" />
+      <item value="increa" />
+      <item value="in" />
       <item value="Seekable Byte Channel" />
       <item value="recycle" />
       <item value="preready&#10;" />
@@ -52,14 +55,11 @@
       <item value="SPORTS" />
       <item value="故事&#10;" />
       <item value="humidity" />
-      <item value="湿度&#10;" />
-      <item value="温度" />
-      <item value="device&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3464" />
-        <entry key="ENGLISH" value="3464" />
+        <entry key="CHINESE" value="3472" />
+        <entry key="ENGLISH" value="3472" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
