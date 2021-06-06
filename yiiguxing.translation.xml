@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="assigned replicas&#10;" />
+      <item value="assigned " />
       <item value="consisting of&#10;" />
       <item value="consis" />
       <item value="consistence&#10;" />
@@ -53,13 +55,11 @@
       <item value="Future Designer" />
       <item value="发呆&#10;" />
       <item value="复杂&#10;" />
-      <item value="造价员&#10;" />
-      <item value="编程&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3501" />
-        <entry key="ENGLISH" value="3501" />
+        <entry key="CHINESE" value="3510" />
+        <entry key="ENGLISH" value="3509" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
