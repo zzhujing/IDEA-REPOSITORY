@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="分区&#10;" />
       <item value="mission-critical" />
       <item value="critical" />
       <item value="capabilities&#10;" />
@@ -54,12 +55,11 @@
       <item value="软件工程师&#10;" />
       <item value="运动&#10;" />
       <item value="体育运动&#10;" />
-      <item value="ACG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3477" />
-        <entry key="ENGLISH" value="3478" />
+        <entry key="CHINESE" value="3488" />
+        <entry key="ENGLISH" value="3489" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
