@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="mission-critical" />
+      <item value="critical" />
       <item value="capabilities&#10;" />
       <item value="increasingly&#10;" />
       <item value="increa" />
@@ -53,13 +55,11 @@
       <item value="运动&#10;" />
       <item value="体育运动&#10;" />
       <item value="ACG" />
-      <item value="SPORTS" />
-      <item value="故事&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3477" />
-        <entry key="ENGLISH" value="3476" />
+        <entry key="ENGLISH" value="3478" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
