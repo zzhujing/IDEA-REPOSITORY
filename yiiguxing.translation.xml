@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="inflight&#10;" />
+      <item value="in" />
       <item value="rack" />
       <item value="第一象限&#10;" />
       <item value="to Positive" />
@@ -23,7 +25,6 @@
       <item value="capabilities&#10;" />
       <item value="increasingly&#10;" />
       <item value="increa" />
-      <item value="in" />
       <item value="Seekable Byte Channel" />
       <item value="recycle" />
       <item value="preready&#10;" />
@@ -54,11 +55,10 @@
       <item value="buds&#10;" />
       <item value="bu'ni" />
       <item value="delivered&#10;" />
-      <item value="Defines to return messages of current Stream never delivered to any other consumer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3526" />
+        <entry key="CHINESE" value="3527" />
         <entry key="ENGLISH" value="3527" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
