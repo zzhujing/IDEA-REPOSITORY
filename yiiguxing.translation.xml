@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="on Partitions Revoked" />
       <item value="inflight&#10;" />
       <item value="in" />
       <item value="rack" />
@@ -54,12 +55,11 @@
       <item value="airs pos&#10;" />
       <item value="buds&#10;" />
       <item value="bu'ni" />
-      <item value="delivered&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3527" />
-        <entry key="ENGLISH" value="3527" />
+        <entry key="ENGLISH" value="3528" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
