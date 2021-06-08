@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="seek&#10;" />
+      <item value="wakeup" />
       <item value="visible" />
       <item value="Access to such variables is supported under various &lt;em&gt;access modes&lt;em&gt;" />
       <item value="under" />
@@ -53,12 +55,10 @@
       <item value="get Lock" />
       <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
       <item value="refund Compose" />
-      <item value="成员&#10;" />
-      <item value="frequently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3530" />
+        <entry key="CHINESE" value="3531" />
         <entry key="ENGLISH" value="3531" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
