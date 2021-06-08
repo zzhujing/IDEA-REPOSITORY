@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Rebalance" />
       <item value="kicked out of the group." />
       <item value="ago&#10;" />
       <item value="固定&#10;" />
@@ -54,12 +55,11 @@
       <item value="lock Watchdog Timeout" />
       <item value="lease Time" />
       <item value="To increase reliability during failover, all operations wait for propagation to all Redis slaves" />
-      <item value="reliability" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3553" />
-        <entry key="ENGLISH" value="3553" />
+        <entry key="ENGLISH" value="3554" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
