@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="固定&#10;" />
       <item value="指定&#10;" />
       <item value="seek&#10;" />
       <item value="wakeup" />
@@ -54,12 +55,11 @@
       <item value="reliability" />
       <item value="guarantees" />
       <item value="get Lock" />
-      <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3538" />
-        <entry key="ENGLISH" value="3538" />
+        <entry key="CHINESE" value="3551" />
+        <entry key="ENGLISH" value="3551" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
