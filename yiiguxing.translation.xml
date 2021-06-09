@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Jaas" />
       <item value="relative To Current" />
       <item value="sensors" />
       <item value="assign From Subscribed" />
@@ -54,7 +55,6 @@
       <item value="Buried Point" />
       <item value="Gwt Incompatible" />
       <item value="veto" />
-      <item value="库存&#10;" />
     </histories>
     <option name="languageScores">
       <map>
