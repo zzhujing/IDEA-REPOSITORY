@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="time Between Poll Sensor" />
+      <item value="Metrics" />
+      <item value="beyond" />
       <item value="offset Epoch" />
       <item value="considered" />
       <item value="A partition is &quot;assigned&quot; either directly with {@link assignFromUser(Set)} (manual assignment) or with {@link assignFromSubscribed(Collection)} (automatic assignment from subscription)." />
@@ -52,14 +55,11 @@
       <item value="erfactions&#10;" />
       <item value="assigned replicas&#10;" />
       <item value="assigned " />
-      <item value="consisting of&#10;" />
-      <item value="consis" />
-      <item value="consistence&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3590" />
-        <entry key="ENGLISH" value="3591" />
+        <entry key="CHINESE" value="3593" />
+        <entry key="ENGLISH" value="3594" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
