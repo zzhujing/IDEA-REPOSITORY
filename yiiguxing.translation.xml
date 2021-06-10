@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Requests and responses of Fetcher may be processed by different threads since heartbeat thread may process responses" />
+      <item value="since" />
       <item value="Abstract Coordinator" />
       <item value="entrance Name" />
       <item value="入口&#10;" />
@@ -53,13 +55,11 @@
       <item value="increa" />
       <item value="Seekable Byte Channel" />
       <item value="recycle" />
-      <item value="preready&#10;" />
-      <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3580" />
-        <entry key="ENGLISH" value="3581" />
+        <entry key="CHINESE" value="3582" />
+        <entry key="ENGLISH" value="3583" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
