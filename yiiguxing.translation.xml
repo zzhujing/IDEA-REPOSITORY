@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="zoobie&#10;" />
+      <item value="raise" />
       <item value="This also handles periodic offset commits if they are enabled." />
       <item value="wake up&#10;" />
       <item value="wakeup" />
@@ -53,13 +55,11 @@
       <item value="to Positive" />
       <item value="sticky Partition Cache" />
       <item value="Acknowledgement" />
-      <item value="perfactions&#10;" />
-      <item value="erfactions&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3594" />
-        <entry key="ENGLISH" value="3595" />
+        <entry key="CHINESE" value="3597" />
+        <entry key="ENGLISH" value="3597" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
