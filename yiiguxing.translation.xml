@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="extract" />
       <item value="保留&#10;" />
       <item value="Unused" />
       <item value="声明&#10;" />
@@ -54,12 +55,11 @@
       <item value="seek&#10;" />
       <item value="visible" />
       <item value="Access to such variables is supported under various &lt;em&gt;access modes&lt;em&gt;" />
-      <item value="under" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3673" />
-        <entry key="ENGLISH" value="3674" />
+        <entry key="CHINESE" value="3674" />
+        <entry key="ENGLISH" value="3675" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
