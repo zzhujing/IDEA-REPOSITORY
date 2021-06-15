@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="commenting user id" />
+      <item value="评论&#10;" />
+      <item value="commend user id" />
+      <item value="comment user id" />
       <item value="折扣百分比&#10;" />
       <item value="USABLE" />
       <item value="extract" />
@@ -51,15 +55,11 @@
       <item value="FAQ Url" />
       <item value="Rebalance" />
       <item value="kicked out of the group." />
-      <item value="ago&#10;" />
-      <item value="固定&#10;" />
-      <item value="指定&#10;" />
-      <item value="seek&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3681" />
-        <entry key="ENGLISH" value="3682" />
+        <entry key="CHINESE" value="3691" />
+        <entry key="ENGLISH" value="3692" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
