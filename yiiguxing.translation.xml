@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="particular" />
       <item value="commenting user id" />
       <item value="评论&#10;" />
       <item value="commend user id" />
@@ -54,12 +55,11 @@
       <item value="It will be removed at 4.4.0 cause for exception handling and the wrong Semantics of timeout." />
       <item value="FAQ Url" />
       <item value="Rebalance" />
-      <item value="kicked out of the group." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3691" />
-        <entry key="ENGLISH" value="3692" />
+        <entry key="CHINESE" value="3692" />
+        <entry key="ENGLISH" value="3693" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
