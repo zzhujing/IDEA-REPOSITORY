@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Type definition error: [simple type, class java.lang.Object]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer found for class java.lang.Object and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dxd.mall.common.core.PageQueryWrapper[&quot;defaultQueryBody&quot;])" />
       <item value="region" />
       <item value="dirties&#10;" />
       <item value="desired" />
@@ -54,12 +55,11 @@
       <item value="sensors" />
       <item value="assign From Subscribed" />
       <item value="assigned" />
-      <item value="Consumer Partition Assignor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3702" />
-        <entry key="ENGLISH" value="3703" />
+        <entry key="CHINESE" value="3703" />
+        <entry key="ENGLISH" value="3704" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
