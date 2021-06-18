@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="JUnit will invoke the class it references to run the tests in that class instead of the runner built into JUnit&#10;" />
       <item value="底部栏&#10;" />
       <item value="alternative&#10;" />
       <item value="Type definition error: [simple type, class java.lang.Object]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer found for class java.lang.Object and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dxd.mall.common.core.PageQueryWrapper[&quot;defaultQueryBody&quot;])" />
@@ -54,7 +55,6 @@
       <item value="文章&#10;" />
       <item value="Jaas" />
       <item value="relative To Current" />
-      <item value="sensors" />
     </histories>
     <option name="languageScores">
       <map>
