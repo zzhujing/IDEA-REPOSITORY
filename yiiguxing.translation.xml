@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="answer&#10;" />
       <item value="familiar" />
       <item value="JUnit will invoke the class it references to run the tests in that class instead of the runner built into JUnit&#10;" />
       <item value="底部栏&#10;" />
@@ -54,7 +55,6 @@
       <item value="enter Name" />
       <item value="entry Name" />
       <item value="文章&#10;" />
-      <item value="Jaas" />
     </histories>
     <option name="languageScores">
       <map>
