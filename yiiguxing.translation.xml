@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="181" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="he implication of modifying key/value is that partition assignment (if not specified in ProducerRecord) will be done based on modified key/value, not key/value from the client. Consequently, key and value transformation done in onSend() needs to be consistent: same key and value should mutate to the same (modified) key and value. Otherwise, log compaction would not work as expected.&#10;" />
+      <item value="assignment&#10;" />
       <item value="answer&#10;" />
       <item value="familiar" />
       <item value="JUnit will invoke the class it references to run the tests in that class instead of the runner built into JUnit&#10;" />
@@ -53,8 +55,6 @@
       <item value="entrance Name" />
       <item value="入口&#10;" />
       <item value="enter Name" />
-      <item value="entry Name" />
-      <item value="文章&#10;" />
     </histories>
     <option name="languageScores">
       <map>
