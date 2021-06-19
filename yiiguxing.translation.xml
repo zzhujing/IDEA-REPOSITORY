@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="181" />
-    <option name="newTranslationDialogY" value="507" />
+    <option name="newTranslationDialogX" value="246" />
+    <option name="newTranslationDialogY" value="587" />
     <histories>
+      <item value="mutate&#10;" />
+      <item value="consequently&#10;" />
+      <item value="conse" />
       <item value="he implication of modifying key/value is that partition assignment (if not specified in ProducerRecord) will be done based on modified key/value, not key/value from the client. Consequently, key and value transformation done in onSend() needs to be consistent: same key and value should mutate to the same (modified) key and value. Otherwise, log compaction would not work as expected.&#10;" />
       <item value="assignment&#10;" />
       <item value="answer&#10;" />
@@ -52,9 +55,6 @@
       <item value="Requests and responses of Fetcher may be processed by different threads since heartbeat thread may process responses" />
       <item value="since" />
       <item value="Abstract Coordinator" />
-      <item value="entrance Name" />
-      <item value="入口&#10;" />
-      <item value="enter Name" />
     </histories>
     <option name="languageScores">
       <map>
