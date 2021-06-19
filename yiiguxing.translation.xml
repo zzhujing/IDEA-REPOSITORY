@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="246" />
     <option name="newTranslationDialogY" value="587" />
     <histories>
+      <item value="education&#10;" />
       <item value="mutate&#10;" />
       <item value="consequently&#10;" />
       <item value="conse" />
@@ -54,7 +55,6 @@
       <item value="assumed" />
       <item value="Requests and responses of Fetcher may be processed by different threads since heartbeat thread may process responses" />
       <item value="since" />
-      <item value="Abstract Coordinator" />
     </histories>
     <option name="languageScores">
       <map>
