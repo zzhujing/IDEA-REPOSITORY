@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="246" />
     <option name="newTranslationDialogY" value="587" />
     <histories>
+      <item value="Unaware&#10;&#10;" />
       <item value="education&#10;" />
       <item value="mutate&#10;" />
       <item value="consequently&#10;" />
@@ -54,7 +55,6 @@
       <item value="it is assumed that all access to that state is synchronized on the coordinator instance by the caller" />
       <item value="assumed" />
       <item value="Requests and responses of Fetcher may be processed by different threads since heartbeat thread may process responses" />
-      <item value="since" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623721507069" />
+    <option name="lastTrimTime" value="1624196001356" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
