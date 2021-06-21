@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2671" />
     <option name="newTranslationDialogY" value="724" />
     <histories>
+      <item value="点赞数&#10;" />
       <item value="collections count" />
       <item value="收藏数&#10;" />
       <item value="collect count" />
@@ -54,12 +55,11 @@
       <item value="底部栏&#10;" />
       <item value="alternative&#10;" />
       <item value="Type definition error: [simple type, class java.lang.Object]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer found for class java.lang.Object and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dxd.mall.common.core.PageQueryWrapper[&quot;defaultQueryBody&quot;])" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3789" />
-        <entry key="ENGLISH" value="3789" />
+        <entry key="CHINESE" value="3796" />
+        <entry key="ENGLISH" value="3796" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
