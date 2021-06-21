@@ -2,9 +2,26 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="246" />
-    <option name="newTranslationDialogY" value="587" />
+    <option name="newTranslationDialogX" value="2674" />
+    <option name="newTranslationDialogY" value="841" />
     <histories>
+      <item value=" but we reserve the right to make breaking changes in minor releases, if necessary. We will update the InterfaceStability annotation and this notice once the API is considered stable&#10;" />
+      <item value="reserve&#10;" />
+      <item value="compatible&#10;manner&#10;&#10;" />
+      <item value="compatible&#10;mann&#10;er&#10;" />
+      <item value="compatible&#10;maner&#10;" />
+      <item value="compatible&#10;" />
+      <item value="evolving&#10;" />
+      <item value="stricter&#10;" />
+      <item value="stricter" />
+      <item value="acl&#10;" />
+      <item value="acls&#10;" />
+      <item value="inspecting&#10;" />
+      <item value="inspecting" />
+      <item value="administrative&#10;" />
+      <item value="admin" />
+      <item value="Admin" />
+      <item value="Interface Stability.Evolving" />
       <item value="Unaware&#10;&#10;" />
       <item value="education&#10;" />
       <item value="mutate&#10;" />
@@ -38,28 +55,11 @@
       <item value="领取&#10;" />
       <item value="优惠券&#10;" />
       <item value="已有的&#10;" />
-      <item value="zoobie&#10;" />
-      <item value="raise" />
-      <item value="This also handles periodic offset commits if they are enabled." />
-      <item value="wake up&#10;" />
-      <item value="wakeup" />
-      <item value="time Between Poll Sensor" />
-      <item value="Metrics" />
-      <item value="beyond" />
-      <item value="offset Epoch" />
-      <item value="considered" />
-      <item value="A partition is &quot;assigned&quot; either directly with {@link assignFromUser(Set)} (manual assignment) or with {@link assignFromSubscribed(Collection)} (automatic assignment from subscription)." />
-      <item value="be...either.." />
-      <item value="be..." />
-      <item value="If a response handler accesses any shared state of the coordinator (e.g. SubscriptionState), it is assumed that all access to that state is synchronized on the coordinator instance by the caller" />
-      <item value="it is assumed that all access to that state is synchronized on the coordinator instance by the caller" />
-      <item value="assumed" />
-      <item value="Requests and responses of Fetcher may be processed by different threads since heartbeat thread may process responses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3711" />
-        <entry key="ENGLISH" value="3712" />
+        <entry key="CHINESE" value="3731" />
+        <entry key="ENGLISH" value="3725" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
