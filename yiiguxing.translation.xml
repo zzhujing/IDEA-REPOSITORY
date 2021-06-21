@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2671" />
     <option name="newTranslationDialogY" value="724" />
     <histories>
+      <item value="(For list-type configuration entries only.) Removes the specified values from the current value of the configuration entry. It is legal to remove values that are not currently in the configuration entry. Removing all entries from the current configuration value leaves an empty list and does NOT revert to the default value of the entry.&#10;" />
+      <item value="Revert the configuration entry to the default value (possibly null)&#10;" />
+      <item value="SUBTRACT" />
       <item value="retry On Quota Violation" />
       <item value="Quota" />
       <item value="correlation Id" />
@@ -52,14 +55,11 @@
       <item value="admin" />
       <item value="Admin" />
       <item value="Interface Stability.Evolving" />
-      <item value="Unaware&#10;&#10;" />
-      <item value="education&#10;" />
-      <item value="mutate&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3832" />
-        <entry key="ENGLISH" value="3833" />
+        <entry key="CHINESE" value="3835" />
+        <entry key="ENGLISH" value="3834" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
