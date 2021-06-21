@@ -2,9 +2,24 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2674" />
-    <option name="newTranslationDialogY" value="841" />
+    <option name="newTranslationDialogX" value="2671" />
+    <option name="newTranslationDialogY" value="724" />
     <histories>
+      <item value="文件目录&#10;" />
+      <item value="文件&#10;目录&#10;" />
+      <item value="目录&#10;" />
+      <item value="director" />
+      <item value="介绍&#10;" />
+      <item value="author introduce" />
+      <item value="副标题&#10;" />
+      <item value="post" />
+      <item value="lesson post" />
+      <item value="lessones&#10;&#10;&#10;" />
+      <item value="lesson&#10;&#10;" />
+      <item value="lessons&#10;" />
+      <item value="le's's" />
+      <item value="课程&#10;" />
+      <item value="tb capture" />
       <item value=" but we reserve the right to make breaking changes in minor releases, if necessary. We will update the InterfaceStability annotation and this notice once the API is considered stable&#10;" />
       <item value="reserve&#10;" />
       <item value="compatible&#10;manner&#10;&#10;" />
@@ -40,26 +55,11 @@
       <item value="desired" />
       <item value="related" />
       <item value="particular" />
-      <item value="commenting user id" />
-      <item value="评论&#10;" />
-      <item value="commend user id" />
-      <item value="comment user id" />
-      <item value="折扣百分比&#10;" />
-      <item value="USABLE" />
-      <item value="extract" />
-      <item value="保留&#10;" />
-      <item value="Unused" />
-      <item value="声明&#10;" />
-      <item value="申明&#10;" />
-      <item value="she" />
-      <item value="领取&#10;" />
-      <item value="优惠券&#10;" />
-      <item value="已有的&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3731" />
-        <entry key="ENGLISH" value="3725" />
+        <entry key="CHINESE" value="3773" />
+        <entry key="ENGLISH" value="3771" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
