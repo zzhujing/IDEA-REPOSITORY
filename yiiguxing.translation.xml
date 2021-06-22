@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2671" />
-    <option name="newTranslationDialogY" value="585" />
+    <option name="newTranslationDialogX" value="2637" />
+    <option name="newTranslationDialogY" value="709" />
     <histories>
+      <item value="conduct&#10;" />
       <item value="底部栏&#10;" />
       <item value="throttle&#10;" />
       <item value="Policy Violation Exception" />
@@ -54,11 +55,10 @@
       <item value="acls&#10;" />
       <item value="inspecting&#10;" />
       <item value="inspecting" />
-      <item value="administrative&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3843" />
+        <entry key="CHINESE" value="3844" />
         <entry key="ENGLISH" value="3842" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
