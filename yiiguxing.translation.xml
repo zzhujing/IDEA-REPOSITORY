@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2671" />
     <option name="newTranslationDialogY" value="585" />
     <histories>
+      <item value="底部栏&#10;" />
       <item value="throttle&#10;" />
       <item value="Policy Violation Exception" />
       <item value="(For list-type configuration entries only.) Removes the specified values from the current value of the configuration entry. It is legal to remove values that are not currently in the configuration entry. Removing all entries from the current configuration value leaves an empty list and does NOT revert to the default value of the entry.&#10;" />
@@ -54,12 +55,11 @@
       <item value="inspecting&#10;" />
       <item value="inspecting" />
       <item value="administrative&#10;" />
-      <item value="admin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3836" />
-        <entry key="ENGLISH" value="3835" />
+        <entry key="CHINESE" value="3843" />
+        <entry key="ENGLISH" value="3842" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
