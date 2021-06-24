@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="significant" />
       <item value="Raw Tagged Field" />
       <item value="correlation&#10;" />
       <item value="anticipatory&#10;" />
@@ -54,12 +55,11 @@
       <item value="compatible&#10;manner&#10;&#10;" />
       <item value="compatible&#10;mann&#10;er&#10;" />
       <item value="compatible&#10;maner&#10;" />
-      <item value="compatible&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3863" />
-        <entry key="ENGLISH" value="3858" />
+        <entry key="ENGLISH" value="3859" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
