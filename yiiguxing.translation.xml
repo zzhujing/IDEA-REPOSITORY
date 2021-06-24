@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="idempotent" />
       <item value="Stable" />
       <item value="last Stable Offset" />
       <item value="significant" />
@@ -54,12 +55,11 @@
       <item value="tb capture" />
       <item value=" but we reserve the right to make breaking changes in minor releases, if necessary. We will update the InterfaceStability annotation and this notice once the API is considered stable&#10;" />
       <item value="reserve&#10;" />
-      <item value="compatible&#10;manner&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3863" />
-        <entry key="ENGLISH" value="3862" />
+        <entry key="ENGLISH" value="3863" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
