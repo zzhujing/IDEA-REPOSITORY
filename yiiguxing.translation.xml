@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="786" />
     <histories>
+      <item value="A cooperative version of the AbstractStickyAssignor. This follows the same (sticky) assignment logic as StickyAssignor but allows for cooperative rebalancing while the StickyAssignor follows the eager rebalancing protocol. See ConsumerPartitionAssignor.RebalanceProtocol for an explanation of the rebalancing protocols.&#10;Users should prefer this assignor for newer clusters.&#10;To turn on cooperative rebalancing you must set all your consumers to use this PartitionAssignor, or implement a custom one that returns RebalanceProtocol.COOPERATIVE in supportedProtocols().&#10;IMPORTANT: if upgrading from 2.3 or earlier, you must follow a specific upgrade path in order to safely turn on cooperative rebalancing. See the upgrade guide  for details.&#10;" />
+      <item value="Cooperative Sticky Assignor" />
       <item value="consumers With Extra Partition" />
       <item value="Evolving" />
       <item value="Interface Stability" />
@@ -53,13 +55,11 @@
       <item value="介绍&#10;" />
       <item value="author introduce" />
       <item value="副标题&#10;" />
-      <item value="post" />
-      <item value="lesson post" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3882" />
-        <entry key="ENGLISH" value="3883" />
+        <entry key="CHINESE" value="3884" />
+        <entry key="ENGLISH" value="3884" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
