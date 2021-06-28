@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="786" />
     <histories>
+      <item value="as evenly as possible&#10;" />
+      <item value="below&#10;" />
+      <item value="be" />
+      <item value="preserved&#10;" />
+      <item value="fewer&#10;" />
+      <item value="the numbers of topic partitions assigned to consumers differ by at most one; or&#10;each consumer that has 2+ fewer topic partitions than some other consumer cannot get any of those topic partitions transferred to it.&#10;" />
       <item value="participating" />
       <item value="retain" />
       <item value="reshuffling" />
@@ -49,17 +55,11 @@
       <item value="Quota" />
       <item value="correlation Id" />
       <item value="原价&#10;" />
-      <item value="origin&#10;" />
-      <item value="实际&#10;" />
-      <item value="实际的&#10;" />
-      <item value="remain_amount" />
-      <item value="remain" />
-      <item value="路径&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3896" />
-        <entry key="ENGLISH" value="3897" />
+        <entry key="CHINESE" value="3905" />
+        <entry key="ENGLISH" value="3901" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
