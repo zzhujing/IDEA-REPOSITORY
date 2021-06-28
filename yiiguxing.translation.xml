@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="786" />
     <histories>
+      <item value="flight&#10;" />
+      <item value="idempotence&#10;" />
       <item value="as evenly as possible&#10;" />
       <item value="below&#10;" />
       <item value="be" />
@@ -53,13 +55,11 @@
       <item value="SUBTRACT" />
       <item value="retry On Quota Violation" />
       <item value="Quota" />
-      <item value="correlation Id" />
-      <item value="原价&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3905" />
-        <entry key="ENGLISH" value="3901" />
+        <entry key="CHINESE" value="3911" />
+        <entry key="ENGLISH" value="3906" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
