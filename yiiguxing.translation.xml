@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="782" />
-    <option name="newTranslationDialogY" value="786" />
+    <option name="newTranslationDialogX" value="682" />
+    <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="The locale-independent name of the attribute&#10;" />
       <item value="investigation&#10;" />
       <item value="反查&#10;" />
       <item value="Invalid transition attempted from state UNINITIALIZED to state IN_TRANSACTION" />
@@ -54,11 +55,10 @@
       <item value="conduct&#10;" />
       <item value="底部栏&#10;" />
       <item value="throttle&#10;" />
-      <item value="Policy Violation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3925" />
+        <entry key="CHINESE" value="3926" />
         <entry key="ENGLISH" value="3922" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
