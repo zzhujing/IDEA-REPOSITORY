@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="786" />
     <histories>
+      <item value="sink&#10;" />
       <item value="flight&#10;" />
       <item value="idempotence&#10;" />
       <item value="as evenly as possible&#10;" />
@@ -54,11 +55,10 @@
       <item value="Revert the configuration entry to the default value (possibly null)&#10;" />
       <item value="SUBTRACT" />
       <item value="retry On Quota Violation" />
-      <item value="Quota" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3911" />
+        <entry key="CHINESE" value="3912" />
         <entry key="ENGLISH" value="3906" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
