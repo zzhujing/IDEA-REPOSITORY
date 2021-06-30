@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="Inflater" />
       <item value="get Canonical Path" />
       <item value="dal" />
       <item value="set Capital Mode" />
@@ -54,12 +55,11 @@
       <item value="correlation&#10;" />
       <item value="anticipatory&#10;" />
       <item value="antici" />
-      <item value="anticipa" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3936" />
-        <entry key="ENGLISH" value="3933" />
+        <entry key="ENGLISH" value="3934" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
