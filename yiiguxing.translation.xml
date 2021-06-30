@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="quorum&#10;" />
       <item value="CONTENT DISPOSITION" />
       <item value="get Canonical Path" />
       <item value="Inflater" />
@@ -54,12 +55,11 @@
       <item value="significant" />
       <item value="Raw Tagged Field" />
       <item value="correlation&#10;" />
-      <item value="anticipatory&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3936" />
-        <entry key="ENGLISH" value="3936" />
+        <entry key="CHINESE" value="3943" />
+        <entry key="ENGLISH" value="3942" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624630169494" />
+    <option name="lastTrimTime" value="1625067132734" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
