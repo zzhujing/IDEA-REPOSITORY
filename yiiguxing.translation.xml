@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="Derived" />
+      <item value="LEGACY" />
       <item value="quorum&#10;" />
       <item value="CONTENT DISPOSITION" />
       <item value="get Canonical Path" />
@@ -53,13 +55,11 @@
       <item value="Stable" />
       <item value="last Stable Offset" />
       <item value="significant" />
-      <item value="Raw Tagged Field" />
-      <item value="correlation&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3943" />
-        <entry key="ENGLISH" value="3942" />
+        <entry key="ENGLISH" value="3944" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />

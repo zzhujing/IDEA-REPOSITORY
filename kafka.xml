@@ -1,5 +1,7 @@
 <application>
   <component name="KafkaSettings">
+    <option name="dataUpdateIntervalMillis" value="-1" />
     <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@-3311768146656680707" />
+    <option name="showInternalTopics" value="true" />
   </component>
 </application>
