@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="Utility that can be used to map values from a supplied source to a destination. Primarily intended to be help when mapping from @ConfigurationProperties to third-party classes.&#10;" />
       <item value="集成测试&#10;" />
       <item value="A single resource from which ConfigData can be loaded&#10;" />
       <item value="claims" />
@@ -54,11 +55,10 @@
       <item value="purgatory&#10;" />
       <item value="purgator&#10;" />
       <item value="pourgator" />
-      <item value="wheel&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3958" />
+        <entry key="CHINESE" value="3959" />
         <entry key="ENGLISH" value="3958" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
