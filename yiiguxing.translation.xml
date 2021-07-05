@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="Assembler" />
       <item value="When provided, overrides the client id property in the consumer factory configuration. A suffix ('-n') is added for each container instance to ensure uniqueness when concurrency is used.&#10;" />
       <item value="相关&#10;" />
       <item value="相关元信息&#10;" />
@@ -54,12 +55,11 @@
       <item value="A cooperative version of the AbstractStickyAssignor. This follows the same (sticky) assignment logic as StickyAssignor but allows for cooperative rebalancing while the StickyAssignor follows the eager rebalancing protocol. See ConsumerPartitionAssignor.RebalanceProtocol for an explanation of the rebalancing protocols.&#10;Users should prefer this assignor for newer clusters.&#10;To turn on cooperative rebalancing you must set all your consumers to use this PartitionAssignor, or implement a custom one that returns RebalanceProtocol.COOPERATIVE in supportedProtocols().&#10;IMPORTANT: if upgrading from 2.3 or earlier, you must follow a specific upgrade path in order to safely turn on cooperative rebalancing. See the upgrade guide  for details.&#10;" />
       <item value="Cooperative Sticky Assignor" />
       <item value="consumers With Extra Partition" />
-      <item value="Evolving" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3996" />
-        <entry key="ENGLISH" value="3995" />
+        <entry key="ENGLISH" value="3996" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
