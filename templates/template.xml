@@ -69,7 +69,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="uid" value="private static final long serialVersionUID = 1L;" toReformat="false" toShortenFQNames="true">
+  <template name="uid" value="private static final long serialVersionUID = 1L;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
