@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="activities status" />
+      <item value="activies status" />
+      <item value="拼团活动&#10;" />
+      <item value="group activity" />
+      <item value="group ac" />
       <item value="group work&#10;&#10;&#10;" />
       <item value="groupWork&#10;&#10;" />
       <item value="拼团&#10;" />
@@ -50,16 +55,11 @@
       <item value="and it is their responsibility to respect the rules" />
       <item value="claim" />
       <item value="ownership" />
-      <item value="revocation semantics" />
-      <item value="revocation" />
-      <item value="COOPERATIVE" />
-      <item value="EAGER" />
-      <item value="leveraged&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4020" />
-        <entry key="ENGLISH" value="4020" />
+        <entry key="CHINESE" value="4036" />
+        <entry key="ENGLISH" value="4037" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
