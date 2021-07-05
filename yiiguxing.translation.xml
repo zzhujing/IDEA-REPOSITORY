@@ -3,8 +3,10 @@
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <option name="newTranslationDialogX" value="682" />
-    <option name="newTranslationDialogY" value="788" />
+    <option name="newTranslationDialogY" value="804" />
     <histories>
+      <item value="参团&#10;" />
+      <item value="已参团&#10;" />
       <item value="千人&#10;" />
       <item value="activities status" />
       <item value="activies status" />
@@ -53,13 +55,11 @@
       <item value="retain" />
       <item value="reshuffling" />
       <item value="Failures to follow the rules of the supported protocols" />
-      <item value="and it is their responsibility to respect the rules" />
-      <item value="claim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4066" />
-        <entry key="ENGLISH" value="4067" />
+        <entry key="CHINESE" value="4093" />
+        <entry key="ENGLISH" value="4094" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
