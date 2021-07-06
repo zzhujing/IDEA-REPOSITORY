@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="682" />
     <option name="newTranslationDialogY" value="804" />
     <histories>
+      <item value="{ return EnumSet.complementOf((EnumSet&lt;E&gt;) collection); }" />
       <item value="Gets the keyspace in which the expiration occured&#10;" />
       <item value="RedisKeyExpiredEvent is a Redis specific ApplicationEvent published when a particular key in Redis expires. It can hold the value of the expired key next to the key, but is not required to do so.&#10;" />
       <item value="参团&#10;" />
@@ -54,12 +55,11 @@
       <item value="fewer&#10;" />
       <item value="the numbers of topic partitions assigned to consumers differ by at most one; or&#10;each consumer that has 2+ fewer topic partitions than some other consumer cannot get any of those topic partitions transferred to it.&#10;" />
       <item value="participating" />
-      <item value="retain" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4095" />
-        <entry key="ENGLISH" value="4094" />
+        <entry key="ENGLISH" value="4095" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
