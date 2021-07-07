@@ -2,8 +2,6 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2964" />
-    <option name="newTranslationDialogY" value="814" />
     <histories>
       <item value="处理&#10;" />
       <item value="{ return EnumSet.complementOf((EnumSet&lt;E&gt;) collection); }" />
