@@ -3,6 +3,7 @@
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <histories>
+      <item value="layui-word-aux" />
       <item value="truncated" />
       <item value="invaild&#10;" />
       <item value="july&#10;" />
@@ -52,7 +53,6 @@
       <item value="反查&#10;" />
       <item value="Invalid transition attempted from state UNINITIALIZED to state IN_TRANSACTION" />
       <item value="Producer Fenced Exception" />
-      <item value="sink&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="8" />
-        <entry key="FRENCH" value="14" />
+        <entry key="FRENCH" value="15" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
