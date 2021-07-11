@@ -1,0 +1,7 @@
+<application>
+  <component name="KafkaSettings">
+    <option name="dataUpdateIntervalMillis" value="-1" />
+    <option name="selectedConnectionId" value="" />
+    <option name="showInternalTopics" value="true" />
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>MockHttpServletRequestBuilder.content (org.springframework.test.web.servlet.request)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("content").withParameters("java.lang.String").definedInClass("org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder"))]]></place>
+    </injection>
+  </component>
+</application>
