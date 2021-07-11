@@ -2,7 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="高级功能&#10;" />
+      <item value="gao" />
+      <item value="hello world&#10;" />
+      <item value="高级&#10;" />
+      <item value="高级功能&#10;&#10;" />
+      <item value="高级功能" />
       <item value="layui-word-aux" />
       <item value="truncated" />
       <item value="invaild&#10;" />
@@ -47,17 +55,11 @@
       <item value="dal" />
       <item value="set Capital Mode" />
       <item value="satan&#10;" />
-      <item value="lag&#10;" />
-      <item value="The locale-independent name of the attribute&#10;" />
-      <item value="investigation&#10;" />
-      <item value="反查&#10;" />
-      <item value="Invalid transition attempted from state UNINITIALIZED to state IN_TRANSACTION" />
-      <item value="Producer Fenced Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4128" />
-        <entry key="ENGLISH" value="4127" />
+        <entry key="CHINESE" value="4144" />
+        <entry key="ENGLISH" value="4142" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -82,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625539106401" />
+    <option name="lastTrimTime" value="1626019646076" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -91,6 +93,5 @@
       </app-key>
     </option>
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
