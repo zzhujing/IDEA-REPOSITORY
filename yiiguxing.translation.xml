@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="essential&#10;" />
       <item value="declare the transaction only execute in single local RM but the transaction need to ensure records to update(or select for update) is not in global transaction middle stage use this annotation instead of GlobalTransaction in the situation mentioned above will help performance.&#10;" />
       <item value="高级功能&#10;" />
       <item value="gao" />
@@ -54,11 +55,10 @@
       <item value="get Canonical Path" />
       <item value="Inflater" />
       <item value="dal" />
-      <item value="set Capital Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4145" />
+        <entry key="CHINESE" value="4146" />
         <entry key="ENGLISH" value="4142" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
