@@ -38,7 +38,7 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
