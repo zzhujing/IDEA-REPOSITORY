@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="newest" />
+      <item value="closely" />
       <item value="handle Counting Down" />
       <item value="倒计时&#10;" />
       <item value="dao" />
@@ -53,13 +55,11 @@
       <item value="group activity" />
       <item value="group ac" />
       <item value="group work&#10;&#10;&#10;" />
-      <item value="groupWork&#10;&#10;" />
-      <item value="拼团&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4214" />
-        <entry key="ENGLISH" value="4213" />
+        <entry key="ENGLISH" value="4215" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
