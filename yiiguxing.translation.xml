@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="handle Counting Down" />
+      <item value="倒计时&#10;" />
+      <item value="dao" />
+      <item value="countdown&#10;" />
+      <item value="dao'ji'shi" />
+      <item value="到吉斯&#10;" />
+      <item value="dao'ji" />
       <item value="还可以拼团人数&#10;" />
       <item value="还已经拼团人数&#10;" />
       <item value="还已经pin" />
@@ -48,18 +55,11 @@
       <item value="group work&#10;&#10;&#10;" />
       <item value="groupWork&#10;&#10;" />
       <item value="拼团&#10;" />
-      <item value="Assembler" />
-      <item value="When provided, overrides the client id property in the consumer factory configuration. A suffix ('-n') is added for each container instance to ensure uniqueness when concurrency is used.&#10;" />
-      <item value="相关&#10;" />
-      <item value="相关元信息&#10;" />
-      <item value="相关元数据&#10;" />
-      <item value="CORRELATION ID" />
-      <item value="Utility that can be used to map values from a supplied source to a destination. Primarily intended to be help when mapping from @ConfigurationProperties to third-party classes.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4181" />
-        <entry key="ENGLISH" value="4179" />
+        <entry key="CHINESE" value="4214" />
+        <entry key="ENGLISH" value="4213" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
