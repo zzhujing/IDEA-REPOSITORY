@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="失效&#10;" />
       <item value="extract Activities" />
       <item value="newest" />
       <item value="closely" />
@@ -54,12 +55,11 @@
       <item value="activies status" />
       <item value="拼团活动&#10;" />
       <item value="group activity" />
-      <item value="group ac" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4215" />
-        <entry key="ENGLISH" value="4216" />
+        <entry key="CHINESE" value="4222" />
+        <entry key="ENGLISH" value="4223" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
