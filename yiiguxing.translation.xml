@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="756" />
     <histories>
+      <item value="持久" />
+      <item value="chi" />
+      <item value="持久的" />
+      <item value="持久化&#10;" />
+      <item value="duration&#10;" />
       <item value="and in additional cases when KafkaProducer.send() throws an exception.&#10;" />
       <item value="background&#10;" />
       <item value=" when sending the record fails before it gets sent to the server.&#10;&#10;" />
@@ -50,16 +55,11 @@
       <item value="declare the transaction only execute in single local RM but the transaction need to ensure records to update(or select for update) is not in global transaction middle stage use this annotation instead of GlobalTransaction in the situation mentioned above will help performance.&#10;" />
       <item value="高级功能&#10;" />
       <item value="gao" />
-      <item value="hello world&#10;" />
-      <item value="高级&#10;" />
-      <item value="高级功能&#10;&#10;" />
-      <item value="高级功能" />
-      <item value="layui-word-aux" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4253" />
-        <entry key="ENGLISH" value="4240" />
+        <entry key="CHINESE" value="4278" />
+        <entry key="ENGLISH" value="4265" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
