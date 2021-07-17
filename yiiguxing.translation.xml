@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="756" />
     <histories>
+      <item value="and in additional cases when KafkaProducer.send() throws an exception.&#10;" />
+      <item value="background&#10;" />
+      <item value=" when sending the record fails before it gets sent to the server.&#10;&#10;" />
       <item value="potential" />
       <item value="However, building a pipeline of mutable interceptors that depend on the output of the previous interceptor is discouraged, because of potential side-effects caused by interceptors potentially failing to modify the record and throwing an exceptio" />
       <item value="discouraged" />
@@ -52,13 +55,10 @@
       <item value="高级功能&#10;&#10;" />
       <item value="高级功能" />
       <item value="layui-word-aux" />
-      <item value="truncated" />
-      <item value="invaild&#10;" />
-      <item value="july&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4250" />
+        <entry key="CHINESE" value="4253" />
         <entry key="ENGLISH" value="4240" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
