@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="756" />
     <histories>
+      <item value="idempotence&#10;" />
+      <item value="idem" />
       <item value="持久" />
       <item value="chi" />
       <item value="持久的" />
@@ -53,13 +55,11 @@
       <item value="剩余活动结束时间&#10;" />
       <item value="essential&#10;" />
       <item value="declare the transaction only execute in single local RM but the transaction need to ensure records to update(or select for update) is not in global transaction middle stage use this annotation instead of GlobalTransaction in the situation mentioned above will help performance.&#10;" />
-      <item value="高级功能&#10;" />
-      <item value="gao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4278" />
-        <entry key="ENGLISH" value="4265" />
+        <entry key="CHINESE" value="4279" />
+        <entry key="ENGLISH" value="4266" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
