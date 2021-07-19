@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="发起拼团&#10;" />
+      <item value="拼团&#10;" />
+      <item value="can Take A Group" />
       <item value="Qurnum&#10;" />
       <item value="Qurnum" />
       <item value="idempotence&#10;" />
@@ -52,14 +55,11 @@
       <item value="distance Nums Of Success" />
       <item value="距离" />
       <item value="距离成功个数" />
-      <item value="距离成功" />
-      <item value="距离互动开始时间&#10;" />
-      <item value="剩余活动结束时间&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4280" />
-        <entry key="ENGLISH" value="4267" />
+        <entry key="CHINESE" value="4291" />
+        <entry key="ENGLISH" value="4279" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
