@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="check Group Activities State" />
       <item value="发起拼团&#10;" />
       <item value="拼团&#10;" />
       <item value="can Take A Group" />
@@ -54,12 +55,11 @@
       <item value="还可以" />
       <item value="distance Nums Of Success" />
       <item value="距离" />
-      <item value="距离成功个数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4291" />
-        <entry key="ENGLISH" value="4279" />
+        <entry key="ENGLISH" value="4280" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
