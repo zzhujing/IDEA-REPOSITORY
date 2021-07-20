@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="Uncategorized SQL Exception" />
       <item value="减少库存" />
       <item value="减少&#10;" />
       <item value="check Group Activities State" />
@@ -54,12 +55,11 @@
       <item value="还已经拼团人数&#10;" />
       <item value="还已经pin" />
       <item value="还可以&#10;" />
-      <item value="还可以" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4299" />
-        <entry key="ENGLISH" value="4288" />
+        <entry key="ENGLISH" value="4289" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
