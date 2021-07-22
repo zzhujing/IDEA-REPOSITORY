@@ -3,7 +3,6 @@
     <option name="connections">
       <list>
         <ExtendedConnectionData>
-          <option name="enabled" value="false" />
           <option name="extended">
             <map>
               <entry key="properties" value="rO0ABXQAAA==" />
@@ -12,11 +11,11 @@
           </option>
           <option name="fqn" value="com.jetbrains.bigdatatools.kafka.rfs.KafkaConnectionData" />
           <option name="groupId" value="KafkaConnections" />
-          <option name="innerId" value="Kafka connection@KafkaConnections@-311720387107390353" />
+          <option name="innerId" value="Kafka connection@KafkaConnections@6029398668164649771" />
           <option name="name" value="Kafka connection" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="-1" />
-          <option name="uri" value="172.16.218.216:33934" />
+          <option name="uri" value="47.96.151.255:9092" />
         </ExtendedConnectionData>
       </list>
     </option>
