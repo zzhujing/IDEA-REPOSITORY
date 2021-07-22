@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="is New Customer" />
       <item value="compensate" />
       <item value="Number of threads to run in the listener containers." />
       <item value="If you are actually operating within a web request" />
@@ -54,12 +55,11 @@
       <item value="extract Activities" />
       <item value="newest" />
       <item value="closely" />
-      <item value="handle Counting Down" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4302" />
-        <entry key="ENGLISH" value="4298" />
+        <entry key="ENGLISH" value="4299" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
