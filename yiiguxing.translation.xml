@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="如果必要的话&#10;" />
+      <item value="ru" />
       <item value="is New Customer" />
       <item value="compensate" />
       <item value="Number of threads to run in the listener containers." />
@@ -53,13 +55,11 @@
       <item value="强制" />
       <item value="失效&#10;" />
       <item value="extract Activities" />
-      <item value="newest" />
-      <item value="closely" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4302" />
-        <entry key="ENGLISH" value="4299" />
+        <entry key="CHINESE" value="4307" />
+        <entry key="ENGLISH" value="4304" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
