@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="字符&#10;" />
       <item value="Clang-Tidy: Loop induction expression should not have floating-point type&#10;" />
       <item value="Clang-Tidy: Loop induction expression should not have floating-point type" />
       <item value="十六进制&#10;" />
@@ -54,12 +55,11 @@
       <item value="Similarly, it is up to interceptor implementation to ensure that correct topic/partition is returned in ProducerRecord. Most often, it should be the same topic/partition from 'record&#10;" />
       <item value=" Consequently, key and value transformation done in onSend() needs to be consistent: same key and value should mutate to the same (modified) key and value. Otherwise, log compaction would not work as expected.&#10;" />
       <item value="When used as part of a transaction, it is not necessary to define a callback or check the result of the future in order to detect errors from send. If any of the send calls failed with an irrecoverable error, the final commitTransaction() call will fail and throw the exception from the last failed send. When this happens, your application should call abortTransaction() to reset the state and continue to send data.&#10;Some transactional send errors cannot be resolved with a call to abortTransaction(). In particular, if a transactional send finishes with a ProducerFencedException, a org.apache.kafka.common.errors.OutOfOrderSequenceException, a org.apache.kafka.common.errors.UnsupportedVersionException, or an AuthorizationException, then the only option left is to call close(). Fatal errors cause the producer to enter a defunct state in which future API calls will continue to raise the same underyling error wrapped in a new KafkaException.&#10;It is a similar picture when idempotence is enabled, but no transactional.id has been configured. In this case, org.apache.kafka.common.errors.UnsupportedVersionException and AuthorizationException are considered fatal errors. However, ProducerFencedException does not need to be handled. Additionally, it is possible to continue sending after receiving an org.apache.kafka.common.errors.OutOfOrderSequenceException, but doing so can result in out of order delivery of pending messages. To ensure proper ordering, you should close the producer and create a new instance.&#10;If the message format of the destination topic is not upgraded to 0.11.0.0, idempotent and transactional produce requests will fail with an org.apache.kafka.common.errors.UnsupportedForMessageFormatException error. If this is encountered during a transaction, it is possible to abort and continue. But note that future sends to the same topic will continue receiving the same exception until the topic is upgraded.&#10;" />
-      <item value="When used as part of a transaction, it is not necessary to define a callback or check the result of the future in order to detect errors from send. If any of the send calls failed with an irrecoverable error, the final commitTransaction() call will fail and throw the exception from the last failed send. When this happens, your application should call abortTransaction() to reset the state and continue to send data.&#10;Some transactional send errors cannot be resolved with a call to abortTransaction(). In particular, if a transactional send finishes with a ProducerFencedException, a org.apache.kafka.common.errors.OutOfOrderSequenceException, a org.apache.kafka.common.errors.UnsupportedVersionException, or an AuthorizationException, then the only option left is to call close(). Fatal errors cause the producer to enter a defunct state in which future API calls will continue to raise the same underyling error wrapped in a new KafkaException.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4344" />
-        <entry key="ENGLISH" value="4341" />
+        <entry key="CHINESE" value="4348" />
+        <entry key="ENGLISH" value="4345" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
