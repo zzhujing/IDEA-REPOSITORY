@@ -1,0 +1,97 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="474" />
+    <option name="newTranslationDialogWidth" value="1510" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="576" />
+    <histories>
+      <item value="如果必要的话&#10;" />
+      <item value="ru" />
+      <item value="is New Customer" />
+      <item value="compensate" />
+      <item value="Number of threads to run in the listener containers." />
+      <item value="If you are actually operating within a web request" />
+      <item value="Async Execute StatisticsJob Finished! err =java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request" />
+      <item value="uni When Complete Stage" />
+      <item value="async Statistics Job" />
+      <item value="Data truncated for column 'activity_type' at ro" />
+      <item value="stdio&#10;" />
+      <item value="st" />
+      <item value="std&#10;" />
+      <item value="Uncategorized SQL Exception" />
+      <item value="减少库存" />
+      <item value="减少&#10;" />
+      <item value="check Group Activities State" />
+      <item value="发起拼团&#10;" />
+      <item value="拼团&#10;" />
+      <item value="can Take A Group" />
+      <item value="Qurnum&#10;" />
+      <item value="Qurnum" />
+      <item value="idempotence&#10;" />
+      <item value="idem" />
+      <item value="持久" />
+      <item value="chi" />
+      <item value="持久的" />
+      <item value="持久化&#10;" />
+      <item value="duration&#10;" />
+      <item value="and in additional cases when KafkaProducer.send() throws an exception.&#10;" />
+      <item value="background&#10;" />
+      <item value=" when sending the record fails before it gets sent to the server.&#10;&#10;" />
+      <item value="potential" />
+      <item value="However, building a pipeline of mutable interceptors that depend on the output of the previous interceptor is discouraged, because of potential side-effects caused by interceptors potentially failing to modify the record and throwing an exceptio" />
+      <item value="discouraged" />
+      <item value="discouraged&#10;" />
+      <item value="Similarly, it is up to interceptor implementation to ensure that correct topic/partition is returned in ProducerRecord. Most often, it should be the same topic/partition from 'record&#10;" />
+      <item value=" Consequently, key and value transformation done in onSend() needs to be consistent: same key and value should mutate to the same (modified) key and value. Otherwise, log compaction would not work as expected.&#10;" />
+      <item value="When used as part of a transaction, it is not necessary to define a callback or check the result of the future in order to detect errors from send. If any of the send calls failed with an irrecoverable error, the final commitTransaction() call will fail and throw the exception from the last failed send. When this happens, your application should call abortTransaction() to reset the state and continue to send data.&#10;Some transactional send errors cannot be resolved with a call to abortTransaction(). In particular, if a transactional send finishes with a ProducerFencedException, a org.apache.kafka.common.errors.OutOfOrderSequenceException, a org.apache.kafka.common.errors.UnsupportedVersionException, or an AuthorizationException, then the only option left is to call close(). Fatal errors cause the producer to enter a defunct state in which future API calls will continue to raise the same underyling error wrapped in a new KafkaException.&#10;It is a similar picture when idempotence is enabled, but no transactional.id has been configured. In this case, org.apache.kafka.common.errors.UnsupportedVersionException and AuthorizationException are considered fatal errors. However, ProducerFencedException does not need to be handled. Additionally, it is possible to continue sending after receiving an org.apache.kafka.common.errors.OutOfOrderSequenceException, but doing so can result in out of order delivery of pending messages. To ensure proper ordering, you should close the producer and create a new instance.&#10;If the message format of the destination topic is not upgraded to 0.11.0.0, idempotent and transactional produce requests will fail with an org.apache.kafka.common.errors.UnsupportedForMessageFormatException error. If this is encountered during a transaction, it is possible to abort and continue. But note that future sends to the same topic will continue receiving the same exception until the topic is upgraded.&#10;" />
+      <item value="When used as part of a transaction, it is not necessary to define a callback or check the result of the future in order to detect errors from send. If any of the send calls failed with an irrecoverable error, the final commitTransaction() call will fail and throw the exception from the last failed send. When this happens, your application should call abortTransaction() to reset the state and continue to send data.&#10;Some transactional send errors cannot be resolved with a call to abortTransaction(). In particular, if a transactional send finishes with a ProducerFencedException, a org.apache.kafka.common.errors.OutOfOrderSequenceException, a org.apache.kafka.common.errors.UnsupportedVersionException, or an AuthorizationException, then the only option left is to call close(). Fatal errors cause the producer to enter a defunct state in which future API calls will continue to raise the same underyling error wrapped in a new KafkaException.&#10;" />
+      <item value="e in order to detect errors from send.&#10;" />
+      <item value="guaranteed&#10;" />
+      <item value="simulate" />
+      <item value="The send is asynchronous and this method will return immediately once the record has been stored in the buffer of records waiting to be sent&#10;" />
+      <item value="The send is asynchronous and this method will return immediately once the record has been stored in the buffer of records waiting to be sent" />
+      <item value="The send is asynchronous and this method will return immediately once the record has been stored in the buffer of records waiting to be sent、" />
+      <item value="手动结束&#10;" />
+      <item value="强制" />
+      <item value="失效&#10;" />
+      <item value="extract Activities" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4307" />
+        <entry key="ENGLISH" value="4304" />
+        <entry key="CHINESE_CLASSICAL" value="1" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="ICELANDIC" value="1" />
+        <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="8" />
+        <entry key="GERMAN" value="8" />
+        <entry key="FRENCH" value="15" />
+        <entry key="FINNISH" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="2" />
+        <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="6" />
+        <entry key="PORTUGUESE" value="7" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="SLOVAK" value="1" />
+        <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="13" />
+        <entry key="HUNGARIAN" value="5" />
+        <entry key="ITALIAN" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1626510719287" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20191101000350914" />
+      </app-key>
+    </option>
+    <option name="primaryFontFamily" value="JetBrains Mono" />
+  </component>
+</application>

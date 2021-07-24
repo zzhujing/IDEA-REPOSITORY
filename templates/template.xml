@@ -1,0 +1,77 @@
+<templateSet group="template">
+  <template name="lbok" value="@Data&#10;@AllArgsConstructor&#10;@NoArgsConstructor&#10;@Builder" description="lombok注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="req" value="@Slf4j&#10;@RequiredArgsConstructor(onConstructor = @__(@Autowired))" description="lombok构造器注入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sbmain" value="public static void main(String[] args) {&#10;    new SpringApplicationBuilder($className$.class)&#10;            .run(args);&#10;}" description="SpringBoot启动类" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="form" value="for(Entry&lt;$K$,$V$&gt; $ENTRYNAME$ ,$MAP$){&#10;    $END$&#10;}" description="Entry遍历map" toReformat="false" toShortenFQNames="true">
+    <variable name="K" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="V" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENTRYNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MAP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pus" value="public static $END$" description="public static statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="group" value="collect(Collectors.groupingBy($START$))" description="collector分组" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="c" value="/**" description="代码注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sop" value="System.out::println" description="标注打印方法引用" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logv" value="log.info(&quot;$EXPR_COPY$ = &quot;,$EXPR$)" description="日志参数" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sleep" value="Uninterruptibles.sleepUninterruptibly($DELAY_TIME$, TimeUnit.$END$);" description="Guava Uninterruptibles Utils" toReformat="false" toShortenFQNames="true">
+    <variable name="DELAY_TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lf" value="public static final Logger log = LoggerFactory.getLogger($classname$.class);$END$" description="日志声明" toReformat="false" toShortenFQNames="true">
+    <variable name="classname" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="private final $END$" description="quick final statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="uid" value="private static final long serialVersionUID = 1L;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
