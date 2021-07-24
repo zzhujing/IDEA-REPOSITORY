@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="celsius" />
+      <item value="华氏度&#10;" />
+      <item value="花式度" />
+      <item value="fahr" />
+      <item value="return" />
       <item value="如果必要的话&#10;" />
       <item value="ru" />
       <item value="is New Customer" />
@@ -50,23 +55,18 @@
       <item value="simulate" />
       <item value="The send is asynchronous and this method will return immediately once the record has been stored in the buffer of records waiting to be sent&#10;" />
       <item value="The send is asynchronous and this method will return immediately once the record has been stored in the buffer of records waiting to be sent" />
-      <item value="The send is asynchronous and this method will return immediately once the record has been stored in the buffer of records waiting to be sent、" />
-      <item value="手动结束&#10;" />
-      <item value="强制" />
-      <item value="失效&#10;" />
-      <item value="extract Activities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4307" />
-        <entry key="ENGLISH" value="4304" />
+        <entry key="CHINESE" value="4321" />
+        <entry key="ENGLISH" value="4319" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
-        <entry key="GERMAN" value="8" />
+        <entry key="GERMAN" value="9" />
         <entry key="FRENCH" value="15" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -74,7 +74,7 @@
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="6" />
         <entry key="PORTUGUESE" value="7" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="13" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626510719287" />
+    <option name="lastTrimTime" value="1627113212000" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
