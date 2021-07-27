@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2826" />
+    <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="Using the result of an assignment as a condition without parentheses&#10;" />
       <item value="Excess elements in scalar initializer&#10;" />
       <item value="Clang-Tidy: Macro argument should be enclosed in parentheses&#10;" />
       <item value="Declaration shadows a variable in the global scope&#10;" />
@@ -54,11 +55,10 @@
       <item value=" when sending the record fails before it gets sent to the server.&#10;&#10;" />
       <item value="potential" />
       <item value="However, building a pipeline of mutable interceptors that depend on the output of the previous interceptor is discouraged, because of potential side-effects caused by interceptors potentially failing to modify the record and throwing an exceptio" />
-      <item value="discouraged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4351" />
+        <entry key="CHINESE" value="4352" />
         <entry key="ENGLISH" value="4345" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
