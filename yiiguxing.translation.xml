@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2826" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="Excess elements in scalar initializer&#10;" />
       <item value="Clang-Tidy: Macro argument should be enclosed in parentheses&#10;" />
       <item value="Declaration shadows a variable in the global scope&#10;" />
       <item value="extern" />
@@ -54,11 +55,10 @@
       <item value="potential" />
       <item value="However, building a pipeline of mutable interceptors that depend on the output of the previous interceptor is discouraged, because of potential side-effects caused by interceptors potentially failing to modify the record and throwing an exceptio" />
       <item value="discouraged" />
-      <item value="discouraged&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4350" />
+        <entry key="CHINESE" value="4351" />
         <entry key="ENGLISH" value="4345" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
