@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="1498" />
-    <option name="newTranslationDialogY" value="624" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="Incompatible pointer types initializing 'struct keywrod *' with an expression of type 'struct keyword *&#10;" />
       <item value="Variable length array folded to constant array as an extension&#10;" />
       <item value="isalpha" />
       <item value="revise&#10;" />
@@ -54,11 +55,10 @@
       <item value="拼团&#10;" />
       <item value="can Take A Group" />
       <item value="Qurnum&#10;" />
-      <item value="Qurnum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4372" />
+        <entry key="CHINESE" value="4373" />
         <entry key="ENGLISH" value="4362" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
