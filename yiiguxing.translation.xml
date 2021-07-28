@@ -5,13 +5,14 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="Excess elements in scalar initializer&#10;" />
+      <item value="Excess elements in scalar initializer" />
       <item value="遍历&#10;" />
       <item value="闰年&#10;" />
       <item value="run" />
       <item value="leap" />
       <item value="yeap" />
       <item value="Using the result of an assignment as a condition without parentheses&#10;" />
-      <item value="Excess elements in scalar initializer&#10;" />
       <item value="Clang-Tidy: Macro argument should be enclosed in parentheses&#10;" />
       <item value="Declaration shadows a variable in the global scope&#10;" />
       <item value="extern" />
@@ -54,12 +55,11 @@
       <item value="chi" />
       <item value="持久的" />
       <item value="持久化&#10;" />
-      <item value="duration&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4366" />
-        <entry key="ENGLISH" value="4360" />
+        <entry key="CHINESE" value="4369" />
+        <entry key="ENGLISH" value="4362" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
