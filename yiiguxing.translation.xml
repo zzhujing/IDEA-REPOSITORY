@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="遍历&#10;" />
       <item value="闰年&#10;" />
       <item value="run" />
       <item value="leap" />
@@ -54,12 +55,11 @@
       <item value="持久的" />
       <item value="持久化&#10;" />
       <item value="duration&#10;" />
-      <item value="and in additional cases when KafkaProducer.send() throws an exception.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4360" />
-        <entry key="ENGLISH" value="4354" />
+        <entry key="CHINESE" value="4366" />
+        <entry key="ENGLISH" value="4360" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
