@@ -167,7 +167,9 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
-  <action id="SendEOF" />
+  <action id="SendEOF">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="ServiceView.JumpToServices">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
