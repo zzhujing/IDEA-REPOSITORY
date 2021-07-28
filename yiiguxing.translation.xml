@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="Variable length array folded to constant array as an extension&#10;" />
+      <item value="isalpha" />
       <item value="revise&#10;" />
       <item value="re" />
       <item value="except&#10;" />
@@ -53,12 +55,10 @@
       <item value="can Take A Group" />
       <item value="Qurnum&#10;" />
       <item value="Qurnum" />
-      <item value="idempotence&#10;" />
-      <item value="idem" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4371" />
+        <entry key="CHINESE" value="4372" />
         <entry key="ENGLISH" value="4362" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -81,6 +81,7 @@
         <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="5" />
+        <entry key="HINDI" value="2" />
       </map>
     </option>
   </component>
