@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="Clang-Tidy: Suspicious usage of 'sizeof(...)/sizeof(...)'; numerator is not a multiple of denominator&#10;" />
+      <item value="sizeof(struct tnode)" />
       <item value="strdup" />
       <item value="Incompatible pointer types initializing 'struct keywrod *' with an expression of type 'struct keyword *&#10;" />
       <item value="Variable length array folded to constant array as an extension&#10;" />
@@ -53,13 +55,11 @@
       <item value="减少&#10;" />
       <item value="check Group Activities State" />
       <item value="发起拼团&#10;" />
-      <item value="拼团&#10;" />
-      <item value="can Take A Group" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4373" />
-        <entry key="ENGLISH" value="4362" />
+        <entry key="CHINESE" value="4375" />
+        <entry key="ENGLISH" value="4363" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627113212000" />
+    <option name="lastTrimTime" value="1627551438770" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
