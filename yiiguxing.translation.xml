@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="170" />
-    <option name="newTranslationDialogY" value="576" />
+    <option name="newTranslationDialogX" value="1050" />
+    <option name="newTranslationDialogY" value="579" />
     <histories>
+      <item value="Expression is not assignable&#10;" />
       <item value="Clang-Tidy: Suspicious usage of 'sizeof(...)/sizeof(...)'; numerator is not a multiple of denominator&#10;" />
       <item value="sizeof(struct tnode)" />
       <item value="strdup" />
@@ -54,11 +55,10 @@
       <item value="减少库存" />
       <item value="减少&#10;" />
       <item value="check Group Activities State" />
-      <item value="发起拼团&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4375" />
+        <entry key="CHINESE" value="4376" />
         <entry key="ENGLISH" value="4363" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
