@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="one Day Ago" />
+      <item value="在...之后&#10;" />
+      <item value="zau" />
+      <item value="Temporal Unit" />
+      <item value="Chrono Unit" />
       <item value="revise&#10;" />
       <item value="re" />
       <item value="except&#10;" />
@@ -50,16 +55,11 @@
       <item value="check Group Activities State" />
       <item value="发起拼团&#10;" />
       <item value="拼团&#10;" />
-      <item value="can Take A Group" />
-      <item value="Qurnum&#10;" />
-      <item value="Qurnum" />
-      <item value="idempotence&#10;" />
-      <item value="idem" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4371" />
-        <entry key="ENGLISH" value="4362" />
+        <entry key="CHINESE" value="4379" />
+        <entry key="ENGLISH" value="4373" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
