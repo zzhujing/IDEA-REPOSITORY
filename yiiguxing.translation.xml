@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="579" />
     <histories>
+      <item value="lion&#10;" />
+      <item value="lion" />
       <item value="Expression is not assignable&#10;" />
       <item value="Clang-Tidy: Suspicious usage of 'sizeof(...)/sizeof(...)'; numerator is not a multiple of denominator&#10;" />
       <item value="sizeof(struct tnode)" />
@@ -53,12 +55,10 @@
       <item value="std&#10;" />
       <item value="Uncategorized SQL Exception" />
       <item value="减少库存" />
-      <item value="减少&#10;" />
-      <item value="check Group Activities State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4376" />
+        <entry key="CHINESE" value="4377" />
         <entry key="ENGLISH" value="4363" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
