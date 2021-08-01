@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="579" />
     <histories>
+      <item value="read space left for getc()" />
       <item value="replcae" />
       <item value="lion&#10;" />
       <item value="lion" />
@@ -54,12 +55,11 @@
       <item value="stdio&#10;" />
       <item value="st" />
       <item value="std&#10;" />
-      <item value="Uncategorized SQL Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4377" />
-        <entry key="ENGLISH" value="4363" />
+        <entry key="ENGLISH" value="4364" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
