@@ -3,20 +3,15 @@
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <option name="newTranslationDialogX" value="1050" />
-    <option name="newTranslationDialogY" value="579" />
+    <option name="newTranslationDialogY" value="624" />
     <histories>
-      <item value="printf&#10;" />
-      <item value="read space left for getc()" />
-      <item value="replcae" />
-      <item value="lion&#10;" />
-      <item value="lion" />
-      <item value="Expression is not assignable&#10;" />
-      <item value="Clang-Tidy: Suspicious usage of 'sizeof(...)/sizeof(...)'; numerator is not a multiple of denominator&#10;" />
-      <item value="sizeof(struct tnode)" />
-      <item value="strdup" />
-      <item value="Incompatible pointer types initializing 'struct keywrod *' with an expression of type 'struct keyword *&#10;" />
-      <item value="Variable length array folded to constant array as an extension&#10;" />
-      <item value="isalpha" />
+      <item value="附加" />
+      <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
+      <item value="one Day Ago" />
+      <item value="在...之后&#10;" />
+      <item value="zau" />
+      <item value="Temporal Unit" />
+      <item value="Chrono Unit" />
       <item value="revise&#10;" />
       <item value="re" />
       <item value="except&#10;" />
@@ -55,11 +50,16 @@
       <item value="Data truncated for column 'activity_type' at ro" />
       <item value="stdio&#10;" />
       <item value="st" />
+      <item value="std&#10;" />
+      <item value="Uncategorized SQL Exception" />
+      <item value="减少库存" />
+      <item value="减少&#10;" />
+      <item value="check Group Activities State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4378" />
-        <entry key="ENGLISH" value="4364" />
+        <entry key="CHINESE" value="4385" />
+        <entry key="ENGLISH" value="4378" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -72,23 +72,20 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="7" />
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="1" />
-        <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627551438770" />
+    <option name="lastTrimTime" value="1627872699602" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
