@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="1498" />
+    <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="附加" />
+      <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
       <item value="one Day Ago" />
       <item value="在...之后&#10;" />
       <item value="zau" />
@@ -53,13 +55,11 @@
       <item value="减少库存" />
       <item value="减少&#10;" />
       <item value="check Group Activities State" />
-      <item value="发起拼团&#10;" />
-      <item value="拼团&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4379" />
-        <entry key="ENGLISH" value="4373" />
+        <entry key="CHINESE" value="4385" />
+        <entry key="ENGLISH" value="4378" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627113212000" />
+    <option name="lastTrimTime" value="1627872699602" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
