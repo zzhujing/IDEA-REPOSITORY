@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="纠正&#10;" />
       <item value="filll Group State And Fail Reason If Nessesary" />
       <item value="附加" />
       <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
@@ -54,12 +55,11 @@
       <item value="std&#10;" />
       <item value="Uncategorized SQL Exception" />
       <item value="减少库存" />
-      <item value="减少&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4385" />
-        <entry key="ENGLISH" value="4379" />
+        <entry key="CHINESE" value="4393" />
+        <entry key="ENGLISH" value="4387" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
