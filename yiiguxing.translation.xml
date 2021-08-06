@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="624" />
     <histories>
+      <item value="arbitrary&#10;" />
+      <item value="identical&#10;" />
       <item value="GROUP PROCESSING FLAG" />
       <item value="ou can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
       <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
@@ -53,12 +55,10 @@
       <item value="Async Execute StatisticsJob Finished! err =java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request" />
       <item value="uni When Complete Stage" />
       <item value="async Statistics Job" />
-      <item value="Data truncated for column 'activity_type' at ro" />
-      <item value="stdio&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4393" />
+        <entry key="CHINESE" value="4395" />
         <entry key="ENGLISH" value="4391" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
