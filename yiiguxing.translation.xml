@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="1050" />
-    <option name="newTranslationDialogY" value="624" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="售后工单&#10;" />
+      <item value="shou" />
+      <item value="售后&#10;" />
       <item value="arbitrary&#10;" />
       <item value="identical&#10;" />
       <item value="GROUP PROCESSING FLAG" />
@@ -52,14 +55,11 @@
       <item value="compensate" />
       <item value="Number of threads to run in the listener containers." />
       <item value="If you are actually operating within a web request" />
-      <item value="Async Execute StatisticsJob Finished! err =java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request" />
-      <item value="uni When Complete Stage" />
-      <item value="async Statistics Job" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4395" />
-        <entry key="ENGLISH" value="4391" />
+        <entry key="CHINESE" value="4410" />
+        <entry key="ENGLISH" value="4406" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627872699602" />
+    <option name="lastTrimTime" value="1628488522144" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
