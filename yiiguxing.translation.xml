@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="revoke&#10;" />
+      <item value="re" />
       <item value="售后&#10;" />
       <item value="shou" />
       <item value="售后工单&#10;" />
@@ -24,7 +26,6 @@
       <item value="Temporal Unit" />
       <item value="Chrono Unit" />
       <item value="revise&#10;" />
-      <item value="re" />
       <item value="except&#10;" />
       <item value="ex" />
       <item value="Excess elements in scalar initializer&#10;" />
@@ -54,12 +55,11 @@
       <item value="is New Customer" />
       <item value="compensate" />
       <item value="Number of threads to run in the listener containers." />
-      <item value="If you are actually operating within a web request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4417" />
-        <entry key="ENGLISH" value="4413" />
+        <entry key="CHINESE" value="4424" />
+        <entry key="ENGLISH" value="4419" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
