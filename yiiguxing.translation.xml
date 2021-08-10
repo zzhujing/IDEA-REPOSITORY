@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="PUSH_LOGISTICS" />
+      <item value="logistics" />
+      <item value="物流&#10;" />
+      <item value="log'si'ti" />
+      <item value="lo'g'si'ti'c's" />
+      <item value="logs" />
+      <item value="LOGISTICS&#10;" />
+      <item value="LOGIS" />
+      <item value="LOGI" />
+      <item value="LOGSITICS&#10;" />
+      <item value="LOGS" />
       <item value="Logistics Api" />
       <item value="attachment" />
       <item value="attach" />
@@ -44,22 +55,11 @@
       <item value="Clang-Tidy: Macro argument should be enclosed in parentheses&#10;" />
       <item value="Declaration shadows a variable in the global scope&#10;" />
       <item value="extern" />
-      <item value="字符&#10;" />
-      <item value="Clang-Tidy: Loop induction expression should not have floating-point type&#10;" />
-      <item value="Clang-Tidy: Loop induction expression should not have floating-point type" />
-      <item value="十六进制&#10;" />
-      <item value="八进制&#10;" />
-      <item value="b" />
-      <item value="celsius" />
-      <item value="华氏度&#10;" />
-      <item value="花式度" />
-      <item value="fahr" />
-      <item value="return" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4439" />
-        <entry key="ENGLISH" value="4437" />
+        <entry key="CHINESE" value="4465" />
+        <entry key="ENGLISH" value="4461" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
