@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="补发" />
       <item value="Create a new transaction, and suspend the current transaction if one exists.&#10;" />
       <item value="REISSUE" />
       <item value="补发&#10;" />
@@ -54,12 +55,11 @@
       <item value="闰年&#10;" />
       <item value="run" />
       <item value="leap" />
-      <item value="yeap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4471" />
-        <entry key="ENGLISH" value="4468" />
+        <entry key="CHINESE" value="4475" />
+        <entry key="ENGLISH" value="4472" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
