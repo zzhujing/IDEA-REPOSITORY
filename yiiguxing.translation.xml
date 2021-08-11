@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="Create a new transaction, and suspend the current transaction if one exists.&#10;" />
       <item value="REISSUE" />
       <item value="补发&#10;" />
       <item value="NOSONAR - exception flow control" />
@@ -54,11 +55,10 @@
       <item value="run" />
       <item value="leap" />
       <item value="yeap" />
-      <item value="Using the result of an assignment as a condition without parentheses&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4470" />
+        <entry key="CHINESE" value="4471" />
         <entry key="ENGLISH" value="4468" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
