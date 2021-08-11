@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="REISSUE" />
+      <item value="补发&#10;" />
       <item value="NOSONAR - exception flow control" />
       <item value="PUSH_LOGISTICS" />
       <item value="logistics" />
@@ -53,13 +55,11 @@
       <item value="leap" />
       <item value="yeap" />
       <item value="Using the result of an assignment as a condition without parentheses&#10;" />
-      <item value="Clang-Tidy: Macro argument should be enclosed in parentheses&#10;" />
-      <item value="Declaration shadows a variable in the global scope&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4465" />
-        <entry key="ENGLISH" value="4462" />
+        <entry key="CHINESE" value="4470" />
+        <entry key="ENGLISH" value="4468" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
