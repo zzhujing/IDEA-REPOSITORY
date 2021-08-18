@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="translation-lookaside buffer" />
+      <item value="translation-lookaside" />
+      <item value="translation-looka" />
+      <item value="translation-l" />
+      <item value="translation" />
+      <item value="trans" />
+      <item value="lookaside&#10;" />
+      <item value="look" />
       <item value="补码&#10;" />
       <item value="b" />
       <item value="补发" />
@@ -47,19 +55,11 @@
       <item value="在...之后&#10;" />
       <item value="zau" />
       <item value="Temporal Unit" />
-      <item value="Chrono Unit" />
-      <item value="revise&#10;" />
-      <item value="except&#10;" />
-      <item value="ex" />
-      <item value="Excess elements in scalar initializer&#10;" />
-      <item value="Excess elements in scalar initializer" />
-      <item value="遍历&#10;" />
-      <item value="闰年&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4487" />
-        <entry key="ENGLISH" value="4484" />
+        <entry key="CHINESE" value="4493" />
+        <entry key="ENGLISH" value="4489" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
