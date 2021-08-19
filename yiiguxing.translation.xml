@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="failover&#10;" />
       <item value="translation-lookaside buffer" />
       <item value="translation-lookaside" />
       <item value="translation-looka" />
@@ -54,12 +55,11 @@
       <item value="one Day Ago" />
       <item value="在...之后&#10;" />
       <item value="zau" />
-      <item value="Temporal Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4493" />
-        <entry key="ENGLISH" value="4489" />
+        <entry key="CHINESE" value="4498" />
+        <entry key="ENGLISH" value="4493" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
