@@ -139,9 +139,6 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
   <action id="ReplaceInPath" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -167,7 +164,9 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
-  <action id="SendEOF" />
+  <action id="SendEOF">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="ServiceView.JumpToServices">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
