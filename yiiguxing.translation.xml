@@ -2,64 +2,64 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="1050" />
-    <option name="newTranslationDialogY" value="624" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
+      <item value="intent" />
+      <item value="failover&#10;" />
+      <item value="translation-lookaside buffer" />
+      <item value="translation-lookaside" />
+      <item value="translation-looka" />
+      <item value="translation-l" />
+      <item value="translation" />
+      <item value="trans" />
+      <item value="lookaside&#10;" />
+      <item value="look" />
+      <item value="补码&#10;" />
+      <item value="b" />
+      <item value="补发" />
+      <item value="Create a new transaction, and suspend the current transaction if one exists.&#10;" />
+      <item value="REISSUE" />
+      <item value="补发&#10;" />
+      <item value="NOSONAR - exception flow control" />
+      <item value="PUSH_LOGISTICS" />
+      <item value="logistics" />
+      <item value="物流&#10;" />
+      <item value="log'si'ti" />
+      <item value="lo'g'si'ti'c's" />
+      <item value="logs" />
+      <item value="LOGISTICS&#10;" />
+      <item value="LOGIS" />
+      <item value="LOGI" />
+      <item value="LOGSITICS&#10;" />
+      <item value="LOGS" />
+      <item value="Logistics Api" />
+      <item value="attachment" />
+      <item value="attach" />
+      <item value="开始处理&#10;" />
+      <item value="申请&#10;" />
+      <item value="revoke&#10;" />
+      <item value="re" />
+      <item value="售后&#10;" />
+      <item value="shou" />
+      <item value="售后工单&#10;" />
+      <item value="arbitrary&#10;" />
+      <item value="identical&#10;" />
+      <item value="GROUP PROCESSING FLAG" />
+      <item value="ou can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
+      <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
+      <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms" />
+      <item value="纠正&#10;" />
+      <item value="filll Group State And Fail Reason If Nessesary" />
       <item value="附加" />
       <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
       <item value="one Day Ago" />
-      <item value="在...之后&#10;" />
-      <item value="zau" />
-      <item value="Temporal Unit" />
-      <item value="Chrono Unit" />
-      <item value="revise&#10;" />
-      <item value="re" />
-      <item value="except&#10;" />
-      <item value="ex" />
-      <item value="Excess elements in scalar initializer&#10;" />
-      <item value="Excess elements in scalar initializer" />
-      <item value="遍历&#10;" />
-      <item value="闰年&#10;" />
-      <item value="run" />
-      <item value="leap" />
-      <item value="yeap" />
-      <item value="Using the result of an assignment as a condition without parentheses&#10;" />
-      <item value="Clang-Tidy: Macro argument should be enclosed in parentheses&#10;" />
-      <item value="Declaration shadows a variable in the global scope&#10;" />
-      <item value="extern" />
-      <item value="字符&#10;" />
-      <item value="Clang-Tidy: Loop induction expression should not have floating-point type&#10;" />
-      <item value="Clang-Tidy: Loop induction expression should not have floating-point type" />
-      <item value="十六进制&#10;" />
-      <item value="八进制&#10;" />
-      <item value="b" />
-      <item value="celsius" />
-      <item value="华氏度&#10;" />
-      <item value="花式度" />
-      <item value="fahr" />
-      <item value="return" />
-      <item value="如果必要的话&#10;" />
-      <item value="ru" />
-      <item value="is New Customer" />
-      <item value="compensate" />
-      <item value="Number of threads to run in the listener containers." />
-      <item value="If you are actually operating within a web request" />
-      <item value="Async Execute StatisticsJob Finished! err =java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request" />
-      <item value="uni When Complete Stage" />
-      <item value="async Statistics Job" />
-      <item value="Data truncated for column 'activity_type' at ro" />
-      <item value="stdio&#10;" />
-      <item value="st" />
-      <item value="std&#10;" />
-      <item value="Uncategorized SQL Exception" />
-      <item value="减少库存" />
-      <item value="减少&#10;" />
-      <item value="check Group Activities State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4385" />
-        <entry key="ENGLISH" value="4378" />
+        <entry key="CHINESE" value="4498" />
+        <entry key="ENGLISH" value="4495" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627872699602" />
+    <option name="lastTrimTime" value="1629041307607" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
