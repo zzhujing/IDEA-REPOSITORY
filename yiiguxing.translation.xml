@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="nutrition" />
+      <item value="nutri" />
+      <item value="nutr" />
       <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
       <item value="intent" />
       <item value="failover&#10;" />
@@ -52,14 +55,11 @@
       <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms" />
       <item value="纠正&#10;" />
       <item value="filll Group State And Fail Reason If Nessesary" />
-      <item value="附加" />
-      <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
-      <item value="one Day Ago" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4498" />
-        <entry key="ENGLISH" value="4495" />
+        <entry key="CHINESE" value="4512" />
+        <entry key="ENGLISH" value="4508" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629041307607" />
+    <option name="lastTrimTime" value="1629562984539" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
