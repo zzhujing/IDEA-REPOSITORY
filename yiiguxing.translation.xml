@@ -5,6 +5,22 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="米色&#10;" />
+      <item value="日式风格&#10;" />
+      <item value="面积&#10;" />
+      <item value="木头&#10;" />
+      <item value="材料&#10;" />
+      <item value="地板&#10;" />
+      <item value="di'ban" />
+      <item value="督办" />
+      <item value="主题颜色&#10;" />
+      <item value="主题&#10;" />
+      <item value="开发&#10;" />
+      <item value="开发" />
+      <item value="程序员&#10;" />
+      <item value="程序yuan" />
+      <item value="程序媛&#10;" />
+      <item value="Programmer" />
       <item value="dialog&#10;" />
       <item value="didialog" />
       <item value="deliver" />
@@ -39,27 +55,11 @@
       <item value="LOGSITICS&#10;" />
       <item value="LOGS" />
       <item value="Logistics Api" />
-      <item value="attachment" />
-      <item value="attach" />
-      <item value="开始处理&#10;" />
-      <item value="申请&#10;" />
-      <item value="revoke&#10;" />
-      <item value="re" />
-      <item value="售后&#10;" />
-      <item value="shou" />
-      <item value="售后工单&#10;" />
-      <item value="arbitrary&#10;" />
-      <item value="identical&#10;" />
-      <item value="GROUP PROCESSING FLAG" />
-      <item value="ou can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
-      <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
-      <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms" />
-      <item value="纠正&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4506" />
-        <entry key="ENGLISH" value="4503" />
+        <entry key="CHINESE" value="4582" />
+        <entry key="ENGLISH" value="4579" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
