@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="170" />
-    <option name="newTranslationDialogY" value="576" />
+    <option name="newTranslationDialogX" value="2687" />
+    <option name="newTranslationDialogY" value="575" />
     <histories>
+      <item value="destructor" />
       <item value="米色&#10;" />
       <item value="日式风格&#10;" />
       <item value="面积&#10;" />
@@ -54,11 +55,10 @@
       <item value="LOGI" />
       <item value="LOGSITICS&#10;" />
       <item value="LOGS" />
-      <item value="Logistics Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4582" />
+        <entry key="CHINESE" value="4583" />
         <entry key="ENGLISH" value="4579" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
