@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2742" />
     <option name="newTranslationDialogY" value="585" />
     <histories>
+      <item value="Female" />
       <item value="Subjective&#10;" />
       <item value="Subject" />
       <item value="Effective" />
@@ -54,12 +55,11 @@
       <item value="logistics" />
       <item value="物流&#10;" />
       <item value="log'si'ti" />
-      <item value="lo'g'si'ti'c's" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4591" />
-        <entry key="ENGLISH" value="4585" />
+        <entry key="ENGLISH" value="4586" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
