@@ -2,37 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
+    <option name="newTranslationDialogX" value="170" />
+    <option name="newTranslationDialogY" value="576" />
     <histories>
-      <item value="Instantiation of utility class 'DoubleCheck'&#10;" />
-      <item value="Instantiation of utility class 'DoubleCheck'" />
-      <item value="Female" />
-      <item value="Subjective&#10;" />
-      <item value="Subject" />
-      <item value="Effective" />
-      <item value="Effective&#10;" />
-      <item value="Objective&#10;" />
-      <item value="Objective" />
-      <item value="destructor" />
-      <item value="米色&#10;" />
-      <item value="日式风格&#10;" />
-      <item value="面积&#10;" />
-      <item value="木头&#10;" />
-      <item value="材料&#10;" />
-      <item value="地板&#10;" />
-      <item value="di'ban" />
-      <item value="督办" />
-      <item value="主题颜色&#10;" />
-      <item value="主题&#10;" />
-      <item value="开发&#10;" />
-      <item value="开发" />
-      <item value="程序员&#10;" />
-      <item value="程序yuan" />
-      <item value="程序媛&#10;" />
-      <item value="Programmer" />
-      <item value="dialog&#10;" />
-      <item value="didialog" />
-      <item value="deliver" />
-      <item value="设计&#10;" />
+      <item value="opaque pthread t" />
+      <item value="darwin" />
+      <item value="detach" />
+      <item value="pthread attr setdetachstate" />
+      <item value="solid" />
+      <item value="nutrition" />
+      <item value="nutri" />
+      <item value="nutr" />
       <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
       <item value="intent" />
       <item value="failover&#10;" />
@@ -53,11 +33,33 @@
       <item value="NOSONAR - exception flow control" />
       <item value="PUSH_LOGISTICS" />
       <item value="logistics" />
+      <item value="物流&#10;" />
+      <item value="log'si'ti" />
+      <item value="lo'g'si'ti'c's" />
+      <item value="logs" />
+      <item value="LOGISTICS&#10;" />
+      <item value="LOGIS" />
+      <item value="LOGI" />
+      <item value="LOGSITICS&#10;" />
+      <item value="LOGS" />
+      <item value="Logistics Api" />
+      <item value="attachment" />
+      <item value="attach" />
+      <item value="开始处理&#10;" />
+      <item value="申请&#10;" />
+      <item value="revoke&#10;" />
+      <item value="re" />
+      <item value="售后&#10;" />
+      <item value="shou" />
+      <item value="售后工单&#10;" />
+      <item value="arbitrary&#10;" />
+      <item value="identical&#10;" />
+      <item value="GROUP PROCESSING FLAG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4592" />
-        <entry key="ENGLISH" value="4586" />
+        <entry key="CHINESE" value="4513" />
+        <entry key="ENGLISH" value="4512" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -83,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629599064579" />
+    <option name="lastTrimTime" value="1629562984539" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
