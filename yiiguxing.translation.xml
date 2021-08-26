@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="170" />
     <option name="newTranslationDialogY" value="576" />
     <histories>
+      <item value="dentry&#10;" />
+      <item value="dentry" />
       <item value="preempt&#10;" />
       <item value="opaque pthread t" />
       <item value="darwin" />
@@ -53,12 +55,10 @@
       <item value="售后&#10;" />
       <item value="shou" />
       <item value="售后工单&#10;" />
-      <item value="arbitrary&#10;" />
-      <item value="identical&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4514" />
+        <entry key="CHINESE" value="4515" />
         <entry key="ENGLISH" value="4512" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
