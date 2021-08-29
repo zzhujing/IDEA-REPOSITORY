@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="volumeDown" />
+      <item value="volume" />
+      <item value="togglePower" />
+      <item value="tpgglePower" />
+      <item value="tpggle" />
+      <item value="tpgg;e" />
       <item value="智慧&#10;" />
       <item value="智慧" />
       <item value="wi'so'm" />
@@ -49,17 +55,11 @@
       <item value="translation-l" />
       <item value="translation" />
       <item value="trans" />
-      <item value="lookaside&#10;" />
-      <item value="look" />
-      <item value="补码&#10;" />
-      <item value="b" />
-      <item value="补发" />
-      <item value="Create a new transaction, and suspend the current transaction if one exists.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4606" />
-        <entry key="ENGLISH" value="4602" />
+        <entry key="CHINESE" value="4608" />
+        <entry key="ENGLISH" value="4603" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
