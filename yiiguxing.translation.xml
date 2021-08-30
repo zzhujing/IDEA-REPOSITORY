@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="un Compress" />
+      <item value="Compress Data Source" />
+      <item value="解压缩&#10;" />
+      <item value="De Compress" />
+      <item value="Encrypt Data Source" />
       <item value="额外的&#10;" />
       <item value="额外的" />
       <item value="volumeDown" />
@@ -50,16 +55,11 @@
       <item value="nutr" />
       <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
       <item value="intent" />
-      <item value="failover&#10;" />
-      <item value="translation-lookaside buffer" />
-      <item value="translation-lookaside" />
-      <item value="translation-looka" />
-      <item value="translation-l" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4614" />
-        <entry key="ENGLISH" value="4609" />
+        <entry key="CHINESE" value="4624" />
+        <entry key="ENGLISH" value="4620" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -70,7 +70,7 @@
         <entry key="FRENCH" value="15" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="2" />
+        <entry key="CATALAN" value="4" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="1" />
