@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="运动&#10;" />
       <item value="un Compress" />
       <item value="Compress Data Source" />
       <item value="解压缩&#10;" />
@@ -54,12 +55,11 @@
       <item value="nutri" />
       <item value="nutr" />
       <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
-      <item value="intent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4624" />
-        <entry key="ENGLISH" value="4620" />
+        <entry key="CHINESE" value="4632" />
+        <entry key="ENGLISH" value="4628" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
