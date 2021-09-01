@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="享元" />
+      <item value="享yuan" />
+      <item value="xiang'yuan" />
+      <item value="flyweight" />
+      <item value="f'l'y'weight" />
+      <item value="f'l'y'wei" />
+      <item value="flyw" />
+      <item value="f'l'y" />
+      <item value="f'l" />
+      <item value="f'lei" />
       <item value="运动&#10;" />
       <item value="un Compress" />
       <item value="Compress Data Source" />
@@ -45,21 +55,11 @@
       <item value="专题&#10;" />
       <item value="dentry&#10;" />
       <item value="dentry" />
-      <item value="preempt&#10;" />
-      <item value="opaque pthread t" />
-      <item value="darwin" />
-      <item value="detach" />
-      <item value="pthread attr setdetachstate" />
-      <item value="solid" />
-      <item value="nutrition" />
-      <item value="nutri" />
-      <item value="nutr" />
-      <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4632" />
-        <entry key="ENGLISH" value="4628" />
+        <entry key="CHINESE" value="4663" />
+        <entry key="ENGLISH" value="4659" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
