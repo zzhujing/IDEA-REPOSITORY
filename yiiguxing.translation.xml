@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="nonce&#10;" />
       <item value="URL" />
       <item value="uniform&#10;" />
       <item value="行为&#10;" />
@@ -54,12 +55,11 @@
       <item value="结构" />
       <item value="jie" />
       <item value="样式&#10;" />
-      <item value="special&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4673" />
-        <entry key="ENGLISH" value="4669" />
+        <entry key="CHINESE" value="4679" />
+        <entry key="ENGLISH" value="4674" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
