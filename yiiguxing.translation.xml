@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="torrent&#10;" />
+      <item value="torrnet&#10;" />
       <item value="nonce&#10;" />
       <item value="URL" />
       <item value="uniform&#10;" />
@@ -53,13 +55,11 @@
       <item value="结构xing" />
       <item value="结构性" />
       <item value="结构" />
-      <item value="jie" />
-      <item value="样式&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4679" />
-        <entry key="ENGLISH" value="4674" />
+        <entry key="CHINESE" value="4688" />
+        <entry key="ENGLISH" value="4682" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
