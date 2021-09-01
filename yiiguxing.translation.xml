@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="URL" />
+      <item value="uniform&#10;" />
+      <item value="行为&#10;" />
+      <item value="xing" />
+      <item value="invocation" />
       <item value="享元" />
       <item value="享yuan" />
       <item value="xiang'yuan" />
@@ -50,16 +55,11 @@
       <item value="jie" />
       <item value="样式&#10;" />
       <item value="special&#10;" />
-      <item value="Thematic" />
-      <item value="专题页&#10;" />
-      <item value="专题&#10;" />
-      <item value="dentry&#10;" />
-      <item value="dentry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4663" />
-        <entry key="ENGLISH" value="4659" />
+        <entry key="CHINESE" value="4673" />
+        <entry key="ENGLISH" value="4669" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630029733825" />
+    <option name="lastTrimTime" value="1630475981209" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
