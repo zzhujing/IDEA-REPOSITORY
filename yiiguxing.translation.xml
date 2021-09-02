@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="安全隧道协议&#10;" />
       <item value="torrent&#10;" />
       <item value="torrnet&#10;" />
       <item value="nonce&#10;" />
@@ -54,12 +55,11 @@
       <item value="结构型&#10;" />
       <item value="结构xing" />
       <item value="结构性" />
-      <item value="结构" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4688" />
-        <entry key="ENGLISH" value="4682" />
+        <entry key="CHINESE" value="4697" />
+        <entry key="ENGLISH" value="4691" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
