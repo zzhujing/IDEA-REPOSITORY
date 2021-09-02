@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="410" />
-    <option name="newTranslationDialogY" value="510" />
+    <option name="newTranslationDialogX" value="750" />
+    <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="shaping&#10;" />
+      <item value="sha'po" />
       <item value="虚拟交换机&#10;" />
       <item value="安全隧道协议&#10;" />
       <item value="torrent&#10;" />
@@ -53,13 +55,11 @@
       <item value="Reg&#10;" />
       <item value="RoundHole" />
       <item value="Round" />
-      <item value="结构型&#10;" />
-      <item value="结构xing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4701" />
-        <entry key="ENGLISH" value="4695" />
+        <entry key="CHINESE" value="4709" />
+        <entry key="ENGLISH" value="4702" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
