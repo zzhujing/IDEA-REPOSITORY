@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="750" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="MASQUERADE&#10;" />
+      <item value="MASQUERADE" />
       <item value="overlay&#10;" />
       <item value="Encapsulation&#10;" />
       <item value="shaping&#10;" />
@@ -53,12 +55,10 @@
       <item value="只会&#10;" />
       <item value="radius&#10;" />
       <item value="ra" />
-      <item value="Peg&#10;" />
-      <item value="Reg&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4718" />
+        <entry key="CHINESE" value="4719" />
         <entry key="ENGLISH" value="4709" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
