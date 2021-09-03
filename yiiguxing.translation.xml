@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="750" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="crowd&#10;" />
+      <item value="面向人群" />
+      <item value="mianx" />
+      <item value="face_people_group" />
       <item value="tunel&#10;" />
       <item value="隧道" />
       <item value="MASQUERADE&#10;" />
@@ -51,15 +55,11 @@
       <item value="智慧" />
       <item value="wi'so'm" />
       <item value="情感&#10;" />
-      <item value="智" />
-      <item value="智慧&#10;q" />
-      <item value="只会" />
-      <item value="只会&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4733" />
-        <entry key="ENGLISH" value="4722" />
+        <entry key="CHINESE" value="4750" />
+        <entry key="ENGLISH" value="4739" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
