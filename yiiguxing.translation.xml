@@ -2,9 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="750" />
+    <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="INVERTED FONT" />
+      <item value="倒品字型样式" />
+      <item value="&quot;1*1通栏样式&quot;" />
+      <item value="倒品字型样式&#10;" />
+      <item value="正品字型样式&#10;" />
+      <item value="正品字型样式" />
+      <item value="正品&#10;" />
       <item value="bottom&#10;" />
       <item value="cow&#10;" />
       <item value="crowd&#10;" />
@@ -48,18 +55,11 @@
       <item value="额外的&#10;" />
       <item value="额外的" />
       <item value="volumeDown" />
-      <item value="volume" />
-      <item value="togglePower" />
-      <item value="tpgglePower" />
-      <item value="tpggle" />
-      <item value="tpgg;e" />
-      <item value="智慧&#10;" />
-      <item value="智慧" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4752" />
-        <entry key="ENGLISH" value="4739" />
+        <entry key="CHINESE" value="4762" />
+        <entry key="ENGLISH" value="4750" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
