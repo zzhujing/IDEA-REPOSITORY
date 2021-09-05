@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="stub&#10;" />
+      <item value="stub" />
       <item value="Electric fan&#10;" />
       <item value="电风扇&#10;Electric fan" />
       <item value="电风扇&#10;" />
@@ -53,12 +55,10 @@
       <item value="f'l'y'wei" />
       <item value="flyw" />
       <item value="f'l'y" />
-      <item value="f'l" />
-      <item value="f'lei" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4778" />
+        <entry key="CHINESE" value="4779" />
         <entry key="ENGLISH" value="4765" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
