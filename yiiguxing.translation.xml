@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="Electric fan&#10;" />
+      <item value="电风扇&#10;Electric fan" />
+      <item value="电风扇&#10;" />
+      <item value="dian'feng'shan" />
+      <item value="when On Was Pressed" />
+      <item value="whe On Was Pressed" />
       <item value="clickboard&#10;" />
       <item value="click" />
       <item value="menuitem&#10;" />
@@ -49,17 +55,11 @@
       <item value="f'l'y" />
       <item value="f'l" />
       <item value="f'lei" />
-      <item value="运动&#10;" />
-      <item value="un Compress" />
-      <item value="Compress Data Source" />
-      <item value="解压缩&#10;" />
-      <item value="De Compress" />
-      <item value="Encrypt Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4764" />
-        <entry key="ENGLISH" value="4750" />
+        <entry key="CHINESE" value="4778" />
+        <entry key="ENGLISH" value="4765" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
