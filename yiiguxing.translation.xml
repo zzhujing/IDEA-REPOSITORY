@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="menuitem&#10;" />
       <item value="INVERTED FONT" />
       <item value="倒品字型样式" />
       <item value="&quot;1*1通栏样式&quot;" />
@@ -54,11 +55,10 @@
       <item value="Encrypt Data Source" />
       <item value="额外的&#10;" />
       <item value="额外的" />
-      <item value="volumeDown" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4762" />
+        <entry key="CHINESE" value="4763" />
         <entry key="ENGLISH" value="4750" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
