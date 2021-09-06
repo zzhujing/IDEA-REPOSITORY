@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="get Normal Coupon VOS" />
       <item value="stub&#10;" />
       <item value="stub" />
       <item value="Electric fan&#10;" />
@@ -54,7 +55,6 @@
       <item value="f'l'y'weight" />
       <item value="f'l'y'wei" />
       <item value="flyw" />
-      <item value="f'l'y" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="9" />
-        <entry key="FRENCH" value="15" />
+        <entry key="FRENCH" value="16" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="4" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630475981209" />
+    <option name="lastTrimTime" value="1630929893520" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
