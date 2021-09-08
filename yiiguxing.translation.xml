@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="ceil" />
+      <item value="floor&#10;" />
+      <item value="f" />
       <item value="straightforward" />
       <item value="in proper sequence" />
       <item value="retain All" />
@@ -52,14 +55,11 @@
       <item value="Encapsulation&#10;" />
       <item value="shaping&#10;" />
       <item value="sha'po" />
-      <item value="虚拟交换机&#10;" />
-      <item value="安全隧道协议&#10;" />
-      <item value="torrent&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4799" />
-        <entry key="ENGLISH" value="4791" />
+        <entry key="CHINESE" value="4801" />
+        <entry key="ENGLISH" value="4793" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
