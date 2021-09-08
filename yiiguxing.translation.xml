@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="three&#10;" />
+      <item value="there&#10;" />
       <item value="CLR" />
       <item value="TREEIFY THRESHOLD" />
       <item value="ceil" />
@@ -53,13 +55,11 @@
       <item value="隧道" />
       <item value="MASQUERADE&#10;" />
       <item value="MASQUERADE" />
-      <item value="overlay&#10;" />
-      <item value="Encapsulation&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4801" />
-        <entry key="ENGLISH" value="4795" />
+        <entry key="CHINESE" value="4808" />
+        <entry key="ENGLISH" value="4801" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
