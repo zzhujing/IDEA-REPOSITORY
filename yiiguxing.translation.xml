@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="individually&#10;" />
+      <item value="indivi" />
+      <item value="interfere" />
+      <item value="interfe" />
+      <item value="fere&#10;" />
       <item value="Throwable" />
       <item value="get Normal Coupon VOS" />
       <item value="stub&#10;" />
@@ -50,16 +55,11 @@
       <item value="xing" />
       <item value="invocation" />
       <item value="享元" />
-      <item value="享yuan" />
-      <item value="xiang'yuan" />
-      <item value="flyweight" />
-      <item value="f'l'y'weight" />
-      <item value="f'l'y'wei" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4779" />
-        <entry key="ENGLISH" value="4767" />
+        <entry key="CHINESE" value="4798" />
+        <entry key="ENGLISH" value="4785" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
