@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="VM option 'PrintEscapeAnalysis' is notproduct and is available only in debug version of VM." />
       <item value="minor" />
       <item value="intented&#10;" />
       <item value="inten" />
@@ -54,12 +55,11 @@
       <item value="whe On Was Pressed" />
       <item value="clickboard&#10;" />
       <item value="click" />
-      <item value="menuitem&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4853" />
-        <entry key="ENGLISH" value="4846" />
+        <entry key="ENGLISH" value="4847" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630929893520" />
+    <option name="lastTrimTime" value="1631461123710" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
