@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="eliminate allocations" />
+      <item value="eliminate alloca" />
+      <item value="eliminate" />
+      <item value="EliminateAllocations&#10;" />
+      <item value="EliminateAll" />
+      <item value="Eliminate" />
+      <item value="Elim" />
+      <item value="标量替换&#10;" />
       <item value="VM option 'PrintEscapeAnalysis' is notproduct and is available only in debug version of VM." />
       <item value="minor" />
       <item value="intented&#10;" />
@@ -47,19 +55,11 @@
       <item value="get Normal Coupon VOS" />
       <item value="stub&#10;" />
       <item value="stub" />
-      <item value="Electric fan&#10;" />
-      <item value="电风扇&#10;Electric fan" />
-      <item value="电风扇&#10;" />
-      <item value="dian'feng'shan" />
-      <item value="when On Was Pressed" />
-      <item value="whe On Was Pressed" />
-      <item value="clickboard&#10;" />
-      <item value="click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4853" />
-        <entry key="ENGLISH" value="4847" />
+        <entry key="CHINESE" value="4884" />
+        <entry key="ENGLISH" value="4876" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
