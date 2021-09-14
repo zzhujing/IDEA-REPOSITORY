@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="fence" />
       <item value="state&#10;" />
       <item value="status&#10;" />
       <item value="thread Status" />
@@ -54,12 +55,11 @@
       <item value="guarantees" />
       <item value="navigable" />
       <item value="naviga" />
-      <item value="na" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4892" />
-        <entry key="ENGLISH" value="4884" />
+        <entry key="ENGLISH" value="4885" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
