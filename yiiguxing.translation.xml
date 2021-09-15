@@ -2,64 +2,64 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="170" />
-    <option name="newTranslationDialogY" value="576" />
+    <option name="newTranslationDialogX" value="410" />
+    <option name="newTranslationDialogY" value="573" />
     <histories>
-      <item value="OrderedLazy version of {@link putLongVolatile(Object, long, long)" />
-      <item value="intent" />
-      <item value="failover&#10;" />
-      <item value="translation-lookaside buffer" />
-      <item value="translation-lookaside" />
-      <item value="translation-looka" />
-      <item value="translation-l" />
-      <item value="translation" />
-      <item value="trans" />
-      <item value="lookaside&#10;" />
-      <item value="look" />
-      <item value="补码&#10;" />
-      <item value="b" />
-      <item value="补发" />
-      <item value="Create a new transaction, and suspend the current transaction if one exists.&#10;" />
-      <item value="REISSUE" />
-      <item value="补发&#10;" />
-      <item value="NOSONAR - exception flow control" />
-      <item value="PUSH_LOGISTICS" />
-      <item value="logistics" />
-      <item value="物流&#10;" />
-      <item value="log'si'ti" />
-      <item value="lo'g'si'ti'c's" />
-      <item value="logs" />
-      <item value="LOGISTICS&#10;" />
-      <item value="LOGIS" />
-      <item value="LOGI" />
-      <item value="LOGSITICS&#10;" />
-      <item value="LOGS" />
-      <item value="Logistics Api" />
-      <item value="attachment" />
-      <item value="attach" />
-      <item value="开始处理&#10;" />
-      <item value="申请&#10;" />
-      <item value="revoke&#10;" />
-      <item value="re" />
-      <item value="售后&#10;" />
-      <item value="shou" />
-      <item value="售后工单&#10;" />
-      <item value="arbitrary&#10;" />
-      <item value="identical&#10;" />
-      <item value="GROUP PROCESSING FLAG" />
-      <item value="ou can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
-      <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing max.poll.interval.ms or by reducing the maximum size of batches returned in poll() with max.poll.records." />
-      <item value="This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms" />
-      <item value="纠正&#10;" />
-      <item value="filll Group State And Fail Reason If Nessesary" />
-      <item value="附加" />
-      <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
-      <item value="one Day Ago" />
+      <item value="fence" />
+      <item value="state&#10;" />
+      <item value="status&#10;" />
+      <item value="thread Status" />
+      <item value="elapsed&#10;" />
+      <item value="ela" />
+      <item value="park" />
+      <item value="yep&#10;" />
+      <item value="Sneaky Throws" />
+      <item value="'com.dxd.mall.order.infrastructure.config.ma.bean.WxMaTradeOrderInfo' is not an enclosing class&#10;" />
+      <item value="eliminate allocations" />
+      <item value="eliminate alloca" />
+      <item value="eliminate" />
+      <item value="EliminateAllocations&#10;" />
+      <item value="EliminateAll" />
+      <item value="Eliminate" />
+      <item value="Elim" />
+      <item value="标量替换&#10;" />
+      <item value="VM option 'PrintEscapeAnalysis' is notproduct and is available only in debug version of VM." />
+      <item value="minor" />
+      <item value="intented&#10;" />
+      <item value="inten" />
+      <item value="perform&#10;" />
+      <item value="distinct" />
+      <item value="di's't" />
+      <item value="di's" />
+      <item value="重复的&#10;" />
+      <item value="陈建平没工夫" />
+      <item value="dist" />
+      <item value="distr" />
+      <item value="perform one or more distinct" />
+      <item value="perform one or " />
+      <item value="perform" />
+      <item value="per" />
+      <item value="nexus" />
+      <item value="transfer From Arbitrary Channel" />
+      <item value="three&#10;" />
+      <item value="there&#10;" />
+      <item value="CLR" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="ceil" />
+      <item value="floor&#10;" />
+      <item value="f" />
+      <item value="straightforward" />
+      <item value="in proper sequence" />
+      <item value="retain All" />
+      <item value="If this collection makes any guarantees as to what order its elements are returned by its iterator" />
+      <item value="guarantees" />
+      <item value="navigable" />
+      <item value="naviga" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4498" />
-        <entry key="ENGLISH" value="4495" />
+        <entry key="CHINESE" value="4892" />
+        <entry key="ENGLISH" value="4885" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -67,10 +67,10 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="9" />
-        <entry key="FRENCH" value="15" />
+        <entry key="FRENCH" value="16" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="2" />
+        <entry key="CATALAN" value="4" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629041307607" />
+    <option name="lastTrimTime" value="1631461123710" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
