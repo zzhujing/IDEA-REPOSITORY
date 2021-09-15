@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="784" />
     <option name="newTranslationDialogY" value="736" />
     <histories>
+      <item value="Used by condition wait methods as well as acquire" />
+      <item value="has Queued Predecessors" />
       <item value="strictly" />
       <item value="reentrant" />
       <item value="efficient" />
@@ -53,13 +55,11 @@
       <item value="either or both a default &lt;em&gt;exclusive&lt;em&gt; mode and a &lt;em&gt;shared&lt;em&gt; mode" />
       <item value="either or both" />
       <item value="appropriate" />
-      <item value="but only the atomically updated {@code int} value manipulated using methods {@link getState}, {@link setState} and {@link compareAndSetState} is tracked with respect to synchronization." />
-      <item value="manipulated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4977" />
-        <entry key="ENGLISH" value="4978" />
+        <entry key="CHINESE" value="4980" />
+        <entry key="ENGLISH" value="4981" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
