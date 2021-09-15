@@ -5,6 +5,25 @@
     <option name="newTranslationDialogX" value="784" />
     <option name="newTranslationDialogY" value="736" />
     <histories>
+      <item value="strictly" />
+      <item value="reentrant" />
+      <item value="efficient" />
+      <item value="&lt;p&gt;Throughput and scalability are generally highest for the default barging (also known as &lt;em&gt;greedy&lt;em&gt;, &lt;em&gt;renouncement&lt;em&gt;, and &lt;em&gt;convoy-avoidance&lt;em&gt;) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads, and each recontention has an unbiased chance to succeed against incoming threads. Also, while acquires do not &amp;quot;spin&amp;quot; in the usual sense, they may perform multiple invocations of {@code tryAcquire} interspersed with other computations before blocking. This gives most of the benefits of spins when exclusive synchronization is only briefly held, without most of the liabilities when it isn't. If so desired, you can augment this by preceding calls to acquire methods with &quot;fast-path&quot; checks, possibly prechecking {@link hasContended} andor {@link hasQueuedThreads} to only do so if the synchronizer is likely not to be contended." />
+      <item value="and each recontention has an unbiased chance to succeed against incoming threads" />
+      <item value="recontention" />
+      <item value="While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads," />
+      <item value="guaranteed" />
+      <item value="&lt;p&gt;Throughput and scalability are generally highest for the default barging (also known as &lt;em&gt;greedy&lt;em&gt;, &lt;em&gt;renouncement&lt;em&gt;, and &lt;em&gt;convoy-avoidance&lt;em&gt;) strategy." />
+      <item value="Throughput and scalability are generally highest for the default barging" />
+      <item value="barging" />
+      <item value="Because checks in acquire are invoked before enqueuing, a newly acquiring thread may &lt;em&gt;barge&lt;em&gt; ahead of others that are blocked and queued." />
+      <item value="&lt;em&gt;barge&lt;em&gt; ahead of others" />
+      <item value="barge" />
+      <item value="involve cascading signals" />
+      <item value="enforce" />
+      <item value="assist" />
+      <item value="diagnostic" />
+      <item value="inspecting&#10;" />
       <item value="These can be exported as desired into classes using an {@code AbstractQueuedSynchronizer} for their synchronization mechanics." />
       <item value="exported" />
       <item value="instrumentation&#10;&#10;" />
@@ -36,30 +55,11 @@
       <item value="appropriate" />
       <item value="but only the atomically updated {@code int} value manipulated using methods {@link getState}, {@link setState} and {@link compareAndSetState} is tracked with respect to synchronization." />
       <item value="manipulated" />
-      <item value="maintains&#10;" />
-      <item value="maintain&#10;" />
-      <item value="Subclasses can maintain other state fields" />
-      <item value="the other methods in this class carry out all queuing and blocking mechanics" />
-      <item value="carry out" />
-      <item value="Given these" />
-      <item value="and which define what that state means in terms of this object being acquired or released" />
-      <item value="Switch label 'APPLE' is the only reachable in the whole switch &#10;" />
-      <item value="梨子&#10;" />
-      <item value="PAIR" />
-      <item value="类型推断&#10;" />
-      <item value="tui" />
-      <item value="indent" />
-      <item value="incidental" />
-      <item value="strip Indent" />
-      <item value="确切的&#10;" />
-      <item value="确切的&#10;&#10;" />
-      <item value="fence" />
-      <item value="state&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4956" />
-        <entry key="ENGLISH" value="4949" />
+        <entry key="CHINESE" value="4977" />
+        <entry key="ENGLISH" value="4978" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="9" />
-        <entry key="FRENCH" value="16" />
+        <entry key="FRENCH" value="17" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="4" />
