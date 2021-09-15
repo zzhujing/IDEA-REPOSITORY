@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="784" />
     <option name="newTranslationDialogY" value="736" />
     <histories>
+      <item value="always one that was initially placed on a condition queue, is now waiting to reacquire on sync queue" />
       <item value="waitStatus must be 0 or PROPAGATE. Indicate that we need a signal, but don't park yet. Caller will need to retry to make sure it cannot acquire before parking" />
       <item value="Used by condition wait methods as well as acquire" />
       <item value="has Queued Predecessors" />
@@ -54,12 +55,11 @@
       <item value="attempted acquires by other threads cannot succeed." />
       <item value="attempted" />
       <item value="either or both a default &lt;em&gt;exclusive&lt;em&gt; mode and a &lt;em&gt;shared&lt;em&gt; mode" />
-      <item value="either or both" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4981" />
-        <entry key="ENGLISH" value="4982" />
+        <entry key="CHINESE" value="4982" />
+        <entry key="ENGLISH" value="4983" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
