@@ -2,9 +2,29 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="189" />
-    <option name="newTranslationDialogY" value="601" />
+    <option name="newTranslationDialogX" value="784" />
+    <option name="newTranslationDialogY" value="736" />
     <histories>
+      <item value="This class defines a nested AbstractQueuedSynchronizer.ConditionObject class that can be used as a Condition implementation by subclasses supporting exclusive mode for which method isHeldExclusively reports whether synchronization is exclusively held with respect to the current threa&#10;" />
+      <item value="come into play&#10;" />
+      <item value="come into&#10;" />
+      <item value=" This class does not &quot;understand&quot; these differences except in the mechanical sense that when a shared mode acquire succeeds, the next waiting thread (if one exists) must also determine whether it can acquire as well&#10;&#10;" />
+      <item value=" This class does not &quot;understand&quot; these differences except in the mechanical sense that when a shared mode acquire succeeds, the next waiting thread (if one exists) must also determine whether it can acquire as we&#10;" />
+      <item value="mechanical&#10;" />
+      <item value="attempted acquires by other threads cannot succeed." />
+      <item value="attempted" />
+      <item value="either or both a default &lt;em&gt;exclusive&lt;em&gt; mode and a &lt;em&gt;shared&lt;em&gt; mode" />
+      <item value="either or both" />
+      <item value="appropriate" />
+      <item value="but only the atomically updated {@code int} value manipulated using methods {@link getState}, {@link setState} and {@link compareAndSetState} is tracked with respect to synchronization." />
+      <item value="manipulated" />
+      <item value="maintains&#10;" />
+      <item value="maintain&#10;" />
+      <item value="Subclasses can maintain other state fields" />
+      <item value="the other methods in this class carry out all queuing and blocking mechanics" />
+      <item value="carry out" />
+      <item value="Given these" />
+      <item value="and which define what that state means in terms of this object being acquired or released" />
       <item value="Switch label 'APPLE' is the only reachable in the whole switch &#10;" />
       <item value="梨子&#10;" />
       <item value="PAIR" />
@@ -35,31 +55,11 @@
       <item value="标量替换&#10;" />
       <item value="VM option 'PrintEscapeAnalysis' is notproduct and is available only in debug version of VM." />
       <item value="minor" />
-      <item value="intented&#10;" />
-      <item value="inten" />
-      <item value="perform&#10;" />
-      <item value="distinct" />
-      <item value="di's't" />
-      <item value="di's" />
-      <item value="重复的&#10;" />
-      <item value="陈建平没工夫" />
-      <item value="dist" />
-      <item value="distr" />
-      <item value="perform one or more distinct" />
-      <item value="perform one or " />
-      <item value="perform" />
-      <item value="per" />
-      <item value="nexus" />
-      <item value="transfer From Arbitrary Channel" />
-      <item value="three&#10;" />
-      <item value="there&#10;" />
-      <item value="CLR" />
-      <item value="TREEIFY THRESHOLD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4921" />
-        <entry key="ENGLISH" value="4914" />
+        <entry key="CHINESE" value="4944" />
+        <entry key="ENGLISH" value="4941" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
