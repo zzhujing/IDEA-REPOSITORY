@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="784" />
     <option name="newTranslationDialogY" value="736" />
     <histories>
+      <item value="1. If read count nonzero or write count nonzero and owner is a different thread, fail. 2. If count would saturate, fail. (This can only happen if count is already nonzero.) 3. Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
+      <item value="saturate" />
+      <item value="Walkthrough" />
       <item value="always one that was initially placed on a condition queue, is now waiting to reacquire on sync queue" />
       <item value="waitStatus must be 0 or PROPAGATE. Indicate that we need a signal, but don't park yet. Caller will need to retry to make sure it cannot acquire before parking" />
       <item value="Used by condition wait methods as well as acquire" />
@@ -52,14 +55,11 @@
       <item value=" This class does not &quot;understand&quot; these differences except in the mechanical sense that when a shared mode acquire succeeds, the next waiting thread (if one exists) must also determine whether it can acquire as well&#10;&#10;" />
       <item value=" This class does not &quot;understand&quot; these differences except in the mechanical sense that when a shared mode acquire succeeds, the next waiting thread (if one exists) must also determine whether it can acquire as we&#10;" />
       <item value="mechanical&#10;" />
-      <item value="attempted acquires by other threads cannot succeed." />
-      <item value="attempted" />
-      <item value="either or both a default &lt;em&gt;exclusive&lt;em&gt; mode and a &lt;em&gt;shared&lt;em&gt; mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4982" />
-        <entry key="ENGLISH" value="4983" />
+        <entry key="CHINESE" value="4985" />
+        <entry key="ENGLISH" value="4986" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
