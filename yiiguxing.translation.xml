@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="490" />
     <histories>
+      <item value="interact&#10;" />
+      <item value="A ChannelHandler is provided with a ChannelHandlerContext object&#10;" />
+      <item value="be provieded with&#10;" />
+      <item value="Alternatively&#10;" />
       <item value="Do not confuse I/O timeout and await timeout&#10;" />
       <item value="certainly" />
       <item value="cer" />
@@ -51,15 +55,11 @@
       <item value="Used by condition wait methods as well as acquire" />
       <item value="has Queued Predecessors" />
       <item value="strictly" />
-      <item value="reentrant" />
-      <item value="efficient" />
-      <item value="&lt;p&gt;Throughput and scalability are generally highest for the default barging (also known as &lt;em&gt;greedy&lt;em&gt;, &lt;em&gt;renouncement&lt;em&gt;, and &lt;em&gt;convoy-avoidance&lt;em&gt;) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads, and each recontention has an unbiased chance to succeed against incoming threads. Also, while acquires do not &amp;quot;spin&amp;quot; in the usual sense, they may perform multiple invocations of {@code tryAcquire} interspersed with other computations before blocking. This gives most of the benefits of spins when exclusive synchronization is only briefly held, without most of the liabilities when it isn't. If so desired, you can augment this by preceding calls to acquire methods with &quot;fast-path&quot; checks, possibly prechecking {@link hasContended} andor {@link hasQueuedThreads} to only do so if the synchronizer is likely not to be contended." />
-      <item value="and each recontention has an unbiased chance to succeed against incoming threads" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5015" />
-        <entry key="ENGLISH" value="5003" />
+        <entry key="CHINESE" value="5021" />
+        <entry key="ENGLISH" value="5005" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
