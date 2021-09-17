@@ -2,9 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="194" />
-    <option name="newTranslationDialogY" value="442" />
+    <option name="newTranslationDialogX" value="191" />
+    <option name="newTranslationDialogY" value="490" />
     <histories>
+      <item value="Do not confuse I/O timeout and await timeout&#10;" />
+      <item value="certainly" />
+      <item value="cer" />
+      <item value="mentioned&#10;" />
+      <item value="mentioned above&#10;" />
+      <item value=" disadvantages mentioned above&#10;" />
+      <item value=" disadvantages" />
+      <item value="In spite of the disadvantages mentioned above&#10;" />
+      <item value="in spite of&#10;" />
+      <item value="in spite of" />
+      <item value=" a particular circumstan&#10;" />
+      <item value=" a particular &#10;circumstan&#10;" />
       <item value="&#10;contrast&#10;" />
       <item value="by contrast&#10;" />
       <item value="by " />
@@ -43,23 +55,11 @@
       <item value="efficient" />
       <item value="&lt;p&gt;Throughput and scalability are generally highest for the default barging (also known as &lt;em&gt;greedy&lt;em&gt;, &lt;em&gt;renouncement&lt;em&gt;, and &lt;em&gt;convoy-avoidance&lt;em&gt;) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads, and each recontention has an unbiased chance to succeed against incoming threads. Also, while acquires do not &amp;quot;spin&amp;quot; in the usual sense, they may perform multiple invocations of {@code tryAcquire} interspersed with other computations before blocking. This gives most of the benefits of spins when exclusive synchronization is only briefly held, without most of the liabilities when it isn't. If so desired, you can augment this by preceding calls to acquire methods with &quot;fast-path&quot; checks, possibly prechecking {@link hasContended} andor {@link hasQueuedThreads} to only do so if the synchronizer is likely not to be contended." />
       <item value="and each recontention has an unbiased chance to succeed against incoming threads" />
-      <item value="recontention" />
-      <item value="While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads," />
-      <item value="guaranteed" />
-      <item value="&lt;p&gt;Throughput and scalability are generally highest for the default barging (also known as &lt;em&gt;greedy&lt;em&gt;, &lt;em&gt;renouncement&lt;em&gt;, and &lt;em&gt;convoy-avoidance&lt;em&gt;) strategy." />
-      <item value="Throughput and scalability are generally highest for the default barging" />
-      <item value="barging" />
-      <item value="Because checks in acquire are invoked before enqueuing, a newly acquiring thread may &lt;em&gt;barge&lt;em&gt; ahead of others that are blocked and queued." />
-      <item value="&lt;em&gt;barge&lt;em&gt; ahead of others" />
-      <item value="barge" />
-      <item value="involve cascading signals" />
-      <item value="enforce" />
-      <item value="assist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5005" />
-        <entry key="ENGLISH" value="4998" />
+        <entry key="CHINESE" value="5015" />
+        <entry key="ENGLISH" value="5003" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
