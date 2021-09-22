@@ -17,6 +17,7 @@
       <map>
         <entry key="JSONSchemaSelector" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
       </map>
     </option>
   </component>
