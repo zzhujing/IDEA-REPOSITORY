@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="wakenUp.compareAndSet(false, true)' is always evaluated before calling 'selector.wakeup()' to reduce the wake-up overhead. (Selector.wakeup() is an expensive operation.)" />
       <item value="is Compatible" />
       <item value="add Task Wakes Up" />
       <item value="Either we tried to add the task from within the EventLoop or we was not able to add it even with backoff" />
@@ -54,12 +55,11 @@
       <item value="in spite of&#10;" />
       <item value="in spite of" />
       <item value=" a particular circumstan&#10;" />
-      <item value=" a particular &#10;circumstan&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5033" />
-        <entry key="ENGLISH" value="5034" />
+        <entry key="CHINESE" value="5034" />
+        <entry key="ENGLISH" value="5035" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
