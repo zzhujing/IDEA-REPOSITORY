@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="202" />
     <option name="newTranslationDialogY" value="634" />
     <histories>
+      <item value="Progressive Promise" />
+      <item value="comes with some handy methods to see" />
       <item value="Called once a connect operation is made" />
       <item value="entire Message" />
       <item value="Normalize the path by suppressing sequences like &quot;path..&quot; and inner simple dots." />
@@ -53,13 +55,11 @@
       <item value="it is neither successed&#10;&#10;" />
       <item value="neither&#10;" />
       <item value="guarantee&#10;" />
-      <item value="Override" />
-      <item value="Some transports exposes additional operations that is specific to the transport. Down-cast the {@link Channel} to sub-type to invoke such operations. For example, with the old IO datagram transport, multicast join leave operations are provided by {@link DatagramChannel}." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5028" />
-        <entry key="ENGLISH" value="5014" />
+        <entry key="ENGLISH" value="5016" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
