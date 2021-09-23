@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="is Compatible" />
       <item value="add Task Wakes Up" />
       <item value="Either we tried to add the task from within the EventLoop or we was not able to add it even with backoff" />
       <item value="Try to wake up the executor so it will empty its task queue." />
@@ -54,12 +55,11 @@
       <item value="in spite of" />
       <item value=" a particular circumstan&#10;" />
       <item value=" a particular &#10;circumstan&#10;" />
-      <item value="&#10;contrast&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5032" />
-        <entry key="ENGLISH" value="5033" />
+        <entry key="CHINESE" value="5033" />
+        <entry key="ENGLISH" value="5034" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
