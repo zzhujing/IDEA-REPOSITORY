@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="202" />
     <option name="newTranslationDialogY" value="634" />
     <histories>
+      <item value="TIDYING" />
       <item value="Check if queue empty only if necessary" />
       <item value="shift&#10;" />
       <item value="Progressive Promise" />
@@ -54,12 +55,11 @@
       <item value="either successfully&#10;" />
       <item value="either success" />
       <item value="either" />
-      <item value="it is neither successed&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5029" />
-        <entry key="ENGLISH" value="5017" />
+        <entry key="ENGLISH" value="5018" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
