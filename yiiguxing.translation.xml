@@ -2,9 +2,19 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="202" />
-    <option name="newTranslationDialogY" value="634" />
+    <option name="newTranslationDialogX" value="930" />
+    <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="handy" />
+      <item value="guaranteed" />
+      <item value="sensible" />
+      <item value="Returns true if and only if all EventExecutors managed by this EventExecutorGroup are being shut down gracefully or was shut down.&#10;" />
+      <item value="global fashion" />
+      <item value="Besides" />
+      <item value="via" />
+      <item value="reachability Fence" />
+      <item value="stealing" />
+      <item value="work-stealing" />
       <item value="TIDYING" />
       <item value="Check if queue empty only if necessary" />
       <item value="shift&#10;" />
@@ -45,21 +55,11 @@
       <item value="utilization" />
       <item value="tricky&#10;" />
       <item value="utilazation&#10;" />
-      <item value="ut" />
-      <item value="yields the best performance&#10;" />
-      <item value="yields&#10;" />
-      <item value="follow-up" />
-      <item value="prefer x to y" />
-      <item value="prefer...to" />
-      <item value="prefer" />
-      <item value="either successfully&#10;" />
-      <item value="either success" />
-      <item value="either" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5029" />
-        <entry key="ENGLISH" value="5018" />
+        <entry key="CHINESE" value="5030" />
+        <entry key="ENGLISH" value="5027" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
