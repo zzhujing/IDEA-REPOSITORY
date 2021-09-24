@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Makes best possible effort to detect" />
       <item value="arbitrary" />
       <item value="take care of clear the OP_WRITE once there is nothing left to write" />
       <item value="take care of" />
@@ -54,12 +55,11 @@
       <item value="cer" />
       <item value="mentioned&#10;" />
       <item value="mentioned above&#10;" />
-      <item value=" disadvantages mentioned above&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5039" />
-        <entry key="ENGLISH" value="5040" />
+        <entry key="CHINESE" value="5040" />
+        <entry key="ENGLISH" value="5041" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
