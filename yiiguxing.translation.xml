@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="remove OP_CONNECT as otherwise Selector.select(..) will always return without blocking" />
       <item value="In the first case, 'wakenUp' is set to true and the following 'selector.select(...)' will wake up immediately. Until 'wakenUp' is set to false again in the next round, 'wakenUp.compareAndSet(false, true)' will fail, and therefore any attempt to wake up the Selector will fail, too, causing the following 'selector.select(...)' call to block unnecessarily." />
       <item value="wakenUp.compareAndSet(false, true)' is always evaluated before calling 'selector.wakeup()' to reduce the wake-up overhead. (Selector.wakeup() is an expensive operation.)" />
       <item value="is Compatible" />
@@ -54,12 +55,11 @@
       <item value=" disadvantages" />
       <item value="In spite of the disadvantages mentioned above&#10;" />
       <item value="in spite of&#10;" />
-      <item value="in spite of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5035" />
-        <entry key="ENGLISH" value="5036" />
+        <entry key="CHINESE" value="5036" />
+        <entry key="ENGLISH" value="5037" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
