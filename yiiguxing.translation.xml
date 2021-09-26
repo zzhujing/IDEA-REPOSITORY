@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="invoke Channel Writability Changed" />
       <item value="estimator" />
       <item value="respect Maybe More Data" />
       <item value="Also check for readOps of 0 to workaround possible JDK bug which may otherwise lead to a spin loop" />
@@ -54,12 +55,11 @@
       <item value="be provieded with&#10;" />
       <item value="Alternatively&#10;" />
       <item value="Do not confuse I/O timeout and await timeout&#10;" />
-      <item value="certainly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5043" />
-        <entry key="ENGLISH" value="5044" />
+        <entry key="CHINESE" value="5044" />
+        <entry key="ENGLISH" value="5045" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
