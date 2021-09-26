@@ -2,9 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="930" />
+    <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Aware&#10;" />
+      <item value="ResourceAware" />
+      <item value="ApplicationAware&#10;" />
+      <item value="Application Aware&#10;" />
+      <item value="touch&#10;" />
+      <item value="retain&#10;" />
       <item value="Ensures lack of reordering of loads before the fence with loads or stores after the fence." />
       <item value="load Fence" />
       <item value="@deprecated use the Little Endian accessors, e.g. {@code getShortLE}, {@code getIntLE}" />
@@ -49,17 +55,11 @@
       <item value="TIDYING" />
       <item value="Check if queue empty only if necessary" />
       <item value="shift&#10;" />
-      <item value="Progressive Promise" />
-      <item value="comes with some handy methods to see" />
-      <item value="Called once a connect operation is made" />
-      <item value="entire Message" />
-      <item value="Normalize the path by suppressing sequences like &quot;path..&quot; and inner simple dots." />
-      <item value="Rpc Call Registry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5069" />
-        <entry key="ENGLISH" value="5070" />
+        <entry key="CHINESE" value="5096" />
+        <entry key="ENGLISH" value="5096" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
