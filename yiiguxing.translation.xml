@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="The Entry that is the first in the linked-list structure that was flushed" />
       <item value="If there's a pending flush operation, event loop will call forceFlush() later, and thus there's no need to call it now." />
       <item value="writability&#10;" />
       <item value="invoke Channel Writability Changed" />
@@ -54,12 +55,11 @@
       <item value="approach&#10;" />
       <item value="interact&#10;" />
       <item value="A ChannelHandler is provided with a ChannelHandlerContext object&#10;" />
-      <item value="be provieded with&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5058" />
-        <entry key="ENGLISH" value="5059" />
+        <entry key="CHINESE" value="5059" />
+        <entry key="ENGLISH" value="5060" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
