@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Ensures lack of reordering of loads before the fence with loads or stores after the fence." />
+      <item value="load Fence" />
       <item value="@deprecated use the Little Endian accessors, e.g. {@code getShortLE}, {@code getIntLE}" />
       <item value="using non-short-circuit &amp; to reduce branching - this is a hot path and targetCapacity should rarely overflow" />
       <item value="get Max Bytes Per Gathering Write" />
@@ -53,13 +55,11 @@
       <item value="entire Message" />
       <item value="Normalize the path by suppressing sequences like &quot;path..&quot; and inner simple dots." />
       <item value="Rpc Call Registry" />
-      <item value="match Optimal Coupon" />
-      <item value="Compatible&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5067" />
-        <entry key="ENGLISH" value="5068" />
+        <entry key="CHINESE" value="5069" />
+        <entry key="ENGLISH" value="5070" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
