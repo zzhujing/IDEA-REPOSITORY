@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="930" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="get Max Bytes Per Gathering Write" />
       <item value="It is possible that we have set the write OP, woken up by NIO because the socket is writable, and then use our write quantum. In this case we no longer want to set the write OP because the socket is still writable (as far as we know). We will find out next time we attempt to write if the socket is writable and set the write OP if necessary." />
       <item value="quantum" />
       <item value="progressive Size" />
@@ -54,12 +55,11 @@
       <item value="Compatible&#10;" />
       <item value="Guard against re-entrance." />
       <item value="Because the handler instance has a state variable which is dedicated to one connection, you have to create a new handler instance for each new channel to avoid a race condition where a unauthenticated client can get the confidential informatio" />
-      <item value="be dedicated to&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5064" />
-        <entry key="ENGLISH" value="5065" />
+        <entry key="CHINESE" value="5065" />
+        <entry key="ENGLISH" value="5066" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
