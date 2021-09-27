@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Note that" />
       <item value="Abstract Derived Byte Buf" />
       <item value="dispose" />
       <item value="Weak reference objects, which do not prevent their referents from being made finalizable, finalized, and then reclaimed. Weak references are most often used to implement canonicalizing mappings. &lt;p&gt; Suppose that the garbage collector determines at a certain point in time that an object is &lt;a href=&quot;package-summary.htmlreachability&quot;&gt;weakly reachable&lt;a&gt;. At that time it will atomically clear all weak references to that object and all weak references to any other weakly-reachable objects from which that object is reachable through a chain of strong and soft references. At the same time it will declare all of the formerly weakly-reachable objects to be finalizable. At the same time or at some later time it will enqueue those newly-cleared weak references that are registered with reference queues." />
@@ -54,12 +55,11 @@
       <item value="Besides" />
       <item value="via" />
       <item value="reachability Fence" />
-      <item value="stealing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5099" />
-        <entry key="ENGLISH" value="5100" />
+        <entry key="CHINESE" value="5100" />
+        <entry key="ENGLISH" value="5101" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
