@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="we called initChannel(...) so we need to call now pipeline.fireChannelRegistered() to ensure we not miss an event." />
       <item value="arbitrary" />
       <item value="PARANOID" />
       <item value="preferably a direct buffer which is suitable for IO" />
@@ -54,12 +55,11 @@
       <item value="sensible" />
       <item value="Returns true if and only if all EventExecutors managed by this EventExecutorGroup are being shut down gracefully or was shut down.&#10;" />
       <item value="global fashion" />
-      <item value="Besides" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5103" />
-        <entry key="ENGLISH" value="5104" />
+        <entry key="CHINESE" value="5104" />
+        <entry key="ENGLISH" value="5105" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
