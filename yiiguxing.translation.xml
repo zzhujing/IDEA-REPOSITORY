@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="arbitrary" />
       <item value="PARANOID" />
       <item value="preferably a direct buffer which is suitable for IO" />
       <item value="Note that" />
@@ -36,7 +37,6 @@
       <item value="respect Maybe More Data" />
       <item value="Also check for readOps of 0 to workaround possible JDK bug which may otherwise lead to a spin loop" />
       <item value="Makes best possible effort to detect" />
-      <item value="arbitrary" />
       <item value="take care of clear the OP_WRITE once there is nothing left to write" />
       <item value="take care of" />
       <item value="remove OP_CONNECT as otherwise Selector.select(..) will always return without blocking" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5102" />
-        <entry key="ENGLISH" value="5103" />
+        <entry key="CHINESE" value="5103" />
+        <entry key="ENGLISH" value="5104" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
