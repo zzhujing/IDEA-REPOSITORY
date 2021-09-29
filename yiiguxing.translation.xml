@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Wheel Timer Demo" />
       <item value="Note that the fast path is only possible on threads that extend {@link FastThreadLocalThread}, because it requires a special field to store the necessary state. An access by any other kind of thread falls back to a regular {@link ThreadLocal}." />
       <item value="Although seemingly very subtle, it yields slight performance advantage over using a hash table, and it is useful when accessed frequently." />
       <item value="subtle" />
@@ -54,12 +55,11 @@
       <item value="wakenUp.compareAndSet(false, true)' is always evaluated before calling 'selector.wakeup()' to reduce the wake-up overhead. (Selector.wakeup() is an expensive operation.)" />
       <item value="is Compatible" />
       <item value="add Task Wakes Up" />
-      <item value="Either we tried to add the task from within the EventLoop or we was not able to add it even with backoff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5120" />
-        <entry key="ENGLISH" value="5121" />
+        <entry key="CHINESE" value="5121" />
+        <entry key="ENGLISH" value="5122" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
