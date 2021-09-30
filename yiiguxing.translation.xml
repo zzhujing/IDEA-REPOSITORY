@@ -5,10 +5,13 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="subsequently" />
+      <item value="in contrast to" />
+      <item value="territory" />
+      <item value="if any&#10;" />
       <item value="extensive" />
       <item value="translated" />
       <item value="Return the bean instance that uniquely matches the given object type, if any. &lt;p&gt;This method goes into {@link ListableBeanFactory} by-type lookup territory but may also be translated into a conventional by-name lookup based on the name of the given type. For more extensive retrieval operations across sets of beans, use {@link ListableBeanFactory} andor {@link BeanFactoryUtils}" />
-      <item value="territory" />
       <item value="measure" />
       <item value="Translates aliases back to the corresponding canonical bean name." />
       <item value="retain&#10;" />
@@ -52,14 +55,11 @@
       <item value="Weak reference objects, which do not prevent their referents from being made finalizable, finalized, and then reclaimed. Weak references are most often used to implement canonicalizing mappings. &lt;p&gt; Suppose that the garbage collector determines at a certain point in time that an object is &lt;a href=&quot;package-summary.htmlreachability&quot;&gt;weakly reachable&lt;a&gt;. At that time it will atomically clear all weak references to that object and all weak references to any other weakly-reachable objects from which that object is reachable through a chain of strong and soft references. At the same time it will declare all of the formerly weakly-reachable objects to be finalizable. At the same time or at some later time it will enqueue those newly-cleared weak references that are registered with reference queues." />
       <item value="canonicalizing" />
       <item value="Aware&#10;" />
-      <item value="ResourceAware" />
-      <item value="ApplicationAware&#10;" />
-      <item value="Application Aware&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5144" />
-        <entry key="ENGLISH" value="5142" />
+        <entry key="CHINESE" value="5147" />
+        <entry key="ENGLISH" value="5147" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
