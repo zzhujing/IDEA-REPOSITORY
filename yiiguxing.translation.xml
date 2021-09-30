@@ -2,9 +2,35 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="410" />
-    <option name="newTranslationDialogY" value="669" />
+    <option name="newTranslationDialogX" value="98" />
+    <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="extensive" />
+      <item value="translated" />
+      <item value="Return the bean instance that uniquely matches the given object type, if any. &lt;p&gt;This method goes into {@link ListableBeanFactory} by-type lookup territory but may also be translated into a conventional by-name lookup based on the name of the given type. For more extensive retrieval operations across sets of beans, use {@link ListableBeanFactory} andor {@link BeanFactoryUtils}" />
+      <item value="territory" />
+      <item value="measure" />
+      <item value="Translates aliases back to the corresponding canonical bean name." />
+      <item value="retain&#10;" />
+      <item value="distinguish&#10;" />
+      <item value="as far as possible&#10;" />
+      <item value="as far as possiable&#10;" />
+      <item value="as far as " />
+      <item value="In contrast to the methods in ListableBeanFactory, all of the operations in this interface will also check parent factories if this is a HierarchicalBeanFactory. If a bean is not found in this factory instance, the immediate parent factory will be asked. Beans in this factory instance are supposed to override beans of the same name in any parent factory.&#10;" />
+      <item value="in contrast to&#10;" />
+      <item value="in con" />
+      <item value="Implementations are encouraged to support references amongst beans&#10;" />
+      <item value=" However, an implementation could simply return Java objects it creates as necessary directly in Java code&#10;" />
+      <item value="individual&#10;" />
+      <item value="which type of&#10;" />
+      <item value="in which the instance is a singleton in the scope of the factory" />
+      <item value="alternative" />
+      <item value="a superior alternative" />
+      <item value="return either an independent" />
+      <item value="are available for specific purposes" />
+      <item value="further&#10;" />
+      <item value="future" />
+      <item value="further" />
       <item value="Autowire" />
       <item value="Wheel Timer Demo" />
       <item value="Note that the fast path is only possible on threads that extend {@link FastThreadLocalThread}, because it requires a special field to store the necessary state. An access by any other kind of thread falls back to a regular {@link ThreadLocal}." />
@@ -29,37 +55,11 @@
       <item value="ResourceAware" />
       <item value="ApplicationAware&#10;" />
       <item value="Application Aware&#10;" />
-      <item value="touch&#10;" />
-      <item value="retain&#10;" />
-      <item value="Ensures lack of reordering of loads before the fence with loads or stores after the fence." />
-      <item value="load Fence" />
-      <item value="@deprecated use the Little Endian accessors, e.g. {@code getShortLE}, {@code getIntLE}" />
-      <item value="using non-short-circuit &amp; to reduce branching - this is a hot path and targetCapacity should rarely overflow" />
-      <item value="get Max Bytes Per Gathering Write" />
-      <item value="It is possible that we have set the write OP, woken up by NIO because the socket is writable, and then use our write quantum. In this case we no longer want to set the write OP because the socket is still writable (as far as we know). We will find out next time we attempt to write if the socket is writable and set the write OP if necessary." />
-      <item value="quantum" />
-      <item value="progressive Size" />
-      <item value="that was" />
-      <item value="that was flushed" />
-      <item value="The Entry that is the first in the linked-list structure that was flushed" />
-      <item value="If there's a pending flush operation, event loop will call forceFlush() later, and thus there's no need to call it now." />
-      <item value="writability&#10;" />
-      <item value="invoke Channel Writability Changed" />
-      <item value="estimator" />
-      <item value="respect Maybe More Data" />
-      <item value="Also check for readOps of 0 to workaround possible JDK bug which may otherwise lead to a spin loop" />
-      <item value="Makes best possible effort to detect" />
-      <item value="take care of clear the OP_WRITE once there is nothing left to write" />
-      <item value="take care of" />
-      <item value="remove OP_CONNECT as otherwise Selector.select(..) will always return without blocking" />
-      <item value="In the first case, 'wakenUp' is set to true and the following 'selector.select(...)' will wake up immediately. Until 'wakenUp' is set to false again in the next round, 'wakenUp.compareAndSet(false, true)' will fail, and therefore any attempt to wake up the Selector will fail, too, causing the following 'selector.select(...)' call to block unnecessarily." />
-      <item value="wakenUp.compareAndSet(false, true)' is always evaluated before calling 'selector.wakeup()' to reduce the wake-up overhead. (Selector.wakeup() is an expensive operation.)" />
-      <item value="is Compatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5122" />
-        <entry key="ENGLISH" value="5122" />
+        <entry key="CHINESE" value="5144" />
+        <entry key="ENGLISH" value="5142" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
