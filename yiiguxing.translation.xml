@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="410" />
     <option name="newTranslationDialogY" value="669" />
     <histories>
+      <item value="Autowire" />
       <item value="Wheel Timer Demo" />
       <item value="Note that the fast path is only possible on threads that extend {@link FastThreadLocalThread}, because it requires a special field to store the necessary state. An access by any other kind of thread falls back to a regular {@link ThreadLocal}." />
       <item value="Although seemingly very subtle, it yields slight performance advantage over using a hash table, and it is useful when accessed frequently." />
@@ -54,18 +55,17 @@
       <item value="In the first case, 'wakenUp' is set to true and the following 'selector.select(...)' will wake up immediately. Until 'wakenUp' is set to false again in the next round, 'wakenUp.compareAndSet(false, true)' will fail, and therefore any attempt to wake up the Selector will fail, too, causing the following 'selector.select(...)' call to block unnecessarily." />
       <item value="wakenUp.compareAndSet(false, true)' is always evaluated before calling 'selector.wakeup()' to reduce the wake-up overhead. (Selector.wakeup() is an expensive operation.)" />
       <item value="is Compatible" />
-      <item value="add Task Wakes Up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5121" />
+        <entry key="CHINESE" value="5122" />
         <entry key="ENGLISH" value="5122" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="8" />
+        <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="9" />
         <entry key="FRENCH" value="17" />
         <entry key="FINNISH" value="1" />
