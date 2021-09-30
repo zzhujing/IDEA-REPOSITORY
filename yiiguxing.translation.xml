@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="consider" />
+      <item value="alternative" />
+      <item value="ancestor" />
       <item value="subsequently" />
       <item value="in contrast to" />
       <item value="territory" />
@@ -27,7 +30,6 @@
       <item value="individual&#10;" />
       <item value="which type of&#10;" />
       <item value="in which the instance is a singleton in the scope of the factory" />
-      <item value="alternative" />
       <item value="a superior alternative" />
       <item value="return either an independent" />
       <item value="are available for specific purposes" />
@@ -53,13 +55,11 @@
       <item value="Abstract Derived Byte Buf" />
       <item value="dispose" />
       <item value="Weak reference objects, which do not prevent their referents from being made finalizable, finalized, and then reclaimed. Weak references are most often used to implement canonicalizing mappings. &lt;p&gt; Suppose that the garbage collector determines at a certain point in time that an object is &lt;a href=&quot;package-summary.htmlreachability&quot;&gt;weakly reachable&lt;a&gt;. At that time it will atomically clear all weak references to that object and all weak references to any other weakly-reachable objects from which that object is reachable through a chain of strong and soft references. At the same time it will declare all of the formerly weakly-reachable objects to be finalizable. At the same time or at some later time it will enqueue those newly-cleared weak references that are registered with reference queues." />
-      <item value="canonicalizing" />
-      <item value="Aware&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5147" />
-        <entry key="ENGLISH" value="5147" />
+        <entry key="CHINESE" value="5149" />
+        <entry key="ENGLISH" value="5150" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
