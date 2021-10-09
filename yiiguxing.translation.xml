@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="Resolve the specified dependency against the beans defined in this factory." />
       <item value="against" />
       <item value="This is effectively a variant of {@link getBean(Class)} which preserves the bean name of the matching instance." />
       <item value="preserves" />
@@ -54,12 +55,11 @@
       <item value="We typically use this method to support names that are illegal within XML ids" />
       <item value="We typical n XML ids" />
       <item value="illegal" />
-      <item value="relevant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5244" />
-        <entry key="ENGLISH" value="5245" />
+        <entry key="CHINESE" value="5246" />
+        <entry key="ENGLISH" value="5247" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
