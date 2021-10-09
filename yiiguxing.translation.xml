@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="prefer annotation-based autowiring for clearer demarcation of autowiring needs" />
+      <item value="appropriate" />
+      <item value="greediest constructor" />
+      <item value="greediest" />
+      <item value="Note that BeanFactoryAware etc and annotation-driven injection will still be applied." />
       <item value="aware&#10;" />
       <item value="externally" />
       <item value="autowire&#10;" />
@@ -50,16 +55,11 @@
       <item value="alternative" />
       <item value="ancestor" />
       <item value="subsequently" />
-      <item value="in contrast to" />
-      <item value="territory" />
-      <item value="if any&#10;" />
-      <item value="extensive" />
-      <item value="translated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5218" />
-        <entry key="ENGLISH" value="5218" />
+        <entry key="CHINESE" value="5222" />
+        <entry key="ENGLISH" value="5223" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
