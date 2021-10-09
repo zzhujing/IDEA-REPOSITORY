@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="consider deriving" />
+      <item value="the internal BeanFactory of this context is available right from the start" />
+      <item value="In contrast to" />
+      <item value="assume" />
       <item value="Expose AutowireCapableBeanFactory functionality for this context. &lt;p&gt;This is not typically used by application code, except for the purpose of initializing bean instances that live outside of the application context, applying the Spring bean lifecycle (fully or partly) to them. &lt;p&gt;Alternatively, the internal BeanFactory exposed by the {@link ConfigurableApplicationContext} interface offers access to the {@link AutowireCapableBeanFactory} interface too. The present method mainly serves as a convenient, specific facility on the ApplicationContext interface." />
       <item value="Alternatively" />
       <item value="purpose" />
@@ -51,15 +55,11 @@
       <item value="include Non Singletons" />
       <item value="If the object created by the FactoryBean doesn't match, the raw FactoryBean itself will be matched against the type" />
       <item value="judging" />
-      <item value="lazy on-demand" />
-      <item value="by other means than" />
-      <item value="participate in" />
-      <item value="出现&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5255" />
-        <entry key="ENGLISH" value="5256" />
+        <entry key="CHINESE" value="5259" />
+        <entry key="ENGLISH" value="5260" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
