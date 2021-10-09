@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="aware&#10;" />
+      <item value="externally" />
+      <item value="autowire&#10;" />
+      <item value="leverage" />
+      <item value="stick to" />
+      <item value="This subinterface of BeanFactory is not meant to be used in normal application code" />
+      <item value="autowiring" />
       <item value="eagerly" />
       <item value="include Non Singletons" />
       <item value="If the object created by the FactoryBean doesn't match, the raw FactoryBean itself will be matched against the type" />
@@ -48,18 +55,11 @@
       <item value="if any&#10;" />
       <item value="extensive" />
       <item value="translated" />
-      <item value="Return the bean instance that uniquely matches the given object type, if any. &lt;p&gt;This method goes into {@link ListableBeanFactory} by-type lookup territory but may also be translated into a conventional by-name lookup based on the name of the given type. For more extensive retrieval operations across sets of beans, use {@link ListableBeanFactory} andor {@link BeanFactoryUtils}" />
-      <item value="measure" />
-      <item value="Translates aliases back to the corresponding canonical bean name." />
-      <item value="retain&#10;" />
-      <item value="distinguish&#10;" />
-      <item value="as far as possible&#10;" />
-      <item value="as far as possiable&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5202" />
-        <entry key="ENGLISH" value="5203" />
+        <entry key="CHINESE" value="5218" />
+        <entry key="ENGLISH" value="5218" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
