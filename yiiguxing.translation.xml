@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="This is essentially intended for" />
+      <item value="intended" />
+      <item value="essentially" />
+      <item value="It does &lt;i&gt;not&lt;i&gt; imply traditional by-name or by-type autowiring of properties; use {@link createBean(Class, int, boolean)} for those purposes" />
+      <item value="imply" />
+      <item value="use {@link createBean(Class, int, boolean)} for those purposes" />
+      <item value="annotated" />
+      <item value="Suffix for the &quot;original instance&quot; convention when initializing an existing bean instance: to be appended to the fully-qualified bean class name, e.g. &quot;com.mypackage.MyClass.ORIGINAL&quot;, in order to enforce the given instance to be returned, i.e. no proxies etc." />
       <item value="prefer annotation-based autowiring for clearer demarcation of autowiring needs" />
       <item value="appropriate" />
       <item value="greediest constructor" />
@@ -47,19 +55,11 @@
       <item value="n merged fashion" />
       <item value="fashion" />
       <item value="Bean definitions only carry bean class names" />
-      <item value="facilities" />
-      <item value="in addition to the bean factory client methods in the {@link org.springframework.beans.factory.BeanFactory} interface." />
-      <item value="先前的&#10;" />
-      <item value="incompatible&#10;" />
-      <item value="consider" />
-      <item value="alternative" />
-      <item value="ancestor" />
-      <item value="subsequently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5222" />
-        <entry key="ENGLISH" value="5223" />
+        <entry key="CHINESE" value="5231" />
+        <entry key="ENGLISH" value="5232" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
