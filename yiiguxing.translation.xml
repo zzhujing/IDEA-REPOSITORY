@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="Expose AutowireCapableBeanFactory functionality for this context. &lt;p&gt;This is not typically used by application code, except for the purpose of initializing bean instances that live outside of the application context, applying the Spring bean lifecycle (fully or partly) to them. &lt;p&gt;Alternatively, the internal BeanFactory exposed by the {@link ConfigurableApplicationContext} interface offers access to the {@link AutowireCapableBeanFactory} interface too. The present method mainly serves as a convenient, specific facility on the ApplicationContext interface." />
+      <item value="Alternatively" />
+      <item value="purpose" />
       <item value="desired" />
       <item value="Determine whether the specified bean qualifies as an autowire candidate, to be injected into other beans which declare a dependency of matching type. &lt;p&gt;This method checks ancestor factories as well." />
       <item value="Determine whether the specified bean qualifies as an autowire candidate" />
@@ -52,14 +55,11 @@
       <item value="by other means than" />
       <item value="participate in" />
       <item value="出现&#10;" />
-      <item value="arises" />
-      <item value="&lt;p&gt;Any exception that arises during destruction should be caught" />
-      <item value="Destroy the given bean instance (usually a prototype instance obtained from this factory) according to its bean definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5252" />
-        <entry key="ENGLISH" value="5253" />
+        <entry key="CHINESE" value="5255" />
+        <entry key="ENGLISH" value="5256" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
