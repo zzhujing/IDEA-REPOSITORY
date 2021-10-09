@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="eagerly" />
+      <item value="include Non Singletons" />
+      <item value="If the object created by the FactoryBean doesn't match, the raw FactoryBean itself will be matched against the type" />
+      <item value="judging" />
       <item value="lazy on-demand" />
       <item value="by other means than" />
       <item value="participate in" />
@@ -51,15 +55,11 @@
       <item value="distinguish&#10;" />
       <item value="as far as possible&#10;" />
       <item value="as far as possiable&#10;" />
-      <item value="as far as " />
-      <item value="In contrast to the methods in ListableBeanFactory, all of the operations in this interface will also check parent factories if this is a HierarchicalBeanFactory. If a bean is not found in this factory instance, the immediate parent factory will be asked. Beans in this factory instance are supposed to override beans of the same name in any parent factory.&#10;" />
-      <item value="in contrast to&#10;" />
-      <item value="in con" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5197" />
-        <entry key="ENGLISH" value="5198" />
+        <entry key="CHINESE" value="5202" />
+        <entry key="ENGLISH" value="5203" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
