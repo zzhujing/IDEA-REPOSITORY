@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="against" />
+      <item value="This is effectively a variant of {@link getBean(Class)} which preserves the bean name of the matching instance." />
+      <item value="preserves" />
+      <item value="uniquely matches" />
+      <item value="Delegate" />
+      <item value="applying the {@link org.springframework.beans.factory.DisposableBean} contract as well as registered {@link DestructionAwareBeanPostProcessor DestructionAwareBeanPostProcessors}." />
+      <item value="contract" />
+      <item value="The bean definition can either define a fully self-contained bean, reusing its property values, or just property values meant to be used for existing bean instances" />
+      <item value="fine-grained" />
+      <item value="distinct" />
+      <item value="corresponding" />
+      <item value="superset" />
+      <item value="effectively" />
       <item value="This is essentially intended for" />
       <item value="intended" />
       <item value="essentially" />
@@ -42,24 +55,11 @@
       <item value="We typical n XML ids" />
       <item value="illegal" />
       <item value="relevant" />
-      <item value="backed by" />
-      <item value="hence make any custom editors or custom editor registrars irrelevant. @since 2.5" />
-      <item value="irrelevant" />
-      <item value="hence" />
-      <item value="PropertyEditor mechanism" />
-      <item value="mechanism" />
-      <item value="to avoid for the need for synchronization on custom editors" />
-      <item value="Set whether to cache bean metadata such as given bean definitions (in merged fashion) and resolved bean classes. Default is on. &lt;p&gt;Turn this flag off to enable hot-refreshing of bean definition objects and in particular bean classes. If this flag is off, any creation of a bean instance will re-query the bean class loader for newly resolved classes." />
-      <item value="hot-refreshing" />
-      <item value="in merged fashion" />
-      <item value="n merged fashion" />
-      <item value="fashion" />
-      <item value="Bean definitions only carry bean class names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5231" />
-        <entry key="ENGLISH" value="5232" />
+        <entry key="CHINESE" value="5244" />
+        <entry key="ENGLISH" value="5245" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
