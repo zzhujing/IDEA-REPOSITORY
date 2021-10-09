@@ -5,10 +5,34 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="lazy on-demand" />
+      <item value="by other means than" />
+      <item value="participate in" />
+      <item value="出现&#10;" />
+      <item value="arises" />
+      <item value="&lt;p&gt;Any exception that arises during destruction should be caught" />
+      <item value="Destroy the given bean instance (usually a prototype instance obtained from this factory) according to its bean definition" />
+      <item value="prototype" />
+      <item value="Explicitly control the current in-creation status of the specified bean. For container-internal use only." />
+      <item value="We typically use this method to support names that are illegal within XML ids" />
+      <item value="We typical n XML ids" />
+      <item value="illegal" />
+      <item value="relevant" />
+      <item value="backed by" />
+      <item value="hence make any custom editors or custom editor registrars irrelevant. @since 2.5" />
+      <item value="irrelevant" />
+      <item value="hence" />
+      <item value="PropertyEditor mechanism" />
+      <item value="mechanism" />
+      <item value="to avoid for the need for synchronization on custom editors" />
+      <item value="Set whether to cache bean metadata such as given bean definitions (in merged fashion) and resolved bean classes. Default is on. &lt;p&gt;Turn this flag off to enable hot-refreshing of bean definition objects and in particular bean classes. If this flag is off, any creation of a bean instance will re-query the bean class loader for newly resolved classes." />
+      <item value="hot-refreshing" />
+      <item value="in merged fashion" />
+      <item value="n merged fashion" />
+      <item value="fashion" />
       <item value="Bean definitions only carry bean class names" />
       <item value="facilities" />
       <item value="in addition to the bean factory client methods in the {@link org.springframework.beans.factory.BeanFactory} interface." />
-      <item value="participate in" />
       <item value="先前的&#10;" />
       <item value="incompatible&#10;" />
       <item value="consider" />
@@ -31,35 +55,11 @@
       <item value="In contrast to the methods in ListableBeanFactory, all of the operations in this interface will also check parent factories if this is a HierarchicalBeanFactory. If a bean is not found in this factory instance, the immediate parent factory will be asked. Beans in this factory instance are supposed to override beans of the same name in any parent factory.&#10;" />
       <item value="in contrast to&#10;" />
       <item value="in con" />
-      <item value="Implementations are encouraged to support references amongst beans&#10;" />
-      <item value=" However, an implementation could simply return Java objects it creates as necessary directly in Java code&#10;" />
-      <item value="individual&#10;" />
-      <item value="which type of&#10;" />
-      <item value="in which the instance is a singleton in the scope of the factory" />
-      <item value="a superior alternative" />
-      <item value="return either an independent" />
-      <item value="are available for specific purposes" />
-      <item value="further&#10;" />
-      <item value="future" />
-      <item value="further" />
-      <item value="Autowire" />
-      <item value="Wheel Timer Demo" />
-      <item value="Note that the fast path is only possible on threads that extend {@link FastThreadLocalThread}, because it requires a special field to store the necessary state. An access by any other kind of thread falls back to a regular {@link ThreadLocal}." />
-      <item value="Although seemingly very subtle, it yields slight performance advantage over using a hash table, and it is useful when accessed frequently." />
-      <item value="subtle" />
-      <item value="seemingly" />
-      <item value="Internally" />
-      <item value="yields" />
-      <item value="expunge Stale Entry" />
-      <item value="审核&#10;" />
-      <item value="审核中&#10;" />
-      <item value="we called initChannel(...) so we need to call now pipeline.fireChannelRegistered() to ensure we not miss an event." />
-      <item value="arbitrary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5163" />
-        <entry key="ENGLISH" value="5164" />
+        <entry key="CHINESE" value="5197" />
+        <entry key="ENGLISH" value="5198" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
