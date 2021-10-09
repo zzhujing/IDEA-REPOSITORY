@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="Bean definitions only carry bean class names" />
+      <item value="facilities" />
+      <item value="in addition to the bean factory client methods in the {@link org.springframework.beans.factory.BeanFactory} interface." />
       <item value="participate in" />
       <item value="先前的&#10;" />
       <item value="incompatible&#10;" />
@@ -52,14 +55,11 @@
       <item value="审核中&#10;" />
       <item value="we called initChannel(...) so we need to call now pipeline.fireChannelRegistered() to ensure we not miss an event." />
       <item value="arbitrary" />
-      <item value="PARANOID" />
-      <item value="preferably a direct buffer which is suitable for IO" />
-      <item value="Note that" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5159" />
-        <entry key="ENGLISH" value="5160" />
+        <entry key="CHINESE" value="5163" />
+        <entry key="ENGLISH" value="5164" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
