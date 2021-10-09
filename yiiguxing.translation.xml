@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="98" />
     <option name="newTranslationDialogY" value="527" />
     <histories>
+      <item value="desired" />
+      <item value="Determine whether the specified bean qualifies as an autowire candidate, to be injected into other beans which declare a dependency of matching type. &lt;p&gt;This method checks ancestor factories as well." />
+      <item value="Determine whether the specified bean qualifies as an autowire candidate" />
+      <item value="qualifies" />
+      <item value="intended" />
+      <item value="This is intended for" />
       <item value="Resolve the specified dependency against the beans defined in this factory." />
       <item value="against" />
       <item value="This is effectively a variant of {@link getBean(Class)} which preserves the bean name of the matching instance." />
@@ -20,7 +26,6 @@
       <item value="superset" />
       <item value="effectively" />
       <item value="This is essentially intended for" />
-      <item value="intended" />
       <item value="essentially" />
       <item value="It does &lt;i&gt;not&lt;i&gt; imply traditional by-name or by-type autowiring of properties; use {@link createBean(Class, int, boolean)} for those purposes" />
       <item value="imply" />
@@ -50,16 +55,11 @@
       <item value="arises" />
       <item value="&lt;p&gt;Any exception that arises during destruction should be caught" />
       <item value="Destroy the given bean instance (usually a prototype instance obtained from this factory) according to its bean definition" />
-      <item value="prototype" />
-      <item value="Explicitly control the current in-creation status of the specified bean. For container-internal use only." />
-      <item value="We typically use this method to support names that are illegal within XML ids" />
-      <item value="We typical n XML ids" />
-      <item value="illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5246" />
-        <entry key="ENGLISH" value="5247" />
+        <entry key="CHINESE" value="5252" />
+        <entry key="ENGLISH" value="5253" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
