@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="previous&#10;" />
+      <item value="prev&#10;" />
+      <item value="上次&#10;" />
+      <item value="previous Date" />
+      <item value="上一次&#10;" />
+      <item value="get Previous Date" />
       <item value="do When Designated User" />
       <item value="do When Disgnated User" />
       <item value="DESIGNATED USER" />
@@ -49,17 +55,11 @@
       <item value="applying the {@link org.springframework.beans.factory.DisposableBean} contract as well as registered {@link DestructionAwareBeanPostProcessor DestructionAwareBeanPostProcessors}." />
       <item value="contract" />
       <item value="The bean definition can either define a fully self-contained bean, reusing its property values, or just property values meant to be used for existing bean instances" />
-      <item value="fine-grained" />
-      <item value="distinct" />
-      <item value="corresponding" />
-      <item value="superset" />
-      <item value="effectively" />
-      <item value="This is essentially intended for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5348" />
-        <entry key="ENGLISH" value="5349" />
+        <entry key="CHINESE" value="5397" />
+        <entry key="ENGLISH" value="5397" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
