@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="crowd" />
+      <item value="权重&#10;" />
+      <item value="suitable obj" />
+      <item value="suitable crowd" />
+      <item value="intended for&#10;" />
+      <item value="适用人群&#10;" />
+      <item value="intended for" />
+      <item value="intended&#10;" />
+      <item value="intend" />
+      <item value="shi" />
       <item value="popup" />
       <item value="pop" />
       <item value="popup&#10;" />
@@ -45,21 +55,11 @@
       <item value="annotated" />
       <item value="Suffix for the &quot;original instance&quot; convention when initializing an existing bean instance: to be appended to the fully-qualified bean class name, e.g. &quot;com.mypackage.MyClass.ORIGINAL&quot;, in order to enforce the given instance to be returned, i.e. no proxies etc." />
       <item value="prefer annotation-based autowiring for clearer demarcation of autowiring needs" />
-      <item value="appropriate" />
-      <item value="greediest constructor" />
-      <item value="greediest" />
-      <item value="Note that BeanFactoryAware etc and annotation-driven injection will still be applied." />
-      <item value="aware&#10;" />
-      <item value="externally" />
-      <item value="autowire&#10;" />
-      <item value="leverage" />
-      <item value="stick to" />
-      <item value="This subinterface of BeanFactory is not meant to be used in normal application code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5277" />
-        <entry key="ENGLISH" value="5277" />
+        <entry key="CHINESE" value="5338" />
+        <entry key="ENGLISH" value="5339" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
