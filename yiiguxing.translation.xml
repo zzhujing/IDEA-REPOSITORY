@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="do When Designated User" />
+      <item value="do When Disgnated User" />
+      <item value="DESIGNATED USER" />
+      <item value="Designated user&#10;" />
+      <item value="指定用户&#10;" />
+      <item value="指定&#10;" />
+      <item value="SPECIFIED" />
       <item value="crowd" />
       <item value="权重&#10;" />
       <item value="suitable obj" />
@@ -48,18 +55,11 @@
       <item value="superset" />
       <item value="effectively" />
       <item value="This is essentially intended for" />
-      <item value="essentially" />
-      <item value="It does &lt;i&gt;not&lt;i&gt; imply traditional by-name or by-type autowiring of properties; use {@link createBean(Class, int, boolean)} for those purposes" />
-      <item value="imply" />
-      <item value="use {@link createBean(Class, int, boolean)} for those purposes" />
-      <item value="annotated" />
-      <item value="Suffix for the &quot;original instance&quot; convention when initializing an existing bean instance: to be appended to the fully-qualified bean class name, e.g. &quot;com.mypackage.MyClass.ORIGINAL&quot;, in order to enforce the given instance to be returned, i.e. no proxies etc." />
-      <item value="prefer annotation-based autowiring for clearer demarcation of autowiring needs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5338" />
-        <entry key="ENGLISH" value="5339" />
+        <entry key="CHINESE" value="5348" />
+        <entry key="ENGLISH" value="5349" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -74,7 +74,7 @@
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="1" />
-        <entry key="PORTUGUESE" value="7" />
+        <entry key="PORTUGUESE" value="8" />
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="1" />
         <entry key="WELSH" value="1" />
