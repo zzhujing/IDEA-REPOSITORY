@@ -2,9 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="98" />
-    <option name="newTranslationDialogY" value="527" />
+    <option name="newTranslationDialogX" value="2573" />
+    <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="popup" />
+      <item value="pop" />
+      <item value="popup&#10;" />
+      <item value="弹窗&#10;" />
+      <item value="tab" />
       <item value="consider deriving" />
       <item value="the internal BeanFactory of this context is available right from the start" />
       <item value="In contrast to" />
@@ -50,16 +55,11 @@
       <item value="leverage" />
       <item value="stick to" />
       <item value="This subinterface of BeanFactory is not meant to be used in normal application code" />
-      <item value="autowiring" />
-      <item value="eagerly" />
-      <item value="include Non Singletons" />
-      <item value="If the object created by the FactoryBean doesn't match, the raw FactoryBean itself will be matched against the type" />
-      <item value="judging" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5259" />
-        <entry key="ENGLISH" value="5260" />
+        <entry key="CHINESE" value="5277" />
+        <entry key="ENGLISH" value="5277" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633410219213" />
+    <option name="lastTrimTime" value="1634001665028" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
