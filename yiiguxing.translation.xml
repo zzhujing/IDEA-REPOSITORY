@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities.&lt;b&gt; {@link getObjectType()} {@link getObject()} invocations may arrive early in the bootstrap process, even ahead of any post-processor setup." />
+      <item value="even ahead of any post-processor setup" />
+      <item value="It can be used for custom components as well; however, this is only common for infrastructure code" />
+      <item value="This interface is heavily used within the framework itself" />
+      <item value="heavily" />
+      <item value="eagerly" />
       <item value="fine-grained" />
       <item value="is always the object that it creates." />
       <item value="individual" />
@@ -49,17 +55,11 @@
       <item value="Determine whether the specified bean qualifies as an autowire candidate" />
       <item value="qualifies" />
       <item value="intended" />
-      <item value="This is intended for" />
-      <item value="Resolve the specified dependency against the beans defined in this factory." />
-      <item value="against" />
-      <item value="This is effectively a variant of {@link getBean(Class)} which preserves the bean name of the matching instance." />
-      <item value="preserves" />
-      <item value="uniquely matches" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5400" />
-        <entry key="ENGLISH" value="5401" />
+        <entry key="CHINESE" value="5406" />
+        <entry key="ENGLISH" value="5407" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
