@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="signal" />
+      <item value="Finally, FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation. There is usually no need for internal synchronization other than for purposes of lazy initialization within the FactoryBean itself (or the like)." />
+      <item value="FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation." />
+      <item value="participate" />
       <item value="委派" />
       <item value="delegate&#10;" />
       <item value="代理" />
@@ -51,15 +55,11 @@
       <item value="the internal BeanFactory of this context is available right from the start" />
       <item value="In contrast to" />
       <item value="assume" />
-      <item value="Expose AutowireCapableBeanFactory functionality for this context. &lt;p&gt;This is not typically used by application code, except for the purpose of initializing bean instances that live outside of the application context, applying the Spring bean lifecycle (fully or partly) to them. &lt;p&gt;Alternatively, the internal BeanFactory exposed by the {@link ConfigurableApplicationContext} interface offers access to the {@link AutowireCapableBeanFactory} interface too. The present method mainly serves as a convenient, specific facility on the ApplicationContext interface." />
-      <item value="Alternatively" />
-      <item value="purpose" />
-      <item value="desired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5427" />
-        <entry key="ENGLISH" value="5428" />
+        <entry key="CHINESE" value="5432" />
+        <entry key="ENGLISH" value="5433" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
