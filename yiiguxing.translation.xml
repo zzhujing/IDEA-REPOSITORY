@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="qualifier&#10;&#10;" />
+      <item value="qualifirer&#10;" />
+      <item value="qualifier&#10;" />
+      <item value="qua" />
+      <item value="qu" />
       <item value="signal" />
       <item value="Finally, FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation. There is usually no need for internal synchronization other than for purposes of lazy initialization within the FactoryBean itself (or the like)." />
       <item value="FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation." />
@@ -50,16 +55,11 @@
       <item value="pop" />
       <item value="popup&#10;" />
       <item value="弹窗&#10;" />
-      <item value="tab" />
-      <item value="consider deriving" />
-      <item value="the internal BeanFactory of this context is available right from the start" />
-      <item value="In contrast to" />
-      <item value="assume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5432" />
-        <entry key="ENGLISH" value="5433" />
+        <entry key="CHINESE" value="5434" />
+        <entry key="ENGLISH" value="5434" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
