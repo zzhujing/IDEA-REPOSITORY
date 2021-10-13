@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="fine-grained" />
+      <item value="is always the object that it creates." />
+      <item value="individual" />
       <item value="non Unique As Null" />
       <item value="previous&#10;" />
       <item value="prev&#10;" />
@@ -52,14 +55,11 @@
       <item value="This is effectively a variant of {@link getBean(Class)} which preserves the bean name of the matching instance." />
       <item value="preserves" />
       <item value="uniquely matches" />
-      <item value="Delegate" />
-      <item value="applying the {@link org.springframework.beans.factory.DisposableBean} contract as well as registered {@link DestructionAwareBeanPostProcessor DestructionAwareBeanPostProcessors}." />
-      <item value="contract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5397" />
-        <entry key="ENGLISH" value="5398" />
+        <entry key="CHINESE" value="5400" />
+        <entry key="ENGLISH" value="5401" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
