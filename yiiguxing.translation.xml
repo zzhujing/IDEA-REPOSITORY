@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Assignable" />
+      <item value="is Assignable From" />
       <item value="&lt;p&gt;&lt;b&gt;Recommendations for typical Spring configuration scenarios:&lt;b&gt; When a concrete class may be needed in certain scenarios, consider providing stub implementations of your lookup methods. And please remember that lookup methods won't work on beans returned from {@code @Bean} methods in configuration classes; you'll have to resort to {@code @Inject Provider&lt;TargetBean&gt;} or the like instead." />
       <item value="The resolution of the target bean can either be based on the return type ({@code getBean(Class)}) or on a suggested bean name ({@code getBean(String)}), in both cases passing the method's arguments to the {@code getBean} call for applying them as target factory method arguments or constructor arguments." />
       <item value="resolution" />
@@ -53,13 +55,11 @@
       <item value="intended for&#10;" />
       <item value="适用人群&#10;" />
       <item value="intended for" />
-      <item value="intended&#10;" />
-      <item value="intend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5439" />
-        <entry key="ENGLISH" value="5440" />
+        <entry key="CHINESE" value="5441" />
+        <entry key="ENGLISH" value="5442" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
