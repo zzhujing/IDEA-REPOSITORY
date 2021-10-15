@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="conversation&#10;" />
       <item value="领取&#10;" />
       <item value="确认&#10;" />
       <item value="qu" />
@@ -54,11 +55,10 @@
       <item value="权重&#10;" />
       <item value="suitable obj" />
       <item value="suitable crowd" />
-      <item value="intended for&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5455" />
+        <entry key="CHINESE" value="5456" />
         <entry key="ENGLISH" value="5456" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
