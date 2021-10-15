@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="领取&#10;" />
+      <item value="确认&#10;" />
+      <item value="qu" />
       <item value="Assignable" />
       <item value="is Assignable From" />
       <item value="&lt;p&gt;&lt;b&gt;Recommendations for typical Spring configuration scenarios:&lt;b&gt; When a concrete class may be needed in certain scenarios, consider providing stub implementations of your lookup methods. And please remember that lookup methods won't work on beans returned from {@code @Bean} methods in configuration classes; you'll have to resort to {@code @Inject Provider&lt;TargetBean&gt;} or the like instead." />
@@ -16,7 +19,6 @@
       <item value="qualifirer&#10;" />
       <item value="qualifier&#10;" />
       <item value="qua" />
-      <item value="qu" />
       <item value="signal" />
       <item value="Finally, FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation. There is usually no need for internal synchronization other than for purposes of lazy initialization within the FactoryBean itself (or the like)." />
       <item value="FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation." />
@@ -53,13 +55,11 @@
       <item value="suitable obj" />
       <item value="suitable crowd" />
       <item value="intended for&#10;" />
-      <item value="适用人群&#10;" />
-      <item value="intended for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5441" />
-        <entry key="ENGLISH" value="5442" />
+        <entry key="CHINESE" value="5455" />
+        <entry key="ENGLISH" value="5456" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
