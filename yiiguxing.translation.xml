@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="do not consist wholly of whitespace" />
+      <item value="the encapsulation of validation logic as a first-class citizen in its own right." />
+      <item value="the encapsulati in its own right" />
+      <item value="encapsulation" />
+      <item value="amenable" />
+      <item value="tier" />
+      <item value="coupled" />
+      <item value="is totally divorced from" />
+      <item value="divorced" />
+      <item value="totally" />
       <item value="relative" />
       <item value="URL&#10;URI&#10;" />
       <item value="URL&#10;" />
@@ -45,21 +55,11 @@
       <item value="prev&#10;" />
       <item value="上次&#10;" />
       <item value="previous Date" />
-      <item value="上一次&#10;" />
-      <item value="get Previous Date" />
-      <item value="do When Designated User" />
-      <item value="do When Disgnated User" />
-      <item value="DESIGNATED USER" />
-      <item value="Designated user&#10;" />
-      <item value="指定用户&#10;" />
-      <item value="指定&#10;" />
-      <item value="SPECIFIED" />
-      <item value="crowd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5457" />
-        <entry key="ENGLISH" value="5458" />
+        <entry key="CHINESE" value="5467" />
+        <entry key="ENGLISH" value="5468" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
