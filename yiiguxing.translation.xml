@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="reflection" />
+      <item value="immediate originator" />
+      <item value="the decorated bean definition" />
       <item value="Set whether this bean is a candidate for getting autowired into some other bean. &lt;p&gt;Note that this flag is designed to only affect type-based autowiring. It does not affect explicit references by name, which will get resolved even if the specified bean is not marked as an autowire candidate. As a consequence, autowiring by name will nevertheless inject a bean if the name matches." />
       <item value="guarantee&#10;" />
       <item value="whether&#10;" />
@@ -52,14 +55,11 @@
       <item value="qualifier&#10;" />
       <item value="qua" />
       <item value="signal" />
-      <item value="Finally, FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation. There is usually no need for internal synchronization other than for purposes of lazy initialization within the FactoryBean itself (or the like)." />
-      <item value="FactoryBean objects participate in the containing BeanFactory's synchronization of bean creation." />
-      <item value="participate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5487" />
-        <entry key="ENGLISH" value="5486" />
+        <entry key="CHINESE" value="5488" />
+        <entry key="ENGLISH" value="5489" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
