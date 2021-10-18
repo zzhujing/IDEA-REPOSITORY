@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="relative" />
       <item value="URL&#10;URI&#10;" />
       <item value="URL&#10;" />
       <item value="conversation&#10;" />
@@ -54,12 +55,11 @@
       <item value="指定&#10;" />
       <item value="SPECIFIED" />
       <item value="crowd" />
-      <item value="权重&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5457" />
-        <entry key="ENGLISH" value="5457" />
+        <entry key="ENGLISH" value="5458" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634001665028" />
+    <option name="lastTrimTime" value="1634526824204" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
