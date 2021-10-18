@@ -5,11 +5,12 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
-      <item value="he annotation is a composed annotation that relies on convention-based annotation attribute overrides in meta-annotations" />
       <item value="convention-based" />
+      <item value="computational" />
+      <item value="synthesized" />
+      <item value="he annotation is a composed annotation that relies on convention-based annotation attribute overrides in meta-annotations" />
       <item value="convention" />
       <item value="synthesizable" />
-      <item value="computational" />
       <item value="regardless of" />
       <item value="mirrored" />
       <item value="ultimately" />
@@ -54,12 +55,11 @@
       <item value="delegate" />
       <item value="Implementations are not supposed to rely on annotation-driven injection or other reflective facilities.&lt;b&gt; {@link getObjectType()} {@link getObject()} invocations may arrive early in the bootstrap process, even ahead of any post-processor setup." />
       <item value="even ahead of any post-processor setup" />
-      <item value="It can be used for custom components as well; however, this is only common for infrastructure code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5478" />
-        <entry key="ENGLISH" value="5479" />
+        <entry key="CHINESE" value="5481" />
+        <entry key="ENGLISH" value="5482" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
