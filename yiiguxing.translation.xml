@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2573" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="regardless of" />
+      <item value="mirrored" />
+      <item value="ultimately" />
+      <item value="recursive" />
       <item value="related" />
       <item value="Constraint Violation" />
       <item value="do not consist wholly of whitespace" />
@@ -51,15 +55,11 @@
       <item value="eagerly" />
       <item value="fine-grained" />
       <item value="is always the object that it creates." />
-      <item value="individual" />
-      <item value="non Unique As Null" />
-      <item value="previous&#10;" />
-      <item value="prev&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5469" />
-        <entry key="ENGLISH" value="5470" />
+        <entry key="CHINESE" value="5473" />
+        <entry key="ENGLISH" value="5474" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
