@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="指定用户&#10;" />
+      <item value="SPECIFIED" />
       <item value="reflection" />
       <item value="immediate originator" />
       <item value="the decorated bean definition" />
@@ -53,13 +55,11 @@
       <item value="qualifier&#10;&#10;" />
       <item value="qualifirer&#10;" />
       <item value="qualifier&#10;" />
-      <item value="qua" />
-      <item value="signal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5488" />
-        <entry key="ENGLISH" value="5489" />
+        <entry key="CHINESE" value="5498" />
+        <entry key="ENGLISH" value="5499" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
