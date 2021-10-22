@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1498" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Response to preflight request doesn't pass access control check: Redirect is not allowed for a preflight request.&#10;" />
       <item value="指定用户&#10;" />
       <item value="SPECIFIED" />
       <item value="reflection" />
@@ -54,11 +55,10 @@
       <item value="essentially" />
       <item value="qualifier&#10;&#10;" />
       <item value="qualifirer&#10;" />
-      <item value="qualifier&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5498" />
+        <entry key="CHINESE" value="5499" />
         <entry key="ENGLISH" value="5499" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
