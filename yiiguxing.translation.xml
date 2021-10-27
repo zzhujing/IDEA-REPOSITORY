@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Eagerly" />
+      <item value="canonical Name" />
+      <item value="transformed" />
       <item value="Introduction" />
       <item value="Register the target bean as separate bean in the factory." />
       <item value="accordingly" />
@@ -52,14 +55,11 @@
       <item value="URL&#10;" />
       <item value="conversation&#10;" />
       <item value="领取&#10;" />
-      <item value="确认&#10;" />
-      <item value="qu" />
-      <item value="Assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5523" />
-        <entry key="ENGLISH" value="5524" />
+        <entry key="CHINESE" value="5526" />
+        <entry key="ENGLISH" value="5527" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
