@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Set of dependent bean names." />
+      <item value="Set of bean names for the bean's dependencies" />
+      <item value="depending" />
+      <item value="dependent" />
+      <item value="stale" />
       <item value="Eagerly" />
       <item value="canonical Name" />
       <item value="transformed" />
@@ -50,16 +55,11 @@
       <item value="is totally divorced from" />
       <item value="divorced" />
       <item value="totally" />
-      <item value="relative" />
-      <item value="URL&#10;URI&#10;" />
-      <item value="URL&#10;" />
-      <item value="conversation&#10;" />
-      <item value="领取&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5526" />
-        <entry key="ENGLISH" value="5527" />
+        <entry key="CHINESE" value="5532" />
+        <entry key="ENGLISH" value="5533" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
