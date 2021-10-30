@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Narrows" />
       <item value="over-eager type matching" />
       <item value="allow Raw Injection Despite Wrapping" />
       <item value="Suppresses" />
@@ -54,12 +55,11 @@
       <item value="encapsulation" />
       <item value="amenable" />
       <item value="tier" />
-      <item value="coupled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5535" />
-        <entry key="ENGLISH" value="5536" />
+        <entry key="CHINESE" value="5536" />
+        <entry key="ENGLISH" value="5537" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635139167095" />
+    <option name="lastTrimTime" value="1635583926243" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
