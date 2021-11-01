@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="assumed" />
       <item value="etermine the target type for the generic return type of the given method, where formal type variables are declared on the given class." />
       <item value="against type variables" />
       <item value="Helper class for resolving generic types against type variables" />
@@ -54,12 +55,11 @@
       <item value="recursive" />
       <item value="related" />
       <item value="Constraint Violation" />
-      <item value="do not consist wholly of whitespace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5540" />
-        <entry key="ENGLISH" value="5541" />
+        <entry key="CHINESE" value="5541" />
+        <entry key="ENGLISH" value="5542" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
