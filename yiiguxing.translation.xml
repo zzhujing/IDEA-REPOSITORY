@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="against the current Spring {@link Environment}" />
+      <item value="against" />
+      <item value="is Compatible" />
+      <item value="with a given registry" />
+      <item value="with" />
+      <item value="corresponding" />
       <item value="Joshua Bloch" />
       <item value="In more detail, when an annotation type &lt;i&gt;A&lt;i&gt; is annotated with {@code Documented}, the presence and value of annotations of type &lt;i&gt;A&lt;i&gt; are a part of the public contract of the elements &lt;i&gt;A&lt;i&gt; annotates." />
       <item value="presence" />
@@ -16,7 +22,6 @@
       <item value="etermine the target type for the generic return type of the given method, where formal type variables are declared on the given class." />
       <item value="against type variables" />
       <item value="Helper class for resolving generic types against type variables" />
-      <item value="against" />
       <item value="adjust&#10;" />
       <item value="Narrows" />
       <item value="over-eager type matching" />
@@ -50,16 +55,11 @@
       <item value="Return the current bean class name of this bean definition.&#10;Note that this does not have to be the actual class name used at runtime, in case of a child definition overriding/inheriting the class name from its parent. Also, this may just be the class that a factory method is called on, or it may even be empty in case of a factory bean reference that a method is called on. Hence, do not consider this to be the definitive bean type at runtime but rather only use it for parsing purposes at the individual bean definition level.&#10;" />
       <item value="&gt;This GenericBeanDefinition variant is mainly useful for testing code that expects to operate on an AnnotatedBeanDefinition, for example strategy implementations in Spring's component scanning support (where the default definition class is {@link org.springframework.context.annotation.ScannedGenericBeanDefinition}, which also implements the AnnotatedBeanDefinition interface)." />
       <item value="expects" />
-      <item value="convention-based" />
-      <item value="computational" />
-      <item value="synthesized" />
-      <item value="he annotation is a composed annotation that relies on convention-based annotation attribute overrides in meta-annotations" />
-      <item value="convention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5548" />
-        <entry key="ENGLISH" value="5549" />
+        <entry key="CHINESE" value="5554" />
+        <entry key="ENGLISH" value="5555" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
