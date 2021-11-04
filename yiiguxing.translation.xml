@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Provides lazy access to singletons that may be expensive to create," />
+      <item value="A simple bootstrap context that is available during startup and {@link Environment} post-processing up to the point that the {@link ApplicationContext} is prepared." />
+      <item value="up to the point" />
+      <item value="scatter&#10;gather&#10;&#10;" />
+      <item value="scatter&#10;gatter&#10;" />
+      <item value="scatter&#10;" />
       <item value="get Scheme Specific Part" />
       <item value="is Exploded" />
       <item value="The ProtectionDomain class encapsulates the characteristics of a domain, which encloses a set of classes whose instances are granted a set of permissions when being executed on behalf of a given set of Principals." />
@@ -49,17 +55,11 @@
       <item value="Response to preflight request doesn't pass access control check: Redirect is not allowed for a preflight request.&#10;" />
       <item value="指定用户&#10;" />
       <item value="SPECIFIED" />
-      <item value="reflection" />
-      <item value="immediate originator" />
-      <item value="the decorated bean definition" />
-      <item value="Set whether this bean is a candidate for getting autowired into some other bean. &lt;p&gt;Note that this flag is designed to only affect type-based autowiring. It does not affect explicit references by name, which will get resolved even if the specified bean is not marked as an autowire candidate. As a consequence, autowiring by name will nevertheless inject a bean if the name matches." />
-      <item value="guarantee&#10;" />
-      <item value="whether&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5557" />
-        <entry key="ENGLISH" value="5558" />
+        <entry key="CHINESE" value="5567" />
+        <entry key="ENGLISH" value="5568" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
