@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="get Purchased Count" />
+      <item value="已购的&#10;" />
+      <item value="已购&#10;" />
+      <item value="Purchased" />
+      <item value="已经购买的&#10;" />
       <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of" />
       <item value="文字&#10;" />
       <item value="文案&#10;" />
@@ -50,16 +55,11 @@
       <item value="Introduction" />
       <item value="Register the target bean as separate bean in the factory." />
       <item value="accordingly" />
-      <item value="Note that a bean definition reader does not have to implement&#10; * this interface. It only serves as suggestion for bean definition&#10; * readers that want to follow standard naming conventions.&#10;" />
-      <item value="Specifies&#10;" />
-      <item value="虚拟的&#10;" />
-      <item value="virtual&#10;" />
-      <item value="xu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5578" />
-        <entry key="ENGLISH" value="5579" />
+        <entry key="CHINESE" value="5608" />
+        <entry key="ENGLISH" value="5609" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
