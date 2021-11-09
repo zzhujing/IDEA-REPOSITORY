@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="范围重合&#10;" />
+      <item value="重合" />
       <item value="outcome&#10;" />
       <item value="get Purchased Count" />
       <item value="已购的&#10;" />
@@ -53,13 +55,11 @@
       <item value="Eagerly" />
       <item value="canonical Name" />
       <item value="transformed" />
-      <item value="Introduction" />
-      <item value="Register the target bean as separate bean in the factory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5609" />
-        <entry key="ENGLISH" value="5609" />
+        <entry key="CHINESE" value="5623" />
+        <entry key="ENGLISH" value="5623" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
