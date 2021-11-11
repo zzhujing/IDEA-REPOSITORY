@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="specify&#10;" />
+      <item value="speci" />
+      <item value="s'pe" />
+      <item value="特制的&#10;" />
+      <item value="te" />
+      <item value="指定的&#10;" />
       <item value="范围重合&#10;" />
       <item value="重合" />
       <item value="outcome&#10;" />
@@ -49,17 +55,11 @@
       <item value="Suppresses" />
       <item value="Set of dependent bean names." />
       <item value="Set of bean names for the bean's dependencies" />
-      <item value="depending" />
-      <item value="dependent" />
-      <item value="stale" />
-      <item value="Eagerly" />
-      <item value="canonical Name" />
-      <item value="transformed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5623" />
-        <entry key="ENGLISH" value="5623" />
+        <entry key="CHINESE" value="5647" />
+        <entry key="ENGLISH" value="5646" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636018601562" />
+    <option name="lastTrimTime" value="1636611337697" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
