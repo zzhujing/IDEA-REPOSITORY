@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="When a key has been discarded its entry is effectively removed from the map, so this class behaves somewhat differently from other Map implementations&#10;" />
+      <item value="More precisely, the presence of a mapping for a given key will not prevent the key from being discarded by the garbage collector&#10;" />
       <item value="specify&#10;" />
       <item value="speci" />
       <item value="s'pe" />
@@ -53,12 +55,10 @@
       <item value="over-eager type matching" />
       <item value="allow Raw Injection Despite Wrapping" />
       <item value="Suppresses" />
-      <item value="Set of dependent bean names." />
-      <item value="Set of bean names for the bean's dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5647" />
+        <entry key="CHINESE" value="5649" />
         <entry key="ENGLISH" value="5646" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
