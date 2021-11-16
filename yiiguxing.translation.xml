@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="In-flight" />
+      <item value="Finite" />
       <item value="learners" />
       <item value="Closure" />
       <item value="where we see changing the leader of a Raft cluster as a relatively quick operation" />
@@ -53,13 +55,11 @@
       <item value="presence" />
       <item value="contract" />
       <item value="select Invocable Method" />
-      <item value="Observable" />
-      <item value="navigation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5653" />
-        <entry key="ENGLISH" value="5654" />
+        <entry key="CHINESE" value="5655" />
+        <entry key="ENGLISH" value="5656" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
