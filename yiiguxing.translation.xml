@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Closure" />
       <item value="where we see changing the leader of a Raft cluster as a relatively quick operation" />
       <item value="philosophy" />
       <item value="a non-routable" />
@@ -54,12 +55,11 @@
       <item value="Observable" />
       <item value="navigation" />
       <item value="assumed" />
-      <item value="etermine the target type for the generic return type of the given method, where formal type variables are declared on the given class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5651" />
-        <entry key="ENGLISH" value="5652" />
+        <entry key="CHINESE" value="5652" />
+        <entry key="ENGLISH" value="5653" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
