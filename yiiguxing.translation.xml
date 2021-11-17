@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="origin" />
       <item value="origin&#10;" />
       <item value="scavenge&#10;" />
       <item value="In-flight" />
@@ -54,12 +55,11 @@
       <item value="corresponding" />
       <item value="Joshua Bloch" />
       <item value="In more detail, when an annotation type &lt;i&gt;A&lt;i&gt; is annotated with {@code Documented}, the presence and value of annotations of type &lt;i&gt;A&lt;i&gt; are a part of the public contract of the elements &lt;i&gt;A&lt;i&gt; annotates." />
-      <item value="presence" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5660" />
-        <entry key="ENGLISH" value="5659" />
+        <entry key="ENGLISH" value="5660" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
