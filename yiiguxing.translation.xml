@@ -5,6 +5,21 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="ACTUAL GOODS" />
+      <item value="act no" />
+      <item value="兑换&#10;" />
+      <item value="exchange activity" />
+      <item value="vip exchange activity" />
+      <item value="使用说明&#10;" />
+      <item value="会员权益&#10;" />
+      <item value="apply scene" />
+      <item value="场景&#10;" />
+      <item value="scenario&#10;" />
+      <item value="应用场景&#10;&#10;" />
+      <item value="应用场景&#10;" />
+      <item value="poster url" />
+      <item value="master url" />
+      <item value="采购价&#10;" />
       <item value="origin" />
       <item value="origin&#10;" />
       <item value="scavenge&#10;" />
@@ -40,26 +55,11 @@
       <item value="文案&#10;" />
       <item value="Provides lazy access to singletons that may be expensive to create," />
       <item value="A simple bootstrap context that is available during startup and {@link Environment} post-processing up to the point that the {@link ApplicationContext} is prepared." />
-      <item value="up to the point" />
-      <item value="scatter&#10;gather&#10;&#10;" />
-      <item value="scatter&#10;gatter&#10;" />
-      <item value="scatter&#10;" />
-      <item value="get Scheme Specific Part" />
-      <item value="is Exploded" />
-      <item value="The ProtectionDomain class encapsulates the characteristics of a domain, which encloses a set of classes whose instances are granted a set of permissions when being executed on behalf of a given set of Principals." />
-      <item value="against the current Spring {@link Environment}" />
-      <item value="against" />
-      <item value="is Compatible" />
-      <item value="with a given registry" />
-      <item value="with" />
-      <item value="corresponding" />
-      <item value="Joshua Bloch" />
-      <item value="In more detail, when an annotation type &lt;i&gt;A&lt;i&gt; is annotated with {@code Documented}, the presence and value of annotations of type &lt;i&gt;A&lt;i&gt; are a part of the public contract of the elements &lt;i&gt;A&lt;i&gt; annotates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5660" />
-        <entry key="ENGLISH" value="5660" />
+        <entry key="CHINESE" value="5724" />
+        <entry key="ENGLISH" value="5725" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
