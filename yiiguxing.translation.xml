@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="兑换码&#10;" />
       <item value="库存&#10;" />
       <item value="exchange integral" />
       <item value="积分&#10;" />
@@ -54,12 +55,11 @@
       <item value="Purchased" />
       <item value="已经购买的&#10;" />
       <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of" />
-      <item value="文字&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5735" />
-        <entry key="ENGLISH" value="5736" />
+        <entry key="CHINESE" value="5742" />
+        <entry key="ENGLISH" value="5743" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
