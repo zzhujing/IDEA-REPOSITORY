@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="reward&#10;" />
+      <item value="reward_integral&#10;" />
+      <item value="互动&#10;" />
+      <item value="画像&#10;" />
+      <item value="plane&#10;" />
       <item value="兑换码&#10;" />
       <item value="库存&#10;" />
       <item value="exchange integral" />
@@ -50,16 +55,11 @@
       <item value="重合" />
       <item value="outcome&#10;" />
       <item value="get Purchased Count" />
-      <item value="已购的&#10;" />
-      <item value="已购&#10;" />
-      <item value="Purchased" />
-      <item value="已经购买的&#10;" />
-      <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5742" />
-        <entry key="ENGLISH" value="5743" />
+        <entry key="CHINESE" value="5760" />
+        <entry key="ENGLISH" value="5760" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
