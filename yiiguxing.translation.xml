@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="库存&#10;" />
+      <item value="exchange integral" />
+      <item value="积分&#10;" />
       <item value="ACTUAL GOODS" />
       <item value="act no" />
       <item value="兑换&#10;" />
@@ -52,14 +55,11 @@
       <item value="已经购买的&#10;" />
       <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of" />
       <item value="文字&#10;" />
-      <item value="文案&#10;" />
-      <item value="Provides lazy access to singletons that may be expensive to create," />
-      <item value="A simple bootstrap context that is available during startup and {@link Environment} post-processing up to the point that the {@link ApplicationContext} is prepared." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5724" />
-        <entry key="ENGLISH" value="5725" />
+        <entry key="CHINESE" value="5735" />
+        <entry key="ENGLISH" value="5736" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
