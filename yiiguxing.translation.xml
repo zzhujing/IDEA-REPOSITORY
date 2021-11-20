@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Reserved Code Cache Size" />
       <item value="必要的话&#10;" />
       <item value="reward&#10;" />
       <item value="reward_integral&#10;" />
@@ -54,12 +55,11 @@
       <item value="指定的&#10;" />
       <item value="范围重合&#10;" />
       <item value="重合" />
-      <item value="outcome&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5765" />
-        <entry key="ENGLISH" value="5765" />
+        <entry key="ENGLISH" value="5766" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
