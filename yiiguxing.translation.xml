@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="change Literal" />
+      <item value="change Literel" />
+      <item value="字面&#10;" />
+      <item value="change Lite" />
       <item value="mutate" />
       <item value="luck draw&#10;" />
       <item value="draw&#10;" />
@@ -51,15 +55,11 @@
       <item value="Finite" />
       <item value="learners" />
       <item value="Closure" />
-      <item value="where we see changing the leader of a Raft cluster as a relatively quick operation" />
-      <item value="philosophy" />
-      <item value="a non-routable" />
-      <item value="quorum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5836" />
-        <entry key="ENGLISH" value="5837" />
+        <entry key="CHINESE" value="5845" />
+        <entry key="ENGLISH" value="5846" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
