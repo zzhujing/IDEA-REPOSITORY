@@ -5,12 +5,23 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="luck draw&#10;" />
+      <item value="draw&#10;" />
+      <item value="d'ra'w" />
+      <item value="抽奖&#10;" />
+      <item value="签到&#10;" />
+      <item value="群&#10;" />
+      <item value="公众号&#10;" />
+      <item value="offical&#10;" />
+      <item value="OFFICAL" />
+      <item value="个人信息&#10;" />
+      <item value="活跃任务&#10;" />
+      <item value="互动&#10;" />
       <item value="filtered Scene" />
       <item value="Reserved Code Cache Size" />
       <item value="必要的话&#10;" />
       <item value="reward&#10;" />
       <item value="reward_integral&#10;" />
-      <item value="互动&#10;" />
       <item value="画像&#10;" />
       <item value="plane&#10;" />
       <item value="兑换码&#10;" />
@@ -44,22 +55,11 @@
       <item value="a non-routable" />
       <item value="quorum" />
       <item value="RaftConfig encapsulates configuration specific to the Raft quorum voter nodes." />
-      <item value="UNRECORDED" />
-      <item value="Voter" />
-      <item value="When a key has been discarded its entry is effectively removed from the map, so this class behaves somewhat differently from other Map implementations&#10;" />
-      <item value="More precisely, the presence of a mapping for a given key will not prevent the key from being discarded by the garbage collector&#10;" />
-      <item value="specify&#10;" />
-      <item value="speci" />
-      <item value="s'pe" />
-      <item value="特制的&#10;" />
-      <item value="te" />
-      <item value="指定的&#10;" />
-      <item value="范围重合&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5766" />
-        <entry key="ENGLISH" value="5767" />
+        <entry key="CHINESE" value="5835" />
+        <entry key="ENGLISH" value="5836" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
