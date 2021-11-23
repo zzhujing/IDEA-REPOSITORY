@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="sloth&#10;" />
       <item value="出行&#10;" />
       <item value="change Literal" />
       <item value="change Literel" />
@@ -54,11 +55,10 @@
       <item value="scavenge&#10;" />
       <item value="In-flight" />
       <item value="Finite" />
-      <item value="learners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5863" />
+        <entry key="CHINESE" value="5864" />
         <entry key="ENGLISH" value="5864" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
