@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="restore" />
       <item value="sloth&#10;" />
       <item value="出行&#10;" />
       <item value="change Literal" />
@@ -54,12 +55,11 @@
       <item value="origin&#10;" />
       <item value="scavenge&#10;" />
       <item value="In-flight" />
-      <item value="Finite" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5864" />
-        <entry key="ENGLISH" value="5864" />
+        <entry key="ENGLISH" value="5865" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637550031064" />
+    <option name="lastTrimTime" value="1637999455240" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
