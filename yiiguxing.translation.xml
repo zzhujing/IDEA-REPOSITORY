@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Non-terminating decimal expansion" />
       <item value="restore" />
       <item value="sloth&#10;" />
       <item value="出行&#10;" />
@@ -54,12 +55,11 @@
       <item value="origin" />
       <item value="origin&#10;" />
       <item value="scavenge&#10;" />
-      <item value="In-flight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5864" />
-        <entry key="ENGLISH" value="5865" />
+        <entry key="CHINESE" value="5865" />
+        <entry key="ENGLISH" value="5866" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
