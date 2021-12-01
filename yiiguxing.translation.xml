@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="check Finished Fill User Info Task" />
       <item value="private Sphere" />
       <item value="Sphere" />
       <item value="app channel" />
@@ -54,12 +55,11 @@
       <item value="应用场景&#10;" />
       <item value="poster url" />
       <item value="master url" />
-      <item value="采购价&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5868" />
-        <entry key="ENGLISH" value="5869" />
+        <entry key="CHINESE" value="5869" />
+        <entry key="ENGLISH" value="5870" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
