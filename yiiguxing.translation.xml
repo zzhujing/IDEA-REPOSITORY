@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="define Class" />
       <item value="Definitions in a descendant context will always take priority. This means, for example, that a single parent" />
       <item value="that" />
       <item value="补偿&#10;" />
@@ -54,12 +55,11 @@
       <item value="apply scene" />
       <item value="场景&#10;" />
       <item value="scenario&#10;" />
-      <item value="应用场景&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5878" />
-        <entry key="ENGLISH" value="5879" />
+        <entry key="CHINESE" value="5879" />
+        <entry key="ENGLISH" value="5880" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
