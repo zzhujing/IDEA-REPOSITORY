@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Definitions in a descendant context will always take priority. This means, for example, that a single parent" />
+      <item value="that" />
       <item value="补偿&#10;" />
       <item value="check Finished Fill User Info Task" />
       <item value="private Sphere" />
@@ -53,13 +55,11 @@
       <item value="场景&#10;" />
       <item value="scenario&#10;" />
       <item value="应用场景&#10;&#10;" />
-      <item value="应用场景&#10;" />
-      <item value="poster url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5876" />
-        <entry key="ENGLISH" value="5877" />
+        <entry key="CHINESE" value="5878" />
+        <entry key="ENGLISH" value="5879" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637999455240" />
+    <option name="lastTrimTime" value="1638450611601" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
