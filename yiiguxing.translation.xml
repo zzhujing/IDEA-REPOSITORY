@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1050" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="order reward&#10;" />
+      <item value="order award&#10;" />
+      <item value="get Order Award" />
       <item value="deduct&#10;" />
       <item value="define Class" />
       <item value="Definitions in a descendant context will always take priority. This means, for example, that a single parent" />
@@ -52,14 +55,11 @@
       <item value="exchange activity" />
       <item value="vip exchange activity" />
       <item value="使用说明&#10;" />
-      <item value="会员权益&#10;" />
-      <item value="apply scene" />
-      <item value="场景&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5880" />
-        <entry key="ENGLISH" value="5880" />
+        <entry key="CHINESE" value="5881" />
+        <entry key="ENGLISH" value="5882" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
