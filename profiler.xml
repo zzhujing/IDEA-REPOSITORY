@@ -5,5 +5,10 @@
         <option name="showCalleesList" value="false" />
       </call-tree-ui>
     </option>
+    <option name="processOptions">
+      <process-tab>
+        <option name="highlightIdeProcesses" value="true" />
+      </process-tab>
+    </option>
   </component>
 </application>
