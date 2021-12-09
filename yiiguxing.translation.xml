@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="290" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="vertical&#10;" />
+      <item value="垂直&#10;" />
+      <item value="ver" />
+      <item value="horizontal" />
+      <item value="ho ri" />
+      <item value="水平扩展&#10;" />
       <item value="Offsets committed through multiple calls to this API are guaranteed to be sent in the same order as the invocations" />
       <item value="The committed offset should be the next message your application will consume" />
       <item value="this API will be used on the first fetch after every rebalance and also on startup." />
@@ -49,17 +55,11 @@
       <item value="luck draw&#10;" />
       <item value="draw&#10;" />
       <item value="d'ra'w" />
-      <item value="抽奖&#10;" />
-      <item value="签到&#10;" />
-      <item value="群&#10;" />
-      <item value="公众号&#10;" />
-      <item value="offical&#10;" />
-      <item value="OFFICAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5910" />
-        <entry key="ENGLISH" value="5911" />
+        <entry key="CHINESE" value="5951" />
+        <entry key="ENGLISH" value="5951" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
