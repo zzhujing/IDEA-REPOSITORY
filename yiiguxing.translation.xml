@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="290" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="assigned" />
       <item value="Ergonomics" />
       <item value="remove Temporary Lobs" />
       <item value="expunge Stale Entries" />
@@ -54,12 +55,11 @@
       <item value="活跃任务&#10;" />
       <item value="互动&#10;" />
       <item value="filtered Scene" />
-      <item value="Reserved Code Cache Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5905" />
-        <entry key="ENGLISH" value="5906" />
+        <entry key="CHINESE" value="5906" />
+        <entry key="ENGLISH" value="5907" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
