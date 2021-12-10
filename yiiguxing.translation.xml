@@ -2,9 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2695" />
-    <option name="newTranslationDialogY" value="359" />
+    <option name="newTranslationDialogX" value="290" />
+    <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="directory&#10;" />
+      <item value="directo" />
+      <item value="director" />
+      <item value="direct" />
+      <item value="direc" />
+      <item value="di" />
+      <item value="目录&#10;" />
+      <item value="director&#10;" />
       <item value="compact&#10;" />
       <item value="vertical&#10;" />
       <item value="垂直&#10;" />
@@ -47,19 +55,11 @@
       <item value="Non-terminating decimal expansion" />
       <item value="restore" />
       <item value="sloth&#10;" />
-      <item value="出行&#10;" />
-      <item value="change Literal" />
-      <item value="change Literel" />
-      <item value="字面&#10;" />
-      <item value="change Lite" />
-      <item value="mutate" />
-      <item value="luck draw&#10;" />
-      <item value="draw&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5959" />
-        <entry key="ENGLISH" value="5958" />
+        <entry key="CHINESE" value="5976" />
+        <entry key="ENGLISH" value="5974" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
