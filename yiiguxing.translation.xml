@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="290" />
-    <option name="newTranslationDialogY" value="507" />
+    <option name="newTranslationDialogX" value="2695" />
+    <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="compact&#10;" />
       <item value="vertical&#10;" />
       <item value="垂直&#10;" />
       <item value="ver" />
@@ -54,12 +55,11 @@
       <item value="mutate" />
       <item value="luck draw&#10;" />
       <item value="draw&#10;" />
-      <item value="d'ra'w" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5951" />
-        <entry key="ENGLISH" value="5951" />
+        <entry key="CHINESE" value="5959" />
+        <entry key="ENGLISH" value="5958" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
