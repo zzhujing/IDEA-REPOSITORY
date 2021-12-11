@@ -2,9 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
-    <option name="newTranslationDialogX" value="2649" />
-    <option name="newTranslationDialogY" value="347" />
     <histories>
+      <item value="Column gmt_modified must be either aggregated, or mentioned in GROUP BY clause &#10;" />
       <item value="correlation&#10;" />
       <item value="corre" />
       <item value="corrleaction&#10;" />
@@ -54,11 +53,10 @@
       <item value="that" />
       <item value="补偿&#10;" />
       <item value="check Finished Fill User Info Task" />
-      <item value="private Sphere" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5979" />
+        <entry key="CHINESE" value="5980" />
         <entry key="ENGLISH" value="5975" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
