@@ -5,6 +5,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="README.md" type="AUTO_DETECTED" />
       <mapping pattern="META-INF" type="AUTO_DETECTED" />
+      <mapping pattern="shortlink" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
