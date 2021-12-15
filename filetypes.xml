@@ -11,6 +11,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="alipay" type="PLAIN_TEXT" />
+      <mapping ext="tdump" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
