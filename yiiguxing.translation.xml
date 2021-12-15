@@ -3,6 +3,7 @@
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <histories>
+      <item value="cause" />
       <item value="EXTERNAL" />
       <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating" />
       <item value="shortlink" />
@@ -52,12 +53,11 @@
       <item value="tiao" />
       <item value="tiao you" />
       <item value="suspicious&#10;" />
-      <item value="sticky Partition Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5982" />
-        <entry key="ENGLISH" value="5983" />
+        <entry key="CHINESE" value="5983" />
+        <entry key="ENGLISH" value="5984" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
