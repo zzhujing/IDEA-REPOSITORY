@@ -86,6 +86,9 @@
   <action id="FileChooser.GotoHome">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta 0" />
