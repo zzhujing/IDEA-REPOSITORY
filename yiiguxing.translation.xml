@@ -3,6 +3,7 @@
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
     <histories>
+      <item value="Deferred Import Selector" />
       <item value="SONAR" />
       <item value="NOSONAR" />
       <item value="advise Listener If Needed" />
@@ -52,12 +53,11 @@
       <item value="domainator tree&#10;" />
       <item value="Period" />
       <item value="Temporal Amount" />
-      <item value="Duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5990" />
-        <entry key="ENGLISH" value="5991" />
+        <entry key="CHINESE" value="5991" />
+        <entry key="ENGLISH" value="5992" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
