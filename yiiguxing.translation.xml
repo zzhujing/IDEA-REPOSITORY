@@ -2,7 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="474" />
     <option name="newTranslationDialogWidth" value="1510" />
+    <option name="newTranslationDialogX" value="2" />
+    <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="inventory&#10;" />
       <item value="Deferred Import Selector" />
       <item value="SONAR" />
       <item value="NOSONAR" />
@@ -52,11 +55,10 @@
       <item value="expunge Stale Entries" />
       <item value="domainator tree&#10;" />
       <item value="Period" />
-      <item value="Temporal Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5991" />
+        <entry key="CHINESE" value="5992" />
         <entry key="ENGLISH" value="5992" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
