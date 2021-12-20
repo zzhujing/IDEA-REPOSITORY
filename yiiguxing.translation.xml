@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="regard" />
+      <item value="Each request is independent of all other requests with regard to state local to the connection either on the client or the server" />
+      <item value="to the connection either on" />
+      <item value="Hints to the driver that a request, an independent unit of work, is beginning on this connection" />
+      <item value="an independent unit of work" />
+      <item value="independent" />
       <item value="inventory&#10;" />
       <item value="Deferred Import Selector" />
       <item value="SONAR" />
@@ -49,17 +55,11 @@
       <item value="The committed offset should be the next message your application will consume" />
       <item value="this API will be used on the first fetch after every rebalance and also on startup." />
       <item value="on Partitions Revoked" />
-      <item value="assigned" />
-      <item value="Ergonomics" />
-      <item value="remove Temporary Lobs" />
-      <item value="expunge Stale Entries" />
-      <item value="domainator tree&#10;" />
-      <item value="Period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5992" />
-        <entry key="ENGLISH" value="5992" />
+        <entry key="CHINESE" value="5998" />
+        <entry key="ENGLISH" value="5999" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639362683305" />
+    <option name="lastTrimTime" value="1639967854812" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
