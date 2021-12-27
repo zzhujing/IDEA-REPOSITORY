@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="StupidorRetarted&#10;&#10;" />
+      <item value="StupidorRetarted2021&#10;" />
       <item value="概率&#10;" />
       <item value="probability" />
       <item value="获取概率&#10;" />
@@ -53,12 +55,10 @@
       <item value="director" />
       <item value="direct" />
       <item value="direc" />
-      <item value="di" />
-      <item value="目录&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6052" />
+        <entry key="CHINESE" value="6053" />
         <entry key="ENGLISH" value="6053" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
