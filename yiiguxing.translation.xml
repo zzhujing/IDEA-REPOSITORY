@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="RECEVIED" />
+      <item value="received&#10;" />
+      <item value="已领取&#10;" />
+      <item value="yi ling qu" />
+      <item value="yi" />
       <item value="Welfare&#10;" />
       <item value="福利官&#10;" />
       <item value="win the price&#10;" />
@@ -50,16 +55,11 @@
       <item value="advise Listener If Needed" />
       <item value="advise" />
       <item value="Not meant to be implemented externally" />
-      <item value="reply" />
-      <item value="A KafkaTemplate that implements requestreply semantics." />
-      <item value="cause" />
-      <item value="EXTERNAL" />
-      <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6176" />
-        <entry key="ENGLISH" value="6176" />
+        <entry key="CHINESE" value="6203" />
+        <entry key="ENGLISH" value="6202" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -77,7 +77,7 @@
         <entry key="PORTUGUESE" value="8" />
         <entry key="SWEDISH" value="3" />
         <entry key="SERBIAN" value="1" />
-        <entry key="SLOVAK" value="1" />
+        <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
