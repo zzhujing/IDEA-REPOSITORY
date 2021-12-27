@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="reward count" />
+      <item value="完成要求&#10;" />
+      <item value="分享&#10;" />
+      <item value="SHARE" />
       <item value="中奖&#10;" />
       <item value="winners&#10;" />
       <item value="中奖人数&#10;" />
@@ -51,15 +55,11 @@
       <item value="integral Multiple" />
       <item value="Cooperative Sticky Assignor" />
       <item value="reserved&#10;" />
-      <item value="Column gmt_modified must be either aggregated, or mentioned in GROUP BY clause &#10;" />
-      <item value="correlation&#10;" />
-      <item value="corre" />
-      <item value="corrleaction&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6101" />
-        <entry key="ENGLISH" value="6102" />
+        <entry key="CHINESE" value="6140" />
+        <entry key="ENGLISH" value="6141" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
