@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="概率&#10;" />
+      <item value="probability" />
+      <item value="获取概率&#10;" />
+      <item value="奖励&#10;" />
+      <item value="lottery&#10;" />
+      <item value="lottery draw" />
+      <item value="lottery" />
+      <item value="抽奖活动&#10;" />
+      <item value="抽象" />
+      <item value="lotter&#10;" />
+      <item value="raffle&#10;" />
+      <item value="抽奖&#10;" />
       <item value="regard" />
       <item value="Each request is independent of all other requests with regard to state local to the connection either on the client or the server" />
       <item value="to the connection either on" />
@@ -43,23 +55,11 @@
       <item value="direc" />
       <item value="di" />
       <item value="目录&#10;" />
-      <item value="director&#10;" />
-      <item value="compact&#10;" />
-      <item value="vertical&#10;" />
-      <item value="垂直&#10;" />
-      <item value="ver" />
-      <item value="horizontal" />
-      <item value="ho ri" />
-      <item value="水平扩展&#10;" />
-      <item value="Offsets committed through multiple calls to this API are guaranteed to be sent in the same order as the invocations" />
-      <item value="The committed offset should be the next message your application will consume" />
-      <item value="this API will be used on the first fetch after every rebalance and also on startup." />
-      <item value="on Partitions Revoked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5999" />
-        <entry key="ENGLISH" value="6000" />
+        <entry key="CHINESE" value="6052" />
+        <entry key="ENGLISH" value="6053" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639967854812" />
+    <option name="lastTrimTime" value="1640571636485" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
