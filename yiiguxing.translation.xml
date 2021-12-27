@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="win the price&#10;" />
+      <item value="中奖了吗&#10;" />
+      <item value="中奖&#10;" />
       <item value="reward rate" />
       <item value="reward" />
       <item value="slcf lottery reward" />
@@ -12,7 +15,6 @@
       <item value="完成要求&#10;" />
       <item value="分享&#10;" />
       <item value="SHARE" />
-      <item value="中奖&#10;" />
       <item value="winners&#10;" />
       <item value="中奖人数&#10;" />
       <item value="状态&#10;" />
@@ -53,13 +55,11 @@
       <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating" />
       <item value="shortlink" />
       <item value="multiplier" />
-      <item value="floor" />
-      <item value="is Producer Per Consumer Partition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6143" />
-        <entry key="ENGLISH" value="6144" />
+        <entry key="CHINESE" value="6167" />
+        <entry key="ENGLISH" value="6168" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
