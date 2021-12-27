@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="474" />
+    <option name="newTranslationDialogHeight" value="447" />
     <option name="newTranslationDialogWidth" value="1510" />
     <option name="newTranslationDialogX" value="2" />
-    <option name="newTranslationDialogY" value="442" />
+    <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Welfare&#10;" />
+      <item value="福利官&#10;" />
       <item value="win the price&#10;" />
       <item value="中奖了吗&#10;" />
       <item value="中奖&#10;" />
@@ -53,13 +55,11 @@
       <item value="cause" />
       <item value="EXTERNAL" />
       <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating" />
-      <item value="shortlink" />
-      <item value="multiplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6167" />
-        <entry key="ENGLISH" value="6168" />
+        <entry key="CHINESE" value="6176" />
+        <entry key="ENGLISH" value="6176" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
