@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="gifted Chance" />
+      <item value="赠与的&#10;" />
+      <item value="gived Chance" />
+      <item value="gived Change" />
+      <item value="give Change" />
+      <item value="赠送&#10;" />
       <item value="previous Reward Ids" />
       <item value="pervious Rewrad Ids" />
       <item value="someone Reward" />
@@ -49,17 +55,11 @@
       <item value="SHARE" />
       <item value="winners&#10;" />
       <item value="中奖人数&#10;" />
-      <item value="状态&#10;" />
-      <item value="status&#10;" />
-      <item value="state&#10;" />
-      <item value="status" />
-      <item value="StupidorRetarted&#10;&#10;" />
-      <item value="StupidorRetarted2021&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6278" />
-        <entry key="ENGLISH" value="6279" />
+        <entry key="CHINESE" value="6297" />
+        <entry key="ENGLISH" value="6298" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
