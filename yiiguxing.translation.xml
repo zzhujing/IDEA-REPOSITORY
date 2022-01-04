@@ -5,6 +5,23 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="处理&#10;" />
+      <item value="reward" />
+      <item value="中奖&#10;" />
+      <item value="issue" />
+      <item value="reward Issued" />
+      <item value="issued&#10;" />
+      <item value="待发放&#10;" />
+      <item value="待发放" />
+      <item value="带发放" />
+      <item value="dai fa f" />
+      <item value="奖励待发放&#10;&#10;" />
+      <item value="奖励待发放&#10;" />
+      <item value="奖励dai发放&#10;" />
+      <item value="奖励带发放&#10;" />
+      <item value="附加&#10;" />
+      <item value="id Identity Map" />
+      <item value="交集&#10;" />
       <item value="资格&#10;" />
       <item value="资格配置&#10;" />
       <item value="Specifical&#10;" />
@@ -17,9 +34,7 @@
       <item value="福利官&#10;" />
       <item value="win the price&#10;" />
       <item value="中奖了吗&#10;" />
-      <item value="中奖&#10;" />
       <item value="reward rate" />
-      <item value="reward" />
       <item value="slcf lottery reward" />
       <item value="reward count" />
       <item value="完成要求&#10;" />
@@ -40,26 +55,11 @@
       <item value="lottery&#10;" />
       <item value="lottery draw" />
       <item value="lottery" />
-      <item value="抽奖活动&#10;" />
-      <item value="抽象" />
-      <item value="lotter&#10;" />
-      <item value="raffle&#10;" />
-      <item value="抽奖&#10;" />
-      <item value="regard" />
-      <item value="Each request is independent of all other requests with regard to state local to the connection either on the client or the server" />
-      <item value="to the connection either on" />
-      <item value="Hints to the driver that a request, an independent unit of work, is beginning on this connection" />
-      <item value="an independent unit of work" />
-      <item value="independent" />
-      <item value="inventory&#10;" />
-      <item value="Deferred Import Selector" />
-      <item value="SONAR" />
-      <item value="NOSONAR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6212" />
-        <entry key="ENGLISH" value="6211" />
+        <entry key="CHINESE" value="6266" />
+        <entry key="ENGLISH" value="6267" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
