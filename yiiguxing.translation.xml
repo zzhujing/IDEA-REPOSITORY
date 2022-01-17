@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="全量&#10;增量&#10;" />
+      <item value="全量&#10;" />
       <item value="next Time Certain" />
       <item value="infinite" />
       <item value="statistics" />
@@ -53,13 +55,11 @@
       <item value="奖励待发放&#10;&#10;" />
       <item value="奖励待发放&#10;" />
       <item value="奖励dai发放&#10;" />
-      <item value="奖励带发放&#10;" />
-      <item value="附加&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6376" />
-        <entry key="ENGLISH" value="6377" />
+        <entry key="CHINESE" value="6386" />
+        <entry key="ENGLISH" value="6387" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641797678509" />
+    <option name="lastTrimTime" value="1642398973300" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
