@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="extracted Tags" />
       <item value="轮询算法&#10;" />
       <item value="轮询&#10;" />
       <item value="轮训&#10;" />
@@ -54,12 +55,11 @@
       <item value="有人中奖&#10;" />
       <item value="has Reward" />
       <item value="has Person Lottery" />
-      <item value="has Person Reward" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6438" />
-        <entry key="ENGLISH" value="6438" />
+        <entry key="ENGLISH" value="6439" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
