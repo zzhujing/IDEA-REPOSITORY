@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="the stable of structure in every evolution" />
       <item value="Capabilities expose core feign artifacts to implementations so parts of core can be customized around the time the client being built" />
       <item value="artifacts" />
       <item value="inherit Parent Context" />
@@ -54,12 +55,11 @@
       <item value="infinite" />
       <item value="statistics" />
       <item value="随笔" />
-      <item value="已经分享&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6469" />
-        <entry key="ENGLISH" value="6470" />
+        <entry key="CHINESE" value="6470" />
+        <entry key="ENGLISH" value="6471" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
