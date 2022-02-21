@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="a few minutes&#10;" />
+      <item value="a few&#10;" />
       <item value="retain" />
       <item value="Set to false to prevent users from changing the default accidentally. Default true." />
       <item value="assemble" />
@@ -53,12 +55,10 @@
       <item value="sale Hehavior Cateogry" />
       <item value="five to more" />
       <item value="SALE BEHAVIOR" />
-      <item value="行为&#10;" />
-      <item value="全量&#10;增量&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6475" />
+        <entry key="CHINESE" value="6476" />
         <entry key="ENGLISH" value="6476" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
