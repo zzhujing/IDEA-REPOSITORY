@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="DEGRADE DEFAULT SLOW REQUEST AMOUNT" />
+      <item value="Degrade" />
       <item value="failure Threshold Reached" />
       <item value="阈值&#10;" />
       <item value="THRESHOULD&#10;" />
@@ -53,13 +55,11 @@
       <item value="invocation&#10;" />
       <item value="沉默周期&#10;" />
       <item value="CLAIM CYCLE" />
-      <item value="reliability" />
-      <item value="NEVER DELIVERED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6493" />
-        <entry key="ENGLISH" value="6494" />
+        <entry key="CHINESE" value="6495" />
+        <entry key="ENGLISH" value="6496" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
