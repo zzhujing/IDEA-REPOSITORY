@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="circuit Breaker Request Volume Threshold" />
+      <item value="treat them" />
       <item value="inventory&#10;" />
       <item value="inve" />
       <item value="stat Interval Ms" />
@@ -53,13 +55,11 @@
       <item value="Advisor&#10;" />
       <item value="f desired." />
       <item value="materialized by" />
-      <item value="either or&#10;" />
-      <item value="MethodInvocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6497" />
-        <entry key="ENGLISH" value="6497" />
+        <entry key="CHINESE" value="6498" />
+        <entry key="ENGLISH" value="6499" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
