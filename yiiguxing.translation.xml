@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Unicasting" />
       <item value="broker&#10;" />
       <item value="topic&#10;" />
       <item value="Default behavior is to derive the group key from Target.name() and the command key from Feign.configKey(Class, Method)." />
@@ -54,12 +55,11 @@
       <item value="advisors Pre Filtered" />
       <item value="This class frees subclasses of the housekeeping of Advices and Advisors" />
       <item value="housekeeping" />
-      <item value="subclasses" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6507" />
-        <entry key="ENGLISH" value="6506" />
+        <entry key="ENGLISH" value="6507" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -96,6 +96,5 @@
       </app-key>
     </option>
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
