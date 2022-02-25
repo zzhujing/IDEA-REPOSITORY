@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="distributed" />
+      <item value="the group msg is being distributed" />
       <item value="Bind the target component as a message consumer to the logical entity identified by the name" />
       <item value="provisioning Provider" />
       <item value="Service Activator" />
@@ -53,13 +55,11 @@
       <item value="Resolve the single type argument of the given generic interface against the given target class which is assumed to implement the generic interface and possibly declare a concrete type for its type variable." />
       <item value="Compatible with null" />
       <item value="Compatible" />
-      <item value="ephemeral" />
-      <item value="Temporal Accessor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6509" />
-        <entry key="ENGLISH" value="6510" />
+        <entry key="CHINESE" value="6511" />
+        <entry key="ENGLISH" value="6512" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645339559636" />
+    <option name="lastTrimTime" value="1645773829075" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
