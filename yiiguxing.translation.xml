@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="sink&#10;" />
+      <item value="sink" />
       <item value="distributed" />
       <item value="the group msg is being distributed" />
       <item value="Bind the target component as a message consumer to the logical entity identified by the name" />
@@ -53,12 +55,10 @@
       <item value="transform" />
       <item value="Indicates that the execution context provided during open is about to be saved. If any state is remaining, but has not been put in the context, it should be added here." />
       <item value="Resolve the single type argument of the given generic interface against the given target class which is assumed to implement the generic interface and possibly declare a concrete type for its type variable." />
-      <item value="Compatible with null" />
-      <item value="Compatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6511" />
+        <entry key="CHINESE" value="6512" />
         <entry key="ENGLISH" value="6512" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
