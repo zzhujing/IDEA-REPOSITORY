@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="provision Producer Destination" />
+      <item value="provisioning Provider" />
       <item value="Synthesize an annotation from the supplied map of annotation attributes by wrapping the map in a dynamic proxy that implements an annotation of the specified annotationType and transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor." />
       <item value="synthesize" />
       <item value="backoff" />
@@ -15,7 +17,6 @@
       <item value="distributed" />
       <item value="the group msg is being distributed" />
       <item value="Bind the target component as a message consumer to the logical entity identified by the name" />
-      <item value="provisioning Provider" />
       <item value="Service Activator" />
       <item value="Unicasting" />
       <item value="broker&#10;" />
@@ -54,12 +55,11 @@
       <item value="Capabilities expose core feign artifacts to implementations so parts of core can be customized around the time the client being built" />
       <item value="artifacts" />
       <item value="inherit Parent Context" />
-      <item value="is Independent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6516" />
-        <entry key="ENGLISH" value="6517" />
+        <entry key="CHINESE" value="6518" />
+        <entry key="ENGLISH" value="6519" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
