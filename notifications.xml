@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Language Plugins Notifications" displayType="NONE" />
     <notification groupId="Maven" shouldLog="false" />
     <notification groupId="Settings Error" shouldLog="false" />
     <notification groupId="Spring Configuration Check" displayType="NONE" />
