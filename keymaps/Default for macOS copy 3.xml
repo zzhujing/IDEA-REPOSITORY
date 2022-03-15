@@ -111,6 +111,9 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="GsonFormatPlus">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="HippieBackwardCompletion" />
