@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Returns &quot;logical size&quot; = index of highest set bit plus one. Returns zero if there are no any set bit. Returns: &quot;logical size&quot; = index of highest set bit plus one" />
       <item value="短信&#10;" />
       <item value="distribuation" />
       <item value="ephemeral" />
@@ -54,12 +55,11 @@
       <item value="inventory&#10;" />
       <item value="inve" />
       <item value="stat Interval Ms" />
-      <item value="DEGRADE DEFAULT SLOW REQUEST AMOUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6564" />
-        <entry key="ENGLISH" value="6565" />
+        <entry key="CHINESE" value="6565" />
+        <entry key="ENGLISH" value="6566" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647159611632" />
+    <option name="lastTrimTime" value="1647851836437" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
