@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="lost stack trace" />
       <item value="Execute some arbitrary operation(s) on the operations and return the result. The operations are invoked within a local transaction and do not participate in a global transaction (if present)." />
       <item value="Generate a proxy class. Must call the checkProxyAccess method to perform permission checks before calling this" />
       <item value="expunge Stale Entries" />
@@ -54,12 +55,11 @@
       <item value="Service Activator" />
       <item value="Unicasting" />
       <item value="broker&#10;" />
-      <item value="topic&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6577" />
-        <entry key="ENGLISH" value="6578" />
+        <entry key="CHINESE" value="6578" />
+        <entry key="ENGLISH" value="6579" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
