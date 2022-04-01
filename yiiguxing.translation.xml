@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="in favor of" />
+      <item value="in favor of functional programming model" />
       <item value="Get the last committed offsets for the given partitions (whether the commit happened by this process or another). The returned offsets will be used as the position for the consumer in the event of a failure." />
       <item value="holy&#10;&#10;" />
       <item value="holy shit&#10;" />
@@ -53,13 +55,11 @@
       <item value="A colon delimited string representing the names of the sources based on which source bindings will be created. This is primarily to support cases where source binding may be required without providing a corresponding Supplier. (e.g., for cases where the actual source of data is outside of scope of spring-cloud-stream - HTTP -&gt; Stream)" />
       <item value="Group coordinator 47.96.151.255:9093 (id: 2147483626 rack: null) is unavailable or invalid, will attempt rediscovery" />
       <item value="sink&#10;" />
-      <item value="sink" />
-      <item value="distributed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6582" />
-        <entry key="ENGLISH" value="6583" />
+        <entry key="CHINESE" value="6584" />
+        <entry key="ENGLISH" value="6585" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
