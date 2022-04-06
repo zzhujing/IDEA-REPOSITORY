@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="send Scene" />
       <item value="Kafka Topic Provisioner" />
       <item value="in favor of" />
       <item value="in favor of functional programming model" />
@@ -54,12 +55,11 @@
       <item value="synthesize" />
       <item value="backoff" />
       <item value="A colon delimited string representing the names of the sources based on which source bindings will be created. This is primarily to support cases where source binding may be required without providing a corresponding Supplier. (e.g., for cases where the actual source of data is outside of scope of spring-cloud-stream - HTTP -&gt; Stream)" />
-      <item value="Group coordinator 47.96.151.255:9093 (id: 2147483626 rack: null) is unavailable or invalid, will attempt rediscovery" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6585" />
-        <entry key="ENGLISH" value="6585" />
+        <entry key="ENGLISH" value="6586" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648468022782" />
+    <option name="lastTrimTime" value="1649215586413" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
