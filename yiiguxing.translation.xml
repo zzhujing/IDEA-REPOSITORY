@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="附件状态&#10;" />
+      <item value="WAIT REC" />
+      <item value="reconciliation status" />
+      <item value="对账&#10;" />
+      <item value="dui zhang" />
+      <item value="队长&#10;" />
       <item value="send Scene" />
       <item value="Kafka Topic Provisioner" />
       <item value="in favor of" />
@@ -49,17 +55,11 @@
       <item value="set Match Optional Trailing Separator" />
       <item value="qualify" />
       <item value="potential" />
-      <item value="provision Producer Destination" />
-      <item value="provisioning Provider" />
-      <item value="Synthesize an annotation from the supplied map of annotation attributes by wrapping the map in a dynamic proxy that implements an annotation of the specified annotationType and transparently enforces attribute alias semantics for annotation attributes that are annotated with @AliasFor." />
-      <item value="synthesize" />
-      <item value="backoff" />
-      <item value="A colon delimited string representing the names of the sources based on which source bindings will be created. This is primarily to support cases where source binding may be required without providing a corresponding Supplier. (e.g., for cases where the actual source of data is outside of scope of spring-cloud-stream - HTTP -&gt; Stream)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6585" />
-        <entry key="ENGLISH" value="6586" />
+        <entry key="CHINESE" value="6617" />
+        <entry key="ENGLISH" value="6618" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
