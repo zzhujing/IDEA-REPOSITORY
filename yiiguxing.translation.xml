@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="3" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="number Of Leading Zeros" />
       <item value="transport order fee" />
       <item value="transport order free" />
       <item value="chengy&#10;" />
@@ -54,12 +55,11 @@
       <item value="in favor of functional programming model" />
       <item value="Get the last committed offsets for the given partitions (whether the commit happened by this process or another). The returned offsets will be used as the position for the consumer in the event of a failure." />
       <item value="holy&#10;&#10;" />
-      <item value="holy shit&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6735" />
-        <entry key="ENGLISH" value="6735" />
+        <entry key="ENGLISH" value="6736" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
