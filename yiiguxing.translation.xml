@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="3" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="inflate Table" />
       <item value="floor" />
       <item value="ceiling" />
       <item value="navigable Key Set" />
@@ -54,12 +55,11 @@
       <item value="dui zhang" />
       <item value="队长&#10;" />
       <item value="send Scene" />
-      <item value="Kafka Topic Provisioner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6739" />
-        <entry key="ENGLISH" value="6740" />
+        <entry key="CHINESE" value="6740" />
+        <entry key="ENGLISH" value="6741" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649215586413" />
+    <option name="lastTrimTime" value="1649657379769" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
