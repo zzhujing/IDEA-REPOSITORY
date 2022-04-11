@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="3" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="floor" />
+      <item value="ceiling" />
+      <item value="navigable Key Set" />
       <item value="descending Map" />
       <item value="number Of Leading Zeros" />
       <item value="transport order fee" />
@@ -52,14 +55,11 @@
       <item value="队长&#10;" />
       <item value="send Scene" />
       <item value="Kafka Topic Provisioner" />
-      <item value="in favor of" />
-      <item value="in favor of functional programming model" />
-      <item value="Get the last committed offsets for the given partitions (whether the commit happened by this process or another). The returned offsets will be used as the position for the consumer in the event of a failure." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6736" />
-        <entry key="ENGLISH" value="6737" />
+        <entry key="CHINESE" value="6739" />
+        <entry key="ENGLISH" value="6740" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
