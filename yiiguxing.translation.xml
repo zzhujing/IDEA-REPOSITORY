@@ -5,61 +5,61 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="aug" />
-      <item value="模糊查询&#10;" />
-      <item value="模糊&#10;" />
-      <item value="like List" />
-      <item value="reconcile" />
-      <item value="reconciliation&#10;" />
-      <item value="对账&#10;" />
-      <item value="Reconciliation Status" />
-      <item value="locally" />
-      <item value="get Current Row Num" />
-      <item value="无效的&#10;" />
-      <item value="提货&#10;" />
-      <item value="Ensures lack of reordering of loads before the fence with loads or stores after the fence." />
-      <item value="可见性&#10;" />
-      <item value="可见行&#10;" />
-      <item value="spread" />
-      <item value="inflate Table" />
-      <item value="floor" />
-      <item value="ceiling" />
-      <item value="navigable Key Set" />
-      <item value="descending Map" />
-      <item value="number Of Leading Zeros" />
-      <item value="transport order fee" />
-      <item value="transport order free" />
-      <item value="chengy&#10;" />
-      <item value="carrier&#10;" />
-      <item value="承运商&#10;" />
-      <item value="运费&#10;" />
-      <item value="freight&#10;" />
-      <item value="f re" />
-      <item value="f" />
-      <item value="load factor" />
-      <item value="warm layer" />
-      <item value="SIGN FOR RECEIPT" />
-      <item value="签收&#10;" />
-      <item value="repeitå≈" />
-      <item value="repeit" />
-      <item value="repe" />
-      <item value="qian shou" />
-      <item value="牵手" />
-      <item value="SIGN" />
-      <item value="揽件&#10;" />
-      <item value="揽jian" />
-      <item value="lan jian" />
-      <item value="STOCK IN" />
-      <item value="出库&#10;" />
-      <item value="出库" />
-      <item value="OUT OF STOCK" />
-      <item value="entry&#10;" />
-      <item value="warehousing" />
+      <item value="Read fields in reverse initialization order" />
+      <item value="Read fields in reverse initialization order Node h = head;" />
+      <item value="The correctness of this depends on head being initialized" />
+      <item value="has Queued Predecessors" />
+      <item value="The &quot;prev&quot; links (not used in original CLH locks), are mainly needed to handle cancellation. If a node is cancelled, its successor is (normally) relinked to a non-cancelled predecessor. For explanation of similar mechanics in the case of spin locks, see the papers by Scott and Scherer at http:www.cs.rochester.eduuscottsynchronization" />
+      <item value="it takes a bit more work for nodes to determine who their successors are, in part to deal with possible cancellation due to timeouts and interrupts." />
+      <item value="demarcation" />
+      <item value="o enqueue into a CLH lock, you atomically splice it in as new tail. To dequeue, you just set the head field" />
+      <item value="The status field does NOT control whether threads are granted locks etc though. A thread may try to acquire if it is first in the queue. But being first does not guarantee success; it only gives the right to contend. So the currently released contender thread may need to rewait." />
+      <item value="The status field does NOT control whether threads are granted locks etc though. A thread may try to acquire if it is first in the queue. But being first does not guarantee success; it only gives the right to contend" />
+      <item value="whether threads are granted locks etc though" />
+      <item value="Each node of the queue otherwise serves as a specific-notification-style monitor holding a single waiting thread" />
+      <item value="track of" />
+      <item value="in the predecessor of its node" />
+      <item value="tactic" />
+      <item value="We instead use them for blocking synchronizers" />
+      <item value="Link to the successor node that the current nodethread unparks upon release. Assigned during enqueuing, adjusted when bypassing cancelled predecessors, and nulled out (for sake of GC) when dequeued. The enq operation does not assign next field of a predecessor until after attachment, so seeing a null next field does not necessarily mean that node is at end of queue. However, if a next field appears to be null, we can scan prev's from the tail to double-check. The next field of cancelled nodes is set to point to the node itself instead of null, to make life easier for isOnSyncQueue." />
+      <item value="Link to predecessor node that current nodethread relies on for checking waitStatus" />
+      <item value="Link to predecessor node that current nodethread relies on for checking waitStatus. Assigned during enqueuing, and nulled out (for sake of GC) only upon dequeuing. Also, upon cancellation of a predecessor, we short-circuit while finding a non-cancelled one, which will always exist because the head node is never cancelled: A node becomes head only as a result of successful acquire. A cancelled thread never succeeds in acquiring, and a thread only cancels itself, not any other node." />
+      <item value="predecessor" />
+      <item value="None of the above The values are arranged numerically to simplify use" />
+      <item value="intervened" />
+      <item value="at which time the status will be set to 0. (Use of this value here has nothing to do with the other uses of the field, but simplifies mechanics.)" />
+      <item value="To avoid races, acquire methods must first indicate they need a signal, then retry the atomic acquire, and then, on failure, block." />
+      <item value="To avoid races" />
+      <item value="successor" />
+      <item value="Marker" />
+      <item value="This class provides an efficient and scalable basis for synchronization in part by specializing its range of use to synchronizers that can rely on int state, acquire, and release parameters, and an internal FIFO wait queue. When this does not suffice, you can build synchronizers from a lower level using atomic classes, your own custom java.util.Queue classes, and LockSupport blocking support." />
+      <item value="Throughput and scalability are generally highest for the default barging (also known as greedy, renouncement, and convoy-avoidance) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads, and each recontention has an unbiased chance to succeed against incoming threads. Also, while acquires do not &quot;spin&quot; in the usual sense, they may perform multiple invocations of tryAcquire interspersed with other computations before blocking. This gives most of the benefits of spins when exclusive synchronization is only briefly held, without most of the liabilities when it isn't. If so desired, you can augment this by preceding calls to acquire methods with &quot;fast-path&quot; checks, possibly prechecking hasContended andor hasQueuedThreads to only do so if the synchronizer is likely not to be contended." />
+      <item value="Throughput and scalability are generally highest for the default barging (also known as greedy, renouncement, and convoy-avoidance) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads," />
+      <item value="recontend" />
+      <item value="hereby providing" />
+      <item value="if desired, define tryAcquire andor tryAcquireShared to disable barging by internally invoking one or more of the inspection methods" />
+      <item value="if desired" />
+      <item value="a newly acquiring thread may barge ahead of others that are blocked and queued" />
+      <item value="barge ahead of others t" />
+      <item value="involve cascading signals" />
+      <item value="involve" />
+      <item value="acquisition policies" />
+      <item value="enforce" />
+      <item value="diagnostic" />
+      <item value="To use this class as the basis of a synchronizer, redefine the following methods, as applicable, by inspecting andor modifying the synchronization state using getState, setState andor compareAndSetState:" />
+      <item value="as applicable" />
+      <item value="applicable" />
+      <item value="This class provides inspection, instrumentation, and monitoring methods for the internal queue, as well as similar methods for condition objects. These can be exported as desired into classes using an AbstractQueuedSynchronizer for their synchronization mechanics." />
+      <item value="inspection" />
+      <item value="This class defines a nested AbstractQueuedSynchronizer.ConditionObject class that can be used as a Condition implementation by subclasses supporting exclusive mode for which method isHeldExclusively reports whether synchronization is exclusively held with respect to the current thread, method release invoked with the current getState value fully releases this object, and acquire, given this saved state value, eventually restores this object to its previous acquired state. No AbstractQueuedSynchronizer method otherwise creates such a condition, so if this constraint cannot be met, do not use it. The behavior of AbstractQueuedSynchronizer.ConditionObject depends of course on the semantics of its synchronizer implementation." />
+      <item value="No AbstractQueuedSynchronizer method otherwise creates such a condition, so if this constraint cannot be met, do not use it. The behavior of AbstractQueuedSynchronizer.ConditionObject depends of course on the semantics of its synchronizer implementation." />
+      <item value="This class does not &quot;understand&quot; these differences except in the mechanical sense that when a shared mode acquire succeeds, the next waiting thread (if one exists) must also determine whether it can acquire as well" />
+      <item value="This class does not &quot;understand&quot; these differences except in the mechanical sense that when a shared mode acquire succeeds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6783" />
-        <entry key="ENGLISH" value="6783" />
+        <entry key="CHINESE" value="6859" />
+        <entry key="ENGLISH" value="6860" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -67,7 +67,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="10" />
-        <entry key="FRENCH" value="18" />
+        <entry key="FRENCH" value="19" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="4" />
@@ -78,7 +78,7 @@
         <entry key="PORTUGUESE" value="8" />
         <entry key="SWEDISH" value="4" />
         <entry key="SERBIAN" value="1" />
-        <entry key="SLOVAK" value="2" />
+        <entry key="SLOVAK" value="3" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649657379769" />
+    <option name="lastTrimTime" value="1650260497359" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
