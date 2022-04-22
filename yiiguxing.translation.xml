@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="is an atomic integer packing two conceptual fields workerCount, indicating the effective number of threads runState" />
       <item value="TIDYING" />
       <item value="packing two conceptual fields workerCount" />
       <item value="A pool that is no longer referenced in a program AND has no remaining threads will be shutdown automatically. If you would like to ensure that unreferenced pools are reclaimed even if users forget to call shutdown, then you must arrange that unused threads eventually die, by setting appropriate keep-alive times, using a lower bound of zero core threads andor setting allowCoreThreadTimeOut(boolean)." />
@@ -54,12 +55,11 @@
       <item value="Link to the successor node that the current nodethread unparks upon release. Assigned during enqueuing, adjusted when bypassing cancelled predecessors, and nulled out (for sake of GC) when dequeued. The enq operation does not assign next field of a predecessor until after attachment, so seeing a null next field does not necessarily mean that node is at end of queue. However, if a next field appears to be null, we can scan prev's from the tail to double-check. The next field of cancelled nodes is set to point to the node itself instead of null, to make life easier for isOnSyncQueue." />
       <item value="Link to predecessor node that current nodethread relies on for checking waitStatus" />
       <item value="Link to predecessor node that current nodethread relies on for checking waitStatus. Assigned during enqueuing, and nulled out (for sake of GC) only upon dequeuing. Also, upon cancellation of a predecessor, we short-circuit while finding a non-cancelled one, which will always exist because the head node is never cancelled: A node becomes head only as a result of successful acquire. A cancelled thread never succeeds in acquiring, and a thread only cancels itself, not any other node." />
-      <item value="predecessor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6889" />
-        <entry key="ENGLISH" value="6890" />
+        <entry key="CHINESE" value="6890" />
+        <entry key="ENGLISH" value="6891" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
