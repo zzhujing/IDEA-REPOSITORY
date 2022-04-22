@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="programmers are urged to use the more convenient Executors factory methods" />
+      <item value="extensibility" />
+      <item value="adjustable" />
+      <item value="To be useful across a wide range of contexts" />
+      <item value="due to reduced per-task invocation overhead" />
+      <item value="Thread pools address two different problems" />
+      <item value="address" />
+      <item value="one of possibly several pooled threads" />
+      <item value="one of possibly several" />
       <item value="hould block because of policy for overtaking other waiting threads." />
       <item value="apparently First Queued Is Exclusive" />
       <item value="then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
@@ -46,20 +55,11 @@
       <item value="if desired" />
       <item value="a newly acquiring thread may barge ahead of others that are blocked and queued" />
       <item value="barge ahead of others t" />
-      <item value="involve cascading signals" />
-      <item value="involve" />
-      <item value="acquisition policies" />
-      <item value="enforce" />
-      <item value="diagnostic" />
-      <item value="To use this class as the basis of a synchronizer, redefine the following methods, as applicable, by inspecting andor modifying the synchronization state using getState, setState andor compareAndSetState:" />
-      <item value="as applicable" />
-      <item value="applicable" />
-      <item value="This class provides inspection, instrumentation, and monitoring methods for the internal queue, as well as similar methods for condition objects. These can be exported as desired into classes using an AbstractQueuedSynchronizer for their synchronization mechanics." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6864" />
-        <entry key="ENGLISH" value="6865" />
+        <entry key="CHINESE" value="6873" />
+        <entry key="ENGLISH" value="6874" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
