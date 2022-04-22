@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="TIDYING" />
+      <item value="packing two conceptual fields workerCount" />
+      <item value="A pool that is no longer referenced in a program AND has no remaining threads will be shutdown automatically. If you would like to ensure that unreferenced pools are reclaimed even if users forget to call shutdown, then you must arrange that unused threads eventually die, by setting appropriate keep-alive times, using a lower bound of zero core threads andor setting allowCoreThreadTimeOut(boolean)." />
+      <item value="manipulate" />
+      <item value="saturated" />
+      <item value="finite" />
+      <item value="but can be more difficult to tune and control. Queue sizes and maximum pool sizes may be traded off for each other: Using large queues and small pools minimizes CPU usage, OS resources, and context-switching overhead, but can lead to artificially low throughput. If tasks frequently block (for example if they are IO bound), a system may be able to schedule time for more threads than you otherwise allow. Use of small queues generally requires larger pool sizes, which keeps CPUs busier but may encounter unacceptable scheduling overhead, which also decreases throughput." />
+      <item value="transient" />
+      <item value="in smoothing out transient bursts of requests" />
+      <item value="in a web page server. While this style of queuing can be useful in smoothing out transient bursts of requests, it admits the possibility of unbounded work queue growth when commands continue to arrive on average faster than they can be processed." />
+      <item value="This may be appropriate when each task is completely independent of others" />
+      <item value="handoffs" />
+      <item value="interacts" />
       <item value="If not otherwise specified" />
       <item value="prestart Core Thread" />
       <item value="reclamation" />
@@ -42,24 +55,11 @@
       <item value="Link to predecessor node that current nodethread relies on for checking waitStatus" />
       <item value="Link to predecessor node that current nodethread relies on for checking waitStatus. Assigned during enqueuing, and nulled out (for sake of GC) only upon dequeuing. Also, upon cancellation of a predecessor, we short-circuit while finding a non-cancelled one, which will always exist because the head node is never cancelled: A node becomes head only as a result of successful acquire. A cancelled thread never succeeds in acquiring, and a thread only cancels itself, not any other node." />
       <item value="predecessor" />
-      <item value="None of the above The values are arranged numerically to simplify use" />
-      <item value="intervened" />
-      <item value="at which time the status will be set to 0. (Use of this value here has nothing to do with the other uses of the field, but simplifies mechanics.)" />
-      <item value="To avoid races, acquire methods must first indicate they need a signal, then retry the atomic acquire, and then, on failure, block." />
-      <item value="To avoid races" />
-      <item value="successor" />
-      <item value="Marker" />
-      <item value="This class provides an efficient and scalable basis for synchronization in part by specializing its range of use to synchronizers that can rely on int state, acquire, and release parameters, and an internal FIFO wait queue. When this does not suffice, you can build synchronizers from a lower level using atomic classes, your own custom java.util.Queue classes, and LockSupport blocking support." />
-      <item value="Throughput and scalability are generally highest for the default barging (also known as greedy, renouncement, and convoy-avoidance) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads, and each recontention has an unbiased chance to succeed against incoming threads. Also, while acquires do not &quot;spin&quot; in the usual sense, they may perform multiple invocations of tryAcquire interspersed with other computations before blocking. This gives most of the benefits of spins when exclusive synchronization is only briefly held, without most of the liabilities when it isn't. If so desired, you can augment this by preceding calls to acquire methods with &quot;fast-path&quot; checks, possibly prechecking hasContended andor hasQueuedThreads to only do so if the synchronizer is likely not to be contended." />
-      <item value="Throughput and scalability are generally highest for the default barging (also known as greedy, renouncement, and convoy-avoidance) strategy. While this is not guaranteed to be fair or starvation-free, earlier queued threads are allowed to recontend before later queued threads," />
-      <item value="recontend" />
-      <item value="hereby providing" />
-      <item value="if desired, define tryAcquire andor tryAcquireShared to disable barging by internally invoking one or more of the inspection methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6876" />
-        <entry key="ENGLISH" value="6877" />
+        <entry key="CHINESE" value="6889" />
+        <entry key="ENGLISH" value="6890" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -73,7 +73,7 @@
         <entry key="CATALAN" value="4" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
-        <entry key="MALAY" value="1" />
+        <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="8" />
         <entry key="SWEDISH" value="4" />
