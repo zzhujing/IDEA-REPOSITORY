@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="hould block because of policy for overtaking other waiting threads." />
+      <item value="apparently First Queued Is Exclusive" />
       <item value="then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
       <item value="semantics" />
       <item value="mutual" />
@@ -53,13 +55,11 @@
       <item value="as applicable" />
       <item value="applicable" />
       <item value="This class provides inspection, instrumentation, and monitoring methods for the internal queue, as well as similar methods for condition objects. These can be exported as desired into classes using an AbstractQueuedSynchronizer for their synchronization mechanics." />
-      <item value="inspection" />
-      <item value="This class defines a nested AbstractQueuedSynchronizer.ConditionObject class that can be used as a Condition implementation by subclasses supporting exclusive mode for which method isHeldExclusively reports whether synchronization is exclusively held with respect to the current thread, method release invoked with the current getState value fully releases this object, and acquire, given this saved state value, eventually restores this object to its previous acquired state. No AbstractQueuedSynchronizer method otherwise creates such a condition, so if this constraint cannot be met, do not use it. The behavior of AbstractQueuedSynchronizer.ConditionObject depends of course on the semantics of its synchronizer implementation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6862" />
-        <entry key="ENGLISH" value="6863" />
+        <entry key="CHINESE" value="6864" />
+        <entry key="ENGLISH" value="6865" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
