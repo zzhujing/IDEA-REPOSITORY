@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="refund If Nessary" />
+      <item value="nessary&#10;" />
+      <item value="nessary" />
       <item value="is an atomic integer packing two conceptual fields workerCount, indicating the effective number of threads runState" />
       <item value="TIDYING" />
       <item value="packing two conceptual fields workerCount" />
@@ -52,14 +55,11 @@
       <item value="in the predecessor of its node" />
       <item value="tactic" />
       <item value="We instead use them for blocking synchronizers" />
-      <item value="Link to the successor node that the current nodethread unparks upon release. Assigned during enqueuing, adjusted when bypassing cancelled predecessors, and nulled out (for sake of GC) when dequeued. The enq operation does not assign next field of a predecessor until after attachment, so seeing a null next field does not necessarily mean that node is at end of queue. However, if a next field appears to be null, we can scan prev's from the tail to double-check. The next field of cancelled nodes is set to point to the node itself instead of null, to make life easier for isOnSyncQueue." />
-      <item value="Link to predecessor node that current nodethread relies on for checking waitStatus" />
-      <item value="Link to predecessor node that current nodethread relies on for checking waitStatus. Assigned during enqueuing, and nulled out (for sake of GC) only upon dequeuing. Also, upon cancellation of a predecessor, we short-circuit while finding a non-cancelled one, which will always exist because the head node is never cancelled: A node becomes head only as a result of successful acquire. A cancelled thread never succeeds in acquiring, and a thread only cancels itself, not any other node." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6890" />
-        <entry key="ENGLISH" value="6891" />
+        <entry key="CHINESE" value="6892" />
+        <entry key="ENGLISH" value="6893" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650260497359" />
+    <option name="lastTrimTime" value="1650852314594" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
