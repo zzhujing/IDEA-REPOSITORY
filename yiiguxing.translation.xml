@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Prohibited" />
+      <item value="Protection Domain" />
+      <item value="TRUNK" />
       <item value="refund If Nessary" />
       <item value="nessary&#10;" />
       <item value="nessary" />
@@ -52,14 +55,11 @@
       <item value="whether threads are granted locks etc though" />
       <item value="Each node of the queue otherwise serves as a specific-notification-style monitor holding a single waiting thread" />
       <item value="track of" />
-      <item value="in the predecessor of its node" />
-      <item value="tactic" />
-      <item value="We instead use them for blocking synchronizers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6892" />
-        <entry key="ENGLISH" value="6893" />
+        <entry key="CHINESE" value="6897" />
+        <entry key="ENGLISH" value="6898" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
