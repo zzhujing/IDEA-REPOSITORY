@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Tenuring&#10;&#10;" />
+      <item value="Tenuring&#10;" />
+      <item value="&#10;Tenuring&#10;" />
+      <item value="MaxTenuring&#10;" />
+      <item value="MaxTenuringThreshold&#10;" />
       <item value="Prohibited" />
       <item value="Protection Domain" />
       <item value="TRUNK" />
@@ -50,15 +55,10 @@
       <item value="it takes a bit more work for nodes to determine who their successors are, in part to deal with possible cancellation due to timeouts and interrupts." />
       <item value="demarcation" />
       <item value="o enqueue into a CLH lock, you atomically splice it in as new tail. To dequeue, you just set the head field" />
-      <item value="The status field does NOT control whether threads are granted locks etc though. A thread may try to acquire if it is first in the queue. But being first does not guarantee success; it only gives the right to contend. So the currently released contender thread may need to rewait." />
-      <item value="The status field does NOT control whether threads are granted locks etc though. A thread may try to acquire if it is first in the queue. But being first does not guarantee success; it only gives the right to contend" />
-      <item value="whether threads are granted locks etc though" />
-      <item value="Each node of the queue otherwise serves as a specific-notification-style monitor holding a single waiting thread" />
-      <item value="track of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6897" />
+        <entry key="CHINESE" value="6898" />
         <entry key="ENGLISH" value="6898" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
