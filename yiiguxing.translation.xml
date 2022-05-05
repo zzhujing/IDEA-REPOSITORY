@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="modifiers" />
       <item value="Tenuring&#10;&#10;" />
       <item value="Tenuring&#10;" />
       <item value="&#10;Tenuring&#10;" />
@@ -54,12 +55,11 @@
       <item value="The &quot;prev&quot; links (not used in original CLH locks), are mainly needed to handle cancellation. If a node is cancelled, its successor is (normally) relinked to a non-cancelled predecessor. For explanation of similar mechanics in the case of spin locks, see the papers by Scott and Scherer at http:www.cs.rochester.eduuscottsynchronization" />
       <item value="it takes a bit more work for nodes to determine who their successors are, in part to deal with possible cancellation due to timeouts and interrupts." />
       <item value="demarcation" />
-      <item value="o enqueue into a CLH lock, you atomically splice it in as new tail. To dequeue, you just set the head field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6898" />
-        <entry key="ENGLISH" value="6898" />
+        <entry key="ENGLISH" value="6899" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650852314594" />
+    <option name="lastTrimTime" value="1651717702848" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
