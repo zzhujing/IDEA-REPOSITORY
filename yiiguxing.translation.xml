@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="scavenge&#10;" />
+      <item value="scaven" />
+      <item value="sca" />
       <item value="Reserved Code Cache Size" />
       <item value="modifiers" />
       <item value="Tenuring&#10;&#10;" />
@@ -52,14 +55,11 @@
       <item value="Read fields in reverse initialization order" />
       <item value="Read fields in reverse initialization order Node h = head;" />
       <item value="The correctness of this depends on head being initialized" />
-      <item value="has Queued Predecessors" />
-      <item value="The &quot;prev&quot; links (not used in original CLH locks), are mainly needed to handle cancellation. If a node is cancelled, its successor is (normally) relinked to a non-cancelled predecessor. For explanation of similar mechanics in the case of spin locks, see the papers by Scott and Scherer at http:www.cs.rochester.eduuscottsynchronization" />
-      <item value="it takes a bit more work for nodes to determine who their successors are, in part to deal with possible cancellation due to timeouts and interrupts." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6899" />
-        <entry key="ENGLISH" value="6900" />
+        <entry key="CHINESE" value="6900" />
+        <entry key="ENGLISH" value="6901" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
