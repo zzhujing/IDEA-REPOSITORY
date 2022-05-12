@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Some headers, such as Accept-Language can be sent by clients as several headers each with a different value rather than sending the header as a comma separated list" />
       <item value="inherit Parent Context" />
       <item value="is Independent" />
       <item value="Client Http Request Execution" />
@@ -54,12 +55,11 @@
       <item value="handoffs" />
       <item value="interacts" />
       <item value="If not otherwise specified" />
-      <item value="prestart Core Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6937" />
-        <entry key="ENGLISH" value="6938" />
+        <entry key="CHINESE" value="6938" />
+        <entry key="ENGLISH" value="6939" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
