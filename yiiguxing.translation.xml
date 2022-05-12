@@ -5,6 +5,24 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="inherit Parent Context" />
+      <item value="is Independent" />
+      <item value="Client Http Request Execution" />
+      <item value="disambiguation" />
+      <item value="Registration" />
+      <item value="The initial locations can be influenced via th" />
+      <item value="Initialize the given {@link BootstrapRegistry} with any required registrations." />
+      <item value="fine-grained" />
+      <item value="Desensitization" />
+      <item value="is Assignable From" />
+      <item value="permission Desensitization" />
+      <item value="脱敏&#10;" />
+      <item value="permission Desensitation" />
+      <item value="permission Desens" />
+      <item value="脱敏" />
+      <item value="tuo min" />
+      <item value="脱ming" />
+      <item value="tuo ming" />
       <item value="scavenge&#10;" />
       <item value="scaven" />
       <item value="sca" />
@@ -37,29 +55,11 @@
       <item value="interacts" />
       <item value="If not otherwise specified" />
       <item value="prestart Core Thread" />
-      <item value="reclamation" />
-      <item value="programmers are urged to use the more convenient Executors factory methods" />
-      <item value="extensibility" />
-      <item value="adjustable" />
-      <item value="To be useful across a wide range of contexts" />
-      <item value="due to reduced per-task invocation overhead" />
-      <item value="Thread pools address two different problems" />
-      <item value="address" />
-      <item value="one of possibly several pooled threads" />
-      <item value="one of possibly several" />
-      <item value="hould block because of policy for overtaking other waiting threads." />
-      <item value="apparently First Queued Is Exclusive" />
-      <item value="then invoking at least once tryAcquireShared, returning on success. Otherwise the thread is queued, possibly repeatedly blocking and unblocking, invoking tryAcquireShared until success or the thread is interrupted." />
-      <item value="semantics" />
-      <item value="mutual" />
-      <item value="Read fields in reverse initialization order" />
-      <item value="Read fields in reverse initialization order Node h = head;" />
-      <item value="The correctness of this depends on head being initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6900" />
-        <entry key="ENGLISH" value="6901" />
+        <entry key="CHINESE" value="6937" />
+        <entry key="ENGLISH" value="6938" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -75,7 +75,7 @@
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="2" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="SWEDISH" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="SLOVAK" value="3" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651717702848" />
+    <option name="lastTrimTime" value="1652233073067" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
