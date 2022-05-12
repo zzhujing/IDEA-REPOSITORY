@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="materialize" />
       <item value="BORDER" />
       <item value="Targeter" />
       <item value="Some headers, such as Accept-Language can be sent by clients as several headers each with a different value rather than sending the header as a comma separated list" />
@@ -54,12 +55,11 @@
       <item value="in smoothing out transient bursts of requests" />
       <item value="in a web page server. While this style of queuing can be useful in smoothing out transient bursts of requests, it admits the possibility of unbounded work queue growth when commands continue to arrive on average faster than they can be processed." />
       <item value="This may be appropriate when each task is completely independent of others" />
-      <item value="handoffs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6939" />
-        <entry key="ENGLISH" value="6940" />
+        <entry key="CHINESE" value="6940" />
+        <entry key="ENGLISH" value="6941" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
