@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="elapsed&#10;" />
+      <item value="elapsed" />
       <item value="缓存与数据库一致性&#10;" />
       <item value="Round Robin Load Balancer" />
       <item value="轮询&#10;" />
@@ -53,12 +55,10 @@
       <item value="packing two conceptual fields workerCount" />
       <item value="A pool that is no longer referenced in a program AND has no remaining threads will be shutdown automatically. If you would like to ensure that unreferenced pools are reclaimed even if users forget to call shutdown, then you must arrange that unused threads eventually die, by setting appropriate keep-alive times, using a lower bound of zero core threads andor setting allowCoreThreadTimeOut(boolean)." />
       <item value="manipulate" />
-      <item value="saturated" />
-      <item value="finite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6967" />
+        <entry key="CHINESE" value="6968" />
         <entry key="ENGLISH" value="6968" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
