@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="inhibit interrupts until runWorker" />
+      <item value="Class Worker mainly maintains interrupt control state for threads running tasks, along with other minor bookkeeping. This class opportunistically extends AbstractQueuedSynchronizer to simplify acquiring and releasing a lock surrounding each task execution. This protects against interrupts that are intended to wake up a worker thread waiting for a task from instead interrupting a task being run. We implement a simple non-reentrant mutual exclusion lock rather than use ReentrantLock because we do not want worker tasks to be able to reacquire the lock when they invoke pool control methods like setCorePoolSize. Additionally, to suppress interrupts until the thread actually starts running tasks, we initialize lock state to a negative value, and clear it upon start (in runWorker)." />
+      <item value="Class Worker mainly maintains interrupt control state for threads running tasks, along with other minor bookkeeping. This class opportunistically extends AbstractQueuedSynchronizer to simplify acquiring and releasing a lock surrounding each task execution" />
+      <item value="Before running any task, the lock is acquired to prevent other pool interrupts while the task is executing, and then we ensure that unless pool is stopping, this thread does not have its interrupt set" />
+      <item value="Performs cleanup and bookkeeping for a dying worker. Called only from worker threads. Unless completedAbruptly is set, assumes that workerCount has already been adjusted to account for exit. This method removes thread from worker set, and possibly terminates the pool or replaces the worker if either it exited due to user task exception or if fewer than corePoolSize workers are running or queue is non-empty but there are no workers." />
       <item value="可见性&#10;" />
       <item value="ke" />
       <item value="Topic" />
@@ -50,16 +55,11 @@
       <item value="Prohibited" />
       <item value="Protection Domain" />
       <item value="TRUNK" />
-      <item value="refund If Nessary" />
-      <item value="nessary&#10;" />
-      <item value="nessary" />
-      <item value="is an atomic integer packing two conceptual fields workerCount, indicating the effective number of threads runState" />
-      <item value="TIDYING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6979" />
-        <entry key="ENGLISH" value="6980" />
+        <entry key="CHINESE" value="6984" />
+        <entry key="ENGLISH" value="6985" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
