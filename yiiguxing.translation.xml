@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Expunge a stale entry by rehashing any possibly colliding entries lying between staleSlot and the next null slot. This also expunges any other stale entries encountered before the trailing null" />
+      <item value="encounter" />
+      <item value="expunge Stale Entry" />
+      <item value="replace Stale Entry" />
       <item value="full Try Acquire Shared" />
       <item value="spread" />
       <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
@@ -51,15 +55,11 @@
       <item value="tuo ming" />
       <item value="scavenge&#10;" />
       <item value="scaven" />
-      <item value="sca" />
-      <item value="Reserved Code Cache Size" />
-      <item value="modifiers" />
-      <item value="Tenuring&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6994" />
-        <entry key="ENGLISH" value="6995" />
+        <entry key="CHINESE" value="6998" />
+        <entry key="ENGLISH" value="6999" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652759434309" />
+    <option name="lastTrimTime" value="1653269201258" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
