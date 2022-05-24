@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="logistic List" />
       <item value="PretenureSizeThreshold" />
       <item value="Occupancy Fraction&#10;" />
       <item value="OccupancyFraction&#10;" />
@@ -54,12 +55,11 @@
       <item value="permission Desens" />
       <item value="脱敏" />
       <item value="tuo min" />
-      <item value="脱ming" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7000" />
-        <entry key="ENGLISH" value="6999" />
+        <entry key="ENGLISH" value="7000" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
