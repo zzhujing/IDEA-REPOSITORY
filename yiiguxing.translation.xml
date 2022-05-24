@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Occupancy Fraction&#10;" />
+      <item value="OccupancyFraction&#10;" />
       <item value="Expunge a stale entry by rehashing any possibly colliding entries lying between staleSlot and the next null slot. This also expunges any other stale entries encountered before the trailing null" />
       <item value="encounter" />
       <item value="expunge Stale Entry" />
@@ -53,12 +55,10 @@
       <item value="tuo min" />
       <item value="脱ming" />
       <item value="tuo ming" />
-      <item value="scavenge&#10;" />
-      <item value="scaven" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6998" />
+        <entry key="CHINESE" value="6999" />
         <entry key="ENGLISH" value="6999" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
