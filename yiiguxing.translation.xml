@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="时效&#10;" />
       <item value="Performs cleanup and bookkeeping for a dying worker. Called only from worker threads. Unless completedAbruptly is set, assumes that workerCount has already been adjusted to account for exit. This method removes thread from worker set, and possibly terminates the pool or replaces the worker if either it exited due to user task exception or if fewer than corePoolSize workers are running or queue is non-empty but there are no workers." />
       <item value="OccupancyFraction&#10;" />
       <item value="Occupancy" />
@@ -54,12 +55,11 @@
       <item value="The initial locations can be influenced via th" />
       <item value="Initialize the given {@link BootstrapRegistry} with any required registrations." />
       <item value="fine-grained" />
-      <item value="Desensitization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7006" />
-        <entry key="ENGLISH" value="7007" />
+        <entry key="CHINESE" value="7020" />
+        <entry key="ENGLISH" value="7021" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
