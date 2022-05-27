@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="valid Trans Ways" />
       <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="prescription" />
       <item value="时效&#10;" />
@@ -54,12 +55,11 @@
       <item value="Client Http Request Execution" />
       <item value="disambiguation" />
       <item value="Registration" />
-      <item value="The initial locations can be influenced via th" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7028" />
-        <entry key="ENGLISH" value="7029" />
+        <entry key="CHINESE" value="7029" />
+        <entry key="ENGLISH" value="7030" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
