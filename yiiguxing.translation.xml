@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Desensitization" />
       <item value="串点&#10;" />
       <item value="chuang" />
       <item value="valid Trans Ways" />
@@ -54,12 +55,11 @@
       <item value="Some headers, such as Accept-Language can be sent by clients as several headers each with a different value rather than sending the header as a comma separated list" />
       <item value="inherit Parent Context" />
       <item value="is Independent" />
-      <item value="Client Http Request Execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7065" />
-        <entry key="ENGLISH" value="7066" />
+        <entry key="CHINESE" value="7066" />
+        <entry key="ENGLISH" value="7067" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
