@@ -5,8 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="Desensitization" />
+      <item value="strand&#10;" />
       <item value="串点&#10;" />
+      <item value="串&#10;" />
+      <item value="Desensitization" />
       <item value="chuang" />
       <item value="valid Trans Ways" />
       <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
@@ -53,13 +55,11 @@
       <item value="BORDER" />
       <item value="Targeter" />
       <item value="Some headers, such as Accept-Language can be sent by clients as several headers each with a different value rather than sending the header as a comma separated list" />
-      <item value="inherit Parent Context" />
-      <item value="is Independent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7066" />
-        <entry key="ENGLISH" value="7067" />
+        <entry key="CHINESE" value="7089" />
+        <entry key="ENGLISH" value="7089" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653269201258" />
+    <option name="lastTrimTime" value="1653878577445" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
