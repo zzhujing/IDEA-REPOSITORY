@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="roadWay" />
       <item value="strand&#10;" />
       <item value="串点&#10;" />
       <item value="串&#10;" />
@@ -54,11 +55,10 @@
       <item value="materialize" />
       <item value="BORDER" />
       <item value="Targeter" />
-      <item value="Some headers, such as Accept-Language can be sent by clients as several headers each with a different value rather than sending the header as a comma separated list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7089" />
+        <entry key="CHINESE" value="7090" />
         <entry key="ENGLISH" value="7089" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
