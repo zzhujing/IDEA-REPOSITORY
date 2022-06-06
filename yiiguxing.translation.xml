@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="ticker" />
       <item value="UnMarshal&#10;" />
       <item value="UnMar" />
       <item value="marshal&#10;" />
@@ -54,12 +55,11 @@
       <item value="Before running any task, the lock is acquired to prevent other pool interrupts while the task is executing, and then we ensure that unless pool is stopping, this thread does not have its interrupt set" />
       <item value="可见性&#10;" />
       <item value="ke" />
-      <item value="Topic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7107" />
-        <entry key="ENGLISH" value="7107" />
+        <entry key="ENGLISH" value="7108" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
