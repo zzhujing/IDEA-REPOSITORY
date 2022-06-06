@@ -1,0 +1,7 @@
+<templateSet group="Go">
+  <template name="pln" value="fmt.Println($END$)" description="fmt.Println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>
