@@ -15,6 +15,7 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="urlstreamhandlerprovider" type="PLAIN_TEXT" />
+      <mapping ext="gob" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="jsonm" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
