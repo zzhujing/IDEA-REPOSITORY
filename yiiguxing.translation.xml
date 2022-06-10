@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Und" />
+      <item value="CaseRange represents a range of Unicode code points for simple (one code point to one code point) case conversion. The range runs from Lo to Hi inclusive, with a fixed stride of 1. Deltas are the number to add to the code point to reach the code point for a different case for that character. They may be negative. If zero, it means the character is in the corresponding case. There is a special case representing sequences of alternating corresponding Upper and Lower pairs. It appears with a fixed Delta of {UpperLower, UpperLower, UpperLower} The constant UpperLower has an otherwise impossible delta value." />
+      <item value="with a fixed stride of 1" />
       <item value="Auto Migrate" />
       <item value="AutoMigrate run auto migration for given models" />
       <item value="typically" />
@@ -52,21 +55,18 @@
       <item value="replace Stale Entry" />
       <item value="full Try Acquire Shared" />
       <item value="spread" />
-      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
-      <item value="Because TreeNodes are about twice the size of regular nodes, we use them only when bins contain enough nodes to warrant use (see TREEIFY_THRESHOLD). And when they become too small (due to removal or resizing) they are converted back to plain bins. In usages with well-distributed user hashCodes, tree bins are rarely used. Ideally, under random hashCodes, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average for the default resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are:" />
-      <item value="rarely" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7113" />
-        <entry key="ENGLISH" value="7114" />
+        <entry key="CHINESE" value="7116" />
+        <entry key="ENGLISH" value="7116" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="9" />
-        <entry key="GERMAN" value="10" />
+        <entry key="GERMAN" value="11" />
         <entry key="FRENCH" value="19" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
