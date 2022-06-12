@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Auto Migrate" />
+      <item value="AutoMigrate run auto migration for given models" />
       <item value="typically" />
       <item value="done indicates whether the action has been performed. It is first in the struct because it is used in the hot path. The hot path is inlined at every call site. Placing done first allows more compact instructions on some architectures (amd64386)," />
       <item value="If 'Submatch' is present, the return value is a slice identifying the successive submatches of the expression. Submatches are matches of parenthesized subexpressions (also known as capturing groups) within the regular expression, numbered from left to right in order of opening parenthesis. Submatch 0 is the match of the entire expression, submatch 1 is the match of the first parenthesized subexpression, and so on." />
@@ -53,13 +55,11 @@
       <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table." />
       <item value="Because TreeNodes are about twice the size of regular nodes, we use them only when bins contain enough nodes to warrant use (see TREEIFY_THRESHOLD). And when they become too small (due to removal or resizing) they are converted back to plain bins. In usages with well-distributed user hashCodes, tree bins are rarely used. Ideally, under random hashCodes, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average for the default resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are:" />
       <item value="rarely" />
-      <item value="Caller Sensitive" />
-      <item value="ephemeral" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7111" />
-        <entry key="ENGLISH" value="7112" />
+        <entry key="CHINESE" value="7113" />
+        <entry key="ENGLISH" value="7114" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
