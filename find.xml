@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.js</mask>
     <mask>*.vm</mask>
     <mask>*.</mask>
@@ -18,8 +18,8 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.*</mask>
     <mask>*.java</mask>
     <mask>*.go</mask>
+    <mask>*.*</mask>
   </component>
 </application>
