@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Check for a broken connection, as it is not really a condition that warrants a panic stack trace." />
       <item value="Any item stored in the Pool may be removed automatically at any time without notification. If the Pool holds the only reference when this happens, the item might be deallocated." />
       <item value="Any item stored in the Pool may be removed automatically at any time without notification. If the Pool holds the only reference when this happens, the item might be deallocated. A Pool is safe for use by multiple goroutines simultaneously." />
       <item value="Any item stored in the Pool may be removed automatically at any time without notification" />
@@ -54,12 +55,11 @@
       <item value="and do not participate in a global transaction (if present)." />
       <item value="logistic List" />
       <item value="PretenureSizeThreshold" />
-      <item value="Occupancy Fraction&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7121" />
-        <entry key="ENGLISH" value="7122" />
+        <entry key="CHINESE" value="7122" />
+        <entry key="ENGLISH" value="7123" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
