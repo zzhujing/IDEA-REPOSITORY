@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="behalf of" />
+      <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled. Done may return nil if this context can never be canceled. Successive calls to Done return the same value. The close of the Done channel may happen asynchronously, after the cancel function returns." />
+      <item value="Successive calls to Done return the same value" />
+      <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled" />
       <item value="on behalf of" />
       <item value="simultaneous" />
       <item value="associated" />
@@ -51,15 +55,11 @@
       <item value="chuang" />
       <item value="valid Trans Ways" />
       <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
-      <item value="prescription" />
-      <item value="时效&#10;" />
-      <item value="Performs cleanup and bookkeeping for a dying worker. Called only from worker threads. Unless completedAbruptly is set, assumes that workerCount has already been adjusted to account for exit. This method removes thread from worker set, and possibly terminates the pool or replaces the worker if either it exited due to user task exception or if fewer than corePoolSize workers are running or queue is non-empty but there are no workers." />
-      <item value="OccupancyFraction&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7131" />
-        <entry key="ENGLISH" value="7132" />
+        <entry key="CHINESE" value="7136" />
+        <entry key="ENGLISH" value="7137" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
