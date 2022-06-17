@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="TODO returns a non-nil, empty Context. Code should use context.TODO when it's unclear which Context to use or it is not yet available (because the surrounding function has not yet been extended to accept a Context paramete" />
       <item value="ctx is either the client or server context. It should only be modified via copying the whole Request using WithContext. It is unexported to prevent people from using Context wrong and mutating the contexts held by callers of the same reques" />
       <item value="Capacity" />
       <item value="Quantum" />
@@ -54,12 +55,11 @@
       <item value="O" />
       <item value="Commits the ongoing transaction. This method will flush any unsent records before actually committing the transaction. Further, if any of the send(ProducerRecord) calls which were part of the transaction hit irrecoverable errors, this method will throw the last received exception immediately and the transaction will not be committed. So all send(ProducerRecord) calls in a transaction must succeed in order for this method to succeed. Note that this method will raise TimeoutException if the transaction cannot be committed before expiration of max.block.ms. Additionally, it will raise InterruptException if interrupted. It is safe to retry in either case, but it is not possible to attempt a different operation (such as abortTransaction) since the commit may already be in the progress of completing. If not retrying, the only option is to close the producer." />
       <item value="When running in a transaction, send the consumer offset(s) to the transaction. The group id is obtained from org.springframework.kafka.support.KafkaUtils.getConsumerGroupId(). It is not necessary to call this method if the operations are invoked on a listener container thread (and the listener container is configured with a org.springframework.kafka.transaction.KafkaAwareTransactionManager) since the container will take care of sending the offsets to the transaction." />
-      <item value="Execute some arbitrary operation(s) on the operations and return the result. The operations are invoked within a local transaction and do not participate in a global transaction (if present)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7125" />
-        <entry key="ENGLISH" value="7126" />
+        <entry key="CHINESE" value="7126" />
+        <entry key="ENGLISH" value="7127" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
