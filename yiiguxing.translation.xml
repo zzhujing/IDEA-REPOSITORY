@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="exclude Discount Total Amount" />
       <item value="behalf of" />
       <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled. Done may return nil if this context can never be canceled. Successive calls to Done return the same value. The close of the Done channel may happen asynchronously, after the cancel function returns." />
       <item value="Successive calls to Done return the same value" />
@@ -54,12 +55,11 @@
       <item value="Desensitization" />
       <item value="chuang" />
       <item value="valid Trans Ways" />
-      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7136" />
-        <entry key="ENGLISH" value="7137" />
+        <entry key="CHINESE" value="7137" />
+        <entry key="ENGLISH" value="7138" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
