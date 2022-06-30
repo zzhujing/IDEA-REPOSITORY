@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Temporal Amount" />
       <item value="œ" />
       <item value="exclude Discount Total Amount" />
       <item value="behalf of" />
@@ -54,12 +55,11 @@
       <item value="串点&#10;" />
       <item value="串&#10;" />
       <item value="Desensitization" />
-      <item value="chuang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7137" />
-        <entry key="ENGLISH" value="7138" />
+        <entry key="CHINESE" value="7138" />
+        <entry key="ENGLISH" value="7139" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
