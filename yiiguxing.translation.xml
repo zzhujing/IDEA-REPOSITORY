@@ -5,8 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="Transport Credentials" />
-      <item value="Dial" />
+      <item value="Temporal Amount" />
+      <item value="œ" />
+      <item value="exclude Discount Total Amount" />
       <item value="behalf of" />
       <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled. Done may return nil if this context can never be canceled. Successive calls to Done return the same value. The close of the Done channel may happen asynchronously, after the cancel function returns." />
       <item value="Successive calls to Done return the same value" />
@@ -54,7 +55,6 @@
       <item value="串点&#10;" />
       <item value="串&#10;" />
       <item value="Desensitization" />
-      <item value="chuang" />
     </histories>
     <option name="languageScores">
       <map>
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656430525708" />
+    <option name="lastTrimTime" value="1656472126786" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
