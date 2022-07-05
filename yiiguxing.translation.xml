@@ -5,9 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="REQUIRES NEW" />
+      <item value="EXTERNAL" />
+      <item value="External transition builder" />
+      <item value="benefit Apply And Update Order" />
       <item value="NEWCOMER PRICE" />
       <item value="USER VOLUNTARILY CANCELS" />
-      <item value="benefit Apply And Update Order" />
       <item value="catalog&#10;" />
       <item value="Asset&#10;&#10;" />
       <item value="exclude Aster Asset List By Param Log" />
@@ -52,14 +55,11 @@
       <item value="Cut slices s around the first instance of sep, returning the text before and after sep. The found result reports whether sep appears in s. If sep does not appear in s, cut returns s, &quot;&quot;, false." />
       <item value="Elem returns the value that the interface v contains or that the pointer v points to. It panics if v's Kind is not Interface or Pointer. It returns the zero Value if v is nil." />
       <item value="Elem" />
-      <item value="claim" />
-      <item value="park Time" />
-      <item value="余数&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7154" />
-        <entry key="ENGLISH" value="7155" />
+        <entry key="CHINESE" value="7158" />
+        <entry key="ENGLISH" value="7159" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
