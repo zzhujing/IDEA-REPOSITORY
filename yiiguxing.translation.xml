@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="External transition builder" />
+      <item value="External transition builde" />
+      <item value="Builder for one transition" />
+      <item value="REFUND EXCEPTION" />
       <item value="申请&#10;" />
       <item value="年级&#10;" />
       <item value="nian ji" />
@@ -19,7 +23,6 @@
       <item value="CONTRACT ID" />
       <item value="REQUIRES NEW" />
       <item value="EXTERNAL" />
-      <item value="External transition builder" />
       <item value="benefit Apply And Update Order" />
       <item value="NEWCOMER PRICE" />
       <item value="USER VOLUNTARILY CANCELS" />
@@ -52,14 +55,11 @@
       <item value="Und" />
       <item value="CaseRange represents a range of Unicode code points for simple (one code point to one code point) case conversion. The range runs from Lo to Hi inclusive, with a fixed stride of 1. Deltas are the number to add to the code point to reach the code point for a different case for that character. They may be negative. If zero, it means the character is in the corresponding case. There is a special case representing sequences of alternating corresponding Upper and Lower pairs. It appears with a fixed Delta of {UpperLower, UpperLower, UpperLower} The constant UpperLower has an otherwise impossible delta value." />
       <item value="with a fixed stride of 1" />
-      <item value="Auto Migrate" />
-      <item value="AutoMigrate run auto migration for given models" />
-      <item value="typically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7193" />
-        <entry key="ENGLISH" value="7194" />
+        <entry key="CHINESE" value="7197" />
+        <entry key="ENGLISH" value="7198" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
