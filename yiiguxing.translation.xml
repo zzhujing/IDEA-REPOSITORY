@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="申请&#10;" />
       <item value="年级&#10;" />
       <item value="nian ji" />
       <item value="年纪" />
@@ -54,12 +55,11 @@
       <item value="Auto Migrate" />
       <item value="AutoMigrate run auto migration for given models" />
       <item value="typically" />
-      <item value="done indicates whether the action has been performed. It is first in the struct because it is used in the hot path. The hot path is inlined at every call site. Placing done first allows more compact instructions on some architectures (amd64386)," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7185" />
-        <entry key="ENGLISH" value="7186" />
+        <entry key="CHINESE" value="7193" />
+        <entry key="ENGLISH" value="7194" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
