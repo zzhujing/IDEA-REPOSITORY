@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="年级&#10;" />
+      <item value="nian ji" />
+      <item value="年纪" />
       <item value="replacement" />
       <item value="abbr&#10;" />
       <item value="withhold" />
@@ -52,14 +55,11 @@
       <item value="AutoMigrate run auto migration for given models" />
       <item value="typically" />
       <item value="done indicates whether the action has been performed. It is first in the struct because it is used in the hot path. The hot path is inlined at every call site. Placing done first allows more compact instructions on some architectures (amd64386)," />
-      <item value="If 'Submatch' is present, the return value is a slice identifying the successive submatches of the expression. Submatches are matches of parenthesized subexpressions (also known as capturing groups) within the regular expression, numbered from left to right in order of opening parenthesis. Submatch 0 is the match of the entire expression, submatch 1 is the match of the first parenthesized subexpression, and so on." />
-      <item value="burst Requests" />
-      <item value="bursty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7172" />
-        <entry key="ENGLISH" value="7173" />
+        <entry key="CHINESE" value="7185" />
+        <entry key="ENGLISH" value="7186" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
