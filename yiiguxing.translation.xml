@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="abbr&#10;" />
       <item value="withhold" />
       <item value="papay&#10;" />
       <item value="get Biz Scenario" />
@@ -54,11 +55,10 @@
       <item value="burst Requests" />
       <item value="bursty" />
       <item value="burstry" />
-      <item value="ticker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7171" />
+        <entry key="CHINESE" value="7172" />
         <entry key="ENGLISH" value="7172" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
