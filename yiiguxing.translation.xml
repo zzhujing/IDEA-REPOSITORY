@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="deduce Trade Status" />
       <item value="待补偿&#10;" />
       <item value="dai" />
       <item value="External transition builder" />
@@ -54,12 +55,11 @@
       <item value="The argument skip is the number of stack frames to ascend" />
       <item value="ascend" />
       <item value="Singular Table" />
-      <item value="Und" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7220" />
-        <entry key="ENGLISH" value="7221" />
+        <entry key="CHINESE" value="7221" />
+        <entry key="ENGLISH" value="7222" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
