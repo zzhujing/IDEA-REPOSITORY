@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="noinspection unchecked" />
+      <item value="ENTRUST_" />
       <item value="Configurable Alipay Client" />
       <item value="map Underscore To Camel Case" />
       <item value="allow Eager Init" />
@@ -53,13 +55,11 @@
       <item value="Package context defines the Context type, which carries deadlines, cancellation signals, and other request-scoped values across API boundaries and between processes." />
       <item value="and other request-scoped values across API boundaries and between processes." />
       <item value="TODO returns a non-nil, empty Context. Code should use context.TODO when it's unclear which Context to use or it is not yet available (because the surrounding function has not yet been extended to accept a Context paramete" />
-      <item value="ctx is either the client or server context. It should only be modified via copying the whole Request using WithContext. It is unexported to prevent people from using Context wrong and mutating the contexts held by callers of the same reques" />
-      <item value="Capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7236" />
-        <entry key="ENGLISH" value="7237" />
+        <entry key="CHINESE" value="7238" />
+        <entry key="ENGLISH" value="7239" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
