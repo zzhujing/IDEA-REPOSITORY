@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="ENTRUST URL GET ERROR" />
       <item value="Pre Withhold" />
       <item value="Withhold" />
       <item value="Wx Pre Withhold Request" />
@@ -54,7 +55,6 @@
       <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled" />
       <item value="on behalf of" />
       <item value="simultaneous" />
-      <item value="associated" />
     </histories>
     <option name="languageScores">
       <map>
