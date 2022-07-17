@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="FLOW GRADE QPS" />
+      <item value="set Grade" />
       <item value="ENTRUST URL GET ERROR" />
       <item value="Pre Withhold" />
       <item value="Withhold" />
@@ -53,13 +55,11 @@
       <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled. Done may return nil if this context can never be canceled. Successive calls to Done return the same value. The close of the Done channel may happen asynchronously, after the cancel function returns." />
       <item value="Successive calls to Done return the same value" />
       <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled" />
-      <item value="on behalf of" />
-      <item value="simultaneous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7241" />
-        <entry key="ENGLISH" value="7242" />
+        <entry key="CHINESE" value="7243" />
+        <entry key="ENGLISH" value="7244" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657507018365" />
+    <option name="lastTrimTime" value="1658061547753" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
