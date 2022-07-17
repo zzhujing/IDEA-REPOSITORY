@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/program/dev/node-v16.16.0-darwin-arm64/bin/node" />
+  </component>
+</application>
