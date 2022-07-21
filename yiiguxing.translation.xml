@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="休息日&#10;" />
+      <item value="xiu xi" />
+      <item value="Constable" />
+      <item value="describe Constable" />
+      <item value="indent" />
       <item value="Currency Util" />
       <item value="Deprecated Do not need specify generic value, judge by injection type and interface class" />
       <item value="ensure start module, compatible with old api usage" />
@@ -50,16 +55,11 @@
       <item value="USER VOLUNTARILY CANCELS" />
       <item value="catalog&#10;" />
       <item value="Asset&#10;&#10;" />
-      <item value="exclude Aster Asset List By Param Log" />
-      <item value="Temporal Amount" />
-      <item value="œ" />
-      <item value="exclude Discount Total Amount" />
-      <item value="behalf of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7246" />
-        <entry key="ENGLISH" value="7247" />
+        <entry key="CHINESE" value="7256" />
+        <entry key="ENGLISH" value="7257" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
