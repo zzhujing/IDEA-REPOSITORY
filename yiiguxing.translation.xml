@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Currency Util" />
       <item value="Deprecated Do not need specify generic value, judge by injection type and interface class" />
       <item value="ensure start module, compatible with old api usage" />
       <item value="FLOW GRADE QPS" />
@@ -54,12 +55,11 @@
       <item value="œ" />
       <item value="exclude Discount Total Amount" />
       <item value="behalf of" />
-      <item value="Done returns a channel that's closed when work done on behalf of this context should be canceled. Done may return nil if this context can never be canceled. Successive calls to Done return the same value. The close of the Done channel may happen asynchronously, after the cancel function returns." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7245" />
-        <entry key="ENGLISH" value="7246" />
+        <entry key="CHINESE" value="7246" />
+        <entry key="ENGLISH" value="7247" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
