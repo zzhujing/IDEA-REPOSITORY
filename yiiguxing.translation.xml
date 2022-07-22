@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="strictly ordered" />
+      <item value="where a buffer size of 1 single-steps, and larger sizes usually allow for more efficient overlapped processing with less communication" />
+      <item value="arrange" />
+      <item value="are not issued unless requested" />
+      <item value="arranges" />
+      <item value="issuing it to the calling Flow.Subscriber" />
+      <item value="Communication relies on a simple form of flow control (method Flow.Subscription.request) that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
+      <item value="correspond" />
+      <item value="Interrelated" />
       <item value="休息日&#10;" />
       <item value="xiu xi" />
       <item value="Constable" />
@@ -46,20 +55,11 @@
       <item value="papay&#10;" />
       <item value="get Biz Scenario" />
       <item value="CLOSED WITHOUT AGREEMENT" />
-      <item value="pap&#10;" />
-      <item value="CONTRACT ID" />
-      <item value="REQUIRES NEW" />
-      <item value="EXTERNAL" />
-      <item value="benefit Apply And Update Order" />
-      <item value="NEWCOMER PRICE" />
-      <item value="USER VOLUNTARILY CANCELS" />
-      <item value="catalog&#10;" />
-      <item value="Asset&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7256" />
-        <entry key="ENGLISH" value="7257" />
+        <entry key="CHINESE" value="7265" />
+        <entry key="ENGLISH" value="7266" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
