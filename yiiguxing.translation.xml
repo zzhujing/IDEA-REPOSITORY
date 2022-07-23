@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Concatenate all sources provided in an Iterable, forwarding elements emitted by the sources downstream. Concatenation is achieved by sequentially subscribing to the first source then waiting for it to complete before subscribing to the next, and so on until the last source completes. Any error interrupts the sequence immediately and is forwarded downstream." />
+      <item value="are subscribed to eagerly" />
+      <item value="interleaved" />
+      <item value="sources are subscribed to eagerly" />
       <item value="eagerly" />
       <item value="Transforming Op Demo" />
       <item value="pull Origin" />
@@ -51,15 +55,11 @@
       <item value="申请&#10;" />
       <item value="年级&#10;" />
       <item value="nian ji" />
-      <item value="年纪" />
-      <item value="replacement" />
-      <item value="abbr&#10;" />
-      <item value="withhold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7268" />
-        <entry key="ENGLISH" value="7269" />
+        <entry key="CHINESE" value="7273" />
+        <entry key="ENGLISH" value="7274" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
