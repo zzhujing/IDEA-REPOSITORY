@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="eagerly" />
       <item value="Transforming Op Demo" />
       <item value="pull Origin" />
       <item value="strictly ordered" />
@@ -54,12 +55,11 @@
       <item value="replacement" />
       <item value="abbr&#10;" />
       <item value="withhold" />
-      <item value="papay&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7267" />
-        <entry key="ENGLISH" value="7268" />
+        <entry key="CHINESE" value="7268" />
+        <entry key="ENGLISH" value="7269" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
