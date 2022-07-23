@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Transforming Op Demo" />
       <item value="pull Origin" />
       <item value="strictly ordered" />
       <item value="where a buffer size of 1 single-steps, and larger sizes usually allow for more efficient overlapped processing with less communication" />
@@ -54,12 +55,11 @@
       <item value="abbr&#10;" />
       <item value="withhold" />
       <item value="papay&#10;" />
-      <item value="get Biz Scenario" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7266" />
-        <entry key="ENGLISH" value="7267" />
+        <entry key="CHINESE" value="7267" />
+        <entry key="ENGLISH" value="7268" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658061547753" />
+    <option name="lastTrimTime" value="1658569520707" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
