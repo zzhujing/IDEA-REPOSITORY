@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="A contract providing different interaction models for RSocket protocol ." />
+      <item value="contract" />
       <item value="refactor&#10;" />
       <item value="We accept useless data after the last block, say, empty lines." />
       <item value="male" />
@@ -53,13 +55,11 @@
       <item value="get Wx Entrust Pap Service" />
       <item value="deduce Trade Status" />
       <item value="待补偿&#10;" />
-      <item value="dai" />
-      <item value="External transition builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7279" />
-        <entry key="ENGLISH" value="7279" />
+        <entry key="CHINESE" value="7280" />
+        <entry key="ENGLISH" value="7281" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
