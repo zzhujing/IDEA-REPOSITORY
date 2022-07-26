@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="可用的&#10;" />
+      <item value="ke" />
+      <item value="get Useful Merchant Accounts" />
+      <item value="get Usage Merchant Accounts" />
       <item value="optional extra field data for entry" />
       <item value="Returns the extra field data for the entry." />
       <item value="汇总表计&#10;" />
@@ -51,15 +55,11 @@
       <item value="Wx Pre Withhold Request" />
       <item value="noinspection unchecked" />
       <item value="ENTRUST_" />
-      <item value="Configurable Alipay Client" />
-      <item value="map Underscore To Camel Case" />
-      <item value="allow Eager Init" />
-      <item value="time To Live" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7291" />
-        <entry key="ENGLISH" value="7292" />
+        <entry key="CHINESE" value="7304" />
+        <entry key="ENGLISH" value="7305" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
