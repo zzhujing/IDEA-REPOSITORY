@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="汇总表计&#10;" />
+      <item value="AGGREGATION TAG" />
       <item value="IMPORTANT: Please note all entity implementations must ensure that all allocated resources are properly deallocated after the InputStream.close() method is invoked." />
       <item value="Possibly blocking call in non-blocking context could lead to thread starvation &#10;" />
       <item value="A contract providing different interaction models for RSocket protocol ." />
@@ -53,13 +55,11 @@
       <item value="time To Live" />
       <item value="重构&#10;" />
       <item value="code review&#10;" />
-      <item value="review&#10;" />
-      <item value="get Wx Entrust Pap Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7281" />
-        <entry key="ENGLISH" value="7282" />
+        <entry key="CHINESE" value="7289" />
+        <entry key="ENGLISH" value="7290" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
