@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="em&#10;" />
       <item value="可用的&#10;" />
       <item value="ke" />
       <item value="get Useful Merchant Accounts" />
@@ -54,11 +55,10 @@
       <item value="Withhold" />
       <item value="Wx Pre Withhold Request" />
       <item value="noinspection unchecked" />
-      <item value="ENTRUST_" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7304" />
+        <entry key="CHINESE" value="7305" />
         <entry key="ENGLISH" value="7305" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
