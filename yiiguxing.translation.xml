@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
       <item value="As of v2022.2, all IntelliJ IDEA updates come with JetBrains Runtime 17 (JBR 17), which brings a significant IDE performance improvement, better security, enhanced rendering performance on macOS thanks to the Metal API, and more. Read this blog post for more details." />
       <item value="em&#10;" />
       <item value="可用的&#10;" />
@@ -54,12 +55,11 @@
       <item value="ENTRUST URL GET ERROR" />
       <item value="Pre Withhold" />
       <item value="Withhold" />
-      <item value="Wx Pre Withhold Request" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7306" />
-        <entry key="ENGLISH" value="7305" />
+        <entry key="ENGLISH" value="7306" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658569520707" />
+    <option name="lastTrimTime" value="1659319230195" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
