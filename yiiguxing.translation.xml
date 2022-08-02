@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="default Max Per Route" />
       <item value="boardcast" />
       <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
       <item value="As of v2022.2, all IntelliJ IDEA updates come with JetBrains Runtime 17 (JBR 17), which brings a significant IDE performance improvement, better security, enhanced rendering performance on macOS thanks to the Metal API, and more. Read this blog post for more details." />
@@ -54,12 +55,11 @@
       <item value="FLOW GRADE QPS" />
       <item value="set Grade" />
       <item value="ENTRUST URL GET ERROR" />
-      <item value="Pre Withhold" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7306" />
-        <entry key="ENGLISH" value="7306" />
+        <entry key="ENGLISH" value="7307" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
