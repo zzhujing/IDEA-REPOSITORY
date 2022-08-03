@@ -1,0 +1,101 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="447" />
+    <option name="newTranslationDialogWidth" value="1510" />
+    <option name="newTranslationDialogX" value="2" />
+    <option name="newTranslationDialogY" value="526" />
+    <histories>
+      <item value="default Max Per Route" />
+      <item value="boardcast" />
+      <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
+      <item value="As of v2022.2, all IntelliJ IDEA updates come with JetBrains Runtime 17 (JBR 17), which brings a significant IDE performance improvement, better security, enhanced rendering performance on macOS thanks to the Metal API, and more. Read this blog post for more details." />
+      <item value="em&#10;" />
+      <item value="可用的&#10;" />
+      <item value="ke" />
+      <item value="get Useful Merchant Accounts" />
+      <item value="get Usage Merchant Accounts" />
+      <item value="optional extra field data for entry" />
+      <item value="Returns the extra field data for the entry." />
+      <item value="汇总表计&#10;" />
+      <item value="AGGREGATION TAG" />
+      <item value="IMPORTANT: Please note all entity implementations must ensure that all allocated resources are properly deallocated after the InputStream.close() method is invoked." />
+      <item value="Possibly blocking call in non-blocking context could lead to thread starvation &#10;" />
+      <item value="A contract providing different interaction models for RSocket protocol ." />
+      <item value="contract" />
+      <item value="refactor&#10;" />
+      <item value="We accept useless data after the last block, say, empty lines." />
+      <item value="male" />
+      <item value="female" />
+      <item value="Launcher" />
+      <item value="Activate traceback (assembly marker) for this particular Mono by giving it a description that will be reflected in the assembly traceback in case of an error upstream of the checkpoint" />
+      <item value="Concatenate all sources provided in an Iterable, forwarding elements emitted by the sources downstream. Concatenation is achieved by sequentially subscribing to the first source then waiting for it to complete before subscribing to the next, and so on until the last source completes. Any error interrupts the sequence immediately and is forwarded downstream." />
+      <item value="are subscribed to eagerly" />
+      <item value="interleaved" />
+      <item value="sources are subscribed to eagerly" />
+      <item value="eagerly" />
+      <item value="Transforming Op Demo" />
+      <item value="pull Origin" />
+      <item value="strictly ordered" />
+      <item value="where a buffer size of 1 single-steps, and larger sizes usually allow for more efficient overlapped processing with less communication" />
+      <item value="arrange" />
+      <item value="are not issued unless requested" />
+      <item value="arranges" />
+      <item value="issuing it to the calling Flow.Subscriber" />
+      <item value="Communication relies on a simple form of flow control (method Flow.Subscription.request) that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
+      <item value="correspond" />
+      <item value="Interrelated" />
+      <item value="休息日&#10;" />
+      <item value="xiu xi" />
+      <item value="Constable" />
+      <item value="describe Constable" />
+      <item value="indent" />
+      <item value="Currency Util" />
+      <item value="Deprecated Do not need specify generic value, judge by injection type and interface class" />
+      <item value="ensure start module, compatible with old api usage" />
+      <item value="FLOW GRADE QPS" />
+      <item value="set Grade" />
+      <item value="ENTRUST URL GET ERROR" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7306" />
+        <entry key="ENGLISH" value="7307" />
+        <entry key="CHINESE_CLASSICAL" value="1" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="ICELANDIC" value="1" />
+        <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="9" />
+        <entry key="GERMAN" value="11" />
+        <entry key="FRENCH" value="19" />
+        <entry key="FINNISH" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="4" />
+        <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="7" />
+        <entry key="MALAY" value="2" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="9" />
+        <entry key="SWEDISH" value="4" />
+        <entry key="SERBIAN" value="1" />
+        <entry key="SLOVAK" value="5" />
+        <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="13" />
+        <entry key="HUNGARIAN" value="5" />
+        <entry key="ITALIAN" value="6" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1659319230195" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20191101000350914" />
+      </app-key>
+    </option>
+    <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translator" value="BAIDU" />
+  </component>
+</application>
