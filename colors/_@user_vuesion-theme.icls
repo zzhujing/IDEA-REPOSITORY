@@ -4,7 +4,7 @@
     <property name="created">2022-08-03T11:02:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-08T10:07:59</property>
+    <property name="modified">2022-08-08T10:32:54</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -25,20 +25,20 @@
     <option name="FILESTATUS_ADDED" value="40bf77" />
     <option name="FILESTATUS_UNKNOWN" value="f9846c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="d8ecfe" />
-    <option name="GUTTER_BACKGROUND" value="202831" />
+    <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="303a45" />
     <option name="INFORMATION_HINT" value="303a45" />
     <option name="LINE_NUMBERS_COLOR" value="55616c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c9cbcf" />
     <option name="MODIFIED_LINES_COLOR" value="55616c" />
-    <option name="NOTIFICATION_BACKGROUND" value="434e5b" />
+    <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="QUESTION_HINT" value="303a45" />
     <option name="RECENT_LOCATIONS_SELECTION" value="303a45" />
     <option name="RIGHT_MARGIN_COLOR" value="434e5b" />
     <option name="SELECTED_INDENT_GUIDE" value="6f7a86" />
-    <option name="SELECTION_BACKGROUND" value="9ca2aa" />
-    <option name="SELECTION_FOREGROUND" value="6ca5e3" />
-    <option name="TEARLINE_COLOR" value="303a45" />
+    <option name="SELECTION_BACKGROUND" value="434e5b" />
+    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="TEARLINE_COLOR" value="" />
     <option name="TOOLTIP" value="303a45" />
     <option name="WHITESPACES" value="6f7a86" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="55616c" />
@@ -1069,7 +1069,7 @@
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="15171a" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="3d8beb" />
       </value>
     </option>

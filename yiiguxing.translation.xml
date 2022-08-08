@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="gutter background&#10;" />
       <item value="tear line&#10;" />
       <item value="foreground&#10;" />
       <item value="early" />
@@ -54,12 +55,11 @@
       <item value="arrange" />
       <item value="are not issued unless requested" />
       <item value="arranges" />
-      <item value="issuing it to the calling Flow.Subscriber" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7334" />
-        <entry key="ENGLISH" value="7331" />
+        <entry key="CHINESE" value="7341" />
+        <entry key="ENGLISH" value="7337" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
