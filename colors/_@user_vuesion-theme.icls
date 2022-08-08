@@ -4,7 +4,7 @@
     <property name="created">2022-08-03T11:02:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-08T09:33:50</property>
+    <property name="modified">2022-08-08T10:07:59</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1056,6 +1056,11 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="15171a" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="55616c" />
@@ -1064,7 +1069,7 @@
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="ececee" />
+        <option name="FOREGROUND" value="15171a" />
         <option name="BACKGROUND" value="3d8beb" />
       </value>
     </option>
