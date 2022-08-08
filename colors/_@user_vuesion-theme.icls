@@ -4,7 +4,7 @@
     <property name="created">2022-08-03T11:02:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-08T10:32:54</property>
+    <property name="modified">2022-08-08T10:51:33</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -21,7 +21,7 @@
     <option name="DELETED_LINES_COLOR" value="303a45" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="303a45" />
     <option name="DOCUMENTATION_COLOR" value="303a45" />
-    <option name="ERROR_HINT" value="770600" />
+    <option name="ERROR_HINT" value="5b434c" />
     <option name="FILESTATUS_ADDED" value="40bf77" />
     <option name="FILESTATUS_UNKNOWN" value="f9846c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="d8ecfe" />
@@ -33,7 +33,7 @@
     <option name="MODIFIED_LINES_COLOR" value="55616c" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="QUESTION_HINT" value="303a45" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="303a45" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="434e5b" />
     <option name="RIGHT_MARGIN_COLOR" value="434e5b" />
     <option name="SELECTED_INDENT_GUIDE" value="6f7a86" />
     <option name="SELECTION_BACKGROUND" value="434e5b" />
@@ -570,7 +570,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f43b6c" />
+        <option name="FOREGROUND" value="202831" />
         <option name="EFFECT_COLOR" value="f43b6c" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -1248,7 +1248,7 @@
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="770600" />
+        <option name="BACKGROUND" value="202831" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -3004,7 +3004,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ececee" />
+        <option name="FOREGROUND" value="202831" />
         <option name="BACKGROUND" value="202831" />
         <option name="EFFECT_COLOR" value="d8ecfe" />
       </value>
