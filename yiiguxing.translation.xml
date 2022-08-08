@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="startAngle&#10;" />
       <item value="失去焦点&#10;" />
       <item value="gutter background&#10;" />
       <item value="tear line&#10;" />
@@ -54,11 +55,10 @@
       <item value="strictly ordered" />
       <item value="where a buffer size of 1 single-steps, and larger sizes usually allow for more efficient overlapped processing with less communication" />
       <item value="arrange" />
-      <item value="are not issued unless requested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7346" />
+        <entry key="CHINESE" value="7347" />
         <entry key="ENGLISH" value="7342" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
