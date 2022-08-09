@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="stroke Style" />
       <item value="default Max Per Route" />
       <item value="boardcast" />
       <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
@@ -54,12 +55,11 @@
       <item value="ensure start module, compatible with old api usage" />
       <item value="FLOW GRADE QPS" />
       <item value="set Grade" />
-      <item value="ENTRUST URL GET ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7306" />
-        <entry key="ENGLISH" value="7307" />
+        <entry key="CHINESE" value="7307" />
+        <entry key="ENGLISH" value="7308" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659319230195" />
+    <option name="lastTrimTime" value="1660008227461" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
