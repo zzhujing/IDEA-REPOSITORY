@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="vertical-align" />
       <item value="aria-label" />
       <item value="stroke Style" />
       <item value="fill Rect" />
@@ -54,12 +55,11 @@
       <item value="describe Constable" />
       <item value="indent" />
       <item value="Currency Util" />
-      <item value="Deprecated Do not need specify generic value, judge by injection type and interface class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7310" />
-        <entry key="ENGLISH" value="7311" />
+        <entry key="CHINESE" value="7311" />
+        <entry key="ENGLISH" value="7312" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
