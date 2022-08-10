@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="abbr" />
       <item value="vertical-align" />
       <item value="aria-label" />
       <item value="stroke Style" />
@@ -54,11 +55,10 @@
       <item value="Constable" />
       <item value="describe Constable" />
       <item value="indent" />
-      <item value="Currency Util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7311" />
+        <entry key="CHINESE" value="7312" />
         <entry key="ENGLISH" value="7312" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="11" />
         <entry key="FRENCH" value="19" />
-        <entry key="FINNISH" value="1" />
+        <entry key="FINNISH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="4" />
         <entry key="KURDISH" value="1" />
