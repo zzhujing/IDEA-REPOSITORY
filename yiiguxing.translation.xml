@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="meter&#10;" />
+      <item value="progress&#10;" />
       <item value="abbr" />
       <item value="vertical-align" />
       <item value="aria-label" />
@@ -53,12 +55,10 @@
       <item value="休息日&#10;" />
       <item value="xiu xi" />
       <item value="Constable" />
-      <item value="describe Constable" />
-      <item value="indent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7312" />
+        <entry key="CHINESE" value="7314" />
         <entry key="ENGLISH" value="7312" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
