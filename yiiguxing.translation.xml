@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="ESCAPE" />
       <item value="External Gateway" />
       <item value="startAngle&#10;" />
       <item value="失去焦点&#10;" />
@@ -54,12 +55,11 @@
       <item value="Transforming Op Demo" />
       <item value="pull Origin" />
       <item value="strictly ordered" />
-      <item value="where a buffer size of 1 single-steps, and larger sizes usually allow for more efficient overlapped processing with less communication" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7347" />
-        <entry key="ENGLISH" value="7343" />
+        <entry key="ENGLISH" value="7344" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
