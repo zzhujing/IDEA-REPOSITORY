@@ -3,22 +3,18 @@
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="logd" value="log.debug(&quot;【$className$#$METHOD_NAME$()】: $DESC$&quot;,$END$);" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="loge" value="log.error(&quot;【$className$#$METHOD_NAME$()】: $DESC$&quot;,$END$);" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="logt" value="private static final String TAG = &quot;$className$&quot;;" description="A static logtag with your current classname" toReformat="true" toShortenFQNames="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
