@@ -4,7 +4,7 @@
     <property name="created">2018-08-11T22:01:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2022-08-08T10:59:03</property>
+    <property name="modified">2022-08-15T19:47:17</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -52,6 +52,13 @@
         <option name="BACKGROUND" value="202831" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="bb84b7" />
@@ -61,13 +68,6 @@
       <value>
         <option name="FOREGROUND" value="79f3ff" />
         <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="202831" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">

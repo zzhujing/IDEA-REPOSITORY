@@ -1,18 +1,41 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1510" />
+    <option name="newTranslationDialogWidth" value="1502" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="meter&#10;" />
-      <item value="progress&#10;" />
-      <item value="abbr" />
-      <item value="vertical-align" />
-      <item value="aria-label" />
-      <item value="stroke Style" />
-      <item value="fill Rect" />
-      <item value="navigator" />
+      <item value="end Border Color" />
+      <item value="marketing&#10;" />
+      <item value="marke" />
+      <item value="营销中心&#10;" />
+      <item value="触达计划&#10;" />
+      <item value="chud" />
+      <item value="touchplan" />
+      <item value="touch_plan" />
+      <item value="渠道&#10;" />
+      <item value="get Goods Group Tv Od" />
+      <item value="frequency" />
+      <item value="disjoint" />
+      <item value="ESCAPE" />
+      <item value="External Gateway" />
+      <item value="startAngle&#10;" />
+      <item value="失去焦点&#10;" />
+      <item value="gutter background&#10;" />
+      <item value="tear line&#10;" />
+      <item value="foreground&#10;" />
+      <item value="early" />
+      <item value="ear" />
+      <item value="point&#10;" />
+      <item value="appoint&#10;" />
+      <item value="special" />
+      <item value="speci" />
+      <item value="指定&#10;" />
+      <item value="指定的&#10;" />
+      <item value="get Specifical" />
+      <item value="Adjusts the specified temporal object to have the same date and time as this object" />
+      <item value="Create the request retry handler with a retry count of 3, requestSentRetryEnabled false and using the following list of non-retriable IOException classes" />
+      <item value="request Sent Retry Enabled" />
       <item value="default Max Per Route" />
       <item value="boardcast" />
       <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
@@ -32,34 +55,11 @@
       <item value="contract" />
       <item value="refactor&#10;" />
       <item value="We accept useless data after the last block, say, empty lines." />
-      <item value="male" />
-      <item value="female" />
-      <item value="Launcher" />
-      <item value="Activate traceback (assembly marker) for this particular Mono by giving it a description that will be reflected in the assembly traceback in case of an error upstream of the checkpoint" />
-      <item value="Concatenate all sources provided in an Iterable, forwarding elements emitted by the sources downstream. Concatenation is achieved by sequentially subscribing to the first source then waiting for it to complete before subscribing to the next, and so on until the last source completes. Any error interrupts the sequence immediately and is forwarded downstream." />
-      <item value="are subscribed to eagerly" />
-      <item value="interleaved" />
-      <item value="sources are subscribed to eagerly" />
-      <item value="eagerly" />
-      <item value="Transforming Op Demo" />
-      <item value="pull Origin" />
-      <item value="strictly ordered" />
-      <item value="where a buffer size of 1 single-steps, and larger sizes usually allow for more efficient overlapped processing with less communication" />
-      <item value="arrange" />
-      <item value="are not issued unless requested" />
-      <item value="arranges" />
-      <item value="issuing it to the calling Flow.Subscriber" />
-      <item value="Communication relies on a simple form of flow control (method Flow.Subscription.request) that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
-      <item value="correspond" />
-      <item value="Interrelated" />
-      <item value="休息日&#10;" />
-      <item value="xiu xi" />
-      <item value="Constable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7314" />
-        <entry key="ENGLISH" value="7312" />
+        <entry key="CHINESE" value="7383" />
+        <entry key="ENGLISH" value="7383" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -68,7 +68,7 @@
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="11" />
         <entry key="FRENCH" value="19" />
-        <entry key="FINNISH" value="2" />
+        <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="4" />
         <entry key="KURDISH" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660008227461" />
+    <option name="lastTrimTime" value="1660544029586" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
