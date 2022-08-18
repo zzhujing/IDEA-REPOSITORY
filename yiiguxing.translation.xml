@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="save Rela" />
       <item value="主次&#10;" />
       <item value="zhuci " />
       <item value="secondary&#10;" />
@@ -54,12 +55,11 @@
       <item value="em&#10;" />
       <item value="可用的&#10;" />
       <item value="ke" />
-      <item value="get Useful Merchant Accounts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7442" />
-        <entry key="ENGLISH" value="7439" />
+        <entry key="ENGLISH" value="7440" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
