@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="partition By Wait Or Stay" />
       <item value="Plan Selection Co" />
       <item value="selection&#10;" />
       <item value="section&#10;" />
@@ -54,12 +55,11 @@
       <item value="Create the request retry handler with a retry count of 3, requestSentRetryEnabled false and using the following list of non-retriable IOException classes" />
       <item value="request Sent Retry Enabled" />
       <item value="default Max Per Route" />
-      <item value="boardcast" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7445" />
-        <entry key="ENGLISH" value="7445" />
+        <entry key="ENGLISH" value="7446" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
