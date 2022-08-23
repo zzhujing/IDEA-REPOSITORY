@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="disjoint" />
       <item value="true if the count reached zero and false if the waiting time elapsed before the count reached zero" />
       <item value="children&#10;" />
       <item value="child" />
@@ -40,7 +41,6 @@
       <item value="渠道&#10;" />
       <item value="get Goods Group Tv Od" />
       <item value="frequency" />
-      <item value="disjoint" />
       <item value="ESCAPE" />
       <item value="External Gateway" />
       <item value="startAngle&#10;" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7449" />
-        <entry key="ENGLISH" value="7450" />
+        <entry key="CHINESE" value="7450" />
+        <entry key="ENGLISH" value="7451" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="2" />
