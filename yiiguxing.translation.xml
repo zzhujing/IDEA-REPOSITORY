@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="true if the count reached zero and false if the waiting time elapsed before the count reached zero" />
       <item value="children&#10;" />
       <item value="child" />
       <item value="childs" />
@@ -54,12 +55,11 @@
       <item value="special" />
       <item value="speci" />
       <item value="指定&#10;" />
-      <item value="指定的&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7449" />
-        <entry key="ENGLISH" value="7449" />
+        <entry key="ENGLISH" value="7450" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="2" />
