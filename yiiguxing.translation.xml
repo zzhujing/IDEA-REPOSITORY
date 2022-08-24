@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="CONVENTIONAL" />
+      <item value="CONVENTION" />
+      <item value="常规的&#10;" />
+      <item value="常规&#10;" />
+      <item value="NORMAL" />
+      <item value="meet Limits" />
+      <item value="满足限制&#10;" />
       <item value="persist" />
       <item value="Polymorphic Type Validator" />
       <item value="is Accurate User" />
@@ -48,18 +55,11 @@
       <item value="External Gateway" />
       <item value="startAngle&#10;" />
       <item value="失去焦点&#10;" />
-      <item value="gutter background&#10;" />
-      <item value="tear line&#10;" />
-      <item value="foreground&#10;" />
-      <item value="early" />
-      <item value="ear" />
-      <item value="point&#10;" />
-      <item value="appoint&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7453" />
-        <entry key="ENGLISH" value="7454" />
+        <entry key="CHINESE" value="7471" />
+        <entry key="ENGLISH" value="7472" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="2" />
