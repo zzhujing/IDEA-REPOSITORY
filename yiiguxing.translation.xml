@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="The blockHandler is located in the same class with the original method by default" />
+      <item value="intend to" />
       <item value="Occupy" />
       <item value="Occupy Support" />
       <item value="Debug Support" />
@@ -53,13 +55,11 @@
       <item value="营销中心&#10;" />
       <item value="触达计划&#10;" />
       <item value="chud" />
-      <item value="touchplan" />
-      <item value="touch_plan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7484" />
-        <entry key="ENGLISH" value="7485" />
+        <entry key="CHINESE" value="7486" />
+        <entry key="ENGLISH" value="7487" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="2" />
