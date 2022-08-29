@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="filter Empty And Sort Then Group By Plan Id" />
       <item value="expire&#10;" />
       <item value="An instantaneous point on the time-line." />
       <item value="CONVENTIONAL" />
@@ -54,12 +55,11 @@
       <item value="get Goods Group Tv Od" />
       <item value="frequency" />
       <item value="ESCAPE" />
-      <item value="External Gateway" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7479" />
-        <entry key="ENGLISH" value="7479" />
+        <entry key="ENGLISH" value="7480" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="2" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661131423639" />
+    <option name="lastTrimTime" value="1661735870331" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
