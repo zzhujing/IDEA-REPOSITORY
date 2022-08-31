@@ -110,7 +110,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="FindInPath" />
   <action id="FindNext" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -121,6 +120,7 @@
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="Git.Reword.Commit" />
+  <action id="GotoCustomRegion" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -143,6 +143,10 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="meta alt period" />
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="Jdbc.OpenEditor" />
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
@@ -163,11 +167,8 @@
   <action id="QuickActionPopup" />
   <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename" />
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
