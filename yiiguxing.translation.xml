@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="not eligible for auto-proxying" />
       <item value="匿名&#10;" />
       <item value="additivity" />
       <item value="dead Line Epoch Second" />
@@ -54,12 +55,11 @@
       <item value="弹窗&#10;" />
       <item value="end Border Color" />
       <item value="marketing&#10;" />
-      <item value="marke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7502" />
-        <entry key="ENGLISH" value="7503" />
+        <entry key="CHINESE" value="7503" />
+        <entry key="ENGLISH" value="7504" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="2" />
