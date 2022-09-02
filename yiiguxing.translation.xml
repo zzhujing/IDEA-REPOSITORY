@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="泡茶&#10;" />
+      <item value="boil water" />
+      <item value="烧水&#10;" />
+      <item value="wash Box And Tea Fill In" />
+      <item value="洗&#10;" />
+      <item value="xi" />
       <item value="navigator" />
       <item value="handwriting" />
       <item value="end Border Color" />
@@ -49,17 +55,11 @@
       <item value="get Usage Merchant Accounts" />
       <item value="optional extra field data for entry" />
       <item value="Returns the extra field data for the entry." />
-      <item value="汇总表计&#10;" />
-      <item value="AGGREGATION TAG" />
-      <item value="IMPORTANT: Please note all entity implementations must ensure that all allocated resources are properly deallocated after the InputStream.close() method is invoked." />
-      <item value="Possibly blocking call in non-blocking context could lead to thread starvation &#10;" />
-      <item value="A contract providing different interaction models for RSocket protocol ." />
-      <item value="contract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7384" />
-        <entry key="ENGLISH" value="7385" />
+        <entry key="CHINESE" value="7403" />
+        <entry key="ENGLISH" value="7404" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661351358236" />
+    <option name="lastTrimTime" value="1662088364621" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
