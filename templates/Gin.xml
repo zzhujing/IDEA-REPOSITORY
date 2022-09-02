@@ -1,0 +1,8 @@
+<templateSet group="Gin">
+  <template name="gin" value="r:=gin.Default()&#10;    $END$&#10;r.Run(&quot;$ADDR$&quot;)" description="gin http服务模版" toReformat="false" toShortenFQNames="true">
+    <variable name="ADDR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>
