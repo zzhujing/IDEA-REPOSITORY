@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="get Cluster Universal State" />
       <item value="Infinity" />
       <item value="泡茶&#10;" />
       <item value="boil water" />
@@ -54,12 +55,11 @@
       <item value="ke" />
       <item value="get Useful Merchant Accounts" />
       <item value="get Usage Merchant Accounts" />
-      <item value="optional extra field data for entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7404" />
-        <entry key="ENGLISH" value="7405" />
+        <entry key="CHINESE" value="7405" />
+        <entry key="ENGLISH" value="7406" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
