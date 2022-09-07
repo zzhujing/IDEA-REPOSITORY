@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1502" />
+    <option name="newTranslationDialogWidth" value="1500" />
     <option name="newTranslationDialogX" value="2" />
-    <option name="newTranslationDialogY" value="526" />
+    <option name="newTranslationDialogY" value="504" />
     <histories>
+      <item value="放大镜&#10;" />
+      <item value="渲染&#10;" />
       <item value="he {@link NullContext} indicates that the amount of context has exceeded the threshold, so here init the entry only. No rule checking will be done." />
       <item value="get Cluster Universal State" />
       <item value="Infinity" />
@@ -53,13 +55,11 @@
       <item value="As of v2022.2, all IntelliJ IDEA updates come with JetBrains Runtime 17 (JBR 17), which brings a significant IDE performance improvement, better security, enhanced rendering performance on macOS thanks to the Metal API, and more. Read this blog post for more details." />
       <item value="em&#10;" />
       <item value="可用的&#10;" />
-      <item value="ke" />
-      <item value="get Useful Merchant Accounts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7406" />
-        <entry key="ENGLISH" value="7407" />
+        <entry key="CHINESE" value="7434" />
+        <entry key="ENGLISH" value="7435" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
