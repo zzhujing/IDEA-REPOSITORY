@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="vulnerable&#10;" />
       <item value="Earlier initialize heart-beat when the spring container starts when the transport dependency is on classpath, the configuration is effective." />
       <item value="This has no effect on collections and maps as these types are automatically identified." />
       <item value="Indicates that a field in a {@link ConfigurationProperties @ConfigurationProperties} object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the {@code spring-boot-configuration-processor} as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested." />
@@ -54,11 +55,10 @@
       <item value="default Max Per Route" />
       <item value="boardcast" />
       <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
-      <item value="As of v2022.2, all IntelliJ IDEA updates come with JetBrains Runtime 17 (JBR 17), which brings a significant IDE performance improvement, better security, enhanced rendering performance on macOS thanks to the Metal API, and more. Read this blog post for more details." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7411" />
+        <entry key="CHINESE" value="7412" />
         <entry key="ENGLISH" value="7412" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
