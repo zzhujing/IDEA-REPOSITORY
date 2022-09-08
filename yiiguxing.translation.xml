@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="SERVER ERROR" />
       <item value="he {@link NullContext} indicates that the amount of context has exceeded the threshold, so here init the entry only. No rule checking will be done." />
       <item value="get Cluster Universal State" />
       <item value="Infinity" />
@@ -54,12 +55,11 @@
       <item value="em&#10;" />
       <item value="可用的&#10;" />
       <item value="ke" />
-      <item value="get Useful Merchant Accounts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7406" />
-        <entry key="ENGLISH" value="7407" />
+        <entry key="CHINESE" value="7407" />
+        <entry key="ENGLISH" value="7408" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
