@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="This method will only be called on successful remote rpc execution, that means, the service in on remote received the request and the result (normal or exceptional) returned successfully." />
       <item value="vulnerable&#10;" />
       <item value="Earlier initialize heart-beat when the spring container starts when the transport dependency is on classpath, the configuration is effective." />
       <item value="This has no effect on collections and maps as these types are automatically identified." />
@@ -54,12 +55,11 @@
       <item value="request Sent Retry Enabled" />
       <item value="default Max Per Route" />
       <item value="boardcast" />
-      <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7412" />
-        <entry key="ENGLISH" value="7412" />
+        <entry key="ENGLISH" value="7413" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
