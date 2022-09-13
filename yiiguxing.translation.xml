@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="504" />
     <histories>
+      <item value="nowrap" />
+      <item value="white-space" />
       <item value="放大镜&#10;" />
       <item value="渲染&#10;" />
       <item value="he {@link NullContext} indicates that the amount of context has exceeded the threshold, so here init the entry only. No rule checking will be done." />
@@ -53,13 +55,11 @@
       <item value="boardcast" />
       <item value="Assigns maximum total connection value. Please note this value can be overridden by the setConnectionManager(HttpClientConnectionManager) method." />
       <item value="As of v2022.2, all IntelliJ IDEA updates come with JetBrains Runtime 17 (JBR 17), which brings a significant IDE performance improvement, better security, enhanced rendering performance on macOS thanks to the Metal API, and more. Read this blog post for more details." />
-      <item value="em&#10;" />
-      <item value="可用的&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7434" />
-        <entry key="ENGLISH" value="7435" />
+        <entry key="CHINESE" value="7436" />
+        <entry key="ENGLISH" value="7437" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662530909218" />
+    <option name="lastTrimTime" value="1663084474432" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
