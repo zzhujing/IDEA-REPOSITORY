@@ -5,8 +5,17 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="If a lambda expression is provided as the mapper function argument, additional type information may be necessary for proper inference of the element type &lt;R&gt; of the returned stream. This can be provided in the form of explicit type declarations for the lambda parameters or as an explicit type argument to the mapMulti call. Examples Given a stream of Number objects, the following produces a list containing only the Integer objects:" />
       <item value="When it is easier to use an imperative approach for generating result elements than it is to return them in the form of a Stream." />
+      <item value="imperative approach for generating result" />
+      <item value="Using this method avoids the overhead of creating a new Stream instance for every group of result elements, as required by flatMap" />
+      <item value="Using this method avoids the overhead of creating a new Stream" />
+      <item value="When replacing each stream element with a small (possibly zero) number of elements" />
+      <item value="This method is preferable to flatMap in the following circumstances" />
+      <item value="s preferable to flatMap" />
+      <item value="preferable" />
+      <item value="spine" />
+      <item value="Abstract Spined Buffer" />
+      <item value="If a lambda expression is provided as the mapper function argument, additional type information may be necessary for proper inference of the element type &lt;R&gt; of the returned stream. This can be provided in the form of explicit type declarations for the lambda parameters or as an explicit type argument to the mapMulti call. Examples Given a stream of Number objects, the following produces a list containing only the Integer objects:" />
       <item value="When replacing each stream element with a small (possibly zero) number of elements. Using this method avoids the overhead of creating a new Stream instance for every group of result elements, as required by flatMap." />
       <item value="This method is preferable to flatMap in the following circumstances:" />
       <item value="consisting of" />
@@ -46,20 +55,11 @@
       <item value="it is possible to write a custom mapping based on session state, cookie state or many other variables." />
       <item value="No other MVC framework seems to be equally flexible." />
       <item value="optionally accompanied by" />
-      <item value="accompanied" />
-      <item value="scenario" />
-      <item value="cause" />
-      <item value="This method will only be called on successful remote rpc execution, that means, the service in on remote received the request and the result (normal or exceptional) returned successfully." />
-      <item value="vulnerable&#10;" />
-      <item value="Earlier initialize heart-beat when the spring container starts when the transport dependency is on classpath, the configuration is effective." />
-      <item value="This has no effect on collections and maps as these types are automatically identified." />
-      <item value="Indicates that a field in a {@link ConfigurationProperties @ConfigurationProperties} object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the {@code spring-boot-configuration-processor} as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested." />
-      <item value="SERVER ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7456" />
-        <entry key="ENGLISH" value="7457" />
+        <entry key="CHINESE" value="7466" />
+        <entry key="ENGLISH" value="7467" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
