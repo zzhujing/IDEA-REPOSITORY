@@ -5,6 +5,32 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="rules out" />
+      <item value="unpredictable or erroneous" />
+      <item value="unpredictable" />
+      <item value="designed" />
+      <item value="if the provided stream operations do not offer the desired functionality" />
+      <item value="if the provided stream operations do not offer the desired functionality, the iterator() and spliterator() operations can be used to perform a controlled traversal." />
+      <item value="desired functionality" />
+      <item value="and are instead concerned with declaratively describing their source and the computational operations" />
+      <item value="manipulate" />
+      <item value="Collections are primarily concerned with the efficient management of, and access to, their elements" />
+      <item value="while bearing some superficial similarities" />
+      <item value="and source elements are consumed only as needed." />
+      <item value="which produces a result or side-effect" />
+      <item value="side-effect" />
+      <item value="zero or more intermediate operations (which transform a stream into another stream, such as filter(Predicate))" />
+      <item value="consists of a source" />
+      <item value="composed" />
+      <item value="all of which are referred to as &quot;streams&quot; and conform to the characteristics and restrictions described here." />
+      <item value="restrictions" />
+      <item value="conform to" />
+      <item value="referred to as" />
+      <item value="there are primitive specializations for" />
+      <item value="primitive specializations" />
+      <item value="spliterator" />
+      <item value="which governs the behavior of all stream types." />
+      <item value="governs" />
       <item value="widgets" />
       <item value="illustrates" />
       <item value="which are sequences of" />
@@ -29,37 +55,11 @@
       <item value="Infinity" />
       <item value="泡茶&#10;" />
       <item value="boil water" />
-      <item value="烧水&#10;" />
-      <item value="wash Box And Tea Fill In" />
-      <item value="洗&#10;" />
-      <item value="xi" />
-      <item value="navigator" />
-      <item value="handwriting" />
-      <item value="end Border Color" />
-      <item value="marketing&#10;" />
-      <item value="marke" />
-      <item value="营销中心&#10;" />
-      <item value="触达计划&#10;" />
-      <item value="chud" />
-      <item value="touchplan" />
-      <item value="touch_plan" />
-      <item value="渠道&#10;" />
-      <item value="get Goods Group Tv Od" />
-      <item value="frequency" />
-      <item value="disjoint" />
-      <item value="ESCAPE" />
-      <item value="External Gateway" />
-      <item value="startAngle&#10;" />
-      <item value="失去焦点&#10;" />
-      <item value="gutter background&#10;" />
-      <item value="tear line&#10;" />
-      <item value="foreground&#10;" />
-      <item value="early" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7425" />
-        <entry key="ENGLISH" value="7426" />
+        <entry key="CHINESE" value="7451" />
+        <entry key="ENGLISH" value="7452" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -74,7 +74,7 @@
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="9" />
         <entry key="SWEDISH" value="4" />
         <entry key="SERBIAN" value="1" />
