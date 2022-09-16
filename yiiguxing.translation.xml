@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="separate connection" />
       <item value="Maximum queue length for incoming connection requests when all possible request processing threads are in use" />
       <item value="truncated" />
       <item value="Caller Runs Policy" />
@@ -54,12 +55,11 @@
       <item value="which are sequences of" />
       <item value="In contrast to org.springframework.util.AntPathMatcher, is supported only at the end of a pattern. For example pages{} is valid but pages{}details is not. The same applies also to the capturing variant {spring}. The aim is to eliminate ambiguity when comparing patterns for specificity. Examples" />
       <item value="eliminate" />
-      <item value="In contrast to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7470" />
-        <entry key="ENGLISH" value="7471" />
+        <entry key="CHINESE" value="7471" />
+        <entry key="ENGLISH" value="7472" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
