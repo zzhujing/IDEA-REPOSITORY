@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Similar to AppenderBase except that derived appenders need to handle thread synchronization on their" />
+      <item value="prudent" />
       <item value="ramp up&#10;" />
       <item value="separate connection" />
       <item value="Maximum queue length for incoming connection requests when all possible request processing threads are in use" />
@@ -53,13 +55,11 @@
       <item value="governs" />
       <item value="widgets" />
       <item value="illustrates" />
-      <item value="which are sequences of" />
-      <item value="In contrast to org.springframework.util.AntPathMatcher, is supported only at the end of a pattern. For example pages{} is valid but pages{}details is not. The same applies also to the capturing variant {spring}. The aim is to eliminate ambiguity when comparing patterns for specificity. Examples" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7472" />
-        <entry key="ENGLISH" value="7472" />
+        <entry key="CHINESE" value="7474" />
+        <entry key="ENGLISH" value="7475" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
