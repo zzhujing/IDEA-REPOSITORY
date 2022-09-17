@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="apply Pre Process" />
       <item value="Dispatch the request to the container in order to resume processing after concurrent execution in" />
       <item value="An async scenario starts with request processing as usual in a thread (T1). Concurrent request handling can be initiated by calling startCallableProcessing or startDeferredResultProcessing, both of which produce a result in a separate thread (T2). The result is saved and the request dispatched to the container, to resume processing with the saved result in a third thread (T3). Within the dispatched thread (T3), the saved result can be accessed via getConcurrentResult() or its presence detected via hasConcurrentResult()." />
       <item value="mainly intended as an SPI" />
@@ -54,12 +55,11 @@
       <item value="restrictions" />
       <item value="conform to" />
       <item value="referred to as" />
-      <item value="there are primitive specializations for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7480" />
-        <entry key="ENGLISH" value="7481" />
+        <entry key="CHINESE" value="7481" />
+        <entry key="ENGLISH" value="7482" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
