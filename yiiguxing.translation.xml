@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="An async scenario starts with request processing as usual in a thread (T1). Concurrent request handling can be initiated by calling startCallableProcessing or startDeferredResultProcessing, both of which produce a result in a separate thread (T2). The result is saved and the request dispatched to the container, to resume processing with the saved result in a third thread (T3). Within the dispatched thread (T3), the saved result can be accessed via getConcurrentResult() or its presence detected via hasConcurrentResult()." />
+      <item value="mainly intended as an SPI" />
+      <item value="intended" />
       <item value="If included via a RequestDispatcher, the current resource will see the originating request. Its own request URI is exposed as a request attribute" />
       <item value="Checks the presence" />
       <item value="Similar to AppenderBase except that derived appenders need to handle thread synchronization on their" />
@@ -52,14 +55,11 @@
       <item value="referred to as" />
       <item value="there are primitive specializations for" />
       <item value="primitive specializations" />
-      <item value="spliterator" />
-      <item value="which governs the behavior of all stream types." />
-      <item value="governs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7476" />
-        <entry key="ENGLISH" value="7477" />
+        <entry key="CHINESE" value="7479" />
+        <entry key="ENGLISH" value="7480" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
