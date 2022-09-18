@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="交集&#10;" />
+      <item value="冲突" />
       <item value="买赠&#10;" />
       <item value="Set the time required for concurrent handling to complete. This property should not be set when concurrent handling is in progress, i.e. when isAsyncStarted() is true." />
       <item value="apply Pre Process" />
@@ -53,13 +55,11 @@
       <item value="zero or more intermediate operations (which transform a stream into another stream, such as filter(Predicate))" />
       <item value="consists of a source" />
       <item value="composed" />
-      <item value="all of which are referred to as &quot;streams&quot; and conform to the characteristics and restrictions described here." />
-      <item value="restrictions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7489" />
-        <entry key="ENGLISH" value="7490" />
+        <entry key="CHINESE" value="7506" />
+        <entry key="ENGLISH" value="7507" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
