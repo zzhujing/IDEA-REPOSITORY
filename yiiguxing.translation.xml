@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="period" />
+      <item value="simultaneously" />
       <item value="Defines an object that receives requests from the client and sends them to any resource (such as a servlet, HTML file, or JSP file) on the server. The servlet container creates the RequestDispatcher object, which is used as a wrapper around a server resource located at a particular path or given by a particular name. This interface is intended to wrap servlets, but a servlet container can create RequestDispatcher objects to wrap any type of resource." />
       <item value="gift Page Status Reset" />
       <item value="gift Page Status Review" />
@@ -53,13 +55,11 @@
       <item value="manipulate" />
       <item value="Collections are primarily concerned with the efficient management of, and access to, their elements" />
       <item value="while bearing some superficial similarities" />
-      <item value="and source elements are consumed only as needed." />
-      <item value="which produces a result or side-effect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7510" />
-        <entry key="ENGLISH" value="7511" />
+        <entry key="CHINESE" value="7512" />
+        <entry key="ENGLISH" value="7512" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
