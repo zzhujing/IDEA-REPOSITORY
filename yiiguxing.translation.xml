@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="gift Page Status Reset" />
+      <item value="gift Page Status Review" />
+      <item value="Gift Page Status Re Check Event" />
       <item value="交集&#10;" />
       <item value="冲突" />
       <item value="买赠&#10;" />
@@ -52,14 +55,11 @@
       <item value="and source elements are consumed only as needed." />
       <item value="which produces a result or side-effect" />
       <item value="side-effect" />
-      <item value="zero or more intermediate operations (which transform a stream into another stream, such as filter(Predicate))" />
-      <item value="consists of a source" />
-      <item value="composed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7506" />
-        <entry key="ENGLISH" value="7507" />
+        <entry key="CHINESE" value="7509" />
+        <entry key="ENGLISH" value="7510" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
