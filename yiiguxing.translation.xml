@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="handoff Queue" />
       <item value="Shallow Etag Header Filter" />
       <item value="but guaranteed to be just invoked once per request within a single" />
       <item value="Standard Host" />
@@ -54,12 +55,11 @@
       <item value="consisting of" />
       <item value="rules out" />
       <item value="unpredictable or erroneous" />
-      <item value="unpredictable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7519" />
-        <entry key="ENGLISH" value="7520" />
+        <entry key="CHINESE" value="7520" />
+        <entry key="ENGLISH" value="7521" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
