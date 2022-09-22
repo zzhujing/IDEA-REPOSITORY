@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Deprecated get extension loader from extension director of some module." />
       <item value="handoff Queue" />
       <item value="Shallow Etag Header Filter" />
       <item value="but guaranteed to be just invoked once per request within a single" />
@@ -54,12 +55,11 @@
       <item value="This method is preferable to flatMap in the following circumstances:" />
       <item value="consisting of" />
       <item value="rules out" />
-      <item value="unpredictable or erroneous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7520" />
-        <entry key="ENGLISH" value="7521" />
+        <entry key="CHINESE" value="7521" />
+        <entry key="ENGLISH" value="7522" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
