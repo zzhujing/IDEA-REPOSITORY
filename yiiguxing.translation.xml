@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Waits until there is a task, executes the task and all queued tasks (if there're any). The task is either a normal response or a timeout response." />
+      <item value="wait And Drain" />
       <item value="No such extension org.apache.dubbo.common.threadpool.ThreadPool by name ConsumerThreadPool, no related exception was found, please check whether related SPI module is missing." />
       <item value="threadpool" />
       <item value="refer-thread-num" />
@@ -53,13 +55,11 @@
       <item value="s preferable to flatMap" />
       <item value="preferable" />
       <item value="spine" />
-      <item value="Abstract Spined Buffer" />
-      <item value="If a lambda expression is provided as the mapper function argument, additional type information may be necessary for proper inference of the element type &lt;R&gt; of the returned stream. This can be provided in the form of explicit type declarations for the lambda parameters or as an explicit type argument to the mapMulti call. Examples Given a stream of Number objects, the following produces a list containing only the Integer objects:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7525" />
-        <entry key="ENGLISH" value="7526" />
+        <entry key="CHINESE" value="7527" />
+        <entry key="ENGLISH" value="7528" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663501419313" />
+    <option name="lastTrimTime" value="1663941556282" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
