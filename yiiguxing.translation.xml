@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="No such extension org.apache.dubbo.common.threadpool.ThreadPool by name ConsumerThreadPool, no related exception was found, please check whether related SPI module is missing." />
       <item value="threadpool" />
       <item value="refer-thread-num" />
       <item value="This generic filter base class has no dependency on the Spring org.springframework.context.ApplicationContext concept. Filters usually don't load their own context but rather access service beans from the Spring root application context, accessible via the filter's ServletContext (see org.springframework.web.context.support.WebApplicationContextUtils)." />
@@ -54,12 +55,11 @@
       <item value="spine" />
       <item value="Abstract Spined Buffer" />
       <item value="If a lambda expression is provided as the mapper function argument, additional type information may be necessary for proper inference of the element type &lt;R&gt; of the returned stream. This can be provided in the form of explicit type declarations for the lambda parameters or as an explicit type argument to the mapMulti call. Examples Given a stream of Number objects, the following produces a list containing only the Integer objects:" />
-      <item value="When replacing each stream element with a small (possibly zero) number of elements. Using this method avoids the overhead of creating a new Stream instance for every group of result elements, as required by flatMap." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7524" />
-        <entry key="ENGLISH" value="7525" />
+        <entry key="CHINESE" value="7525" />
+        <entry key="ENGLISH" value="7526" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
