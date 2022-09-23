@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="This generic filter base class has no dependency on the Spring org.springframework.context.ApplicationContext concept. Filters usually don't load their own context but rather access service beans from the Spring root application context, accessible via the filter's ServletContext (see org.springframework.web.context.support.WebApplicationContextUtils)." />
       <item value="Deprecated get extension loader from extension director of some module." />
       <item value="handoff Queue" />
       <item value="Shallow Etag Header Filter" />
@@ -54,12 +55,11 @@
       <item value="When replacing each stream element with a small (possibly zero) number of elements. Using this method avoids the overhead of creating a new Stream instance for every group of result elements, as required by flatMap." />
       <item value="This method is preferable to flatMap in the following circumstances:" />
       <item value="consisting of" />
-      <item value="rules out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7521" />
-        <entry key="ENGLISH" value="7522" />
+        <entry key="CHINESE" value="7522" />
+        <entry key="ENGLISH" value="7523" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
