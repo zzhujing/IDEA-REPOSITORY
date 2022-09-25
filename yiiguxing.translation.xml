@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="characteristics" />
       <item value="External Executor based thread pool." />
       <item value="Waits until there is a task, executes the task and all queued tasks (if there're any). The task is either a normal response or a timeout response." />
       <item value="wait And Drain" />
@@ -54,12 +55,11 @@
       <item value="When replacing each stream element with a small (possibly zero) number of elements" />
       <item value="This method is preferable to flatMap in the following circumstances" />
       <item value="s preferable to flatMap" />
-      <item value="preferable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7528" />
-        <entry key="ENGLISH" value="7529" />
+        <entry key="CHINESE" value="7529" />
+        <entry key="ENGLISH" value="7530" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
