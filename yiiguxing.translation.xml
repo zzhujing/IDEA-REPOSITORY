@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Eager" />
+      <item value="Eager Thread Pool Executor" />
       <item value="Provides transitive vulnerable dependency org.apache.logging.log4j:log4j-core:2.17.0" />
       <item value="characteristics" />
       <item value="External Executor based thread pool." />
@@ -53,13 +55,11 @@
       <item value="imperative approach for generating result" />
       <item value="Using this method avoids the overhead of creating a new Stream instance for every group of result elements, as required by flatMap" />
       <item value="Using this method avoids the overhead of creating a new Stream" />
-      <item value="When replacing each stream element with a small (possibly zero) number of elements" />
-      <item value="This method is preferable to flatMap in the following circumstances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7530" />
-        <entry key="ENGLISH" value="7530" />
+        <entry key="CHINESE" value="7531" />
+        <entry key="ENGLISH" value="7532" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
