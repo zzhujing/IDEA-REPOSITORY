@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="lookup Registered Provider Urls Without Group" />
+      <item value="m Broken" />
       <item value="Protocol can continue to export and refer new service even after it's destroyed." />
       <item value="Release all occupied resources, for example: connection, port, etc." />
       <item value="Eager" />
@@ -53,13 +55,11 @@
       <item value="truncated" />
       <item value="Caller Runs Policy" />
       <item value="teeing" />
-      <item value="When it is easier to use an imperative approach for generating result elements than it is to return them in the form of a Stream." />
-      <item value="imperative approach for generating result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7533" />
-        <entry key="ENGLISH" value="7534" />
+        <entry key="CHINESE" value="7535" />
+        <entry key="ENGLISH" value="7536" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
