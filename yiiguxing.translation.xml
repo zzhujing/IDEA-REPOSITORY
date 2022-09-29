@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="qos-accept-foreign-ip" />
       <item value="lookup Registered Provider Urls Without Group" />
       <item value="m Broken" />
       <item value="Protocol can continue to export and refer new service even after it's destroyed." />
@@ -54,12 +55,11 @@
       <item value="Maximum queue length for incoming connection requests when all possible request processing threads are in use" />
       <item value="truncated" />
       <item value="Caller Runs Policy" />
-      <item value="teeing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7535" />
-        <entry key="ENGLISH" value="7536" />
+        <entry key="CHINESE" value="7536" />
+        <entry key="ENGLISH" value="7537" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663941556282" />
+    <option name="lastTrimTime" value="1664432857065" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
