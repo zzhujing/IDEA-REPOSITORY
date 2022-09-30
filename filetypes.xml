@@ -11,6 +11,7 @@
       <mapping ext="tdump" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="urlstreamhandlerprovider" type="PLAIN_TEXT" />
