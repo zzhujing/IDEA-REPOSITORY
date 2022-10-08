@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1492" />
+    <option name="newTranslationDialogWidth" value="1486" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="进行&#10;" />
+      <item value="进行状态&#10;" />
+      <item value="process_state&#10;" />
+      <item value="Shipment" />
+      <item value="发货状态&#10;" />
+      <item value="deliver_goods&#10;&#10;" />
+      <item value="deliver_gods&#10;" />
+      <item value="deliver&#10;" />
+      <item value="发货&#10;" />
+      <item value="fahuo" />
       <item value="累计天数&#10;" />
       <item value="累计" />
       <item value="签到&#10;" />
@@ -45,21 +55,11 @@
       <item value="Waits until there is a task, executes the task and all queued tasks (if there're any). The task is either a normal response or a timeout response." />
       <item value="wait And Drain" />
       <item value="No such extension org.apache.dubbo.common.threadpool.ThreadPool by name ConsumerThreadPool, no related exception was found, please check whether related SPI module is missing." />
-      <item value="threadpool" />
-      <item value="refer-thread-num" />
-      <item value="This generic filter base class has no dependency on the Spring org.springframework.context.ApplicationContext concept. Filters usually don't load their own context but rather access service beans from the Spring root application context, accessible via the filter's ServletContext (see org.springframework.web.context.support.WebApplicationContextUtils)." />
-      <item value="Deprecated get extension loader from extension director of some module." />
-      <item value="handoff Queue" />
-      <item value="Shallow Etag Header Filter" />
-      <item value="but guaranteed to be just invoked once per request within a single" />
-      <item value="Standard Host" />
-      <item value="otherwise" />
-      <item value="with the result of the given function of the exception triggering this CompletableFuture's completion when it completes exceptionally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7670" />
-        <entry key="ENGLISH" value="7666" />
+        <entry key="CHINESE" value="7710" />
+        <entry key="ENGLISH" value="7704" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
