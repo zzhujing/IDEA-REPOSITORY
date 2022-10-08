@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="消耗的库存&#10;" />
+      <item value="consume&#10;" />
+      <item value="消耗&#10;" />
       <item value="lottery&#10;" />
       <item value="抽中&#10;" />
       <item value="未中奖&#10;" />
@@ -52,14 +55,11 @@
       <item value="An async scenario starts with request processing as usual in a thread (T1). Concurrent request handling can be initiated by calling startCallableProcessing or startDeferredResultProcessing, both of which produce a result in a separate thread (T2). The result is saved and the request dispatched to the container, to resume processing with the saved result in a third thread (T3). Within the dispatched thread (T3), the saved result can be accessed via getConcurrentResult() or its presence detected via hasConcurrentResult()." />
       <item value="mainly intended as an SPI" />
       <item value="intended" />
-      <item value="If included via a RequestDispatcher, the current resource will see the originating request. Its own request URI is exposed as a request attribute" />
-      <item value="Checks the presence" />
-      <item value="Similar to AppenderBase except that derived appenders need to handle thread synchronization on their" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7575" />
-        <entry key="ENGLISH" value="7575" />
+        <entry key="CHINESE" value="7591" />
+        <entry key="ENGLISH" value="7591" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
