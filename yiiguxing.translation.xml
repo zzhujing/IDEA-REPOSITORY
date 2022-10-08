@@ -1,10 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1498" />
+    <option name="newTranslationDialogWidth" value="1496" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="推广活动&#10;" />
+      <item value="推广&#10;" />
+      <item value="promotion&#10;" />
+      <item value="推广地址&#10;" />
+      <item value="lottery_chance&#10;" />
+      <item value="lottery_chan" />
+      <item value="receiver&#10;" />
+      <item value="receive&#10;" />
+      <item value="物流&#10;" />
+      <item value="merchantNo&#10;" />
+      <item value="mrechant_no&#10;" />
       <item value="消耗的库存&#10;" />
       <item value="consume&#10;" />
       <item value="消耗&#10;" />
@@ -44,22 +55,11 @@
       <item value="simultaneously" />
       <item value="Defines an object that receives requests from the client and sends them to any resource (such as a servlet, HTML file, or JSP file) on the server. The servlet container creates the RequestDispatcher object, which is used as a wrapper around a server resource located at a particular path or given by a particular name. This interface is intended to wrap servlets, but a servlet container can create RequestDispatcher objects to wrap any type of resource." />
       <item value="gift Page Status Reset" />
-      <item value="gift Page Status Review" />
-      <item value="Gift Page Status Re Check Event" />
-      <item value="交集&#10;" />
-      <item value="冲突" />
-      <item value="买赠&#10;" />
-      <item value="Set the time required for concurrent handling to complete. This property should not be set when concurrent handling is in progress, i.e. when isAsyncStarted() is true." />
-      <item value="apply Pre Process" />
-      <item value="Dispatch the request to the container in order to resume processing after concurrent execution in" />
-      <item value="An async scenario starts with request processing as usual in a thread (T1). Concurrent request handling can be initiated by calling startCallableProcessing or startDeferredResultProcessing, both of which produce a result in a separate thread (T2). The result is saved and the request dispatched to the container, to resume processing with the saved result in a third thread (T3). Within the dispatched thread (T3), the saved result can be accessed via getConcurrentResult() or its presence detected via hasConcurrentResult()." />
-      <item value="mainly intended as an SPI" />
-      <item value="intended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7591" />
-        <entry key="ENGLISH" value="7591" />
+        <entry key="CHINESE" value="7636" />
+        <entry key="ENGLISH" value="7632" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
