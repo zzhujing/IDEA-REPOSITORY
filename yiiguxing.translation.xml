@@ -1,12 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1496" />
+    <option name="newTranslationDialogWidth" value="1492" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="推广活动&#10;" />
+      <item value="累计天数&#10;" />
+      <item value="累计" />
+      <item value="签到&#10;" />
+      <item value="sign&#10;" />
       <item value="推广&#10;" />
+      <item value="sponsored links&#10;" />
+      <item value="promote links&#10;" />
+      <item value="sponsored" />
+      <item value="推广活动&#10;" />
       <item value="promotion&#10;" />
       <item value="推广地址&#10;" />
       <item value="lottery_chance&#10;" />
@@ -48,18 +55,11 @@
       <item value="Standard Host" />
       <item value="otherwise" />
       <item value="with the result of the given function of the exception triggering this CompletableFuture's completion when it completes exceptionally" />
-      <item value="Returns a new CompletableFuture that is completed when this CompletableFuture completes, with the result of the given function of the exception triggering this CompletableFuture's completion when it completes exceptionally; otherwise, if this CompletableFuture completes normally, then the returned CompletableFuture also completes normally with the same value" />
-      <item value="Returns a new CompletionStage that, when either this or the other given stage complete normally" />
-      <item value="apply To Either" />
-      <item value="period" />
-      <item value="simultaneously" />
-      <item value="Defines an object that receives requests from the client and sends them to any resource (such as a servlet, HTML file, or JSP file) on the server. The servlet container creates the RequestDispatcher object, which is used as a wrapper around a server resource located at a particular path or given by a particular name. This interface is intended to wrap servlets, but a servlet container can create RequestDispatcher objects to wrap any type of resource." />
-      <item value="gift Page Status Reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7636" />
-        <entry key="ENGLISH" value="7632" />
+        <entry key="CHINESE" value="7670" />
+        <entry key="ENGLISH" value="7666" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
