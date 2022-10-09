@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="The default value of defaultBufferSize may provide a useful starting point for choosing request sizes and capacities in Flow components based on expected rates, resources, and usages. Or, when flow control is never needed, a subscriber may initially request an effectively unbounded number of items, as in:" />
+      <item value="The default value of defaultBufferSize may provide a useful starting point for choosing request sizes and capacities in Flow components based on expected rates, resources, and usages" />
+      <item value="where a buffer size of 1 single-steps" />
+      <item value="A Flow.Subscriber arranges that items be requested and processed. Items (invocations of Flow.Subscriber.onNext) are not issued unless requested" />
+      <item value="not issued" />
+      <item value="arranges" />
       <item value="that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
       <item value="Communication relies on a simple form of flow control (method Flow.Subscription.request) that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
       <item value="All (seven) methods are defined in void &quot;one-way&quot; message style." />
@@ -49,17 +55,11 @@
       <item value="库存&#10;" />
       <item value="reward&#10;" />
       <item value="Returns the current number of threads in the pool." />
-      <item value="qos-accept-foreign-ip" />
-      <item value="lookup Registered Provider Urls Without Group" />
-      <item value="m Broken" />
-      <item value="Protocol can continue to export and refer new service even after it's destroyed." />
-      <item value="Release all occupied resources, for example: connection, port, etc." />
-      <item value="Eager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7726" />
-        <entry key="ENGLISH" value="7727" />
+        <entry key="CHINESE" value="7732" />
+        <entry key="ENGLISH" value="7733" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
