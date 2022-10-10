@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Because users tend to forget to request the subsciption. If the behavior is really needed, consider using subscribeWith(Subscriber). To be removed in 3.5." />
       <item value="The recommended way to learn about the Flux API and discover new operators is through the reference documentation, rather than through this javadoc (as opposed to learning more about individual operators). See the &quot;which operator do I need?&quot; appendix ." />
       <item value="The default value of defaultBufferSize may provide a useful starting point for choosing request sizes and capacities in Flow components based on expected rates, resources, and usages. Or, when flow control is never needed, a subscriber may initially request an effectively unbounded number of items, as in:" />
       <item value="The default value of defaultBufferSize may provide a useful starting point for choosing request sizes and capacities in Flow components based on expected rates, resources, and usages" />
@@ -54,12 +55,11 @@
       <item value="抽中&#10;" />
       <item value="未中奖&#10;" />
       <item value="库存&#10;" />
-      <item value="reward&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7733" />
-        <entry key="ENGLISH" value="7734" />
+        <entry key="CHINESE" value="7734" />
+        <entry key="ENGLISH" value="7735" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
