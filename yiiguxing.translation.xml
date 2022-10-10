@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Serializes calls to onNext, onError and onComplete." />
       <item value="requesting a replenishing amount when 75% of the prefetch amount has been emitted." />
       <item value="prefetch-and-replenish" />
       <item value="Furthermore" />
@@ -54,11 +55,10 @@
       <item value="receive&#10;" />
       <item value="物流&#10;" />
       <item value="merchantNo&#10;" />
-      <item value="mrechant_no&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7741" />
+        <entry key="CHINESE" value="7742" />
         <entry key="ENGLISH" value="7742" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -70,7 +70,7 @@
         <entry key="FRENCH" value="19" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="4" />
+        <entry key="CATALAN" value="5" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="2" />
