@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Furthermore" />
       <item value="This Flux factory is useful if one wants to adapt some other multi-valued async API and not worry about cancellation and backpressure (which is handled by buffering all signals if the downstream can't keep up)" />
       <item value="Fuseable" />
       <item value="To be used by custom operators: invokes assembly Hooks pointcut given a Flux, potentially returning a new Flux. This is for example useful to activate cross-cutting concerns at assembly time, eg. a generalized checkpoint()." />
@@ -54,12 +55,11 @@
       <item value="mrechant_no&#10;" />
       <item value="消耗的库存&#10;" />
       <item value="consume&#10;" />
-      <item value="消耗&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7738" />
-        <entry key="ENGLISH" value="7739" />
+        <entry key="CHINESE" value="7739" />
+        <entry key="ENGLISH" value="7740" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
