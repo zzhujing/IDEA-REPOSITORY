@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="requesting a replenishing amount when 75% of the prefetch amount has been emitted." />
+      <item value="prefetch-and-replenish" />
       <item value="Furthermore" />
       <item value="This Flux factory is useful if one wants to adapt some other multi-valued async API and not worry about cancellation and backpressure (which is handled by buffering all signals if the downstream can't keep up)" />
       <item value="Fuseable" />
@@ -53,13 +55,11 @@
       <item value="物流&#10;" />
       <item value="merchantNo&#10;" />
       <item value="mrechant_no&#10;" />
-      <item value="消耗的库存&#10;" />
-      <item value="consume&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7739" />
-        <entry key="ENGLISH" value="7740" />
+        <entry key="CHINESE" value="7741" />
+        <entry key="ENGLISH" value="7742" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
