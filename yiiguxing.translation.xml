@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="transient Errors" />
       <item value="burst&#10;" />
       <item value="indefinitely" />
       <item value="elapsed" />
@@ -54,12 +55,11 @@
       <item value="推广地址&#10;" />
       <item value="lottery_chance&#10;" />
       <item value="lottery_chan" />
-      <item value="receiver&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7744" />
-        <entry key="ENGLISH" value="7744" />
+        <entry key="ENGLISH" value="7745" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
