@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="调整&#10;" />
       <item value="数量&#10;" />
       <item value="verify Lottery Time Overlapping" />
       <item value="交叉&#10;" />
@@ -54,12 +55,11 @@
       <item value="deliver&#10;" />
       <item value="发货&#10;" />
       <item value="fahuo" />
-      <item value="累计天数&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7768" />
-        <entry key="ENGLISH" value="7769" />
+        <entry key="CHINESE" value="7777" />
+        <entry key="ENGLISH" value="7778" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
