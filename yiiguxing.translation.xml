@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="verify Lottery Time Overlapping" />
+      <item value="交叉&#10;" />
       <item value="this sink honors downstream demand of the Subscriber, and will emit Subscriber.onError(Throwable) if there is a mismatch." />
       <item value="the lowest demand in case of multiple subscribers." />
       <item value="replay" />
@@ -53,13 +55,11 @@
       <item value="fahuo" />
       <item value="累计天数&#10;" />
       <item value="累计" />
-      <item value="sign&#10;" />
-      <item value="推广&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7752" />
-        <entry key="ENGLISH" value="7753" />
+        <entry key="CHINESE" value="7760" />
+        <entry key="ENGLISH" value="7761" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
