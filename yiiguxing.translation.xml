@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="new Array List With Expected Size" />
       <item value="scale" />
       <item value="usage Rate" />
       <item value="调整&#10;" />
@@ -54,12 +55,11 @@
       <item value="发货状态&#10;" />
       <item value="deliver_goods&#10;&#10;" />
       <item value="deliver_gods&#10;" />
-      <item value="deliver&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7779" />
-        <entry key="ENGLISH" value="7780" />
+        <entry key="CHINESE" value="7780" />
+        <entry key="ENGLISH" value="7781" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
