@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1484" />
+    <option name="newTranslationDialogWidth" value="1482" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="shipment_state&#10;" />
       <item value="deliver" />
       <item value="发货&#10;" />
       <item value="Returns a stream consisting of the results of replacing each element of this stream with multiple elements" />
@@ -54,11 +55,10 @@
       <item value="not issued" />
       <item value="arranges" />
       <item value="that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
-      <item value="Communication relies on a simple form of flow control (method Flow.Subscription.request) that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7813" />
+        <entry key="CHINESE" value="7814" />
         <entry key="ENGLISH" value="7814" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
