@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Returns a stream consisting of the results of replacing each element of this stream with multiple elements" />
+      <item value="consisting of the results of" />
       <item value="ACTUAL" />
       <item value="material object" />
       <item value="实物&#10;" />
@@ -53,13 +55,11 @@
       <item value="Communication relies on a simple form of flow control (method Flow.Subscription.request) that can be used to avoid resource management problems that may otherwise occur in &quot;push&quot; based systems." />
       <item value="All (seven) methods are defined in void &quot;one-way&quot; message style." />
       <item value="correspond" />
-      <item value="Publishers produce items consumed by one or more Subscribers, each managed by a Subscription." />
-      <item value="Interrelated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7803" />
-        <entry key="ENGLISH" value="7804" />
+        <entry key="CHINESE" value="7805" />
+        <entry key="ENGLISH" value="7806" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
