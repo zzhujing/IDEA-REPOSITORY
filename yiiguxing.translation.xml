@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="use contrast scrollbars" />
+      <item value="use contrast scrollbras&#10;" />
+      <item value="use contrast scro" />
+      <item value="use con" />
       <item value="new Array List With Expected Size" />
       <item value="scale" />
       <item value="usage Rate" />
@@ -51,14 +55,10 @@
       <item value="进行&#10;" />
       <item value="进行状态&#10;" />
       <item value="process_state&#10;" />
-      <item value="Shipment" />
-      <item value="发货状态&#10;" />
-      <item value="deliver_goods&#10;&#10;" />
-      <item value="deliver_gods&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7780" />
+        <entry key="CHINESE" value="7781" />
         <entry key="ENGLISH" value="7781" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665194662583" />
+    <option name="lastTrimTime" value="1665629198783" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
