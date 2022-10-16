@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="but due to queueing of values that would have been interleaved otherwise" />
+      <item value="Generation of inners and subscription: this operator is eagerly subscribing to its inners (like flatMap). Ordering of the flattened values: this operator queues elements from late inners until all elements from earlier inners have been emitted, thus emitting inner sequences as a whole, in an order that matches their source's order. Interleaving: this operator does not let values from different inners interleave (similar looking result to concatMap, but due to queueing of values that would have been interleaved otherwise)." />
+      <item value="Generation of inners and subscription: this operator waits for one inner to complete before generating the next one and subscribing to it. Ordering of the flattened values: this operator naturally preserves the same order as the source elements, concatenating the inners from each source element sequentially. Interleaving: this operator does not let values from different inners interleave (concatenation)." />
+      <item value="There are three dimensions to this operator that can be compared with flatMap and flatMapSequential:" />
       <item value="deferred composition" />
       <item value="exclude Files" />
       <item value="build Histogram" />
@@ -51,15 +55,11 @@
       <item value="Serializes calls to onNext, onError and onComplete." />
       <item value="requesting a replenishing amount when 75% of the prefetch amount has been emitted." />
       <item value="prefetch-and-replenish" />
-      <item value="Furthermore" />
-      <item value="This Flux factory is useful if one wants to adapt some other multi-valued async API and not worry about cancellation and backpressure (which is handled by buffering all signals if the downstream can't keep up)" />
-      <item value="Fuseable" />
-      <item value="To be used by custom operators: invokes assembly Hooks pointcut given a Flux, potentially returning a new Flux. This is for example useful to activate cross-cutting concerns at assembly time, eg. a generalized checkpoint()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7850" />
-        <entry key="ENGLISH" value="7851" />
+        <entry key="CHINESE" value="7854" />
+        <entry key="ENGLISH" value="7855" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
