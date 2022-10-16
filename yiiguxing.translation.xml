@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="When Open signal is strictly not overlapping Close signal" />
+      <item value="strictly" />
+      <item value="controlled by items of a start Publisher and end Publisher derived from the start values" />
       <item value="Split this Flux sequence into potentially overlapping windows" />
       <item value="prefetch Rate" />
       <item value="Split this Flux sequence into potentially overlapping windows controlled by items of a start Publisher and end Publisher derived from the start values. When Open signal is strictly not overlapping Close signal : dropping windows When Open signal is strictly more frequent than Close signal : overlapping windows When Open signal is exactly coordinated with Close signal : exact windows" />
@@ -52,14 +55,11 @@
       <item value="Replaying" />
       <item value="notify the caller with Sinks.EmitResult.FAIL_OVERFLOW if any of the subscribers cannot process an element, failing fast and backing off from emitting the element at all (all or nothing). From the perspective of subscribers, data is dropped and never seen but they are not terminated." />
       <item value="direct Best Effort" />
-      <item value="unicast" />
-      <item value="broadcast" />
-      <item value="transient Errors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7860" />
-        <entry key="ENGLISH" value="7861" />
+        <entry key="CHINESE" value="7863" />
+        <entry key="ENGLISH" value="7864" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
