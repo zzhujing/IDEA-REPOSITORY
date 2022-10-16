@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Split this Flux sequence into potentially overlapping windows controlled by items of a start Publisher and end Publisher derived from the start values. When Open signal is strictly not overlapping Close signal : dropping windows When Open signal is strictly more frequent than Close signal : overlapping windows When Open signal is exactly coordinated with Close signal : exact windows" />
+      <item value="Split this Flux sequence into potentially overlapping windows controlled by items of a start Publisher and end Publisher derived from the start values." />
+      <item value="Split this Flux sequence into multiple Flux windows delimited by the given predicate. A new window is opened each time the predicate returns true, at which point the previous window will receive the triggering element then onComplete. Windows are lazily made available downstream at the point where they receive their first event (an element is pushed, the window errors). This variant shouldn't expose empty windows, as the separators are emitted into the windows they close." />
+      <item value="at which point the previous window will receive the triggering element then onComplete." />
       <item value="but due to queueing of values that would have been interleaved otherwise" />
       <item value="Generation of inners and subscription: this operator is eagerly subscribing to its inners (like flatMap). Ordering of the flattened values: this operator queues elements from late inners until all elements from earlier inners have been emitted, thus emitting inner sequences as a whole, in an order that matches their source's order. Interleaving: this operator does not let values from different inners interleave (similar looking result to concatMap, but due to queueing of values that would have been interleaved otherwise)." />
       <item value="Generation of inners and subscription: this operator waits for one inner to complete before generating the next one and subscribing to it. Ordering of the flattened values: this operator naturally preserves the same order as the source elements, concatenating the inners from each source element sequentially. Interleaving: this operator does not let values from different inners interleave (concatenation)." />
@@ -51,15 +55,11 @@
       <item value="transient Errors" />
       <item value="burst&#10;" />
       <item value="indefinitely" />
-      <item value="elapsed" />
-      <item value="Serializes calls to onNext, onError and onComplete." />
-      <item value="requesting a replenishing amount when 75% of the prefetch amount has been emitted." />
-      <item value="prefetch-and-replenish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7854" />
-        <entry key="ENGLISH" value="7855" />
+        <entry key="CHINESE" value="7858" />
+        <entry key="ENGLISH" value="7859" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
