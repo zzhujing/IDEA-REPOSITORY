@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Split this Flux sequence into potentially overlapping windows" />
       <item value="prefetch Rate" />
       <item value="Split this Flux sequence into potentially overlapping windows controlled by items of a start Publisher and end Publisher derived from the start values. When Open signal is strictly not overlapping Close signal : dropping windows When Open signal is strictly more frequent than Close signal : overlapping windows When Open signal is exactly coordinated with Close signal : exact windows" />
       <item value="Split this Flux sequence into potentially overlapping windows controlled by items of a start Publisher and end Publisher derived from the start values." />
@@ -54,12 +55,11 @@
       <item value="unicast" />
       <item value="broadcast" />
       <item value="transient Errors" />
-      <item value="burst&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7859" />
-        <entry key="ENGLISH" value="7860" />
+        <entry key="CHINESE" value="7860" />
+        <entry key="ENGLISH" value="7861" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
