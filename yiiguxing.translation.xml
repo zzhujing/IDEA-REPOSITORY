@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="verify Activity Time Overlapping" />
       <item value="场景&#10;" />
       <item value="sence" />
       <item value="When Open signal is strictly not overlapping Close signal" />
@@ -54,12 +55,11 @@
       <item value="this sink honors downstream demand of the Subscriber, and will emit Subscriber.onError(Throwable) if there is a mismatch." />
       <item value="the lowest demand in case of multiple subscribers." />
       <item value="replay" />
-      <item value="Replaying" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7873" />
-        <entry key="ENGLISH" value="7874" />
+        <entry key="CHINESE" value="7874" />
+        <entry key="ENGLISH" value="7875" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
