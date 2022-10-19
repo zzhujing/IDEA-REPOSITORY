@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="TODO Expect 3600 elements at intervals of 1 second, and verify quicker than 3600s" />
+      <item value="Expect 10 elements then complete and notice how long the test takes." />
       <item value="This operator requests the source for an unbounded amount, but doesn't request each generated Publisher unless the downstream has made a corresponding request (no prefetch of inner publishers)." />
       <item value="effectively behaving like the fastest of these competing sources." />
       <item value="replay" />
@@ -53,13 +55,11 @@
       <item value="use contrast scrollbars" />
       <item value="use contrast scrollbras&#10;" />
       <item value="use contrast scro" />
-      <item value="use con" />
-      <item value="new Array List With Expected Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7887" />
-        <entry key="ENGLISH" value="7888" />
+        <entry key="CHINESE" value="7889" />
+        <entry key="ENGLISH" value="7890" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
