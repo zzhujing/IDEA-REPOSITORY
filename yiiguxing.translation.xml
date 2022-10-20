@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="trivially" />
       <item value="Adds &quot;textevent-stream&quot; content-type for Server-Sent Events" />
       <item value="demand" />
       <item value="Interleave" />
@@ -54,12 +55,11 @@
       <item value="consisting of the results of" />
       <item value="ACTUAL" />
       <item value="material object" />
-      <item value="实物&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7894" />
-        <entry key="ENGLISH" value="7895" />
+        <entry key="CHINESE" value="7895" />
+        <entry key="ENGLISH" value="7896" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
