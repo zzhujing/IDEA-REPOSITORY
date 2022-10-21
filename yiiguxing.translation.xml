@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="领取&#10;" />
       <item value="Disable auto memory release on each buffer published, retaining in order to prevent premature recycling when buffers are accumulated downstream" />
       <item value="retain" />
       <item value="Returns the contents of the file item as a String, using the default character encoding. Returns: the contents of the file item as a String, using the default character encoding. Throws: IOException" />
@@ -54,12 +55,11 @@
       <item value="shipment_state&#10;" />
       <item value="deliver" />
       <item value="发货&#10;" />
-      <item value="Returns a stream consisting of the results of replacing each element of this stream with multiple elements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7898" />
-        <entry key="ENGLISH" value="7899" />
+        <entry key="CHINESE" value="7904" />
+        <entry key="ENGLISH" value="7905" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
