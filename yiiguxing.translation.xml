@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="retrieve" />
       <item value="mutate&#10;" />
       <item value="asset&#10;" />
       <item value="Exchange" />
@@ -54,12 +55,11 @@
       <item value="100&#10;" />
       <item value="签到&#10;" />
       <item value="SignIn&#10;" />
-      <item value="sign In Pie Chart" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7919" />
-        <entry key="ENGLISH" value="7918" />
+        <entry key="ENGLISH" value="7919" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
