@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1480" />
+    <option name="newTranslationDialogWidth" value="1478" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="article&#10;" />
+      <item value="blog_article" />
+      <item value="博客&#10;" />
+      <item value="博客" />
+      <item value="文章&#10;" />
+      <item value="post&#10;" />
       <item value="retrieve" />
       <item value="mutate&#10;" />
       <item value="asset&#10;" />
@@ -49,17 +55,11 @@
       <item value="Generation of inners and subscription: this operator waits for one inner to complete before generating the next one and subscribing to it. Ordering of the flattened values: this operator naturally preserves the same order as the source elements, concatenating the inners from each source element sequentially. Interleaving: this operator does not let values from different inners interleave (concatenation)." />
       <item value="There are three dimensions to this operator that can be compared with flatMap and flatMapSequential:" />
       <item value="deferred composition" />
-      <item value="exclude Files" />
-      <item value="build Histogram" />
-      <item value="one Hundred" />
-      <item value="100&#10;" />
-      <item value="签到&#10;" />
-      <item value="SignIn&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7919" />
-        <entry key="ENGLISH" value="7919" />
+        <entry key="CHINESE" value="7935" />
+        <entry key="ENGLISH" value="7934" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
