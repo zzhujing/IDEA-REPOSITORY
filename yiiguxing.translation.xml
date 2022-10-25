@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="评论&#10;" />
       <item value="article&#10;" />
       <item value="blog_article" />
       <item value="博客&#10;" />
@@ -54,12 +55,11 @@
       <item value="Generation of inners and subscription: this operator is eagerly subscribing to its inners (like flatMap). Ordering of the flattened values: this operator queues elements from late inners until all elements from earlier inners have been emitted, thus emitting inner sequences as a whole, in an order that matches their source's order. Interleaving: this operator does not let values from different inners interleave (similar looking result to concatMap, but due to queueing of values that would have been interleaved otherwise)." />
       <item value="Generation of inners and subscription: this operator waits for one inner to complete before generating the next one and subscribing to it. Ordering of the flattened values: this operator naturally preserves the same order as the source elements, concatenating the inners from each source element sequentially. Interleaving: this operator does not let values from different inners interleave (concatenation)." />
       <item value="There are three dimensions to this operator that can be compared with flatMap and flatMapSequential:" />
-      <item value="deferred composition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7935" />
-        <entry key="ENGLISH" value="7934" />
+        <entry key="CHINESE" value="7942" />
+        <entry key="ENGLISH" value="7941" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
