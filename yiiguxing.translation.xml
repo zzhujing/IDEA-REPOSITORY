@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="504" />
     <histories>
+      <item value="transparent" />
+      <item value="opacity" />
       <item value="debounce" />
       <item value="ESLint: Component name &quot;Article&quot; should always be multi-word.(vue/multi-word-component-names)&#10;" />
       <item value="transition" />
@@ -53,13 +55,11 @@
       <item value="指定&#10;" />
       <item value="指定的&#10;" />
       <item value="get Specifical" />
-      <item value="Adjusts the specified temporal object to have the same date and time as this object" />
-      <item value="Create the request retry handler with a retry count of 3, requestSentRetryEnabled false and using the following list of non-retriable IOException classes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7448" />
-        <entry key="ENGLISH" value="7448" />
+        <entry key="CHINESE" value="7449" />
+        <entry key="ENGLISH" value="7450" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
