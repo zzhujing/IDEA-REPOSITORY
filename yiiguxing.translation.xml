@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="One of the constants on Jackson's PropertyNamingStrategies. Can also be a fully-qualified class name of a PropertyNamingStrategy implementation." />
+      <item value="fully-qualified" />
+      <item value="qualified" />
+      <item value="allow Credentials" />
       <item value="悦耳的&#10;" />
       <item value="code review&#10;" />
       <item value="review&#10;" />
@@ -51,15 +55,11 @@
       <item value="sence" />
       <item value="When Open signal is strictly not overlapping Close signal" />
       <item value="strictly" />
-      <item value="controlled by items of a start Publisher and end Publisher derived from the start values" />
-      <item value="Split this Flux sequence into potentially overlapping windows" />
-      <item value="prefetch Rate" />
-      <item value="Split this Flux sequence into potentially overlapping windows controlled by items of a start Publisher and end Publisher derived from the start values. When Open signal is strictly not overlapping Close signal : dropping windows When Open signal is strictly more frequent than Close signal : overlapping windows When Open signal is exactly coordinated with Close signal : exact windows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7960" />
-        <entry key="ENGLISH" value="7958" />
+        <entry key="CHINESE" value="7963" />
+        <entry key="ENGLISH" value="7964" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666593510927" />
+    <option name="lastTrimTime" value="1667050566082" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
