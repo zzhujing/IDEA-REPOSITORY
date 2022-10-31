@@ -1,65 +1,65 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1498" />
+    <option name="newTranslationDialogWidth" value="1478" />
     <option name="newTranslationDialogX" value="2" />
-    <option name="newTranslationDialogY" value="504" />
+    <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="transparent" />
-      <item value="opacity" />
-      <item value="debounce" />
-      <item value="ESLint: Component name &quot;Article&quot; should always be multi-word.(vue/multi-word-component-names)&#10;" />
-      <item value="transition" />
-      <item value="缩率&#10;" />
-      <item value="缩率图&#10;" />
-      <item value="nowrap" />
-      <item value="white-space" />
-      <item value="放大镜&#10;" />
-      <item value="渲染&#10;" />
-      <item value="he {@link NullContext} indicates that the amount of context has exceeded the threshold, so here init the entry only. No rule checking will be done." />
-      <item value="get Cluster Universal State" />
-      <item value="Infinity" />
-      <item value="泡茶&#10;" />
-      <item value="boil water" />
-      <item value="烧水&#10;" />
-      <item value="wash Box And Tea Fill In" />
-      <item value="洗&#10;" />
-      <item value="xi" />
-      <item value="navigator" />
-      <item value="handwriting" />
-      <item value="end Border Color" />
-      <item value="marketing&#10;" />
-      <item value="marke" />
-      <item value="营销中心&#10;" />
-      <item value="触达计划&#10;" />
-      <item value="chud" />
-      <item value="touchplan" />
-      <item value="touch_plan" />
-      <item value="渠道&#10;" />
-      <item value="get Goods Group Tv Od" />
-      <item value="frequency" />
-      <item value="disjoint" />
-      <item value="ESCAPE" />
-      <item value="External Gateway" />
-      <item value="startAngle&#10;" />
-      <item value="失去焦点&#10;" />
-      <item value="gutter background&#10;" />
-      <item value="tear line&#10;" />
-      <item value="foreground&#10;" />
-      <item value="early" />
-      <item value="ear" />
-      <item value="point&#10;" />
-      <item value="appoint&#10;" />
-      <item value="special" />
-      <item value="speci" />
-      <item value="指定&#10;" />
-      <item value="指定的&#10;" />
-      <item value="get Specifical" />
+      <item value="One of the constants on Jackson's PropertyNamingStrategies. Can also be a fully-qualified class name of a PropertyNamingStrategy implementation." />
+      <item value="fully-qualified" />
+      <item value="qualified" />
+      <item value="allow Credentials" />
+      <item value="悦耳的&#10;" />
+      <item value="code review&#10;" />
+      <item value="review&#10;" />
+      <item value="pattern&#10;" />
+      <item value="Flock" />
+      <item value="Thread Flock" />
+      <item value="maintainability" />
+      <item value="评论&#10;" />
+      <item value="article&#10;" />
+      <item value="blog_article" />
+      <item value="博客&#10;" />
+      <item value="博客" />
+      <item value="文章&#10;" />
+      <item value="post&#10;" />
+      <item value="retrieve" />
+      <item value="mutate&#10;" />
+      <item value="asset&#10;" />
+      <item value="Exchange" />
+      <item value="decre" />
+      <item value="incre" />
+      <item value="领取&#10;" />
+      <item value="Disable auto memory release on each buffer published, retaining in order to prevent premature recycling when buffers are accumulated downstream" />
+      <item value="retain" />
+      <item value="Returns the contents of the file item as a String, using the default character encoding. Returns: the contents of the file item as a String, using the default character encoding. Throws: IOException" />
+      <item value="trivially" />
+      <item value="Adds &quot;textevent-stream&quot; content-type for Server-Sent Events" />
+      <item value="demand" />
+      <item value="Interleave" />
+      <item value="Capitalize the user username, firstname and lastname" />
+      <item value="Capitalize" />
+      <item value="TODO Expect 3600 elements at intervals of 1 second, and verify quicker than 3600s" />
+      <item value="Expect 10 elements then complete and notice how long the test takes." />
+      <item value="This operator requests the source for an unbounded amount, but doesn't request each generated Publisher unless the downstream has made a corresponding request (no prefetch of inner publishers)." />
+      <item value="effectively behaving like the fastest of these competing sources." />
+      <item value="replay" />
+      <item value="competing" />
+      <item value="lite" />
+      <item value="non-trampolined worker" />
+      <item value="trampoline" />
+      <item value="repetitions" />
+      <item value="qian ru" />
+      <item value="verify Activity Time Overlapping" />
+      <item value="场景&#10;" />
+      <item value="sence" />
+      <item value="When Open signal is strictly not overlapping Close signal" />
+      <item value="strictly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7449" />
-        <entry key="ENGLISH" value="7450" />
+        <entry key="CHINESE" value="7963" />
+        <entry key="ENGLISH" value="7964" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -70,11 +70,11 @@
         <entry key="FRENCH" value="19" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="4" />
+        <entry key="CATALAN" value="5" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAY" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="9" />
         <entry key="SWEDISH" value="4" />
         <entry key="SERBIAN" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666942402015" />
+    <option name="lastTrimTime" value="1667050566082" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
