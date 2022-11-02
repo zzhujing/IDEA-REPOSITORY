@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1478" />
+    <option name="newTranslationDialogWidth" value="1476" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="promotion Settings" />
+      <item value="二维码&#10;" />
       <item value="remain stock" />
       <item value="One of the constants on Jackson's PropertyNamingStrategies. Can also be a fully-qualified class name of a PropertyNamingStrategy implementation." />
       <item value="fully-qualified" />
@@ -53,13 +55,11 @@
       <item value="qian ru" />
       <item value="verify Activity Time Overlapping" />
       <item value="场景&#10;" />
-      <item value="sence" />
-      <item value="When Open signal is strictly not overlapping Close signal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7964" />
-        <entry key="ENGLISH" value="7965" />
+        <entry key="CHINESE" value="7974" />
+        <entry key="ENGLISH" value="7975" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
