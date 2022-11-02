@@ -6,5 +6,6 @@
     <ignoreAction name="XML/Convert attribute to child element" />
     <ignoreAction name="Java/Modifiers/Change access modifier" />
     <ignoreAction name="Java/Imports/Add on-demand static import" />
+    <ignoreAction name="XML/Remove tag (preserves children)" />
   </component>
 </application>
