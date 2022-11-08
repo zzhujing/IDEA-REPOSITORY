@@ -1,12 +1,43 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="447" />
-    <option name="newTranslationDialogWidth" value="1478" />
+    <option name="newTranslationDialogWidth" value="1470" />
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
-      <item value="accordion" />
-      <item value="introduce&#10;" />
+      <item value="transfer&#10;" />
+      <item value="interaction&#10;" />
+      <item value="be rewarded with" />
+      <item value="be rewar" />
+      <item value="resilient&#10;" />
+      <item value="resilience&#10;" />
+      <item value="resi" />
+      <item value="efficient&#10;" />
+      <item value="effi" />
+      <item value="eff" />
+      <item value="journey&#10;&#10;" />
+      <item value="j" />
+      <item value="embrace&#10;" />
+      <item value="robust&#10;" />
+      <item value="concise&#10;" />
+      <item value="tentpole&#10;xq" />
+      <item value="tentpole&#10;" />
+      <item value="te" />
+      <item value="express&#10;" />
+      <item value="excitement&#10;" />
+      <item value="enthusiasm&#10;" />
+      <item value="enthu" />
+      <item value="When dealing with an infinite source that doesn't already publish on a dedicated Scheduler, you must isolate that source in its own Scheduler, as merge would otherwise attempt to drain it before subscribing to another source." />
+      <item value="eagerly" />
+      <item value="org.springframework.boot:spring-boot-starter-parent:pom:3.0.0-M5 was not found in https:maven.aliyun.comrepositorypublic during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of aliyunmaven has elapsed or updates are forced" />
+      <item value="pageProject&#10;" />
+      <item value="专题&#10;" />
+      <item value="project&#10;" />
+      <item value="reward&#10;" />
+      <item value="prize&#10;" />
+      <item value="promotion Settings" />
+      <item value="二维码&#10;" />
+      <item value="remain stock" />
       <item value="One of the constants on Jackson's PropertyNamingStrategies. Can also be a fully-qualified class name of a PropertyNamingStrategy implementation." />
       <item value="fully-qualified" />
       <item value="qualified" />
@@ -24,42 +55,11 @@
       <item value="博客&#10;" />
       <item value="博客" />
       <item value="文章&#10;" />
-      <item value="post&#10;" />
-      <item value="retrieve" />
-      <item value="mutate&#10;" />
-      <item value="asset&#10;" />
-      <item value="Exchange" />
-      <item value="decre" />
-      <item value="incre" />
-      <item value="领取&#10;" />
-      <item value="Disable auto memory release on each buffer published, retaining in order to prevent premature recycling when buffers are accumulated downstream" />
-      <item value="retain" />
-      <item value="Returns the contents of the file item as a String, using the default character encoding. Returns: the contents of the file item as a String, using the default character encoding. Throws: IOException" />
-      <item value="trivially" />
-      <item value="Adds &quot;textevent-stream&quot; content-type for Server-Sent Events" />
-      <item value="demand" />
-      <item value="Interleave" />
-      <item value="Capitalize the user username, firstname and lastname" />
-      <item value="Capitalize" />
-      <item value="TODO Expect 3600 elements at intervals of 1 second, and verify quicker than 3600s" />
-      <item value="Expect 10 elements then complete and notice how long the test takes." />
-      <item value="This operator requests the source for an unbounded amount, but doesn't request each generated Publisher unless the downstream has made a corresponding request (no prefetch of inner publishers)." />
-      <item value="effectively behaving like the fastest of these competing sources." />
-      <item value="replay" />
-      <item value="competing" />
-      <item value="lite" />
-      <item value="non-trampolined worker" />
-      <item value="trampoline" />
-      <item value="repetitions" />
-      <item value="qian ru" />
-      <item value="verify Activity Time Overlapping" />
-      <item value="场景&#10;" />
-      <item value="sence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7964" />
-        <entry key="ENGLISH" value="7965" />
+        <entry key="CHINESE" value="8041" />
+        <entry key="ENGLISH" value="8039" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667486591300" />
+    <option name="lastTrimTime" value="1667538970920" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
