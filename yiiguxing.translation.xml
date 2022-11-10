@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Approva" />
+      <item value="Approval" />
       <item value="transfer&#10;" />
       <item value="interaction&#10;" />
       <item value="be rewarded with" />
@@ -53,13 +55,11 @@
       <item value="article&#10;" />
       <item value="blog_article" />
       <item value="博客&#10;" />
-      <item value="博客" />
-      <item value="文章&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8041" />
-        <entry key="ENGLISH" value="8039" />
+        <entry key="ENGLISH" value="8040" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -82,12 +82,12 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="13" />
         <entry key="HUNGARIAN" value="5" />
-        <entry key="ITALIAN" value="6" />
+        <entry key="ITALIAN" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667538970920" />
+    <option name="lastTrimTime" value="1668043731992" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
