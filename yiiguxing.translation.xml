@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="drain" />
       <item value="交集&#10;" />
       <item value="interest" />
       <item value="zeus Center Base Url" />
@@ -54,12 +55,11 @@
       <item value="code review&#10;" />
       <item value="review&#10;" />
       <item value="pattern&#10;" />
-      <item value="Flock" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8064" />
-        <entry key="ENGLISH" value="8064" />
+        <entry key="ENGLISH" value="8065" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
