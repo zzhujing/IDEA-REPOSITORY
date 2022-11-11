@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="交集&#10;" />
+      <item value="interest" />
       <item value="zeus Center Base Url" />
       <item value="determine" />
       <item value="d'e't'e'r'm'i'n" />
@@ -53,13 +55,11 @@
       <item value="review&#10;" />
       <item value="pattern&#10;" />
       <item value="Flock" />
-      <item value="Thread Flock" />
-      <item value="maintainability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8058" />
-        <entry key="ENGLISH" value="8057" />
+        <entry key="CHINESE" value="8064" />
+        <entry key="ENGLISH" value="8064" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
