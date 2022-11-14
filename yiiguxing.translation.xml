@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="&#10;横竖&#10;" />
+      <item value="书横竖&#10;" />
+      <item value="shu" />
+      <item value="横&#10;" />
+      <item value="cross" />
+      <item value="img cross" />
       <item value="Fuseable" />
       <item value="Support contract for queue-fusion based optimizations on subscriptions." />
       <item value="Scalar Subscription" />
@@ -49,17 +55,11 @@
       <item value="专题&#10;" />
       <item value="project&#10;" />
       <item value="reward&#10;" />
-      <item value="prize&#10;" />
-      <item value="promotion Settings" />
-      <item value="二维码&#10;" />
-      <item value="remain stock" />
-      <item value="One of the constants on Jackson's PropertyNamingStrategies. Can also be a fully-qualified class name of a PropertyNamingStrategy implementation." />
-      <item value="fully-qualified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8071" />
-        <entry key="ENGLISH" value="8072" />
+        <entry key="CHINESE" value="8081" />
+        <entry key="ENGLISH" value="8082" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
