@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Fuseable" />
       <item value="Screening" />
       <item value="&#10;横竖&#10;" />
       <item value="书横竖&#10;" />
@@ -12,7 +13,6 @@
       <item value="横&#10;" />
       <item value="cross" />
       <item value="img cross" />
-      <item value="Fuseable" />
       <item value="Support contract for queue-fusion based optimizations on subscriptions." />
       <item value="Scalar Subscription" />
       <item value="drain" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8082" />
-        <entry key="ENGLISH" value="8083" />
+        <entry key="CHINESE" value="8083" />
+        <entry key="ENGLISH" value="8084" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
