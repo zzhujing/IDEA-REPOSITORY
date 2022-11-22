@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="non-compatible bean definition" />
       <item value="fusion" />
       <item value="RowMapper implementation that converts a row into a new instance of the specified mapped target class. The mapped target class must be a top-level class and may either expose a data class constructor with named parameters corresponding to column names or classic bean property setters (or even a combination of both). Note that this class extends BeanPropertyRowMapper and can therefore serve as a common choice for any mapped target class, flexibly adapting to constructor style versus setter methods in the mapped" />
       <item value="Fuseable" />
@@ -54,12 +55,11 @@
       <item value="When dealing with an infinite source that doesn't already publish on a dedicated Scheduler, you must isolate that source in its own Scheduler, as merge would otherwise attempt to drain it before subscribing to another source." />
       <item value="eagerly" />
       <item value="org.springframework.boot:spring-boot-starter-parent:pom:3.0.0-M5 was not found in https:maven.aliyun.comrepositorypublic during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of aliyunmaven has elapsed or updates are forced" />
-      <item value="pageProject&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8085" />
-        <entry key="ENGLISH" value="8086" />
+        <entry key="CHINESE" value="8086" />
+        <entry key="ENGLISH" value="8087" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668667444014" />
+    <option name="lastTrimTime" value="1669101148677" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
