@@ -119,6 +119,10 @@
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
   <action id="Git.Reword.Commit" />
   <action id="GotoCustomRegion" />
   <action id="GotoImplementation">
@@ -167,8 +171,11 @@
   <action id="QuickActionPopup" />
   <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
   <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift f2" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
