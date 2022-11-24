@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="contains Descendant Of" />
       <item value="Can be used within a service implementation via direct instantiation with a DatabaseClient reference, or get prepared in an application context and given to services as bean reference." />
       <item value="不存在&#10;" />
       <item value="non-compatible bean definition" />
@@ -54,12 +55,11 @@
       <item value="excitement&#10;" />
       <item value="enthusiasm&#10;" />
       <item value="enthu" />
-      <item value="When dealing with an infinite source that doesn't already publish on a dedicated Scheduler, you must isolate that source in its own Scheduler, as merge would otherwise attempt to drain it before subscribing to another source." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8095" />
-        <entry key="ENGLISH" value="8096" />
+        <entry key="CHINESE" value="8096" />
+        <entry key="ENGLISH" value="8097" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
