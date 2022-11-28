@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="recursive Template" />
       <item value="Main entry point class 'GraalVmDemo' neither found on the classpath nor on the modulepath.&#10;" />
       <item value="fits with a class" />
       <item value="不优雅的&#10;" />
@@ -54,12 +55,11 @@
       <item value="robust&#10;" />
       <item value="concise&#10;" />
       <item value="tentpole&#10;xq" />
-      <item value="tentpole&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8111" />
-        <entry key="ENGLISH" value="8111" />
+        <entry key="ENGLISH" value="8112" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
