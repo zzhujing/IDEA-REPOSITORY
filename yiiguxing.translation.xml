@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="Method that can be called to ask implementation to deserialize JSON content into the value type this serializer handles. Returned instance is to be constructed by method itself. Pre-condition for this method is that the parser points to the first event that is part of value to deserializer (and which is never JSON 'null' literal, more on this below): for simple types it may be the only value; and for structured types the Object start marker or a FIELD_NAME." />
       <item value="get Concrret Aid" />
       <item value="recursive Template" />
       <item value="Main entry point class 'GraalVmDemo' neither found on the classpath nor on the modulepath.&#10;" />
@@ -54,12 +55,11 @@
       <item value="j" />
       <item value="embrace&#10;" />
       <item value="robust&#10;" />
-      <item value="concise&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8112" />
-        <entry key="ENGLISH" value="8113" />
+        <entry key="CHINESE" value="8113" />
+        <entry key="ENGLISH" value="8114" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
