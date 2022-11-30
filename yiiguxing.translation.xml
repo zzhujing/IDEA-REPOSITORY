@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="alternative" />
       <item value="restrictions&#10;" />
       <item value="res" />
       <item value="restri" />
@@ -54,12 +55,11 @@
       <item value="efficient&#10;" />
       <item value="effi" />
       <item value="eff" />
-      <item value="journey&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8117" />
-        <entry key="ENGLISH" value="8117" />
+        <entry key="ENGLISH" value="8118" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
