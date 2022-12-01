@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="An AOT processor replaces its usual runtime behavior by an optimized arrangement, usually in generated code. For that reason, a component that implements this interface is not contributed by default. If a component that implements this interface still needs to be invoked at runtime, isBeanExcludedFromAotProcessing can be overridden." />
+      <item value="An AOT processor replaces its usual runtime behavior by an optimized arrangement," />
+      <item value="BeanRegistrationAotProcessor implementations may be registered in a &quot;META-INFspringaot.factories&quot; resource or as a bean." />
       <item value="including naming convention support." />
       <item value="gauge" />
       <item value="alternative" />
@@ -52,14 +55,11 @@
       <item value="be rewarded with" />
       <item value="be rewar" />
       <item value="resilient&#10;" />
-      <item value="resilience&#10;" />
-      <item value="resi" />
-      <item value="efficient&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8119" />
-        <entry key="ENGLISH" value="8120" />
+        <entry key="CHINESE" value="8123" />
+        <entry key="ENGLISH" value="8124" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
