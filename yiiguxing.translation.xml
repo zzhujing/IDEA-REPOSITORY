@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2" />
     <option name="newTranslationDialogY" value="526" />
     <histories>
+      <item value="including naming convention support." />
       <item value="gauge" />
       <item value="alternative" />
       <item value="restrictions&#10;" />
@@ -54,12 +55,11 @@
       <item value="resilience&#10;" />
       <item value="resi" />
       <item value="efficient&#10;" />
-      <item value="effi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8118" />
-        <entry key="ENGLISH" value="8119" />
+        <entry key="CHINESE" value="8119" />
+        <entry key="ENGLISH" value="8120" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
